@@ -1,0 +1,32 @@
+# MortalRage Property 
+
+
+| LokiPoe InGameState GuildStashUi FragmentTab General MortalRage Property |
+| --- |
+
+
+# LokiPoe InGameState GuildStashUi FragmentTab General MortalRage Property
+
+[Missing <summary> documentation for "P:DreamPoeBot.Loki.Game.LokiPoe.InGameState.GuildStashUi.FragmentTab.General.MortalRage"]
+
+
+```csharp
+public static InventoryControlWrapper MortalRage { get ; }
+```
+
+
+```csharp
+public static InventoryControlWrapper MortalRage { get ; }
+```
+
+
+```csharp
+public : static property InventoryControlWrapper ^ MortalRage { InventoryControlWrapper ^ get ();
+}
+```
+
+
+```csharp
+public : static property InventoryControlWrapper ^ MortalRage { InventoryControlWrapper ^ get ();
+}
+```

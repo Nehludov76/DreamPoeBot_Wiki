@@ -1,0 +1,32 @@
+# Id Property 
+
+
+| Item Id Property |
+| --- |
+
+
+# Item Id Property
+
+[Missing <summary> documentation for "P:DreamPoeBot.Loki.Game.Objects.Item.Id"]
+
+
+```csharp
+public int Id { get ; }
+```
+
+
+```csharp
+public int Id { get ; }
+```
+
+
+```csharp
+public : property int Id { int get ();
+}
+```
+
+
+```csharp
+public : property int Id { int get ();
+}
+```

@@ -1,0 +1,30 @@
+# GetByMetadata Method 
+
+
+| LokiPoe InGameState GuildStashUi CurrencyTab GetByMetadata Method |
+| --- |
+
+
+# LokiPoe InGameState GuildStashUi CurrencyTab GetByMetadata Method
+
+
+```csharp
+public static InventoryControlWrapper GetByMetadata ( string metadata )
+```
+
+
+```csharp
+public static InventoryControlWrapper GetByMetadata ( string metadata )
+```
+
+
+```csharp
+public : static InventoryControlWrapper ^ GetByMetadata ( String ^ metadata )
+```
+
+
+```csharp
+public : static InventoryControlWrapper ^ GetByMetadata ( String ^ metadata )
+```
+
+[Missing <param name="metadata"/> documentation for "M:DreamPoeBot.Loki.Game.LokiPoe.InGameState.GuildStashUi.CurrencyTab.GetByMetadata(System.String)"]

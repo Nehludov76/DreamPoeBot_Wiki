@@ -1,0 +1,36 @@
+# Min Method (Vector2i, Vector2i)
+
+
+| Vector2i Min Method (Vector2i, Vector2i) |
+| --- |
+
+
+# Vector2i Min Method (Vector2i, Vector2i)
+
+[Missing <summary> documentation for "M:DreamPoeBot.Common.Vector2i.Min(DreamPoeBot.Common.Vector2i,DreamPoeBot.Common.Vector2i)"]
+
+
+```csharp
+public static Vector2i Min ( Vector2i v1 , Vector2i v2 )
+```
+
+
+```csharp
+public static Vector2i Min ( Vector2i v1 , Vector2i v2 )
+```
+
+
+```csharp
+public : static Vector2i Min ( Vector2i v1 , Vector2i v2 )
+```
+
+
+```csharp
+public : static Vector2i Min ( Vector2i v1 , Vector2i v2 )
+```
+
+[Missing <param name="v1"/> documentation for "M:DreamPoeBot.Common.Vector2i.Min(DreamPoeBot.Common.Vector2i,DreamPoeBot.Common.Vector2i)"]
+
+[Missing <param name="v2"/> documentation for "M:DreamPoeBot.Common.Vector2i.Min(DreamPoeBot.Common.Vector2i,DreamPoeBot.Common.Vector2i)"]
+
+[Missing <returns> documentation for "M:DreamPoeBot.Common.Vector2i.Min(DreamPoeBot.Common.Vector2i,DreamPoeBot.Common.Vector2i)"]

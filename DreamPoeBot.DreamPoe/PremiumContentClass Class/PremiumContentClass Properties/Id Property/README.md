@@ -1,0 +1,32 @@
+# Id Property 
+
+
+| PremiumContentClass Id Property |
+| --- |
+
+
+# PremiumContentClass Id Property
+
+[Missing <summary> documentation for "P:DreamPoeBot.DreamPoe.PremiumContentClass.Id"]
+
+
+```csharp
+public string Id { get ; set ; }
+```
+
+
+```csharp
+public string Id { get ; set ; }
+```
+
+
+```csharp
+public : property String ^ Id { String ^ get (); void set ( String ^ value );
+}
+```
+
+
+```csharp
+public : property String ^ Id { String ^ get (); void set ( String ^ value );
+}
+```

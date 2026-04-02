@@ -1,0 +1,30 @@
+# IsOpened Property 
+
+
+| LokiPoe InGameState AtlasUi MapDevice IsOpened Property |
+| --- |
+
+
+# LokiPoe InGameState AtlasUi MapDevice IsOpened Property
+
+
+```csharp
+public static bool IsOpened { get ; }
+```
+
+
+```csharp
+public static bool IsOpened { get ; }
+```
+
+
+```csharp
+public : static property bool IsOpened { bool get ();
+}
+```
+
+
+```csharp
+public : static property bool IsOpened { bool get ();
+}
+```

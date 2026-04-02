@@ -1,0 +1,32 @@
+# Muttering Property 
+
+
+| LokiPoe InGameState GuildStashUi EssenceTab Anger Muttering Property |
+| --- |
+
+
+# LokiPoe InGameState GuildStashUi EssenceTab Anger Muttering Property
+
+[Missing <summary> documentation for "P:DreamPoeBot.Loki.Game.LokiPoe.InGameState.GuildStashUi.EssenceTab.Anger.Muttering"]
+
+
+```csharp
+public static InventoryControlWrapper Muttering { get ; }
+```
+
+
+```csharp
+public static InventoryControlWrapper Muttering { get ; }
+```
+
+
+```csharp
+public : static property InventoryControlWrapper ^ Muttering { InventoryControlWrapper ^ get ();
+}
+```
+
+
+```csharp
+public : static property InventoryControlWrapper ^ Muttering { InventoryControlWrapper ^ get ();
+}
+```

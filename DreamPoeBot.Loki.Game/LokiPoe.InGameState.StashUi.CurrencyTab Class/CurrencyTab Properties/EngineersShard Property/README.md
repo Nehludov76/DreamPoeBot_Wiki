@@ -1,0 +1,32 @@
+# EngineersShard Property 
+
+
+| LokiPoe InGameState StashUi CurrencyTab EngineersShard Property |
+| --- |
+
+
+# LokiPoe InGameState StashUi CurrencyTab EngineersShard Property
+
+[Missing <summary> documentation for "P:DreamPoeBot.Loki.Game.LokiPoe.InGameState.StashUi.CurrencyTab.EngineersShard"]
+
+
+```csharp
+public static InventoryControlWrapper EngineersShard { get ; }
+```
+
+
+```csharp
+public static InventoryControlWrapper EngineersShard { get ; }
+```
+
+
+```csharp
+public : static property InventoryControlWrapper ^ EngineersShard { InventoryControlWrapper ^ get ();
+}
+```
+
+
+```csharp
+public : static property InventoryControlWrapper ^ EngineersShard { InventoryControlWrapper ^ get ();
+}
+```

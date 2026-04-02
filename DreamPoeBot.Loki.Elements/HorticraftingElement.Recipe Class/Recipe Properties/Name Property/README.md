@@ -1,0 +1,32 @@
+# Name Property 
+
+
+| HorticraftingElement Recipe Name Property |
+| --- |
+
+
+# HorticraftingElement Recipe Name Property
+
+[Missing <summary> documentation for "P:DreamPoeBot.Loki.Elements.HorticraftingElement.Recipe.Name"]
+
+
+```csharp
+public string Name { get ; }
+```
+
+
+```csharp
+public string Name { get ; }
+```
+
+
+```csharp
+public : property String ^ Name { String ^ get ();
+}
+```
+
+
+```csharp
+public : property String ^ Name { String ^ get ();
+}
+```

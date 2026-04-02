@@ -1,0 +1,32 @@
+# HumanLikeMouse Property 
+
+
+| GlobalSettings HumanLikeMouse Property |
+| --- |
+
+
+# GlobalSettings HumanLikeMouse Property
+
+[Missing <summary> documentation for "P:DreamPoeBot.Loki.GlobalSettings.HumanLikeMouse"]
+
+
+```csharp
+public bool HumanLikeMouse { get ; set ; }
+```
+
+
+```csharp
+public bool HumanLikeMouse { get ; set ; }
+```
+
+
+```csharp
+public : property bool HumanLikeMouse { bool get (); void set ( bool value );
+}
+```
+
+
+```csharp
+public : property bool HumanLikeMouse { bool get (); void set ( bool value );
+}
+```

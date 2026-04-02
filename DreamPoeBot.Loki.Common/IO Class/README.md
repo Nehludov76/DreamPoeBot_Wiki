@@ -1,0 +1,38 @@
+# IO Class
+
+
+| IO Class |
+| --- |
+
+
+# IO Class
+
+[Missing <summary> documentation for "T:DreamPoeBot.Loki.Common.IO"]
+
+
+```csharp
+public static class IO
+```
+
+
+```csharp
+public static class IO
+```
+
+
+```csharp
+public ref class IO abstract sealed
+```
+
+
+```csharp
+public ref class IO abstract sealed
+```
+
+The IO type exposes the following members.
+
+
+| Name | Description |
+| --- | --- |
+| DirectoryCopy |
+| Terminate |

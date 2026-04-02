@@ -1,0 +1,32 @@
+# PerfectFossil Property 
+
+
+| LokiPoe InGameState GuildStashUi DelveTab PerfectFossil Property |
+| --- |
+
+
+# LokiPoe InGameState GuildStashUi DelveTab PerfectFossil Property
+
+[Missing <summary> documentation for "P:DreamPoeBot.Loki.Game.LokiPoe.InGameState.GuildStashUi.DelveTab.PerfectFossil"]
+
+
+```csharp
+public static InventoryControlWrapper PerfectFossil { get ; }
+```
+
+
+```csharp
+public static InventoryControlWrapper PerfectFossil { get ; }
+```
+
+
+```csharp
+public : static property InventoryControlWrapper ^ PerfectFossil { InventoryControlWrapper ^ get ();
+}
+```
+
+
+```csharp
+public : static property InventoryControlWrapper ^ PerfectFossil { InventoryControlWrapper ^ get ();
+}
+```

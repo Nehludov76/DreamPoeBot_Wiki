@@ -1,0 +1,32 @@
+# ContentOrder Property 
+
+
+| GuiSettings ContentOrder Property |
+| --- |
+
+
+# GuiSettings ContentOrder Property
+
+[Missing <summary> documentation for "P:DreamPoeBot.GuiSettings.ContentOrder"]
+
+
+```csharp
+public ObservableCollection < StringEntry > ContentOrder { get ; set ; }
+```
+
+
+```csharp
+public ObservableCollection < StringEntry > ContentOrder { get ; set ; }
+```
+
+
+```csharp
+public : property ObservableCollection < StringEntry ^>^ ContentOrder { ObservableCollection < StringEntry ^>^ get (); void set ( ObservableCollection < StringEntry ^>^ value );
+}
+```
+
+
+```csharp
+public : property ObservableCollection < StringEntry ^>^ ContentOrder { ObservableCollection < StringEntry ^>^ get (); void set ( ObservableCollection < StringEntry ^>^ value );
+}
+```

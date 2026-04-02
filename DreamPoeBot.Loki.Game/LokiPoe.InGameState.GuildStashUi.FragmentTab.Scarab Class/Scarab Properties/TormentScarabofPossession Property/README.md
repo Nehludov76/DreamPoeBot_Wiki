@@ -1,0 +1,32 @@
+# TormentScarabofPossession Property 
+
+
+| LokiPoe InGameState GuildStashUi FragmentTab Scarab TormentScarabofPossession Property |
+| --- |
+
+
+# LokiPoe InGameState GuildStashUi FragmentTab Scarab TormentScarabofPossession Property
+
+[Missing <summary> documentation for "P:DreamPoeBot.Loki.Game.LokiPoe.InGameState.GuildStashUi.FragmentTab.Scarab.TormentScarabofPossession"]
+
+
+```csharp
+public static InventoryControlWrapper TormentScarabofPossession { get ; }
+```
+
+
+```csharp
+public static InventoryControlWrapper TormentScarabofPossession { get ; }
+```
+
+
+```csharp
+public : static property InventoryControlWrapper ^ TormentScarabofPossession { InventoryControlWrapper ^ get ();
+}
+```
+
+
+```csharp
+public : static property InventoryControlWrapper ^ TormentScarabofPossession { InventoryControlWrapper ^ get ();
+}
+```

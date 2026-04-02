@@ -1,0 +1,34 @@
+# Equals Method (Object)
+
+
+| MemoryObject Equals Method (Object) |
+| --- |
+
+
+# MemoryObject Equals Method (Object)
+
+[Missing <summary> documentation for "M:DreamPoeBot.Loki.Game.MemoryObject.Equals(System.Object)"]
+
+
+```csharp
+public override bool Equals ( Object obj )
+```
+
+
+```csharp
+public override bool Equals ( Object obj )
+```
+
+
+```csharp
+public : virtual bool Equals ( Object ^ obj ) override
+```
+
+
+```csharp
+public : virtual bool Equals ( Object ^ obj ) override
+```
+
+[Missing <param name="obj"/> documentation for "M:DreamPoeBot.Loki.Game.MemoryObject.Equals(System.Object)"]
+
+[Missing <returns> documentation for "M:DreamPoeBot.Loki.Game.MemoryObject.Equals(System.Object)"]

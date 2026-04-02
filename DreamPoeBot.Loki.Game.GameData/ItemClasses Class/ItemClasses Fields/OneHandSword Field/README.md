@@ -1,0 +1,30 @@
+# OneHandSword Field
+
+
+| ItemClasses OneHandSword Field |
+| --- |
+
+
+# ItemClasses OneHandSword Field
+
+[Missing <summary> documentation for "F:DreamPoeBot.Loki.Game.GameData.ItemClasses.OneHandSword"]
+
+
+```csharp
+public const string OneHandSword = "One Hand Sword"
+```
+
+
+```csharp
+public const string OneHandSword = "One Hand Sword"
+```
+
+
+```csharp
+public : literal String ^ OneHandSword = "One Hand Sword"
+```
+
+
+```csharp
+public : literal String ^ OneHandSword = "One Hand Sword"
+```

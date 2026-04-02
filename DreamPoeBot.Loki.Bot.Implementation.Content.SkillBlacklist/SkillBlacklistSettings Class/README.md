@@ -1,0 +1,64 @@
+# SkillBlacklistSettings Class
+
+
+| SkillBlacklistSettings Class |
+| --- |
+
+
+# SkillBlacklistSettings Class
+
+[Missing <summary> documentation for "T:DreamPoeBot.Loki.Bot.Implementation.Content.SkillBlacklist.SkillBlacklistSettings"]
+
+
+```csharp
+public class SkillBlacklistSettings : JsonSettings
+```
+
+
+```csharp
+public class SkillBlacklistSettings : JsonSettings
+```
+
+
+```csharp
+public ref class SkillBlacklistSettings : public JsonSettings
+```
+
+
+```csharp
+public ref class SkillBlacklistSettings : public JsonSettings
+```
+
+The SkillBlacklistSettings type exposes the following members.
+
+
+| Name | Description |
+| --- | --- |
+| SkillBlacklistSettings | Initializes a new instance of the SkillBlacklistSettings class |
+
+
+| Name | Description |
+| --- | --- |
+| BlacklistedSkillIds |
+| BlacklistedSkillNames |
+| FilePath | (Inherited from JsonSettings .) |
+| Instance |
+| PlayerSkillStrings |
+
+
+| Name | Description |
+| --- | --- |
+| Equals | Determines whether the specified object is equal to the current object. (Inherited from Object .) |
+| Finalize | Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection. (Inherited from Object .) |
+| GetDefaultValue T | (Inherited from JsonSettings .) |
+| GetHashCode | Serves as the default hash function. (Inherited from Object .) |
+| GetProperty | (Inherited from JsonSettings .) |
+| GetType | Gets the Type of the current instance. (Inherited from Object .) |
+| HasProperty | (Inherited from JsonSettings .) |
+| LoadFrom | (Inherited from JsonSettings .) |
+| MemberwiseClone | Creates a shallow copy of the current Object . (Inherited from Object .) |
+| Save | (Inherited from JsonSettings .) |
+| SaveAs | (Inherited from JsonSettings .) |
+| SetProperty | (Inherited from JsonSettings .) |
+| ToString | Returns a string that represents the current object. (Inherited from Object .) |
+| Validate | (Inherited from JsonSettings .) |

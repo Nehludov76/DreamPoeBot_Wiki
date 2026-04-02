@@ -1,0 +1,32 @@
+# Name Property 
+
+
+| InventoryVisual Name Property |
+| --- |
+
+
+# InventoryVisual Name Property
+
+[Missing <summary> documentation for "P:DreamPoeBot.Loki.Components.InventoryVisual.Name"]
+
+
+```csharp
+public string Name { get ; }
+```
+
+
+```csharp
+public string Name { get ; }
+```
+
+
+```csharp
+public : property String ^ Name { String ^ get ();
+}
+```
+
+
+```csharp
+public : property String ^ Name { String ^ get ();
+}
+```

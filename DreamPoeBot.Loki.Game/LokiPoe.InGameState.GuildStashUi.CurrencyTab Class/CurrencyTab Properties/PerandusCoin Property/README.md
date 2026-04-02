@@ -1,0 +1,32 @@
+# PerandusCoin Property 
+
+
+| LokiPoe InGameState GuildStashUi CurrencyTab PerandusCoin Property |
+| --- |
+
+
+# LokiPoe InGameState GuildStashUi CurrencyTab PerandusCoin Property
+
+[Missing <summary> documentation for "P:DreamPoeBot.Loki.Game.LokiPoe.InGameState.GuildStashUi.CurrencyTab.PerandusCoin"]
+
+
+```csharp
+public static InventoryControlWrapper PerandusCoin { get ; }
+```
+
+
+```csharp
+public static InventoryControlWrapper PerandusCoin { get ; }
+```
+
+
+```csharp
+public : static property InventoryControlWrapper ^ PerandusCoin { InventoryControlWrapper ^ get ();
+}
+```
+
+
+```csharp
+public : static property InventoryControlWrapper ^ PerandusCoin { InventoryControlWrapper ^ get ();
+}
+```

@@ -1,0 +1,30 @@
+# Name Property 
+
+
+| LokiPoe InGameState MercenaryEncounterUi MercenarySupportGem Name Property |
+| --- |
+
+
+# LokiPoe InGameState MercenaryEncounterUi MercenarySupportGem Name Property
+
+
+```csharp
+public string Name { get ; }
+```
+
+
+```csharp
+public string Name { get ; }
+```
+
+
+```csharp
+public : property String ^ Name { String ^ get ();
+}
+```
+
+
+```csharp
+public : property String ^ Name { String ^ get ();
+}
+```

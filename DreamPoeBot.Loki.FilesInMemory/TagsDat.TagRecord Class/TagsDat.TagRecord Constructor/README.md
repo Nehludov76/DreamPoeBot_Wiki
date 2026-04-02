@@ -1,0 +1,32 @@
+# TagsDat.TagRecord Constructor 
+
+
+| TagsDat TagRecord Constructor |
+| --- |
+
+
+# TagsDat TagRecord Constructor
+
+
+```csharp
+public TagRecord ( Memory m , long addr )
+```
+
+
+```csharp
+public TagRecord ( Memory m , long addr )
+```
+
+
+```csharp
+public : TagRecord ( Memory ^ m , long long addr )
+```
+
+
+```csharp
+public : TagRecord ( Memory ^ m , long long addr )
+```
+
+[Missing <param name="m"/> documentation for "M:DreamPoeBot.Loki.FilesInMemory.TagsDat.TagRecord.#ctor(DreamPoeBot.Loki.Memory,System.Int64)"]
+
+[Missing <param name="addr"/> documentation for "M:DreamPoeBot.Loki.FilesInMemory.TagsDat.TagRecord.#ctor(DreamPoeBot.Loki.Memory,System.Int64)"]
