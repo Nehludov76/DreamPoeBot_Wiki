@@ -1,5 +1,6 @@
 # CurrencyDropDownMenu Property 
 
+**Вложено элементов:** 0  
 
 | TradePriceItemDialogElement CurrencyDropDownMenu Property |
 | --- |

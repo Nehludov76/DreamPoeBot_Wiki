@@ -1,5 +1,6 @@
 # IsUltimatumChallengeInteractable Property 
 
+**Вложено элементов:** 0  
 
 | NetworkObject IsUltimatumChallengeInteractable Property |
 | --- |

@@ -1,5 +1,6 @@
 # byte_0 Field
 
+**Вложено элементов:** 0  
 
 | IncursionTemple Struct_rooms byte_0 Field |
 | --- |

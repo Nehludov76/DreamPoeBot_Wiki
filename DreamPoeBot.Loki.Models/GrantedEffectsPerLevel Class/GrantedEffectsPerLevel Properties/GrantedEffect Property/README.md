@@ -1,5 +1,6 @@
 # GrantedEffect Property 
 
+**Вложено элементов:** 0  
 
 | GrantedEffectsPerLevel GrantedEffect Property |
 | --- |

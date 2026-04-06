@@ -1,5 +1,6 @@
 # PriceCurrencyQuantity Property 
 
+**Вложено элементов:** 0  
 
 | PremiumStashSettingElement PriceCurrencyQuantity Property |
 | --- |

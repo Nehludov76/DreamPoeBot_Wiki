@@ -1,5 +1,6 @@
 # Login Method (Boolean)
 
+**Вложено элементов:** 0  
 
 | LokiPoe LoginState Login Method (Boolean) |
 | --- |

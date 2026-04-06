@@ -1,5 +1,6 @@
 # EnableCategoryForProfiling Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe TemporaryPerformanceProfiler EnableCategoryForProfiling Method |
 | --- |

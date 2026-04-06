@@ -1,5 +1,6 @@
 # DatUltimatumEncounterTypeWrapper Constructor 
 
+**Вложено элементов:** 0  
 
 | DatUltimatumEncounterTypeWrapper Constructor |
 | --- |

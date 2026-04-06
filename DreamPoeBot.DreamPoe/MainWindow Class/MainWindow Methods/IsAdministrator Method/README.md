@@ -1,5 +1,6 @@
 # IsAdministrator Method 
 
+**Вложено элементов:** 0  
 
 | MainWindow IsAdministrator Method |
 | --- |

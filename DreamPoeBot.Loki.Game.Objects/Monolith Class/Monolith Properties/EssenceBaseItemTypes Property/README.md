@@ -1,5 +1,6 @@
 # EssenceBaseItemTypes Property 
 
+**Вложено элементов:** 0  
 
 | Monolith EssenceBaseItemTypes Property |
 | --- |

@@ -1,5 +1,6 @@
 # BodyArmour Field
 
+**Вложено элементов:** 0  
 
 | ItemClasses BodyArmour Field |
 | --- |

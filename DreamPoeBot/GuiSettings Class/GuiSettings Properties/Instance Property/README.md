@@ -1,5 +1,6 @@
 # Instance Property 
 
+**Вложено элементов:** 0  
 
 | GuiSettings Instance Property |
 | --- |

@@ -1,5 +1,6 @@
 # SkillBarIds Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo SkillBarIds Property |
 | --- |

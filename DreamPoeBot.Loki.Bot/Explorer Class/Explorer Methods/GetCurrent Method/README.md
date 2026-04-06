@@ -1,5 +1,6 @@
 # GetCurrent Method 
 
+**Вложено элементов:** 0  
 
 | Explorer GetCurrent Method |
 | --- |

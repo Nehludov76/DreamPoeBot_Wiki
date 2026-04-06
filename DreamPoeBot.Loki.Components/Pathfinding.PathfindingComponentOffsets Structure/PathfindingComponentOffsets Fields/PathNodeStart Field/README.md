@@ -1,5 +1,6 @@
 # PathNodeStart Field
 
+**Вложено элементов:** 0  
 
 | Pathfinding PathfindingComponentOffsets PathNodeStart Field |
 | --- |

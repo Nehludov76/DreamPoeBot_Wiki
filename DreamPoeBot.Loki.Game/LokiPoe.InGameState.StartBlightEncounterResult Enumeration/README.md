@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.StartBlightEncounterResult Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState StartBlightEncounterResult Enumeration |
 | --- |
@@ -30,8 +31,8 @@ public enum class StartBlightEncounterResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| ProcessHookManagerNotEnabled | 1 |
-| UiNotOpen | 2 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | ProcessHookManagerNotEnabled | 1 |  |
+|  | UiNotOpen | 2 |  |

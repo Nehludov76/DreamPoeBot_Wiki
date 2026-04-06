@@ -1,5 +1,6 @@
 # ReadDoublePtrVectorClasses(T) Method 
 
+**Вложено элементов:** 0  
 
 | Memory ReadDoublePtrVectorClasses T Method |
 | --- |

@@ -1,5 +1,6 @@
 # MinLevel Field
 
+**Вложено элементов:** 0  
 
 | ModsDat ModRecord MinLevel Field |
 | --- |

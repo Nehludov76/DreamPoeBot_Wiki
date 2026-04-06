@@ -1,5 +1,6 @@
 # Slot Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SkillBarHud Slot Method |
 | --- |

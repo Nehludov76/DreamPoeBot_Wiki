@@ -1,5 +1,6 @@
 # CurrentTabIndex Field
 
+**Вложено элементов:** 0  
 
 | TabControlWrapper Struct111 CurrentTabIndex Field |
 | --- |

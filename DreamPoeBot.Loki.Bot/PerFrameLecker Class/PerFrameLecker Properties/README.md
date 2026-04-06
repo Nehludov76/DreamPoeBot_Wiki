@@ -1,5 +1,6 @@
 # PerFrameLecker Properties
 
+**Вложено элементов:** 1  
 
 | PerFrameLecker Properties |
 | --- |
@@ -10,6 +11,9 @@
 The PerFrameLecker type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| CanRelease |
+|  | Name | Description |
+| --- | --- | --- |
+|  | CanRelease |  |
+
+## Дочерние разделы
+- [**CanRelease Property **](./CanRelease Property/README.md)

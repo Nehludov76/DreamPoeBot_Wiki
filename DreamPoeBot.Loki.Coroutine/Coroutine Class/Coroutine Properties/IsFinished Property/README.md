@@ -1,5 +1,6 @@
 # IsFinished Property 
 
+**Вложено элементов:** 0  
 
 | Coroutine IsFinished Property |
 | --- |

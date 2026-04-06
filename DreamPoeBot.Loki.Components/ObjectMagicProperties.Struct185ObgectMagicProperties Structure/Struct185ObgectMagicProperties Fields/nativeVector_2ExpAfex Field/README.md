@@ -1,5 +1,6 @@
 # nativeVector_2ExpAfex Field
 
+**Вложено элементов:** 0  
 
 | ObjectMagicProperties Struct185ObgectMagicProperties nativeVector_2ExpAfex Field |
 | --- |

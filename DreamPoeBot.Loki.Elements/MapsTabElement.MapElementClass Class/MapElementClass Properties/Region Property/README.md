@@ -1,5 +1,6 @@
 # Region Property 
 
+**Вложено элементов:** 0  
 
 | MapsTabElement MapElementClass Region Property |
 | --- |

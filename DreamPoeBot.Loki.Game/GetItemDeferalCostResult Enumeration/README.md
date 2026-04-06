@@ -1,5 +1,6 @@
 # GetItemDeferalCostResult Enumeration
 
+**Вложено элементов:** 0  
 
 | GetItemDeferalCostResult Enumeration |
 | --- |
@@ -30,17 +31,17 @@ public enum class GetItemDeferalCostResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| GetItemByIdFailed | 1 |
-| ItemIsDivinationCardType | 2 |
-| CouldNotFindControlForItem | 3 |
-| NoTooltip | 4 |
-| CostTextNotFound | 5 |
-| InternalError1 | 6 |
-| InternalError2 | 7 |
-| InternalError3 | 8 |
-| InternalError4 | 9 |
-| HiddenItem | 10 |
-| DeferNotActive | 11 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | GetItemByIdFailed | 1 |  |
+|  | ItemIsDivinationCardType | 2 |  |
+|  | CouldNotFindControlForItem | 3 |  |
+|  | NoTooltip | 4 |  |
+|  | CostTextNotFound | 5 |  |
+|  | InternalError1 | 6 |  |
+|  | InternalError2 | 7 |  |
+|  | InternalError3 | 8 |  |
+|  | InternalError4 | 9 |  |
+|  | HiddenItem | 10 |  |
+|  | DeferNotActive | 11 |  |

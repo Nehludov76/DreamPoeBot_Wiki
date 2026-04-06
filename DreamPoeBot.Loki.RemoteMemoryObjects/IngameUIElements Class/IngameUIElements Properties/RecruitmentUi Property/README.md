@@ -1,5 +1,6 @@
 # RecruitmentUi Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements RecruitmentUi Property |
 | --- |

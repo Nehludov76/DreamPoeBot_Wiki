@@ -1,5 +1,6 @@
 # CategoryIndex Property 
 
+**Вложено элементов:** 0  
 
 | FragmentStashTabLayouts FragmentStashTabLayoutHardcoded CategoryIndex Property |
 | --- |

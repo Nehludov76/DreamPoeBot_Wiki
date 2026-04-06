@@ -1,5 +1,6 @@
 # Interop.FreeType Enumeration
 
+**Вложено элементов:** 0  
 
 | Interop FreeType Enumeration |
 | --- |
@@ -30,7 +31,7 @@
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| Decommit | 16384 |
-| Release | 32768 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | Decommit | 16384 |  |
+|  | Release | 32768 |  |

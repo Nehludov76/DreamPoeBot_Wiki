@@ -1,5 +1,6 @@
 # Int Property 
 
+**Вложено элементов:** 0  
 
 | AttributeRequirements Int Property |
 | --- |

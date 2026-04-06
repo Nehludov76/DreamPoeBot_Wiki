@@ -1,5 +1,6 @@
 # StashElement Constructor 
 
+**Вложено элементов:** 0  
 
 | StashElement Constructor |
 | --- |

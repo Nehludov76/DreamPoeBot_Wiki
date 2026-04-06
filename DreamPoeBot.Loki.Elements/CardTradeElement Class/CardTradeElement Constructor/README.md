@@ -1,5 +1,6 @@
 # CardTradeElement Constructor 
 
+**Вложено элементов:** 0  
 
 | CardTradeElement Constructor |
 | --- |

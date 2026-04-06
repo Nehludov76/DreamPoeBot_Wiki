@@ -1,5 +1,6 @@
 # Hitpoint Property 
 
+**Вложено элементов:** 0  
 
 | ExilePather RaycastResult Hitpoint Property |
 | --- |

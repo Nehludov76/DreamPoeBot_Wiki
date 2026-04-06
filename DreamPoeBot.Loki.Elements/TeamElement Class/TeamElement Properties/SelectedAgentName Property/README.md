@@ -1,5 +1,6 @@
 # SelectedAgentName Property 
 
+**Вложено элементов:** 0  
 
 | TeamElement SelectedAgentName Property |
 | --- |

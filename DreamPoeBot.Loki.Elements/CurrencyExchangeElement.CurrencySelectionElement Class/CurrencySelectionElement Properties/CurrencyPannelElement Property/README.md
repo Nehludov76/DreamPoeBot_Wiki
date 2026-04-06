@@ -1,5 +1,6 @@
 # CurrencyPannelElement Property 
 
+**Вложено элементов:** 0  
 
 | CurrencyExchangeElement CurrencySelectionElement CurrencyPannelElement Property |
 | --- |

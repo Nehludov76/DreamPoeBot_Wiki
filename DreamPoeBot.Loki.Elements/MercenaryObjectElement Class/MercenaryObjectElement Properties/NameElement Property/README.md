@@ -1,5 +1,6 @@
 # NameElement Property 
 
+**Вложено элементов:** 0  
 
 | MercenaryObjectElement NameElement Property |
 | --- |

@@ -1,5 +1,6 @@
 # StatsValueCount Field
 
+**Вложено элементов:** 0  
 
 | Dat NativeQuestStaticReward StatsValueCount Field |
 | --- |

@@ -1,5 +1,6 @@
 # Ptr2_Key Field
 
+**Вложено элементов:** 0  
 
 | Memory ListDoublePointerIntNode Ptr2_Key Field |
 | --- |

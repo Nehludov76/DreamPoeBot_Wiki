@@ -1,5 +1,6 @@
 # GetTimeString Method 
 
+**Вложено элементов:** 0  
 
 | AreaInstance GetTimeString Method |
 | --- |

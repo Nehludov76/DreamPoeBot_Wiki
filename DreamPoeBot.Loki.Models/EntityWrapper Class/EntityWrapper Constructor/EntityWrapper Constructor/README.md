@@ -1,5 +1,6 @@
 # EntityWrapper Constructor 
 
+**Вложено элементов:** 0  
 
 | EntityWrapper Constructor |
 | --- |

@@ -1,5 +1,6 @@
 # Divide Method (Vector2i, Vector2i, Vector2i)
 
+**Вложено элементов:** 0  
 
 | Vector2i Divide Method (Vector2i , Vector2i , Vector2i ) |
 | --- |

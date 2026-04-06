@@ -1,5 +1,6 @@
 # GuildStashTabs Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo GuildStashTabs Property |
 | --- |

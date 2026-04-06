@@ -1,5 +1,6 @@
 # generic_league_key Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input Binding generic_league_key Property |
 | --- |

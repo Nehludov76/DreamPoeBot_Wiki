@@ -1,5 +1,6 @@
 # OtherAcceptedTheOffert Property 
 
+**Вложено элементов:** 0  
 
 | TradeControlWrapper OtherAcceptedTheOffert Property |
 | --- |

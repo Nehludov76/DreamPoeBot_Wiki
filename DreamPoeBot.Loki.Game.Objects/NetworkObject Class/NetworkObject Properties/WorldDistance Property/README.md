@@ -1,5 +1,6 @@
 # WorldDistance Property 
 
+**Вложено элементов:** 0  
 
 | NetworkObject WorldDistance Property |
 | --- |

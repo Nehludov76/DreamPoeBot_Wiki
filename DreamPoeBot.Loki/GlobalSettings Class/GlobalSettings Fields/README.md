@@ -1,5 +1,6 @@
 # GlobalSettings Fields
 
+**Вложено элементов:** 1  
 
 | GlobalSettings Fields |
 | --- |
@@ -10,6 +11,9 @@
 The GlobalSettings type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Crypto |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Crypto |  |
+
+## Дочерние разделы
+- [**Crypto Field**](./Crypto Field/README.md)

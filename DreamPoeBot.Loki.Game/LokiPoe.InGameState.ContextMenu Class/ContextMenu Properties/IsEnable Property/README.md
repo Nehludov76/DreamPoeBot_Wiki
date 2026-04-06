@@ -1,5 +1,6 @@
 # IsEnable Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ContextMenu IsEnable Property |
 | --- |

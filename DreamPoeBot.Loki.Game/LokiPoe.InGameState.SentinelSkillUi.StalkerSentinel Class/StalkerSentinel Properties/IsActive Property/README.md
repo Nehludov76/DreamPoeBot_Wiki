@@ -1,5 +1,6 @@
 # IsActive Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SentinelSkillUi StalkerSentinel IsActive Property |
 | --- |

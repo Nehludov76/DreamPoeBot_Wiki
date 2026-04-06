@@ -1,5 +1,6 @@
 # GemQualityType Enumeration
 
+**Вложено элементов:** 0  
 
 | GemQualityType Enumeration |
 | --- |
@@ -30,9 +31,9 @@ public enum class GemQualityType
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| Superior | 0 |
-| Anomalous | 1 |
-| Divergent | 2 |
-| Phantasmal | 3 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | Superior | 0 |  |
+|  | Anomalous | 1 |  |
+|  | Divergent | 2 |  |
+|  | Phantasmal | 3 |  |

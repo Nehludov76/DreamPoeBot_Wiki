@@ -1,5 +1,6 @@
 # RewardItem Property 
 
+**Вложено элементов:** 0  
 
 | UltimatumChallengeInteractable RewardItem Property |
 | --- |

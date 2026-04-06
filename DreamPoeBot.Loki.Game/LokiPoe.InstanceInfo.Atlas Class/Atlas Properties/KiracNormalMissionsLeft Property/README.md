@@ -1,5 +1,6 @@
 # KiracNormalMissionsLeft Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo Atlas KiracNormalMissionsLeft Property |
 | --- |

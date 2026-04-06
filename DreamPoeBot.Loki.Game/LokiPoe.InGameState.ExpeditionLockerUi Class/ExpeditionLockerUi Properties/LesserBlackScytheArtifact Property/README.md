@@ -1,5 +1,6 @@
 # LesserBlackScytheArtifact Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ExpeditionLockerUi LesserBlackScytheArtifact Property |
 | --- |

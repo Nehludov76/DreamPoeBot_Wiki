@@ -1,5 +1,6 @@
 # CancelOrder Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState CurrencyExchangeUi Order CancelOrder Method |
 | --- |

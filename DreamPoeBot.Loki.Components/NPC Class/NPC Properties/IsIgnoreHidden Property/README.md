@@ -1,5 +1,6 @@
 # IsIgnoreHidden Property 
 
+**Вложено элементов:** 0  
 
 | NPC IsIgnoreHidden Property |
 | --- |

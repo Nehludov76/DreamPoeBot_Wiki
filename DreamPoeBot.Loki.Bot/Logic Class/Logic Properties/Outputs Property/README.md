@@ -1,5 +1,6 @@
 # Outputs Property 
 
+**Вложено элементов:** 0  
 
 | Logic Outputs Property |
 | --- |

@@ -1,5 +1,6 @@
 # ResurrectToCheckPoint Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ResurrectPanel ResurrectToCheckPoint Method |
 | --- |

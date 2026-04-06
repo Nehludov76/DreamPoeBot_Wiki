@@ -1,5 +1,6 @@
 # CraftingBenchElement.Recipe Constructor 
 
+**Вложено элементов:** 0  
 
 | CraftingBenchElement Recipe Constructor |
 | --- |

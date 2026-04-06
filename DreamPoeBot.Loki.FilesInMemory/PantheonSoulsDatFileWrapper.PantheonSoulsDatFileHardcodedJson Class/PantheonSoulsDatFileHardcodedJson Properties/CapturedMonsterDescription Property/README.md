@@ -1,5 +1,6 @@
 # CapturedMonsterDescription Property 
 
+**Вложено элементов:** 0  
 
 | PantheonSoulsDatFileWrapper PantheonSoulsDatFileHardcodedJson CapturedMonsterDescription Property |
 | --- |

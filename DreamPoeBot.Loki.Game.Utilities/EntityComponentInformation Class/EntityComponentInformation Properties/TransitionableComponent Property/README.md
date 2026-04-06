@@ -1,5 +1,6 @@
 # TransitionableComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation TransitionableComponent Property |
 | --- |

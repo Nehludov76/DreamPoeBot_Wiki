@@ -1,5 +1,6 @@
 # zoom_out_combo Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input Binding zoom_out_combo Property |
 | --- |

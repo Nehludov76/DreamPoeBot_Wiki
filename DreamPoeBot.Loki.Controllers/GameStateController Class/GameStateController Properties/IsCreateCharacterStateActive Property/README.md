@@ -1,5 +1,6 @@
 # IsCreateCharacterStateActive Property 
 
+**Вложено элементов:** 0  
 
 | GameStateController IsCreateCharacterStateActive Property |
 | --- |

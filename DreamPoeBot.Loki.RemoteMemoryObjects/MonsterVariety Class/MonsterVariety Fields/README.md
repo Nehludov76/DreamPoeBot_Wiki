@@ -1,5 +1,6 @@
 # MonsterVariety Fields
 
+**Вложено элементов:** 0  
 
 | MonsterVariety Fields |
 | --- |
@@ -10,6 +11,6 @@
 The MonsterVariety type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| NeedUpdate | (Inherited from RemoteMemoryObject .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | NeedUpdate | (Inherited from RemoteMemoryObject .) |

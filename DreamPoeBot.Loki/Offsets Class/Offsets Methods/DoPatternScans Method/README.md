@@ -1,5 +1,6 @@
 # DoPatternScans Method 
 
+**Вложено элементов:** 0  
 
 | Offsets DoPatternScans Method |
 | --- |

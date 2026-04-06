@@ -1,5 +1,6 @@
 # RequiresReservedPower Property 
 
+**Вложено элементов:** 0  
 
 | Skill RequiresReservedPower Property |
 | --- |

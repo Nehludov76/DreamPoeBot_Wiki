@@ -1,5 +1,6 @@
 # IsUnlocked Property 
 
+**Вложено элементов:** 0  
 
 | PassiveTreeElement AscendencyUi IsUnlocked Property |
 | --- |

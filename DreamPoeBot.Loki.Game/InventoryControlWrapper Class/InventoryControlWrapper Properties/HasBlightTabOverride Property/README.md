@@ -1,5 +1,6 @@
 # HasBlightTabOverride Property 
 
+**Вложено элементов:** 0  
 
 | InventoryControlWrapper HasBlightTabOverride Property |
 | --- |

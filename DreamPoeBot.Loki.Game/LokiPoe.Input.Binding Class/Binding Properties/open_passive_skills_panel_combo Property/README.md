@@ -1,5 +1,6 @@
 # open_passive_skills_panel_combo Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input Binding open_passive_skills_panel_combo Property |
 | --- |

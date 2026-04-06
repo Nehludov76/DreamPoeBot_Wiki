@@ -1,5 +1,6 @@
 # TooltipUI Property 
 
+**Вложено элементов:** 0  
 
 | ItemOnGroundTooltip TooltipUI Property |
 | --- |

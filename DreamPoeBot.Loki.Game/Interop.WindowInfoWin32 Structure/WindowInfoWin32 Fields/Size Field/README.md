@@ -1,5 +1,6 @@
 # Size Field
 
+**Вложено элементов:** 0  
 
 | Interop WindowInfoWin32 Size Field |
 | --- |

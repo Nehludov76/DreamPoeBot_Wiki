@@ -1,5 +1,6 @@
 # IsAreaLoading Property 
 
+**Вложено элементов:** 0  
 
 | GameStateController IsAreaLoading Property |
 | --- |

@@ -1,5 +1,6 @@
 # IsGeneric Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo Blight BlightSpawnerData IsGeneric Property |
 | --- |

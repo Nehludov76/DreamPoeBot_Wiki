@@ -1,5 +1,6 @@
 # ResurrectInTownEnabled Property 
 
+**Вложено элементов:** 0  
 
 | ResurrectElement ResurrectInTownEnabled Property |
 | --- |

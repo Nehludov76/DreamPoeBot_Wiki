@@ -1,5 +1,6 @@
 # RewardList Property 
 
+**Вложено элементов:** 0  
 
 | ArchnemesisMod RewardList Property |
 | --- |

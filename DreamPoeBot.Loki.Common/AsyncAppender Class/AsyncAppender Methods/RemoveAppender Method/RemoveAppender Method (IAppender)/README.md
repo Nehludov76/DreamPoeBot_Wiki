@@ -1,5 +1,6 @@
 # RemoveAppender Method (IAppender)
 
+**Вложено элементов:** 0  
 
 | AsyncAppender RemoveAppender Method (IAppender) |
 | --- |

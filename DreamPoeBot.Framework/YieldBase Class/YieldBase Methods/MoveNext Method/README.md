@@ -1,5 +1,6 @@
 # MoveNext Method 
 
+**Вложено элементов:** 0  
 
 | YieldBase MoveNext Method |
 | --- |

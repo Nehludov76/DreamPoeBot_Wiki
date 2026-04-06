@@ -1,5 +1,6 @@
 # ForbiddenSanctumClickLocation Property 
 
+**Вложено элементов:** 0  
 
 | WorldElement ForbiddenSanctumClickLocation Property |
 | --- |

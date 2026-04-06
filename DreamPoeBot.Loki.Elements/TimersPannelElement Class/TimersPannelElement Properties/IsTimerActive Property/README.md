@@ -1,5 +1,6 @@
 # IsTimerActive Property 
 
+**Вложено элементов:** 0  
 
 | TimersPannelElement IsTimerActive Property |
 | --- |

@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.TalkToBanditResult Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState TalkToBanditResult Enumeration |
 | --- |
@@ -30,10 +31,10 @@ public enum class TalkToBanditResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| ProcessHookManagerNotEnabled | 1 |
-| UiNotOpen | 2 |
-| NoButtonFound | 3 |
-| AlreadyChosen | 4 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | ProcessHookManagerNotEnabled | 1 |  |
+|  | UiNotOpen | 2 |  |
+|  | NoButtonFound | 3 |  |
+|  | AlreadyChosen | 4 |  |

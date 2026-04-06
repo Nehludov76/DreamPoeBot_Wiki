@@ -1,5 +1,6 @@
 # OnPointerChanged Method 
 
+**Вложено элементов:** 0  
 
 | RemoteMemoryObject OnPointerChanged Method |
 | --- |

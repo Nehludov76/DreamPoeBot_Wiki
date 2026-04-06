@@ -1,5 +1,6 @@
 # GuiControlType Property 
 
+**Вложено элементов:** 0  
 
 | Element GuiControlType Property |
 | --- |

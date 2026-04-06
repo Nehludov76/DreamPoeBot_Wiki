@@ -1,5 +1,6 @@
 # LokiPoe.ConfigManager Class
 
+**Вложено элементов:** 4  
 
 | LokiPoe ConfigManager Class |
 | --- |
@@ -30,8 +31,11 @@ public ref class ConfigManager abstract sealed
 The LokiPoe ConfigManager type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| IsAlwaysHighlightEnabled | Return true if the AlwaysHighlight option is currently enabled. |
-| KeyPickup |
-| NetworkingMode |
+|  | Name | Description |
+| --- | --- | --- |
+|  | IsAlwaysHighlightEnabled | Return true if the AlwaysHighlight option is currently enabled. |
+|  | KeyPickup |  |
+|  | NetworkingMode |  |
+
+## Дочерние разделы
+- [**ConfigManager Properties**](./ConfigManager Properties/README.md)

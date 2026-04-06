@@ -1,5 +1,6 @@
 # getMagicNumber Method 
 
+**Вложено элементов:** 0  
 
 | WinApi getMagicNumber Method |
 | --- |

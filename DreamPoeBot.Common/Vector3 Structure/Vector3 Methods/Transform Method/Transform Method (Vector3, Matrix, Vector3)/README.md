@@ -1,5 +1,6 @@
 # Transform Method (Vector3, Matrix, Vector3)
 
+**Вложено элементов:** 0  
 
 | Vector3 Transform Method (Vector3 , Matrix , Vector3 ) |
 | --- |

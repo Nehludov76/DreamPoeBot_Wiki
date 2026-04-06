@@ -1,5 +1,6 @@
 # OSInfo Class
 
+**Вложено элементов:** 11  
 
 | OSInfo Class |
 | --- |
@@ -32,15 +33,18 @@ public ref class OSInfo abstract sealed
 The OSInfo type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Bits |
-| BuildVersion |
-| Edition |
-| MajorVersion |
-| MinorVersion |
-| Name |
-| RevisionVersion |
-| ServicePack |
-| Version |
-| VersionString |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Bits |  |
+|  | BuildVersion |  |
+|  | Edition |  |
+|  | MajorVersion |  |
+|  | MinorVersion |  |
+|  | Name |  |
+|  | RevisionVersion |  |
+|  | ServicePack |  |
+|  | Version |  |
+|  | VersionString |  |
+
+## Дочерние разделы
+- [**OSInfo Properties**](./OSInfo Properties/README.md)

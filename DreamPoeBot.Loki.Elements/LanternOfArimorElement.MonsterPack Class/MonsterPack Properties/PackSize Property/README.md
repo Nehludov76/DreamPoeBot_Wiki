@@ -1,5 +1,6 @@
 # PackSize Property 
 
+**Вложено элементов:** 0  
 
 | LanternOfArimorElement MonsterPack PackSize Property |
 | --- |

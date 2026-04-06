@@ -1,5 +1,6 @@
 # MasteryId Field
 
+**Вложено элементов:** 0  
 
 | DatPassiveSkillMasteryEffectsWrapper PassiveSkillMasteryEffectsStructure MasteryId Field |
 | --- |

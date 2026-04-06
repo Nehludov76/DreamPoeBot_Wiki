@@ -1,5 +1,6 @@
 # GoldenOil Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState GuildStashUi BlightTab GoldenOil Property |
 | --- |

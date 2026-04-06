@@ -1,5 +1,6 @@
 # AreIconsDisplayed Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SkillGemHud AreIconsDisplayed Property |
 | --- |

@@ -1,5 +1,6 @@
 # Hull Property 
 
+**Вложено элементов:** 0  
 
 | NetworkObject Hull Property |
 | --- |

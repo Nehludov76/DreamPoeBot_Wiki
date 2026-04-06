@@ -1,5 +1,6 @@
 # GridExplorer.LocationUpdateEvent(ReceivedDataEventArgs) Delegate
 
+**Вложено элементов:** 0  
 
 | GridExplorer LocationUpdateEvent ReceivedDataEventArgs Delegate |
 | --- |

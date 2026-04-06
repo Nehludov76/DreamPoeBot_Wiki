@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.ActivateKiracMissionResult Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ActivateKiracMissionResult Enumeration |
 | --- |
@@ -30,8 +31,8 @@ public enum class ActivateKiracMissionResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| ProcessHookManagerNotEnabled | 0 |
-| UiNotOpen | 1 |
-| None | 2 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | ProcessHookManagerNotEnabled | 0 |  |
+|  | UiNotOpen | 1 |  |
+|  | None | 2 |  |

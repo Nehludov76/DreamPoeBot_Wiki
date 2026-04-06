@@ -1,5 +1,6 @@
 # Item Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SkillGemHud LevelingGem Item Property |
 | --- |

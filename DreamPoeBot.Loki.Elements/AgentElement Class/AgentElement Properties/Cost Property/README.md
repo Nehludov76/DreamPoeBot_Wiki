@@ -1,5 +1,6 @@
 # Cost Property 
 
+**Вложено элементов:** 0  
 
 | AgentElement Cost Property |
 | --- |

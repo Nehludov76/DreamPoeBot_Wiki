@@ -1,5 +1,6 @@
 # LookupProphecy Method 
 
+**Вложено элементов:** 0  
 
 | Dat LookupProphecy Method |
 | --- |

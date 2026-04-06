@@ -1,5 +1,6 @@
 # IsSixSlotDevice Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState MasterDeviceUi IsSixSlotDevice Property |
 | --- |

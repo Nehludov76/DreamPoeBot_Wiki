@@ -1,5 +1,6 @@
 # Initialize Method 
 
+**Вложено элементов:** 0  
 
 | SkillBlacklist Initialize Method |
 | --- |

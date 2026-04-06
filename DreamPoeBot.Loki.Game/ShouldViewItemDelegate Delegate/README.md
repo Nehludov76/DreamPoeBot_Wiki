@@ -1,5 +1,6 @@
 # ShouldViewItemDelegate Delegate
 
+**Вложено элементов:** 0  
 
 | ShouldViewItemDelegate Delegate |
 | --- |

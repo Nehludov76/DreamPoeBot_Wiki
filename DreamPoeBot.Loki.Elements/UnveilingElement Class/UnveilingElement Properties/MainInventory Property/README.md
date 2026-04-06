@@ -1,5 +1,6 @@
 # MainInventory Property 
 
+**Вложено элементов:** 0  
 
 | UnveilingElement MainInventory Property |
 | --- |

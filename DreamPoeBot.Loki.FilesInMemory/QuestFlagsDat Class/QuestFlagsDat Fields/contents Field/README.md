@@ -1,5 +1,6 @@
 # contents Field
 
+**Вложено элементов:** 0  
 
 | QuestFlagsDat contents Field |
 | --- |

@@ -1,5 +1,6 @@
 # WorldArea Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe LocalData WorldArea Property |
 | --- |

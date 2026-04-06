@@ -1,5 +1,6 @@
 # IsComboboxOpen Property 
 
+**Вложено элементов:** 0  
 
 | DisplayNoteElement IsComboboxOpen Property |
 | --- |

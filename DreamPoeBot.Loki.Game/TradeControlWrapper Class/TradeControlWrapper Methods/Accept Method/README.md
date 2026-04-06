@@ -1,5 +1,6 @@
 # Accept Method 
 
+**Вложено элементов:** 0  
 
 | TradeControlWrapper Accept Method |
 | --- |

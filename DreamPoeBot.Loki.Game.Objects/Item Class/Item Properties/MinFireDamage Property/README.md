@@ -1,5 +1,6 @@
 # MinFireDamage Property 
 
+**Вложено элементов:** 0  
 
 | Item MinFireDamage Property |
 | --- |

@@ -1,5 +1,6 @@
 # CoroutineExtension Class
 
+**Вложено элементов:** 9  
 
 | CoroutineExtension Class |
 | --- |
@@ -32,11 +33,14 @@ public static class CoroutineExtension
 The CoroutineExtension type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| AutoRestart |
-| GetCopy |
-| Run(Coroutine) |
-| Run(IEnumerator, String, String) |
-| RunParallel(Coroutine) |
-| RunParallel(IEnumerator, String, String) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | AutoRestart |  |
+|  | GetCopy |  |
+|  | Run(Coroutine) |  |
+|  | Run(IEnumerator, String, String) |  |
+|  | RunParallel(Coroutine) |  |
+|  | RunParallel(IEnumerator, String, String) |  |
+
+## Дочерние разделы
+- [**CoroutineExtension Methods**](./CoroutineExtension Methods/README.md)

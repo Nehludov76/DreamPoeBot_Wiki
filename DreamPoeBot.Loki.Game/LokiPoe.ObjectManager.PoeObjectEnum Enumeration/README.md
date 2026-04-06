@@ -1,5 +1,6 @@
 # LokiPoe.ObjectManager.PoeObjectEnum Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe ObjectManager PoeObjectEnum Enumeration |
 | --- |
@@ -30,2709 +31,2709 @@ public enum class PoeObjectEnum
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| Unknown | 0 |
-| Tarkleigh | 1 |
-| Nessa | 2 |
-| Bestel | 3 |
-| Doorman | 4 |
-| Captain_Fairgraves | 5 |
-| Dying_Exile | 6 |
-| Brutus_the_Warden | 7 |
-| Merveil | 8 |
-| Eramir | 9 |
-| Yeena | 10 |
-| Greust | 11 |
-| Silk | 12 |
-| Alira | 13 |
-| Kraityn | 14 |
-| Oak | 15 |
-| Hargan | 16 |
-| Lady_Dialla | 17 |
-| Maramoa | 18 |
-| Grigor | 19 |
-| Clarissa | 20 |
-| Shavronnes_Journal | 21 |
-| Helena | 22 |
-| Siosa | 23 |
-| Piety | 24 |
-| Gravicius | 25 |
-| Dominus | 26 |
-| King_Kaom | 27 |
-| Maligaro_the_Inquisitor | 28 |
-| Shavronne | 29 |
-| Malachai | 30 |
-| Daresso | 31 |
-| Oba | 32 |
-| Arteris_Letter | 33 |
-| Letters_of_Exile | 34 |
-| Weathered_Carving | 35 |
-| Ancient_Graffiti | 36 |
-| Ancient_Notebook | 37 |
-| Sailors_Skin | 38 |
-| Damp_Diary | 39 |
-| Scion | 40 |
-| Reverie_Device | 41 |
-| Ancient_Reverie_Device | 42 |
-| Transmutia_Device | 43 |
-| The_Purity_Chronicles | 44 |
-| Victarios_Writings | 45 |
-| The_Ancients | 46 |
-| Plaque | 47 |
-| Etchings_on_Wood_IV | 48 |
-| Etchings_on_Wood_III | 49 |
-| Etchings_on_Wood_I | 50 |
-| Etchings_on_Wood_II | 51 |
-| Note | 52 |
-| Proclamation | 53 |
-| Chest_1 | 54 |
-| Chest_2 | 55 |
-| Lioneyes_Standard | 56 |
-| Resonator_Instructions | 57 |
-| Volls_Confession | 58 |
-| Malachais_Notebook | 59 |
-| Malachais_Dedication | 60 |
-| Kira | 61 |
-| Oyun | 62 |
-| Petarus_and_Vanja | 63 |
-| Dialla | 64 |
-| Tasuni | 65 |
-| Tora_Master_of_the_Hunt | 66 |
-| Catarina_Master_of_the_Dead | 67 |
-| Haku_Armourmaster | 68 |
-| Vorici_Master_Assassin | 69 |
-| Vagan_Weaponmaster | 70 |
-| Elreon_Loremaster | 71 |
-| Zana_Master_Cartographer | 72 |
-| Leo_Master_of_the_Arena | 73 |
-| Krillson_Master_Fisherman | 74 |
-| Bronze_Monograph | 75 |
-| Bronze_Plaque | 76 |
-| Bronze_Inscription | 77 |
-| Izaro | 78 |
-| Poem | 79 |
-| Letter_of_Instruction | 80 |
-| Official_Orders | 81 |
-| Journal_Entry | 82 |
-| Malachais_Journal | 83 |
-| Letter_to_Chitus | 84 |
-| Rigwald | 85 |
-| Inscription | 86 |
-| Cadiro_Perandus | 87 |
-| Navali | 88 |
-| Dark_Tome | 89 |
-| The_Cursed_King | 90 |
-| Lycius_Midnights_Howl | 91 |
-| Balek_Dawn | 92 |
-| Einhar_Frey | 93 |
-| The_Shaper | 94 |
-| Lani | 95 |
-| Vilenta | 96 |
-| Utula | 97 |
-| Bannon | 98 |
-| Sin | 99 |
-| Lilly_Roth | 100 |
-| Weylam_Roth | 101 |
-| Yama_the_White | 102 |
-| Tukohama | 103 |
-| Vaal_Letter | 104 |
-| Tolman | 105 |
-| Avarius | 106 |
-| Innocence | 107 |
-| Ode_to_Ralakesh | 108 |
-| Love_Letter | 109 |
-| Maligaros_Manifesto | 110 |
-| Shrine_to_Arakaali | 111 |
-| Kitavas_Hunger_I | 112 |
-| Kitavas_Hunger_II | 113 |
-| Kitavas_Hunger_III | 114 |
-| Order_of_Protection | 115 |
-| Shavronnes_Manifesto | 116 |
-| Primitive_Carving | 117 |
-| Worn_Carving | 118 |
-| Karui_Carving | 119 |
-| Message_in_a_Bottle | 120 |
-| Leatherbound_Logbook | 121 |
-| Letter_Fragment | 122 |
-| Templar_Report | 123 |
-| Shrine_to_the_Brine_King | 124 |
-| Doedres_Manifesto | 125 |
-| Solaris_Statue | 126 |
-| Lunaris_Statue | 127 |
-| Research_Journal | 128 |
-| Triumph_of_Innocence | 129 |
-| Stained_Glass_Window | 130 |
-| Irasha | 131 |
-| Cultist_Tract | 132 |
-| Book_of_Memories | 133 |
-| Memory_Fragment | 134 |
-| Alva_Valai | 135 |
-| Calaf_Headstaver | 136 |
-| Merciless_Killer | 137 |
-| Callow_Sniper | 138 |
-| Kraityns_Scout | 139 |
-| Kraityns_Sentry | 140 |
-| Kraityns_Sniper | 141 |
-| Aliras_Deadeye | 142 |
-| Shadow_Archer | 143 |
-| Targa_Beast_Poacher | 144 |
-| Aliras_Blood_Hand | 145 |
-| Kraityns_Stalwart | 146 |
-| Guard_Stalwart | 147 |
-| Oaks_Fist | 148 |
-| Oaks_Guardian | 149 |
-| Treacherous_Deserter | 150 |
-| Guard_Archer | 151 |
-| Kraityns_High_Guard | 152 |
-| Aliras_Souleye | 153 |
-| Alira_Darktongue | 154 |
-| Kraityn_Scarbearer | 155 |
-| Oak_Skullbreaker | 156 |
-| Aliras_Martyr | 157 |
-| Crazed_Martyr | 158 |
-| Martyrs_Devoted | 159 |
-| Doedres_Fanatic | 160 |
-| Aliras_Blood_Guard | 161 |
-| Callow_Thug | 162 |
-| Shadow_Stalker | 163 |
-| Heartless_Deserter | 164 |
-| Kraityns_Thrall | 165 |
-| Highwayman | 166 |
-| ElderBlessed_Highwayman | 167 |
-| Kraityns_Aspirant | 168 |
-| Oaks_Devoted | 169 |
-| Oaks_Brute | 170 |
-| ElderBlessed_Brute | 171 |
-| Ryslathas_Devoted | 172 |
-| Ryslathas_Brute | 173 |
-| Devoted_Bandit | 174 |
-| Enterprising_Bandit | 175 |
-| Lasar_the_Ambitious | 176 |
-| Sumter_the_Twisted | 177 |
-| Flarus | 178 |
-| Frosis | 179 |
-| Wolfpack_Ranger | 180 |
-| Wolfpack_Guard | 181 |
-| Stag_Acolyte | 182 |
-| Greusts_Horn | 183 |
-| ElderBlessed_Acolyte | 184 |
-| Fallen_Azmeri | 185 |
-| Bear_Acolyte | 186 |
-| Greusts_Claw | 187 |
-| Boar_Acolyte | 188 |
-| Greusts_Tusk | 189 |
-| ALIRA_SPECTATOR | 190 |
-| OAK_SPECTATOR | 191 |
-| KRAITYN_SPECTATOR | 192 |
-| The_Animal_Pack | 193 |
-| Rotting_Stalwart | 194 |
-| Cave_Beast | 195 |
-| Enraptured_Beast | 196 |
-| Primal_Beast | 197 |
-| The_Alpha_Beast | 198 |
-| The_Great_White_Beast | 199 |
-| The_Great_White_Bones | 200 |
-| Primordius | 201 |
-| Kartarus | 202 |
-| Pallid_Vision | 203 |
-| Bone_Cruncher | 204 |
-| Hairy_Bonecruncher | 205 |
-| Shaggy_Monstrosity | 206 |
-| Thicket_Hulk | 207 |
-| Skeletal_Beast | 208 |
-| Corrupted_Beast | 209 |
-| Doomed_Hibernator | 210 |
-| Tyrannursus_Maximus | 211 |
-| Armour_Cruncher | 212 |
-| Forest_Beast | 213 |
-| Brutus_Lord_Incarcerator | 214 |
-| Fidelitas_the_Mourning | 215 |
-| Kruug_the_Frayed | 216 |
-| Vaal_Oversoul | 217 |
-| Jikshah | 218 |
-| Merveil_the_Siren | 219 |
-| Merveil_the_Twisted | 220 |
-| Spectral_Corsair | 221 |
-| Spectral_Scoundrel | 222 |
-| Ashen_Buccaneer | 223 |
-| Forgotten_Buccaneer | 224 |
-| Spectral_Swashbuckler | 225 |
-| Cursed_Mariner | 226 |
-| Spectral_Bowman | 227 |
-| Phantom_Occultist | 228 |
-| Grave_Corsair | 229 |
-| Soulless_Mariner | 230 |
-| Deathless_Buccaneer | 231 |
-| Revenant_Purser_ | 232 |
-| Charging_Corsair | 233 |
-| First_Mate_Crastus | 234 |
-| Telvar_the_Inebriated | 235 |
-| Spectral_Mage | 236 |
-| Spectral_Buccaneer | 237 |
-| Spectral_Captain | 238 |
-| Spectral_Ordnance | 239 |
-| Daemon | 240 |
-| Fairgraves_Corsair | 241 |
-| Savvy_Mariner | 242 |
-| Deadly_Buccaneer | 243 |
-| Lost_Corsair | 244 |
-| Borboss_the_Bruiser | 245 |
-| Lost_Mariner | 246 |
-| Lost_Buccaneer | 247 |
-| Fairgraves_Purser | 248 |
-| Goatman | 249 |
-| ElderBlessed_Goatman | 250 |
-| Goatman_Stomper | 251 |
-| Abberaths_Elite | 252 |
-| Mephods_Elite | 253 |
-| Bearded_Devil | 254 |
-| Alpine_Devil | 255 |
-| Gavuum_Goldhoof | 256 |
-| Venmur_the_Bloodgrin | 257 |
-| Mortumus_the_Second | 258 |
-| Mortumus_the_Third | 259 |
-| Gururu_the_Growler | 260 |
-| Kulgul_Mortalbane | 261 |
-| Shivrul_Goatqueen | 262 |
-| Mortumus_the_Other_One | 263 |
-| Rektar_the_Breaker | 264 |
-| The_Faun | 265 |
-| Goatman_Shaman | 266 |
-| Goatman_Fireraiser | 267 |
-| Bearded_Shaman | 268 |
-| Bearded_Skycaller | 269 |
-| Alpine_Shaman | 270 |
-| Hill_Devil | 271 |
-| Colossus_Crusher | 272 |
-| Ungulath | 273 |
-| Ancient_Construct | 274 |
-| Ancient_Sentry_Apparatus | 275 |
-| Fragment_Boss | 276 |
-| Cairn_Annihilator | 277 |
-| Vaal_Construct | 278 |
-| Vaal_Soul | 279 |
-| Archaic_Construct | 280 |
-| Flame_Hellion | 281 |
-| Dune_Hellion | 282 |
-| Highland_Hellion | 283 |
-| Demonic_Hellion | 284 |
-| Wolf | 285 |
-| Arctic_Wolf | 286 |
-| Snow_Wolf | 287 |
-| Freezing_Wolf | 288 |
-| Wolf_of_the_First_Ones | 289 |
-| Dire_Wolf | 290 |
-| Winterfang | 291 |
-| Storm_Eye | 292 |
-| Solus_Pack_Alpha | 293 |
-| Spectral_Wolf_Companion | 294 |
-| Enthralled_Dire_Wolf | 295 |
-| The_Burning_Menace | 296 |
-| Menacing_Vision | 297 |
-| Hellion | 298 |
-| ElderBlessed_Hellion | 299 |
-| Ruins_Hellion | 300 |
-| Mountain_Hellion | 301 |
-| Mountain_Hellion_Alpha | 302 |
-| Enslaved_Hellion | 303 |
-| Brood_Pup | 304 |
-| Enraptured_Hellion | 305 |
-| Shackled_Hellion | 306 |
-| Blood_Ape | 307 |
-| Dread_Primate | 308 |
-| Stygian_Ape | 309 |
-| Nadia_the_Soothing | 310 |
-| Aidan_the_Frenzied | 311 |
-| Shadow_Ape | 312 |
-| Infested_Ape | 313 |
-| Blood_Chieftain | 314 |
-| Carnage_Chieftain | 315 |
-| Stygian_Silverback | 316 |
-| Aboriginal_Chieftain | 317 |
-| Prime_Ape | 318 |
-| Host_Chieftain | 319 |
-| Hollowskull_the_Willing_Host | 320 |
-| Carnage_Ape | 321 |
-| Barrow_Ape | 322 |
-| Primitive_Ape | 323 |
-| Ruined_Titan | 324 |
-| Stalag_Nightmare | 325 |
-| Rumbling_Mass | 326 |
-| Hulking_Titan | 327 |
-| Gneiss | 328 |
-| ROCK_OUT | 329 |
-| Churning_Titan | 330 |
-| King_Rollem | 331 |
-| Fiery_Rollem | 332 |
-| Icey_Rollem | 333 |
-| Chaotic_Rollem | 334 |
-| Erosive_Rubble | 335 |
-| Frozen_Titan | 336 |
-| Mountain_Fragment | 337 |
-| Fiery_Rubble | 338 |
-| Panicked_Rubble | 339 |
-| Rubble_Golem | 340 |
-| Necromancer | 341 |
-| Kadavrus_the_Defiler | 342 |
-| Sawbones | 343 |
-| Sin_Master | 344 |
-| Defiler | 345 |
-| Diabolist | 346 |
-| Sin_Lord | 347 |
-| Thunder_Whisperer | 348 |
-| Fated_Necromancer | 349 |
-| Doedres_Animator | 350 |
-| The_Bone_Sculptor | 351 |
-| Bringer_of_Souls | 352 |
-| Rhoa_Scavenger | 353 |
-| ElderBlessed_Rhoa | 354 |
-| Adolescent_Rhoa | 355 |
-| Primordial_Rhoa | 356 |
-| The_First_Rhoa | 357 |
-| Albino_Rhoa | 358 |
-| Great_Rhoa | 359 |
-| Murk_Runner | 360 |
-| Charmed_Charger | 361 |
-| Summoned_Rhoa | 362 |
-| Oozeback_Bloom | 363 |
-| Pestilent_Vision | 364 |
-| Bone_Rhoa | 365 |
-| Corrupted_Rhoa | 366 |
-| Bone_Scavenger | 367 |
-| Zombie_Rhoa | 368 |
-| Ventarus | 369 |
-| Infested_Rhoa | 370 |
-| Gravel_Eater | 371 |
-| Fossil_Eater | 372 |
-| Colossal_Spitter | 373 |
-| Sand_Spitter | 374 |
-| Scrabbling_Spitter | 375 |
-| Granite_Eater | 376 |
-| Rock_Spitter | 377 |
-| Crustacean_Sniper | 378 |
-| Crustacean_Pelter | 379 |
-| Infested_Sniper | 380 |
-| Obsidian_Eater | 381 |
-| The_Deep_Dweller | 382 |
-| Charmed_Spitter | 383 |
-| Merveils_Favoured | 384 |
-| Ambrosia_Daughter_of_Merveil | 385 |
-| Amarissa_Daughter_of_Merveil | 386 |
-| Merveils_Daughter | 387 |
-| Merveils_Attendant | 388 |
-| Merveils_Chosen | 389 |
-| Merveils_Retainer | 390 |
-| Brood_Princess | 391 |
-| Brood_Child | 392 |
-| Singing_Siren | 393 |
-| Merveils_Blessed | 394 |
-| Fated_Siren | 395 |
-| Scrabbling_Menace | 396 |
-| Cave_Crustacean | 397 |
-| Invading_Crustacean | 398 |
-| Infested_Crustacean | 399 |
-| Deep_Crustacean | 400 |
-| Shield_Crab | 401 |
-| Bleached_Crustacean | 402 |
-| Brittle_Mage | 403 |
-| Archbishop_Geofri_the_Abashed | 404 |
-| Fairgraves_Never_Dying | 405 |
-| Chatters | 406 |
-| Ironpoint_the_Forsaken | 407 |
-| Fated_Archer | 408 |
-| Ancient_Archer | 409 |
-| Timeless_Hunter | 410 |
-| Brittle_Lookout | 411 |
-| Brittle_Bornagain | 412 |
-| Brittle_Poacher | 413 |
-| Sandy_Lookout | 414 |
-| Burning_Bowman | 415 |
-| Weathered_Watchman | 416 |
-| Vault_Hunter | 417 |
-| Brittle_Archer | 418 |
-| Sin_Archer | 419 |
-| Thunder_Thrall | 420 |
-| Plagued_Bowman | 421 |
-| Brittle_Bleeder | 422 |
-| Disbanded_Dead | 423 |
-| Vexing_Archer | 424 |
-| Bonewarped_Archer | 425 |
-| Bloodstained_Archer | 426 |
-| Azmeri_Ancestor | 427 |
-| Bone_Archer | 428 |
-| Axiom_Frostguard | 429 |
-| Frost_Archmage | 430 |
-| Frost_Bishop | 431 |
-| Frost_Priest | 432 |
-| Frost_Keeper | 433 |
-| Frost_Preacher | 434 |
-| Frost_Rattler | 435 |
-| Frost_Harbinger | 436 |
-| Malachais_Enlightened | 437 |
-| Gleaming_Saint | 438 |
-| Desecrated_Saint | 439 |
-| Brittle_Arsonist | 440 |
-| Flame_Archmage | 441 |
-| Flame_Bishop | 442 |
-| Smouldering_Embermage | 443 |
-| Flame_Priest | 444 |
-| Flame_Harbinger | 445 |
-| Smouldering_Infernomage | 446 |
-| Flame_Rattler | 447 |
-| Flame_Preacher | 448 |
-| Axiom_Thunderguard | 449 |
-| Servant_of_Rukuku | 450 |
-| Thunder_Archmage | 451 |
-| Thunder_Bishop | 452 |
-| Thunder_Harbinger | 453 |
-| Thunder_Priest | 454 |
-| Thunder_Keeper | 455 |
-| Thunder_Preacher | 456 |
-| Thunder_Champion | 457 |
-| Thunder_Rattler | 458 |
-| Sparking_Mage | 459 |
-| Ancient_Bonestalker | 460 |
-| Brittle_Cleric | 461 |
-| Brittle_Thief | 462 |
-| Rattling_Bones | 463 |
-| Vault_Guardian | 464 |
-| Timeless_Wanderer | 465 |
-| Sandworn_Watchman | 466 |
-| Ash_Harvester | 467 |
-| Angered_Remains | 468 |
-| Risen_Saint | 469 |
-| Sandy_Guardian | 470 |
-| Ancient_Worker | 471 |
-| Brittle_Gladiator | 472 |
-| Risen_Gladiator | 473 |
-| Brittle_Bandit | 474 |
-| Brittle_Farmer | 475 |
-| Smouldering_Farmer | 476 |
-| Nightmarish_Farmer | 477 |
-| Bonewarped_Warrior | 478 |
-| Bloodstained_Warrior | 479 |
-| Ancient_Convict | 480 |
-| Colossal_Bonestalker | 481 |
-| Awoken_Giant | 482 |
-| Frost_Guardian | 483 |
-| Frost_Champion | 484 |
-| Frost_Relicguard | 485 |
-| Volkuurs_Frostguard | 486 |
-| Flame_Guardian | 487 |
-| Flame_Champion | 488 |
-| Flame_Relicguard | 489 |
-| Volkuurs_Flameguard | 490 |
-| Fairgraves_Crewman | 491 |
-| Lost_Crewman | 492 |
-| Pirate_Lords_Crewman | 493 |
-| Bone_Warden | 494 |
-| Sparking_Bones | 495 |
-| Thunder_Guardian | 496 |
-| Thunder_Relicguard | 497 |
-| Volkuurs_Stormguard | 498 |
-| Shavronnes_Admirer | 499 |
-| Vaal_Fallen | 500 |
-| Colossal_Vaal_Fallen | 501 |
-| Vaal_Gargantuan | 502 |
-| Blightblade | 503 |
-| Vaal_Frost_Guardian | 504 |
-| Vaal_Flame_Guardian | 505 |
-| Vaal_Bone_Warden | 506 |
-| Vaal_Slayer | 507 |
-| Vaal_Arsonist | 508 |
-| Vaal_Frostguard | 509 |
-| Vaal_Thunderguard | 510 |
-| Bravalo | 511 |
-| Skeleton_Engineer | 512 |
-| Undead_Engineer | 513 |
-| Cinder_Bones | 514 |
-| Icy_Bones | 515 |
-| Crackling_Bones | 516 |
-| Brittle_Flametosser | 517 |
-| Brittle_Chillcaller | 518 |
-| Brittle_Stormtouched | 519 |
-| Scarecrow | 520 |
-| Crow_Keeper | 521 |
-| Effigy_of_Fear | 522 |
-| Slitherskin | 523 |
-| Brush_Viper | 524 |
-| Night_Adder | 525 |
-| Host_Adder | 526 |
-| Serpentine_Construct | 527 |
-| Spine_Construct | 528 |
-| Wiraqucha_Ancient_Guardian | 529 |
-| Bramble_Cobra | 530 |
-| ElderBlessed_Cobra | 531 |
-| Host_Cobra | 532 |
-| Seleslatha | 533 |
-| Acid_Slitherer | 534 |
-| Crypt_Stalker | 535 |
-| Glade_Mamba | 536 |
-| Charmed_Cobra | 537 |
-| Summoned_Cobra | 538 |
-| Cursed_Spawn | 539 |
-| Fathom_Screamer | 540 |
-| Flesh_Eater | 541 |
-| Sirens_Spawn | 542 |
-| Slimy_Bloodsucker | 543 |
-| Foreseen_Spawn | 544 |
-| DrTestopus | 545 |
-| EleReflectopus | 546 |
-| PhysReflectopus | 547 |
-| Spawn_Boss | 548 |
-| Unstable_Larva | 549 |
-| Brood_Larva | 550 |
-| Slimy_Nemesis | 551 |
-| Venomous_Spawn | 552 |
-| Broodling | 553 |
-| Black_Death | 554 |
-| Deathly_Vision | 555 |
-| The_Weaver | 556 |
-| Balah_Duke | 557 |
-| Great_Webmother | 558 |
-| Lurking_Venom | 559 |
-| Nesting_Spider | 560 |
-| Nesting_Venom | 561 |
-| Vaal_Recluse | 562 |
-| Noxious_Tarantula | 563 |
-| Deadly_Tarantula | 564 |
-| Leaping_Spider | 565 |
-| Arakaalis_Daughter | 566 |
-| Webbed_Spider | 567 |
-| Virulent_Spider | 568 |
-| Ink_Spinner | 569 |
-| Cave_Arach | 570 |
-| Corrupted_Arach | 571 |
-| Crypt_Spinner | 572 |
-| Crypt_Weaver | 573 |
-| Mutant_Arach | 574 |
-| Crypt_Ambusher | 575 |
-| Corrupted_Spitter | 576 |
-| Cave_Skitterer | 577 |
-| Spindle_Spider | 578 |
-| Hatchling | 579 |
-| Adolescent_Arachnid | 580 |
-| Mature_Arachnid | 581 |
-| Davnalleous | 582 |
-| Brooding_Tarantula | 583 |
-| Buried_Tarantula | 584 |
-| Maligaros_Inspiration | 585 |
-| Enraptured_Arachnid | 586 |
-| Essence_Tarantula | 587 |
-| Widows_Hatchling | 588 |
-| Widows_Skitterer | 589 |
-| Soulmourn | 590 |
-| Suncaller_Asha | 591 |
-| Talin_Faithbreaker | 592 |
-| Petrification_Statue | 593 |
-| Kuduku_the_False_God | 594 |
-| Rukuku_the_Pagan_God | 595 |
-| Kadaka_the_Goddess_of_Luck | 596 |
-| Grinning_Totem | 597 |
-| Vaal_Totem | 598 |
-| Carnage_Pillar | 599 |
-| Charging_Totem | 600 |
-| Fuming_Totem | 601 |
-| Billowing_Totem | 602 |
-| Humming_Totem | 603 |
-| Whispering_Totem | 604 |
-| Puruna_the_Challenger | 605 |
-| Poporo_the_Highest_Spire | 606 |
-| Crystal_Ice_Spires | 607 |
-| RENAME_ME | 608 |
-| Totem | 609 |
-| Seething_Brine | 610 |
-| Stranglecharm | 611 |
-| Captain_Pollution | 612 |
-| Crashing_Brine | 613 |
-| Tide_Strider | 614 |
-| Flood_Strider | 615 |
-| Boiling_Ambusher | 616 |
-| Boiling_Strider | 617 |
-| Sand_Strider | 618 |
-| Bubbling_Gold | 619 |
-| Clearwater_Strider | 620 |
-| Bubbling_Wave | 621 |
-| Crashing_Wave | 622 |
-| Riptide | 623 |
-| Brine_Princess | 624 |
-| Sulphuric_Strider | 625 |
-| Burning_Essence | 626 |
-| Freezing_Essence | 627 |
-| Crackling_Essence | 628 |
-| Hungry_Corpse | 629 |
-| Hillock | 630 |
-| Jaesyn | 631 |
-| placeholder_boss | 632 |
-| Plague_Retch | 633 |
-| Aliras_Dearest | 634 |
-| Cauldron_Zombie | 635 |
-| Avatar_of_Rot | 636 |
-| Towering_Aberration | 637 |
-| Lingering_Aberration | 638 |
-| Volatile_Awakened | 639 |
-| Drowned | 640 |
-| Unthinking | 641 |
-| Unstable_Drowned | 642 |
-| Drowned_Champion | 643 |
-| Dripping_Dead | 644 |
-| Unstable_Aberration | 645 |
-| Tolman_the_Exhumer | 646 |
-| Sleepy_Dead | 647 |
-| Awakened | 648 |
-| Darktongue_Thrall | 649 |
-| Darktongue_Servant | 650 |
-| Darktongue_Slave | 651 |
-| Darktongue_Risen | 652 |
-| Pale_Husk | 653 |
-| Shambling_Cadaver | 654 |
-| Devout_Dead | 655 |
-| Sewage_Cadaver | 656 |
-| Doedres_Loyal | 657 |
-| Sutured_Aberration | 658 |
-| Rotting_Damned | 659 |
-| Withered_Husk | 660 |
-| Fetid_Shambler | 661 |
-| Oozing_Dead | 662 |
-| Wrapped_Nobleman | 663 |
-| Dessicated_Maraketh | 664 |
-| Rotten_Gladiator | 665 |
-| Rotten_Veteran_Gladiator | 666 |
-| Child_of_Lunaris | 667 |
-| Captain_Aurelianus | 668 |
-| Fleshrend_Grand_Inquisitor | 669 |
-| Blackguard_Mage | 670 |
-| Blackguard_Arcmage | 671 |
-| ElderBlessed_Arcmage | 672 |
-| Solarsworn_Infernomage | 673 |
-| Lunarsworn_Wintermage | 674 |
-| Solarsworn_Archmage | 675 |
-| Lunarsworn_Archmage | 676 |
-| Compulsor_Octavia_Sparkfist | 677 |
-| Oriaths_Virtue | 678 |
-| Blackguard_Firemage | 679 |
-| Blackguard_Stormmage | 680 |
-| Blackguard_Chaplain | 681 |
-| Blackguard_Scout_Commander | 682 |
-| Blackguard_Elite | 683 |
-| Solaris_Elite | 684 |
-| Lunaris_Elite | 685 |
-| Solaris_Champion | 686 |
-| Lunaris_Champion | 687 |
-| Draconarius_Wilhelm_Flamebrand | 688 |
-| Imperator_Stantinus_Bitterblade_ | 689 |
-| Oriaths_Vengeance | 690 |
-| Oriaths_Vigil | 691 |
-| Gravicius_Elite_Guard | 692 |
-| Praetorian_Guard | 693 |
-| Mortality_Experimenter | 694 |
-| Reanimator | 695 |
-| Flesh_Sculptor | 696 |
-| Blackguard_Scout | 697 |
-| ElderBlessed_Scout | 698 |
-| Blackguard_Soldier | 699 |
-| Lunar_Scout | 700 |
-| Solar_Scout | 701 |
-| General_Gravicius | 702 |
-| Regulus_Suns_Herald | 703 |
-| Aloris_the_First_Light | 704 |
-| Nightbringer_Lucius | 705 |
-| Nebria_the_Last_Light | 706 |
-| Guard | 707 |
-| Guard_Captain | 708 |
-| Captain_Arteri | 709 |
-| Piety_the_Abomination | 710 |
-| Nightmare_Manifest | 711 |
-| Blackguard_of_Hatred | 712 |
-| Blackguard_of_Wrath | 713 |
-| Blackguard_Spectre | 714 |
-| Blackguard_Enforcer | 715 |
-| Blackguard_Interrogator | 716 |
-| Legius_Garhall | 717 |
-| Temple_Scholar | 718 |
-| Cato_Scholar_of_Light | 719 |
-| Barthol_the_Pure | 720 |
-| Cato_Defiler_of_Light | 721 |
-| Barthol_the_Corruptor | 722 |
-| Crimson_Scholar | 723 |
-| Shadow_Scholar | 724 |
-| Elite_Bodyguard | 725 |
-| Kole | 726 |
-| Maker_of_Mires | 727 |
-| The_Brute | 728 |
-| Pietys_Miscreation | 729 |
-| Miscreation | 730 |
-| Sacrificial_Demon | 731 |
-| ElderBlessed_Miscreation | 732 |
-| Lunar_Miscreation | 733 |
-| Slashed_Miscreation | 734 |
-| Shavronnes_Student | 735 |
-| Orcus_the_Reaver | 736 |
-| The_Broken_Prince | 737 |
-| Drenched_Miscreation | 738 |
-| Moontouched_Miscreation | 739 |
-| Burned_Miscreation | 740 |
-| Shocked_Miscreation | 741 |
-| Augmented_Dead | 742 |
-| Shavronnes_Legacy | 743 |
-| Spinecrack | 744 |
-| Horror_Archon | 745 |
-| Whipping_Miscreation | 746 |
-| ElderBlessed_Torturer | 747 |
-| Night_Horror | 748 |
-| Dusk_Horror | 749 |
-| Student_of_Pain | 750 |
-| Alal_the_Terrifying | 751 |
-| The_Fallen_Queen | 752 |
-| Tentacle_Miscreation | 753 |
-| ElderBlessed_Abberation | 754 |
-| Lunaris_Concubine | 755 |
-| Student_of_Torture | 756 |
-| Kali_the_Crazed | 757 |
-| The_Hollow_Lady | 758 |
-| Fated_Miscreation | 759 |
-| Demonic_Martyr | 760 |
-| Fetid_Maw | 761 |
-| Murk_Fiend | 762 |
-| Filth_Maw | 763 |
-| Gloomglut | 764 |
-| Bestial_Maw | 765 |
-| Great_Maw | 766 |
-| Infested_Maw | 767 |
-| Plumed_Chimeral | 768 |
-| Vibrant_Chimeral | 769 |
-| Feral_Chimeral | 770 |
-| Chrometouched_Chimeral | 771 |
-| Chromeinfused_Chimeral | 772 |
-| Wild_Chimeral | 773 |
-| Clutch_Queen | 774 |
-| Paradisae_Venenum | 775 |
-| Sallazzang | 776 |
-| Chimeric_Croaker | 777 |
-| Prized_Croaker | 778 |
-| Vaulting_Croaker | 779 |
-| Chrometouched_Croaker | 780 |
-| Chromeinfused_Croaker | 781 |
-| Banner_of_Passion | 782 |
-| Banner_of_Knowledge | 783 |
-| Banner_of_Action | 784 |
-| The_Infernal_Seal | 785 |
-| The_Voltaic_Seal | 786 |
-| Galvanic_Ribbon | 787 |
-| Flame_Sentinel | 788 |
-| Infernal_Sentinel | 789 |
-| Assault_Ribbon | 790 |
-| Rime_Sentinel | 791 |
-| Frost_Sentinel | 792 |
-| Carrion_Queen | 793 |
-| Ryslatha_the_Puppet_Mistress | 794 |
-| Gorulis_WillThief | 795 |
-| Carrion_Minion | 796 |
-| Carrion_Swarmer | 797 |
-| Carrion_Burrower | 798 |
-| Carrion_Raider | 799 |
-| Scum_Crawler | 800 |
-| Explosive_Crawler | 801 |
-| Explosive_Horror | 802 |
-| Nightmarish_Carrion | 803 |
-| Nightmarish_Crawler | 804 |
-| Testling | 805 |
-| THIS_IS_A_BUG | 806 |
-| Avian_Retch | 807 |
-| ElderBlessed_Retch | 808 |
-| Vassal_of_Inti | 809 |
-| Gluttonous_Gull | 810 |
-| Blooddrinker | 811 |
-| Tyranny_Archon | 812 |
-| Sire_of_the_Falling_Skies | 813 |
-| Frozen_Locustcaller | 814 |
-| Fiery_Locustcaller | 815 |
-| Thundering_Locustcaller | 816 |
-| Locust_Swarm | 817 |
-| Voidbearer | 818 |
-| Fiend_Archon | 819 |
-| The_Shipyard_Terror | 820 |
-| Harbinger | 821 |
-| Flame_Beast | 822 |
-| Nightbearer | 823 |
-| Maligaros_Passion | 824 |
-| Maligaros_Cruelty | 825 |
-| Cinder_Elemental | 826 |
-| Living_Fury | 827 |
-| Hatebeat | 828 |
-| Hatestorm | 829 |
-| Ash_Prophet | 830 |
-| Death_Bishop | 831 |
-| Undying_Incinerator | 832 |
-| Undying_Alchemist | 833 |
-| Traitorous_Incinerator | 834 |
-| Dominus_High_Templar | 835 |
-| The_High_Templar | 836 |
-| Gods_Chosen | 837 |
-| Dominus_Ascendant | 838 |
-| The_Hallowed_Husk | 839 |
-| Sewage_Crawler | 840 |
-| Toxic_Crawler | 841 |
-| Flayed_Warrior | 842 |
-| Restless_Labourer | 843 |
-| Restless_Archer | 844 |
-| Flayed_Archer | 845 |
-| Scorched_Guard | 846 |
-| Scorched_Mage | 847 |
-| Incinerated_Mage | 848 |
-| Enlightened_Vicar | 849 |
-| Bleak_Aspirant | 850 |
-| Crackling_Acolyte | 851 |
-| Bleak_Vicar | 852 |
-| Crackling_Vicar | 853 |
-| Spine_Serpent | 854 |
-| Infested_Serpent | 855 |
-| Barb_Serpent | 856 |
-| Sand_Serpent | 857 |
-| Crypt_Arachnid | 858 |
-| Porcupine_Goliath | 859 |
-| Thistleback_Goliath | 860 |
-| Chrometouched_Goliath | 861 |
-| Chromeinfused_Goliath | 862 |
-| Thistlesage | 863 |
-| The_Goddess_of_Purity | 864 |
-| Purity_Restored | 865 |
-| Marceus_the_Defaced | 866 |
-| Marceus_the_Hidden | 867 |
-| Fencer_Statue | 868 |
-| Maul_Statue | 869 |
-| Brittle_Fencer | 870 |
-| Brittle_Maul_Statue | 871 |
-| Archer_Statue | 872 |
-| Figment_of_Swords | 873 |
-| Figment_of_Destruction | 874 |
-| Figment_of_Winds | 875 |
-| Idolised_Saint | 876 |
-| Aurate_Warrior | 877 |
-| Aurate_Archer | 878 |
-| Embezzlers_Offer | 879 |
-| Embezzlers_Own | 880 |
-| Giant_Gladiator_Statue | 881 |
-| Towering_Figment | 882 |
-| Overgrown_Colossus | 883 |
-| Auric_Champion | 884 |
-| Auric_Colossus | 885 |
-| Martial_Statue | 886 |
-| Giant_Statue | 887 |
-| Majestic_Statue | 888 |
-| Auric_Lion | 889 |
-| Molten_Lion | 890 |
-| Blood_Elemental | 891 |
-| Aggravated_Wound | 892 |
-| Crimson_Ichor | 893 |
-| Coagulated_Elemental | 894 |
-| Fevered_Clot | 895 |
-| Doedres_Ichor | 896 |
-| Tainted_Water | 897 |
-| Mephitic_Maiden | 898 |
-| Noxious_Maiden | 899 |
-| Doedres_Vitriol | 900 |
-| Congealed_Blood | 901 |
-| Unstable_Clot | 902 |
-| Purged_Fluids | 903 |
-| Vengeful_Blood | 904 |
-| Congealed_Mud | 905 |
-| Fated_Coagulate | 906 |
-| Holy_Water | 907 |
-| Undying_Untouchable | 908 |
-| Undying_Subject | 909 |
-| Undying_Inductor | 910 |
-| Undying_Shredder | 911 |
-| Undying_Champion | 912 |
-| Undying_Engineer | 913 |
-| Ancient_Sculptor | 914 |
-| Ancient_Architect | 915 |
-| Undying_Worker | 916 |
-| Undying_Labourer | 917 |
-| Undying_Operator | 918 |
-| Undying_Archivist | 919 |
-| Stinking_Undying | 920 |
-| Undying_Cultist | 921 |
-| Undying_Degenerate | 922 |
-| Undying_Wretch | 923 |
-| Undying_Evangelist | 924 |
-| Student_of_Brutality | 925 |
-| Maligaros_Acolyte | 926 |
-| Trinian_Intellectus_Prime | 927 |
-| The_Arbiter_of_Knowledge | 928 |
-| Undying_Aristocrat | 929 |
-| Undying_Socialite | 930 |
-| Undying_Initiate | 931 |
-| Undying_Patrician | 932 |
-| Undying_Shade | 933 |
-| Undying_Dreg | 934 |
-| Caliga_Imperatrix | 935 |
-| Excellis_Aurafix | 936 |
-| Shavronnes_Envy | 937 |
-| Shavronnes_Greed | 938 |
-| Riftwalker | 939 |
-| The_Uncreated | 940 |
-| The_Unshaped | 941 |
-| Agent_of_the_Void | 942 |
-| Void_Remnant | 943 |
-| Abhorred_Elitist | 944 |
-| The_Stockkeeper | 945 |
-| Undying_Grappler | 946 |
-| Shavronnes_Gemling | 947 |
-| Augmented_Grappler | 948 |
-| Perpetus | 949 |
-| Undying_Outcast | 950 |
-| Undying_Impaler | 951 |
-| Undying_Ravager | 952 |
-| Dockhand_Wraith | 953 |
-| Labourer_Wraith | 954 |
-| Foreman | 955 |
-| Brittle_Longshoreman | 956 |
-| Brittle_Corsair | 957 |
-| Raised_Zombie | 958 |
-| Shadow_Minion | 959 |
-| Summoned_Skeleton | 960 |
-| Summoned_Phantasm | 961 |
-| Volatile_Phantasm | 962 |
-| Energised_Phantasm | 963 |
-| Summoned_Skeleton_Soldier | 964 |
-| Summoned_Skeleton_Archer | 965 |
-| Summoned_Skeleton_Caster | 966 |
-| Summoned_Skeleton_Colossus | 967 |
-| Summoned_Skeleton_General | 968 |
-| Summoned_Skeleton_Sniper | 969 |
-| Summoned_Skeleton_Deathmage | 970 |
-| Profane_Thrall | 971 |
-| Desecrated_Thrall | 972 |
-| Champion_of_the_Feast | 973 |
-| Shaman_of_the_Feast | 974 |
-| Guardian_of_the_Feast | 975 |
-| Spawn | 976 |
-| Molten_Skeleton | 977 |
-| Unearthly_Skeleton | 978 |
-| Pure_Water | 979 |
-| Pagan_Bishop_of_Agony | 980 |
-| Litanius_the_Black_Prayer | 981 |
-| Penitentiary_Incarcerator | 982 |
-| Penitentiary_Incarcerator_ | 983 |
-| Fire_and_Fury | 984 |
-| Loathe | 985 |
-| The_Blacksmith | 986 |
-| DroughtMaddened_Rhoa | 987 |
-| Titan_of_the_Grove | 988 |
-| Megaera | 989 |
-| Beast_of_the_Pits | 990 |
-| Steelpoint_the_Avenger | 991 |
-| Champion_of_Frost | 992 |
-| Thunderskull | 993 |
-| Belcer_the_Pirate_Lord | 994 |
-| Enticer_of_Rot | 995 |
-| Witch_of_the_Cauldron | 996 |
-| Xixic_High_Necromancer | 997 |
-| Shock_and_Horror | 998 |
-| Lady_of_the_Brood | 999 |
-| Glace | 1000 |
-| The_Idol_Beyond | 1001 |
-| Achioc_the_Glacier | 1002 |
-| Levioc_the_Volcano | 1003 |
-| Zorioc_the_Storm | 1004 |
-| Izioc_the_Abyss | 1005 |
-| Olmec_the_All_Stone | 1006 |
-| Flame_of_Truth | 1007 |
-| Merveil_the_Reflection | 1008 |
-| Merveil_the_Returned | 1009 |
-| Master_of_the_Blade | 1010 |
-| Leif_the_SwiftHanded | 1011 |
-| Plaguebringer | 1012 |
-| Lord_of_the_Bow | 1013 |
-| Lord_of_the_Ashen_Arrow | 1014 |
-| Massier | 1015 |
-| Spirit_of_Nadia | 1016 |
-| Spirit_of_Aidan | 1017 |
-| Spinner_of_False_Hope | 1018 |
-| Queen_of_the_Great_Tangle | 1019 |
-| Oak_the_Mighty | 1020 |
-| Aulen_Greychain | 1021 |
-| Shadow_of_the_Vaal | 1022 |
-| Atziris_Chosen | 1023 |
-| Asphyxia | 1024 |
-| Mother_Phyia | 1025 |
-| Avatar_of_the_Tempest | 1026 |
-| Blood_Progenitor | 1027 |
-| The_Primal_One | 1028 |
-| Skullbeak | 1029 |
-| Volcanus | 1030 |
-| Herald_of_Ashes | 1031 |
-| Herald_of_Thunder | 1032 |
-| The_Reaver | 1033 |
-| Blackguard_Avenger | 1034 |
-| Blackguard_Tempest | 1035 |
-| The_Wicked_One | 1036 |
-| Piety_the_Empyrean | 1037 |
-| Carnage | 1038 |
-| Diallas_Anger | 1039 |
-| Diallas_Hatred | 1040 |
-| Diallas_Wrath | 1041 |
-| Emperor_Radiant | 1042 |
-| Lady_Stormflay | 1043 |
-| Warmonger | 1044 |
-| Tyrant | 1045 |
-| Bramblemist | 1046 |
-| Arachnoxia | 1047 |
-| Hybrid_Widow | 1048 |
-| Mistress_of_Flame | 1049 |
-| Infector_of_Dreams | 1050 |
-| Rose | 1051 |
-| Thorn | 1052 |
-| Mistress_Hyseria | 1053 |
-| Burning_Totem | 1054 |
-| Chilling_Totem | 1055 |
-| Shocking_Totem | 1056 |
-| Diamond_Totem | 1057 |
-| Warping_Totem | 1058 |
-| Detonation_Totem | 1059 |
-| Frenzy_Totem | 1060 |
-| Endurance_Totem | 1061 |
-| Power_Totem | 1062 |
-| Ice_Totem | 1063 |
-| Necromantic_Totem | 1064 |
-| Shockwave_Totem | 1065 |
-| Healing_Totem | 1066 |
-| VaalInfused_Totem | 1067 |
-| Fickle_Totem | 1068 |
-| Burning_Portal | 1069 |
-| Chilling_Portal | 1070 |
-| Orra_Greengate | 1071 |
-| Thena_Moga | 1072 |
-| Thena_Moga_the_Crimson_Storm | 1073 |
-| Antalie_Napora | 1074 |
-| Silva_Fearsting | 1075 |
-| Ailentia_Rac | 1076 |
-| Torr_Olgosso | 1077 |
-| Armios_Bell | 1078 |
-| Antonio_Bravadi | 1079 |
-| Zacharie_Desmarais | 1080 |
-| Oyra_Ona | 1081 |
-| Minara_Anemina | 1082 |
-| Igna_Phoenix | 1083 |
-| Aria_Vindicia | 1084 |
-| Dena_Lorenni | 1085 |
-| Ultima_Thule | 1086 |
-| Kirmes_Olli | 1087 |
-| Jonah_Unchained | 1088 |
-| Damoi_Tui | 1089 |
-| Xandro_Blooddrinker | 1090 |
-| Haki_Karukaru | 1091 |
-| Vickas_Giantbone | 1092 |
-| Bolt_Brownfur | 1093 |
-| Bolt_Brownfur_Earth_Churner | 1094 |
-| Ohne_Trix | 1095 |
-| Eoin_Greyfur | 1096 |
-| Tinevin_Highdove | 1097 |
-| Doven_Falsetongue | 1098 |
-| Magnus_Stonethorn | 1099 |
-| Aurelio_Voidsinger | 1100 |
-| Baracus_Phraxisanct | 1101 |
-| Ion_Darkshroud | 1102 |
-| Ion_Darkshroud_the_Hungering_Blade | 1103 |
-| Ash_Lessard | 1104 |
-| Jarek_Irontrap | 1105 |
-| Wilorin_Demontamer | 1106 |
-| Ulysses_Morvant | 1107 |
-| Jade | 1108 |
-| Augustina_Solaria | 1109 |
-| Lael_Furia | 1110 |
-| Vanth_Agiel | 1111 |
-| Shade_of_a_Scion | 1112 |
-| Shade_of_a_Templar | 1113 |
-| Shade_of_a_Duelist | 1114 |
-| Shade_of_a_Marauder | 1115 |
-| Shade_of_a_Shadow | 1116 |
-| Shade_of_a_Witch | 1117 |
-| Shade_of_a_Ranger | 1118 |
-| Darbel_LePage | 1119 |
-| Elusive_Twin | 1120 |
-| Phantasmal_Twin | 1121 |
-| Nightmarish_Twin | 1122 |
-| Blood_Sister | 1123 |
-| Guardian_of_the_South | 1124 |
-| Guardian_of_the_North | 1125 |
-| Guardian_of_the_West | 1126 |
-| Guardian_of_the_East | 1127 |
-| Revived_Guardian | 1128 |
-| Tormented_Temptress | 1129 |
-| Devourer | 1130 |
-| Tunnelworm | 1131 |
-| Unstable_Devourer | 1132 |
-| Captive_Devourer | 1133 |
-| Ancient_Devourer | 1134 |
-| Elder_Devourer | 1135 |
-| The_Conqueror_Wurm | 1136 |
-| Tunneltrap | 1137 |
-| Mystic_Devourer | 1138 |
-| Cannibal | 1139 |
-| Cannibals_Devoted | 1140 |
-| Fire_Fury | 1141 |
-| Bameth_Cultist | 1142 |
-| Lunaris_Zealot | 1143 |
-| Moontouched_Zealot | 1144 |
-| Harbinger_Fanatic | 1145 |
-| Harbinger_Worshipper | 1146 |
-| Lunar_Devotee | 1147 |
-| Harbinger_Puppet | 1148 |
-| Hailrake | 1149 |
-| Herald_of_Bameth | 1150 |
-| Cannibal_Fireeater | 1151 |
-| Shrine_Daemon | 1152 |
-| Nemesis_Daemon | 1153 |
-| Boss_Daemon | 1154 |
-| Tempest_Daemon | 1155 |
-| Trap_Daemon | 1156 |
-| Animated_Guardian | 1157 |
-| Animated_Weapon | 1158 |
-| Animated_Axe | 1159 |
-| Animated_Sword | 1160 |
-| Animated_Staff | 1161 |
-| Collector | 1162 |
-| The_Steel_Soul | 1163 |
-| Ghostly_Steel | 1164 |
-| Nightmare_Steel | 1165 |
-| Mutilators_Blade | 1166 |
-| Mutilators_Hatchet | 1167 |
-| Mutilators_Knife | 1168 |
-| Mutilators_Claw | 1169 |
-| Mutilators_Needle | 1170 |
-| Kinslayers_Sword | 1171 |
-| Kinslayers_Axe | 1172 |
-| Kinslayers_Dagger | 1173 |
-| Kinslayers_Claw | 1174 |
-| Kinslayers_Rapier | 1175 |
-| Aspect_of_Rage | 1176 |
-| Aspect_of_Fury | 1177 |
-| Aspect_of_Violence | 1178 |
-| Living_Memorial | 1179 |
-| Living_Relic | 1180 |
-| Marchaks_Eviscerator | 1181 |
-| Marchaks_Impaler | 1182 |
-| Marchaks_Annihilator | 1183 |
-| Aspect_of_Destruction | 1184 |
-| Aspect_of_Annihilation | 1185 |
-| Aspect_of_Ruination | 1186 |
-| Soulless_Watcher | 1187 |
-| Drifting_Eye | 1188 |
-| Cavern_Drifter | 1189 |
-| Sewer_Drifter | 1190 |
-| Infected_Watcher | 1191 |
-| Avatar_of_Ash | 1192 |
-| Avatar_of_Winter | 1193 |
-| Avatar_of_Silence | 1194 |
-| Avatar_of_Apocalypse | 1195 |
-| Raging_Spirit | 1196 |
-| Bloodwings_Raven | 1197 |
-| Raven | 1198 |
-| Blood_Raven | 1199 |
-| Ancestral_Spirit | 1200 |
-| Death_Raven | 1201 |
-| Creeping_Fire | 1202 |
-| Desecrated_Bonestalker | 1203 |
-| Plummeting_Ursa | 1204 |
-| Tunnelfiend | 1205 |
-| Infested_Tunnelfiend | 1206 |
-| Birthed_Ursa | 1207 |
-| Woods_Ursa | 1208 |
-| Infested_Ursa | 1209 |
-| Scourge_of_the_Wilds | 1210 |
-| Quru | 1211 |
-| It_That_Fell | 1212 |
-| Spectral_Ursa | 1213 |
-| Summoned_Ursa | 1214 |
-| Kaoms_Primacy | 1215 |
-| Kaoms_Sign | 1216 |
-| Kaoms_Heart | 1217 |
-| Kaoms_Roots | 1218 |
-| Qura | 1219 |
-| Yaraaz | 1220 |
-| Aalai | 1221 |
-| Kaj_Qura | 1222 |
-| Kaj_Yaraaz | 1223 |
-| Kaj_Aalai | 1224 |
-| Slithering_Servant | 1225 |
-| Frozen_Supplicant | 1226 |
-| Storming_Supplicant | 1227 |
-| Vaal_Unknowable | 1228 |
-| Lost_Unknowable | 1229 |
-| Vaal_Unthinkable | 1230 |
-| Lost_Unthinkable | 1231 |
-| Atziris_Devoted | 1232 |
-| Vaal_Unspeakable | 1233 |
-| Lost_Unspeakable | 1234 |
-| Vessel_of_the_Vaal | 1235 |
-| The_Chaos_Engine | 1236 |
-| Atziri_Queen_of_the_Vaal | 1237 |
-| The_Allseeing_Eye | 1238 |
-| Konu_Maker_of_Wind | 1239 |
-| Coniraya_Shadow_of_Malice | 1240 |
-| Atziris_Pride | 1241 |
-| Sheaq_Maker_of_Floods | 1242 |
-| Ossecati_Boneshaper | 1243 |
-| Kamaq_Soilmaker | 1244 |
-| Inti_of_the_Blood_Moon | 1245 |
-| Shrapnelbearer | 1246 |
-| Cava_Artist_of_Pain | 1247 |
-| Curator_Miem | 1248 |
-| Simi_the_Nature_Touched | 1249 |
-| Aspect_of_Simi | 1250 |
-| The_Sunburst_Queen | 1251 |
-| Mgaska_the_Living_Pyre | 1252 |
-| Cintiq_the_Inescapable | 1253 |
-| Thornrunner | 1254 |
-| Perquil_the_Lucky | 1255 |
-| Haviri_Vaal_Metalsmith | 1256 |
-| Kutec_Vaal_Fleshsmith | 1257 |
-| Shadow_of_Vengeance | 1258 |
-| Beheader_Ataguchu | 1259 |
-| Wiraq_the_Impaler | 1260 |
-| Chaska_Maker_of_Rain | 1261 |
-| Mother_of_the_Hive | 1262 |
-| Rima_Deep_Temptress | 1263 |
-| Torrent_of_Fear | 1264 |
-| Commander_of_Flesh | 1265 |
-| Captain_of_the_Damned | 1266 |
-| Quetzerxi | 1267 |
-| Agnerax | 1268 |
-| Agnerix | 1269 |
-| Calxipher | 1270 |
-| Evocata_Apocalyptica | 1271 |
-| Docere_Incarnatis | 1272 |
-| Corrector_Draconides | 1273 |
-| Whisperers_Attendant | 1274 |
-| Dario_the_Living_Void | 1275 |
-| Balus_Stoneskull | 1276 |
-| Kall_Foxfly | 1277 |
-| Marrowcrush | 1278 |
-| The_Cadaver_Bull | 1279 |
-| Junglemare | 1280 |
-| The_Sanguine_Wave | 1281 |
-| Blood_Stasis_ | 1282 |
-| Blood_Morpher | 1283 |
-| Graveblood | 1284 |
-| Nighteater | 1285 |
-| The_Book_Burner | 1286 |
-| The_Bolt_Juggler | 1287 |
-| Avatar_of_Pain | 1288 |
-| Rancor | 1289 |
-| Hatespitter | 1290 |
-| Bluntslag | 1291 |
-| The_Revenant | 1292 |
-| Judgement_Apparatus | 1293 |
-| Spinesnap | 1294 |
-| Genesis_Paradisae | 1295 |
-| Death_from_Above | 1296 |
-| Guardian_of_the_Mound | 1297 |
-| Wonderwalker | 1298 |
-| The_Raging_Mask | 1299 |
-| The_Teetering_Mask | 1300 |
-| The_Furious_Mask | 1301 |
-| The_Callous_Mask | 1302 |
-| The_Capricious_Mask | 1303 |
-| Alpha_Paradisae | 1304 |
-| Mother_of_the_Swarm | 1305 |
-| Deathflutter | 1306 |
-| Bladetooth | 1307 |
-| Granitecrush | 1308 |
-| Corpsestitch | 1309 |
-| The_Firestarter | 1310 |
-| Wrigglechaw | 1311 |
-| Blinkflame | 1312 |
-| The_Duchess | 1313 |
-| Shivershell | 1314 |
-| Mammothcage | 1315 |
-| Harbinger_of_Elements | 1316 |
-| Nightsight | 1317 |
-| Tailsinger | 1318 |
-| Razorleaf | 1319 |
-| Stranglecreep | 1320 |
-| Pewterfang | 1321 |
-| Bladeback_Guardian | 1322 |
-| Strangledrift | 1323 |
-| Jikeji | 1324 |
-| Ghostram | 1325 |
-| Stranglecrawl | 1326 |
-| Mirageblast | 1327 |
-| The_Walking_Waste | 1328 |
-| Glassmaul | 1329 |
-| Grath | 1330 |
-| Burtok_Conjurer_of_Bones | 1331 |
-| The_Spiritless | 1332 |
-| Droolscar | 1333 |
-| Double | 1334 |
-| Flesh_of_Bameth | 1335 |
-| Blood_of_Haast | 1336 |
-| Eye_of_Tzteosh | 1337 |
-| Hand_of_Naem | 1338 |
-| Worshipper_of_Bameth | 1339 |
-| Hound_of_Tzteosh | 1340 |
-| Servant_of_Haast | 1341 |
-| Mouth_of_Ephij | 1342 |
-| Fanatic_of_Ephij | 1343 |
-| Disciple_of_Haast | 1344 |
-| Zealot_of_Tzteosh | 1345 |
-| Tzteosh_Hungering_Flame | 1346 |
-| Ephij_Crackling_Sky | 1347 |
-| Haast_Unrelenting_Frost | 1348 |
-| Bameth_Shifting_Darkness | 1349 |
-| Naem_Bending_Stone | 1350 |
-| Abaxoth_the_End_of_All_That_Is | 1351 |
-| Blood_of_Bameth | 1352 |
-| Eye_of_Bameth | 1353 |
-| Vagans_Companion | 1354 |
-| Relic | 1355 |
-| Resplendent_Construct | 1356 |
-| Heir_of_Flame | 1357 |
-| Heir_of_Storm | 1358 |
-| Merveils_Blade | 1359 |
-| Target_Dummy | 1360 |
-| _____________________________________ | 1361 |
-| Placeholder_1 | 1362 |
-| Placeholder_2 | 1363 |
-| Placeholder_3 | 1364 |
-| Placeholder_4 | 1365 |
-| Corrupted_Horde | 1366 |
-| Corrupted_Miscreation | 1367 |
-| Corrupted_Undying_Worshipper | 1368 |
-| Corrupted_Settler | 1369 |
-| Corrupted_Brood_Nurse | 1370 |
-| Corrupted_Furyfoot_Devil | 1371 |
-| Corrupted_Fire_Thrower | 1372 |
-| Corrupted_Bone_Lord | 1373 |
-| Corrupted_Python | 1374 |
-| Corrupted_Invader | 1375 |
-| Elite_Mercenary | 1376 |
-| Mage_Mercenary | 1377 |
-| Hired_Ruffian | 1378 |
-| Hired_Thug | 1379 |
-| Captive_Agent | 1380 |
-| Charred_Totem | 1381 |
-| Glistening_Totem | 1382 |
-| Rugged_Totem | 1383 |
-| Tahi | 1384 |
-| Boka | 1385 |
-| Necribrae | 1386 |
-| Blightraise | 1387 |
-| Rua | 1388 |
-| Wha | 1389 |
-| Toru | 1390 |
-| Magma_Elemental | 1391 |
-| Ice_Elemental | 1392 |
-| Storm_Elemental | 1393 |
-| Corrupted_Crawler | 1394 |
-| Corrupted_Swarmer | 1395 |
-| Corrupted_Ashweaver | 1396 |
-| Corrupted_Iceweaver | 1397 |
-| Corrupted_Martyr | 1398 |
-| Corrupted_Larva | 1399 |
-| Scion_of_Corruption | 1400 |
-| Corrupted_Wretch | 1401 |
-| Corrupted_Bonestalker | 1402 |
-| Rotting_Corrupted | 1403 |
-| Corrupted_Hound | 1404 |
-| Corrupted_Skullbearer | 1405 |
-| Corrupted_Deadeye | 1406 |
-| Corrupted_Thug | 1407 |
-| Corrupted_Guard | 1408 |
-| Corrupted_Bonereaver | 1409 |
-| Corrupted_Fireshot | 1410 |
-| Corrupted_Gull | 1411 |
-| Corrupted_Incinerator | 1412 |
-| Corrupted_Undying | 1413 |
-| Corrupted_Tarantula | 1414 |
-| Corrupted_Spider | 1415 |
-| Corrupted_Daughter | 1416 |
-| Corrupted_Spawn | 1417 |
-| Corrupted_Experimenter | 1418 |
-| Corrupted_Blackguard | 1419 |
-| Sickly_Spinner | 1420 |
-| Infected_Spiker | 1421 |
-| Infected_Beast | 1422 |
-| Infested_Beast | 1423 |
-| Risen_Infested_Beast | 1424 |
-| Crawling_Infestation | 1425 |
-| Rabid_Broodqueen | 1426 |
-| Rabid_Minion | 1427 |
-| Crazed_Chieftain | 1428 |
-| Putrid_Chimeral | 1429 |
-| Infected_Ambusher | 1430 |
-| Mutated_Ursa | 1431 |
-| Crazed_Flamebeast | 1432 |
-| Infected_Rhoa | 1433 |
-| Rabid_Rhoa | 1434 |
-| Putrid_Weaver | 1435 |
-| Infected_Adder | 1436 |
-| Surging_Adder | 1437 |
-| Putrid_Serpent | 1438 |
-| Rabid_Maw | 1439 |
-| Fused_Crawler | 1440 |
-| Shock_Spitter | 1441 |
-| Mutated_Watcher | 1442 |
-| Mutated_Broodqueen | 1443 |
-| Mutated_Croaker | 1444 |
-| Mutated_Arachnid | 1445 |
-| Twisted_Chimeral | 1446 |
-| Mutated_Flamebeast | 1447 |
-| Mutated_Winterclaw | 1448 |
-| Mutated_Chieftain | 1449 |
-| Mutated_Rhoa | 1450 |
-| Mutated_Adder | 1451 |
-| Mutated_Maw | 1452 |
-| Rotting_Zombie | 1453 |
-| Rotting_Mummy | 1454 |
-| Bone_Bird | 1455 |
-| Rotting_Outcast | 1456 |
-| Rotting_Weaver | 1457 |
-| Charred_Skeleton | 1458 |
-| Reanimated_Skeleton | 1459 |
-| Bound_Reaver | 1460 |
-| Bound_Seeker | 1461 |
-| Test_Trap | 1462 |
-| Fire_Trap | 1463 |
-| Storm_Call_Trap | 1464 |
-| Ice_Storm_Trap | 1465 |
-| Ball_Lightning_Trap | 1466 |
-| Blast_Rain_Trap | 1467 |
-| Ethereal_Knives_Trap | 1468 |
-| Blade_Blossom | 1469 |
-| Boring | 1470 |
-| Grandmaster | 1471 |
-| Tormented_Storm_Cultist | 1472 |
-| Tormented_Blasphemer | 1473 |
-| Tormented_Necromancer | 1474 |
-| Tormented_Arsonist | 1475 |
-| Tormented_Thief | 1476 |
-| Tormented_Mutilator | 1477 |
-| Tormented_Charlatan | 1478 |
-| Tormented_Cannibal | 1479 |
-| Tormented_Alchemist | 1480 |
-| Tormented_Vaal_Cultist | 1481 |
-| Tormented_Thug | 1482 |
-| Tormented_Rogue | 1483 |
-| Tormented_Illegal_Fisherman | 1484 |
-| Tormented_Seditionist | 1485 |
-| Tormented_Cutthroat | 1486 |
-| Tormented_Spy | 1487 |
-| Tormented_Martyr | 1488 |
-| Tormented_Embezzler | 1489 |
-| Tormented_Forger | 1490 |
-| Tormented_Warlord | 1491 |
-| Tormented_Aurora_Cultist | 1492 |
-| Tormented_Smuggler | 1493 |
-| Tormented_Bootlegger | 1494 |
-| Tormented_Buccaneer | 1495 |
-| Echo_of_Shavronne | 1496 |
-| Wraith | 1497 |
-| Doedres_Suffering | 1498 |
-| Doedres_Torment | 1499 |
-| Torment_Daemon | 1500 |
-| Clone | 1501 |
-| Mirage | 1502 |
-| Pale_Blackguard | 1503 |
-| Thrall_of_Lunaris | 1504 |
-| Pale_Commander | 1505 |
-| Mindless_Scavenger | 1506 |
-| Scavenging_Vulture | 1507 |
-| Rotting_Vulture | 1508 |
-| Infested_Vulture | 1509 |
-| The_Hundred_Foot_Shadow | 1510 |
-| The_Winged_Death | 1511 |
-| Meritarus | 1512 |
-| Volls_Fallen | 1513 |
-| Eternal_Woe | 1514 |
-| Fallen_Horror | 1515 |
-| Digested_Bones | 1516 |
-| Impure_Soldier | 1517 |
-| Crystallised_Fallen | 1518 |
-| Sun_Bleached_Fallen | 1519 |
-| Bloodstained_Fallen | 1520 |
-| Dreadmore | 1521 |
-| Bloodsoaked_Fallen | 1522 |
-| Impure_Archer | 1523 |
-| Volls_Vanguard | 1524 |
-| Crystallised_Sentry | 1525 |
-| Sun_Bleached_Vanguard | 1526 |
-| Bloodstained_Vanguard | 1527 |
-| Bloodsoaked_Vanguard | 1528 |
-| Nightwane | 1529 |
-| Mirage_of_Bones | 1530 |
-| Splinter_Liege | 1531 |
-| Maelström | 1532 |
-| Muck_Vortex | 1533 |
-| Blood_Vortex | 1534 |
-| Blackwater | 1535 |
-| Legion_of_Lost_Souls | 1536 |
-| Unbound_Maelström | 1537 |
-| Whispering_Spiral | 1538 |
-| Flood_Orb | 1539 |
-| Vortex | 1540 |
-| Voll_Emperor_of_Purity | 1541 |
-| The_Brittle_Emperor | 1542 |
-| Planus_Hollow_Soul | 1543 |
-| Corrupted_Elite | 1544 |
-| Dust_Scrabbler | 1545 |
-| Spiritflicker | 1546 |
-| Ululat_MaggotBearer | 1547 |
-| LeapLeapLeap | 1548 |
-| Dirt_Scrabbler | 1549 |
-| Infested_Skitterer | 1550 |
-| Lowlands_Hopper | 1551 |
-| Sand_Skitterer | 1552 |
-| Sand_Leaper | 1553 |
-| Knitted_Horror | 1554 |
-| Timeless_Horror | 1555 |
-| Tangled_Remains | 1556 |
-| Bleached_Horror | 1557 |
-| Bonestilts | 1558 |
-| Bundle_of_Woe | 1559 |
-| Unravelling_Horror | 1560 |
-| Embers_of_the_Past | 1561 |
-| Shrieker | 1562 |
-| Voidscream | 1563 |
-| Shrieker_Eihal | 1564 |
-| Howler | 1565 |
-| Screecher | 1566 |
-| Pocked_Miner | 1567 |
-| Pocked_Mason | 1568 |
-| Pocked_Plunderer | 1569 |
-| Pikerivet | 1570 |
-| Lord_of_the_Hollows | 1571 |
-| Pocked_Lanternbearer | 1572 |
-| Pocked_Flamebringer | 1573 |
-| Pocked_Illuminator | 1574 |
-| The_Burning_Man | 1575 |
-| Messenger_of_the_Hollows | 1576 |
-| Tunneler | 1577 |
-| Crawler | 1578 |
-| Burrower | 1579 |
-| Hammerstorm | 1580 |
-| Breaker_Toruul | 1581 |
-| Pocked_Goliath | 1582 |
-| Pocked_Giant | 1583 |
-| Pocked_Behemoth | 1584 |
-| Sewer_Goliath | 1585 |
-| Large_Miner | 1586 |
-| Champion_of_the_Hollows | 1587 |
-| Chaos_Sentinel | 1588 |
-| Chaos_Guardian | 1589 |
-| Muruk_the_Awakened | 1590 |
-| Void_Anomaly | 1591 |
-| Avatar_of_Undoing | 1592 |
-| Chaos_Golem | 1593 |
-| Protective_Golem | 1594 |
-| Ebers_Colossus | 1595 |
-| Guardian_Golem | 1596 |
-| The_Dreadstone | 1597 |
-| Hyrris_Sister | 1598 |
-| Hyrris_Ambusher | 1599 |
-| Kaoms_Chosen | 1600 |
-| Laviangas_Acolyte | 1601 |
-| Tukohamas_Scout | 1602 |
-| Tukohamas_Warrior | 1603 |
-| Tukohamas_Vanguard | 1604 |
-| Fury_Hound | 1605 |
-| War_Hound | 1606 |
-| Jawchaw | 1607 |
-| Raihara_Tukohamas_Loyal | 1608 |
-| Inua_Totem | 1609 |
-| Traitorous_Totem | 1610 |
-| Flameweeper | 1611 |
-| Vakali_Totem | 1612 |
-| Torchoak_Grove | 1613 |
-| Forest_of_Flames | 1614 |
-| Sapling | 1615 |
-| Tukohamas_Rage | 1616 |
-| Seedling | 1617 |
-| Rakango | 1618 |
-| Triskeriaki | 1619 |
-| War_Rakango | 1620 |
-| The_Infernal_King | 1621 |
-| Pitbull_Demon | 1622 |
-| Vicious_Hound | 1623 |
-| Steelchaw | 1624 |
-| Gnar_Eater_of_Carrion | 1625 |
-| Pit_Butcher | 1626 |
-| Rooster_Fiend | 1627 |
-| Rooster_Demon | 1628 |
-| Talon_Archer | 1629 |
-| Eyepecker | 1630 |
-| Stonebeak_Battle_Fowl | 1631 |
-| Talon_Demon | 1632 |
-| Feral_Fowl | 1633 |
-| Barkhul | 1634 |
-| Tore_Towering_Ancient | 1635 |
-| Olof_Son_of_the_Headsman | 1636 |
-| Avatar_of_Thunder | 1637 |
-| Mad_Gladiator | 1638 |
-| Bringer_of_Blood | 1639 |
-| Fighting_Bull | 1640 |
-| Avalanche_Rider | 1641 |
-| Grazing_Taurus | 1642 |
-| Battlecharger | 1643 |
-| Crusher_of_Gladiators | 1644 |
-| Boulderback | 1645 |
-| Shredder_of_Gladiators | 1646 |
-| Daresso_King_of_Swords | 1647 |
-| Ambrius_Legion_Slayer | 1648 |
-| Echo_of_Daresso | 1649 |
-| Wandering_Eye | 1650 |
-| Wideeyed_Assemblage | 1651 |
-| Pain_Witness | 1652 |
-| Strabismal_Sentry | 1653 |
-| Static_Eye | 1654 |
-| Doedres_Sight | 1655 |
-| Eye_Hatchery | 1656 |
-| The_Mother_of_Pus | 1657 |
-| Gut_Flayer | 1658 |
-| Arranged_Anatomy | 1659 |
-| Boiled_Dead | 1660 |
-| Gut_Spiker | 1661 |
-| Noisome_Ophidian | 1662 |
-| Death_Blossom | 1663 |
-| Maligaro_The_Inquisitor | 1664 |
-| Prodigy_of_Pain | 1665 |
-| He_of_Many_Pieces | 1666 |
-| Echo_of_Maligaro | 1667 |
-| Doedre_Darktongue | 1668 |
-| Prodigy_of_Hexes | 1669 |
-| Erythrophagia | 1670 |
-| Echo_of_Doedre | 1671 |
-| Headmistress_Braeta | 1672 |
-| Shavronne_of_Umbra | 1673 |
-| Prodigy_of_Darkness | 1674 |
-| Gisale_Thought_Thief | 1675 |
-| Malachai_The_Nightmare | 1676 |
-| Eater_of_Souls | 1677 |
-| Nightmares_Omen | 1678 |
-| Icy_Manifestation | 1679 |
-| Brittle_Shard | 1680 |
-| Window_Shard | 1681 |
-| Obsidian_Golem | 1682 |
-| Fragment_of_Winter | 1683 |
-| Volatile_Ice | 1684 |
-| Brittle_Ice | 1685 |
-| Ice_Golem | 1686 |
-| Lesser_Ice_Golem | 1687 |
-| Bound_Ice | 1688 |
-| Volatile_Fire | 1689 |
-| Flame_Golem | 1690 |
-| Lesser_Flame_Golem | 1691 |
-| Volcanic_Golem | 1692 |
-| Solarborn_Golem | 1693 |
-| Meteor_Golem | 1694 |
-| Bound_Flame | 1695 |
-| Hateful_Fire | 1696 |
-| Volatile_Poison | 1697 |
-| Stormstruck_Golem | 1698 |
-| Lightning_Golem | 1699 |
-| Jiquanis_Creation | 1700 |
-| Omnitects_Guard | 1701 |
-| Energy_Aberration | 1702 |
-| Bound_Storm | 1703 |
-| Stone_of_the_Currents | 1704 |
-| Blood_Worm | 1705 |
-| Writhing_Worm | 1706 |
-| Savage_Crab | 1707 |
-| Enraptured_Crab | 1708 |
-| Infested_Crawler | 1709 |
-| Infested_Crab | 1710 |
-| Crab_Champion | 1711 |
-| Bleached_Crawler | 1712 |
-| Primordial_Creation | 1713 |
-| TESTORATOR | 1714 |
-| Herald_of_Ash | 1715 |
-| Brinerot_Raider | 1716 |
-| Brinerot_Soothsayer | 1717 |
-| Brinerot_Stormhand | 1718 |
-| Musky_TwoEyes_Grenn | 1719 |
-| Susara_Siren_of_Pondium | 1720 |
-| Lussi_Rotmother_Roth | 1721 |
-| Mutewind_Wildrunner | 1722 |
-| Mutewind_Lynx | 1723 |
-| Mutewind_Hexbinder | 1724 |
-| Mutewind_Snowsinger | 1725 |
-| Yorishi_Aurorasage | 1726 |
-| Jeinei_Yuushu | 1727 |
-| Otesha_the_Giantslayer | 1728 |
-| Redblade_Skullbreaker | 1729 |
-| Redblade_Flamelord | 1730 |
-| Redblade_Warmonger | 1731 |
-| Uruk_Baleh | 1732 |
-| ElAbin_Bloodeater | 1733 |
-| Leli_Goya_Daughter_of_Ash | 1734 |
-| Binaia_Crimson_Rain | 1735 |
-| Rama_The_Kinslayer | 1736 |
-| Kalria_The_Fallen | 1737 |
-| Kalria_The_Risen | 1738 |
-| Risen_Legionnaire | 1739 |
-| Risen_Archer | 1740 |
-| Risen_Battlemage | 1741 |
-| Invari_The_Bloodshaper | 1742 |
-| Lokan_The_Deceiver | 1743 |
-| Marchak_The_Betrayer | 1744 |
-| Berrots_The_Breaker | 1745 |
-| Vessider_The_Unrivaled | 1746 |
-| Morgrants_The_Deafening | 1747 |
-| Gemling_Legionnaire | 1748 |
-| Ironclad_Arsonist | 1749 |
-| Ironclad_Demolisher | 1750 |
-| Ironclad_Decimator | 1751 |
-| Gemling_Captain | 1752 |
-| Captain_Tanner_Lightfoot | 1753 |
-| Heart_of_the_Beast | 1754 |
-| Stygian_Revenant | 1755 |
-| Escaped_Revenant | 1756 |
-| The_Bone_Queen | 1757 |
-| Thraxia | 1758 |
-| Dimachaeri_Cassius | 1759 |
-| Mevia | 1760 |
-| Rudiarius_Felix | 1761 |
-| Mevion | 1762 |
-| Avatar_of_the_Huntress | 1763 |
-| Avatar_of_the_Skies | 1764 |
-| Avatar_of_the_Forge | 1765 |
-| Argus | 1766 |
-| Hephaeus_The_Hammer | 1767 |
-| Dancing_Dervish | 1768 |
-| Grave_Spirit | 1769 |
-| Doedres_Hatred | 1770 |
-| Stone_Golem | 1771 |
-| Animated_Stone | 1772 |
-| Hill_Shard | 1773 |
-| Hill_Fragment | 1774 |
-| Hill_Remnant | 1775 |
-| Animated_Reef | 1776 |
-| Defiled_Proclamation | 1777 |
-| Arctic_Golem | 1778 |
-| The_Eroding_One | 1779 |
-| Guardian_of_the_Vault | 1780 |
-| Pirate_Treasure | 1781 |
-| Regenerative_Golem | 1782 |
-| Fiery_Crystal | 1783 |
-| Icy_Crystal | 1784 |
-| Talisman_Daemon | 1785 |
-| Wither_Daemon | 1786 |
-| AnimatedWeapon | 1787 |
-| Endless_Pain | 1788 |
-| Endless_Hazard | 1789 |
-| Endless_Drought | 1790 |
-| Endless_Sting | 1791 |
-| Unending_Lethargy | 1792 |
-| Unending_Frost | 1793 |
-| Unending_Fire | 1794 |
-| Unending_Storm | 1795 |
-| Goddess_of_Justice | 1796 |
-| The_Goddess | 1797 |
-| Vision_of_Justice | 1798 |
-| Lieutenant_of_Rage | 1799 |
-| Lieutenant_of_the_Bow | 1800 |
-| Lieutenant_of_the_Mace | 1801 |
-| Invisible | 1802 |
-| Banner_of_Hatred | 1803 |
-| Unbound_Rhoa | 1804 |
-| Unbound_Beast | 1805 |
-| Unbound_Hellion | 1806 |
-| Unbound_Primate_Chieftain | 1807 |
-| Unbound_Primate | 1808 |
-| Unbound_Cobra | 1809 |
-| Unbound_Arachnid | 1810 |
-| Unbound_Razormaw | 1811 |
-| Unbound_Chimeral | 1812 |
-| Unbound_Retch | 1813 |
-| Unbound_Ursa | 1814 |
-| Unbound_Gazer | 1815 |
-| Rigwald_the_Wolven_King | 1816 |
-| Relentless_Rhoa | 1817 |
-| Soul_of_Summer | 1818 |
-| Soul_of_Winter | 1819 |
-| Echo_of_the_Verdant | 1820 |
-| Charging_Bull | 1821 |
-| Charged_Engineer | 1822 |
-| Frozen_Builder | 1823 |
-| Immolator | 1824 |
-| Burning_Follower | 1825 |
-| Ryslathas_Nest | 1826 |
-| Gorulis_Nest | 1827 |
-| Burning_Ember | 1828 |
-| Guardian_of_the_Goddess | 1829 |
-| Cinder_Claimant | 1830 |
-| Burnt_Claimant | 1831 |
-| Ember_Claimant | 1832 |
-| Frost_Claimant | 1833 |
-| Rime_Claimant | 1834 |
-| Thundrous_Claimant | 1835 |
-| Storm_Claimant | 1836 |
-| Bitter_Deceiver | 1837 |
-| Seething_Deceiver | 1838 |
-| Fulminating_Deceiver | 1839 |
-| Accursed_Deceiver | 1840 |
-| Maze_Webspinner | 1841 |
-| Maze_Hatchling | 1842 |
-| Ancient_Contender | 1843 |
-| Putrescent_Contender | 1844 |
-| Rotting_Claimant | 1845 |
-| Eternal_Reanimator | 1846 |
-| Rotting_Contender | 1847 |
-| Eternal_Servant | 1848 |
-| Rime_Servant | 1849 |
-| Cinder_Servant | 1850 |
-| Shadow_Lurker | 1851 |
-| Molten_Shaker | 1852 |
-| Ancient_Combatant | 1853 |
-| Maze_Crusher | 1854 |
-| Undead_Guardian | 1855 |
-| Marionette | 1856 |
-| Spectral_Artisan | 1857 |
-| Skulking_Dweller | 1858 |
-| Maze_Needleback | 1859 |
-| Maze_Slitherer | 1860 |
-| Crushing_Mass | 1861 |
-| Muck_Elemental | 1862 |
-| Poisonous_Rat | 1863 |
-| Plague_Totem | 1864 |
-| Swarming_Rat | 1865 |
-| Overgrown_Rat | 1866 |
-| Bonechomp | 1867 |
-| Blue_Frog | 1868 |
-| Common_Frog | 1869 |
-| Strange_Frog | 1870 |
-| Karui_Spirit | 1871 |
-| Font_of_Lethargy | 1872 |
-| Font_of_Fragility | 1873 |
-| Font_of_Elements | 1874 |
-| SteelImbued_Gargoyle | 1875 |
-| QuicksilverImbued_Gargoyle | 1876 |
-| GraniteImbued_Gargoyle | 1877 |
-| Chromatic_Gargoyle | 1878 |
-| Chrometouched_Gargoyle | 1879 |
-| Threshold_of_Anger | 1880 |
-| Threshold_of_Hatred | 1881 |
-| Threshold_of_Wrath | 1882 |
-| Flame_Idol | 1883 |
-| Frost_Idol | 1884 |
-| Storm_Idol | 1885 |
-| Perandus_Daemon | 1886 |
-| Junith_Perandus_Keeper_of_Vaults | 1887 |
-| Platinia_Servant_of_Prospero | 1888 |
-| Platinia | 1889 |
-| Tantalo_Perandus_Seller_of_Secrets | 1890 |
-| Auriot_Prosperos_Furnace_Guardian | 1891 |
-| Auriot | 1892 |
-| Actaeo_Perandus_Master_of_Beasts | 1893 |
-| Rhodion_Servant_of_Prospero | 1894 |
-| Rhodion | 1895 |
-| Vitorica_Perandus_Maker_of_Marvels | 1896 |
-| Osmea_Servant_of_Prospero | 1897 |
-| Stasius_Perandus_Merchant_of_Corpses | 1898 |
-| Pallias_Servant_of_Prospero | 1899 |
-| Pallias | 1900 |
-| Darsia_Perandus_Collector_of_Debts | 1901 |
-| Argient_Servant_of_Prospero | 1902 |
-| Argient | 1903 |
-| Milo_Perandus_Handler_of_Swords | 1904 |
-| Rheniot_Servant_of_Prospero | 1905 |
-| Rheniot | 1906 |
-| Celona_Vault_Sentry | 1907 |
-| Hortus_Knee_Breaker | 1908 |
-| Kuto_Hired_Muscle | 1909 |
-| Luthis_Bounty_Hunter | 1910 |
-| Belatra_Hired_Assassin | 1911 |
-| Liana_Indebted_Peasant | 1912 |
-| Marius_Indebted_Smuggler | 1913 |
-| Vera_Indebted_Aristocrat | 1914 |
-| Percia_Indebted_Poacher | 1915 |
-| Sutrus_Vault_Binder | 1916 |
-| Otairo_Vault_Binder | 1917 |
-| Eiphirio_Vault_Binder | 1918 |
-| Artensia_Vault_Binder | 1919 |
-| Anaveli_Vault_Binder | 1920 |
-| Rothus_Vault_Binder | 1921 |
-| Arinea_Vault_Binder | 1922 |
-| Meritania_Vault_Binder | 1923 |
-| Shackled_Apparition | 1924 |
-| Guard_Hound | 1925 |
-| Phantom_Outcast | 1926 |
-| Phantom_Impaler | 1927 |
-| Phantom_Untouchable | 1928 |
-| Plumed_Apparition | 1929 |
-| Croaking_Apparition | 1930 |
-| Highborn_Evangelist | 1931 |
-| Highborn_Grappler | 1932 |
-| Devoted_Archer | 1933 |
-| Devoted_Thug | 1934 |
-| Devoted_Warrior | 1935 |
-| Indebted_Wretch | 1936 |
-| Indebted_Incinerator | 1937 |
-| Spectral_Hireling | 1938 |
-| Spectral_Mercenary | 1939 |
-| Perandus_Concubine | 1940 |
-| Perandus_Servant | 1941 |
-| Izaro_Charges | 1942 |
-| Parasite | 1943 |
-| Ravenous_Parasite | 1944 |
-| Broodspawn_Parasite | 1945 |
-| Vicious_Parasite | 1946 |
-| The_Encephelophage | 1947 |
-| Poisonous_Parasite | 1948 |
-| Plated_Parasite | 1949 |
-| Spitting_Parasite | 1950 |
-| Brine_Vassal | 1951 |
-| Swarthy_Mollusc | 1952 |
-| Eber_the_Plaguemaw | 1953 |
-| Inya_the_Unbearable_Whispers | 1954 |
-| Yriel_the_Feral_Lord | 1955 |
-| Volkuur_the_Unbreathing_Queen | 1956 |
-| Echo_of_the_Vaal | 1957 |
-| Remembered_Construct | 1958 |
-| Vaal_Memory | 1959 |
-| Prophecy_Daemon | 1960 |
-| Rania_Skyborne | 1961 |
-| Lora_the_Contender | 1962 |
-| Terese_Napora | 1963 |
-| Ancient_Hero | 1964 |
-| Ancient_Dead | 1965 |
-| Malachais_Laureate | 1966 |
-| Purge_Hound | 1967 |
-| Lola_the_Fierce | 1968 |
-| Rocco_the_Bloodthirsty | 1969 |
-| Volatile_Tome | 1970 |
-| Whispering_Tome | 1971 |
-| Wicker_Man | 1972 |
-| Avarius_Reassembled | 1973 |
-| Guardian_of_the_Phoenix | 1974 |
-| Phoenix | 1975 |
-| Guardian_of_the_Hydra | 1976 |
-| Guardians_Reflection | 1977 |
-| Guardian_of_the_Minotaur | 1978 |
-| Guardian_of_the_Chimera | 1979 |
-| Twisted_Effigy | 1980 |
-| Carius_the_Unnatural | 1981 |
-| Exartze_the_Woven_Stone | 1982 |
-| Slave_Driver | 1983 |
-| Crazed_Driver | 1984 |
-| Overseer_Krow | 1985 |
-| Arwyn_the_Houndmaster | 1986 |
-| Temple_Justicar | 1987 |
-| Twisted_Justicar | 1988 |
-| Depraved_Justicar | 1989 |
-| Justicar_Casticus | 1990 |
-| Executioner_Bloodwing | 1991 |
-| Blackguard_Stalker | 1992 |
-| Warped_Regurgitator | 1993 |
-| Slave_Catcher | 1994 |
-| Deranged_Slaver | 1995 |
-| Depraved_Slaver | 1996 |
-| Fleshmonster | 1997 |
-| Titan_Totem | 1998 |
-| Guardians_Goatman | 1999 |
-| Avatar_of_the_Goat | 2000 |
-| Guardians_Hellion | 2001 |
-| Avatar_of_the_Hellion | 2002 |
-| Guardians_Snake | 2003 |
-| Avatar_of_the_Snake | 2004 |
-| Anomaly | 2005 |
-| Volatile_Anomaly | 2006 |
-| Volatile_Core | 2007 |
-| WIP | 2008 |
-| Energy_Locus | 2009 |
-| Essence_Spirit | 2010 |
-| Shaped_Kaoms_Chosen | 2011 |
-| Shaped_Hyrris_Sister | 2012 |
-| Shaped_Rooster_Demon | 2013 |
-| Shaped_Pitbull_Demon | 2014 |
-| Shaped_Undying_Worker | 2015 |
-| Shaped_Undying_Archivist | 2016 |
-| Shaped_Undying_Grappler | 2017 |
-| Shaped_Vaal_Recluse | 2018 |
-| Shaped_Noxious_Tarantula | 2019 |
-| Shaped_Deadly_Tarantula | 2020 |
-| Shaped_Callow_Thug | 2021 |
-| Shaped_Shadow_Stalker | 2022 |
-| Shaped_Highwayman | 2023 |
-| Flame_Mother | 2024 |
-| The_Matriarch | 2025 |
-| Pileah_Corpse_Burner | 2026 |
-| The_Risen_Matriarch | 2027 |
-| Pileah_Burning_Corpse | 2028 |
-| The_Rotten_Matriarch | 2029 |
-| Kiln_Mother | 2030 |
-| Blessed_Sister | 2031 |
-| Sanguine_Sister | 2032 |
-| Temple_Ward | 2033 |
-| Temple_Guardian | 2034 |
-| Heretical_Ward | 2035 |
-| Heretical_Guardian | 2036 |
-| Xophs_Loyal | 2037 |
-| Displaced_Loyal | 2038 |
-| Xophs_Favoured | 2039 |
-| Chayulas_Perfected | 2040 |
-| They_of_Tul | 2041 |
-| Scale_of_Esh | 2042 |
-| Displaced_Scale | 2043 |
-| UulNetols_Trophy | 2044 |
-| UulNetols_Pet | 2045 |
-| It_That_Watches | 2046 |
-| It_of_Tul | 2047 |
-| It_That_Waits | 2048 |
-| It_That_Is_Displaced | 2049 |
-| It_That_Whispers | 2050 |
-| Chayulas_Ideal | 2051 |
-| It_That_Reaches | 2052 |
-| Xoph_Dark_Embers | 2053 |
-| Tul_Creeping_Avalanche | 2054 |
-| Esh_Forked_Thought | 2055 |
-| UulNetol_Unburdened_Flesh | 2056 |
-| Chayula_Who_Dreamt | 2057 |
-| High_Templar_Avarius | 2058 |
-| Konley_the_Unrepentant | 2059 |
-| Woad_Mockery_of_Man | 2060 |
-| Innocence_GodEmperor_of_Eternity | 2061 |
-| The_Cleansing_Light | 2062 |
-| Guardian_of_Eternity | 2063 |
-| Corrupted_Guardian_of_Eternity | 2064 |
-| Reassembled_Brutus | 2065 |
-| Bazur | 2066 |
-| Shavronne_the_Returned | 2067 |
-| Liantra | 2068 |
-| Tome_of_Thunder | 2069 |
-| Tsoagoth_The_Brine_King | 2070 |
-| Nassar_Lion_of_the_Seas | 2071 |
-| Brinespawn | 2072 |
-| Sulphurspawn | 2073 |
-| Vendigo | 2074 |
-| The_White_Death | 2075 |
-| Blackguard_Jaeger | 2076 |
-| Risen_Jaeger | 2077 |
-| Kitavas_Herald | 2078 |
-| Plaguewing | 2079 |
-| The_Grey_Plague | 2080 |
-| Rattling_Condemned | 2081 |
-| Sandworn_Slaves | 2082 |
-| Doedre_the_Vile | 2083 |
-| Portentia_the_Foul | 2084 |
-| Noble_Dead | 2085 |
-| Rhys_of_Abram | 2086 |
-| Experimented_Dead | 2087 |
-| Indoctrinated_Slave | 2088 |
-| Deformed_Slave | 2089 |
-| Truth_Extractor | 2090 |
-| Defiled_Extractor | 2091 |
-| Corrupted_Extractor | 2092 |
-| Seafloor_Maiden | 2093 |
-| Maiden_of_the_Black_Crest | 2094 |
-| Dreadwheel | 2095 |
-| Fleetfreak | 2096 |
-| Handmaiden | 2097 |
-| Stonefist | 2098 |
-| Prayer_Guard | 2099 |
-| Solar_Elemental | 2100 |
-| Solar_Guard | 2101 |
-| Spider_Minion | 2102 |
-| Temple_Adjudicator | 2103 |
-| Heretical_Adjudicator | 2104 |
-| Oriath_Enforcer | 2105 |
-| Enthralled_Enforcer | 2106 |
-| Depraved_Enforcer | 2107 |
-| Lunaris_Eternal_Moon | 2108 |
-| Selenia_the_Endless_Night | 2109 |
-| Dusk_Harbinger_of_Lunaris | 2110 |
-| Sebbert_Crescents_Point | 2111 |
-| Arteth_Selenias_Herald | 2112 |
-| Roaming_Gloom | 2113 |
-| Solaris_Eternal_Sun | 2114 |
-| Helial_the_Day_Unending | 2115 |
-| Dawn_Harbinger_of_Solaris | 2116 |
-| Jorus_Skys_Edge | 2117 |
-| Opid_Helials_Herald | 2118 |
-| Roaming_Embers | 2119 |
-| Maligaro_the_Artist | 2120 |
-| Visceris | 2121 |
-| Black_Death_Pain_Unending | 2122 |
-| Akaveesh | 2123 |
-| Fidelitas_Loyalty_Undying | 2124 |
-| Muneh | 2125 |
-| Plagued_Arachnid | 2126 |
-| Diseased_Arachnid | 2127 |
-| Maligaros_Muse | 2128 |
-| Arakaalis_Acolyte | 2129 |
-| Arakaalis_Creation | 2130 |
-| Hybrid_Arachnid | 2131 |
-| Scalding_Arachnid | 2132 |
-| Unholy_Aberration | 2133 |
-| Greust_Lord_of_the_Forest | 2134 |
-| Drek_Apex_Hunter | 2135 |
-| Greusts_Archer | 2136 |
-| Greusts_Bandit | 2137 |
-| Oaks_Archer | 2138 |
-| Oaks_Bandit | 2139 |
-| Aliras_Archer | 2140 |
-| Aliras_Bandit | 2141 |
-| Kraityns_Archer | 2142 |
-| Kraityns_Bandit | 2143 |
-| Arakaali_Spinner_of_Shadows | 2144 |
-| Armala_the_Widow | 2145 |
-| Kitava_the_Insatiable | 2146 |
-| Lord_of_the_Grey | 2147 |
-| Kitava_The_Destroyer | 2148 |
-| Kitavas_Heart | 2149 |
-| The_Lords_Heart | 2150 |
-| The_Destroyers_Heart | 2151 |
-| Utula_Stone_and_Steel | 2152 |
-| Calderus | 2153 |
-| Xuatl_Cutting_Wind | 2154 |
-| Daluatti_Stoneraiser | 2155 |
-| Anacuacotli_Deaths_Worship | 2156 |
-| Huitepa_the_Blind | 2157 |
-| Guraq_Daylights_Blade | 2158 |
-| Harbinger_of_Disorder | 2159 |
-| Tukohama_Karui_God_of_War | 2160 |
-| Tahsin_Warmaker | 2161 |
-| Tukohamas_Suffering | 2162 |
-| Tahsins_Suffering | 2163 |
-| Tukohamas_Servant | 2164 |
-| Tukohamas_Protection | 2165 |
-| Tukohamas_Frenzy | 2166 |
-| Soul_of_Prophecy | 2167 |
-| Soul_of_Breach | 2168 |
-| Soul_of_Essence | 2169 |
-| Soul_of_Perandus | 2170 |
-| Soul_of_Anarchy | 2171 |
-| Soul_of_Talisman | 2172 |
-| Soul_of_Tempest | 2173 |
-| Soul_of_Rampage | 2174 |
-| Soul_of_Beyond | 2175 |
-| Soul_of_Onslaught | 2176 |
-| Soul_of_Ambush | 2177 |
-| Soul_of_Bloodlines | 2178 |
-| Soul_of_Nemesis | 2179 |
-| Soul_of_Torment | 2180 |
-| Soul_of_Domination | 2181 |
-| Soul_of_Invasion | 2182 |
-| Soul_of_Warbands | 2183 |
-| __hbgm01__ | 2184 |
-| __HRB1__ | 2185 |
-| __HRB2__ | 2186 |
-| __HRB3__ | 2187 |
-| __HRB4__ | 2188 |
-| __HRB5__ | 2189 |
-| __HRB6__ | 2190 |
-| __HRB7__ | 2191 |
-| __HRB8__ | 2192 |
-| __HRB9__ | 2193 |
-| __HRB10__ | 2194 |
-| __HRB11__ | 2195 |
-| __HRB12__ | 2196 |
-| __HRB13__ | 2197 |
-| __HRB14__ | 2198 |
-| __HRB15__ | 2199 |
-| __HRB16__ | 2200 |
-| __HRB17__ | 2201 |
-| __HRB18__ | 2202 |
-| __HRB19__ | 2203 |
-| __HRB20__ | 2204 |
-| __HRB21__ | 2205 |
-| __HRB22__ | 2206 |
-| __HRB23__ | 2207 |
-| __HRB24__ | 2208 |
-| __HRB25__ | 2209 |
-| __HRB26__ | 2210 |
-| __HRB27__ | 2211 |
-| __HRB28__ | 2212 |
-| TEST | 2213 |
-| __HRB30__ | 2214 |
-| __HRB29__ | 2215 |
-| Chest | 2216 |
-| Karui_Rebel | 2217 |
-| The_Dishonoured_Queen | 2218 |
-| Forgotten_Warrior | 2219 |
-| Frightened_Citizen | 2220 |
-| Kitava_Zealot | 2221 |
-| Feast_Attendant | 2222 |
-| Abstract_of_Judgement | 2223 |
-| Spectral_Soldier | 2224 |
-| Spectral_Officer | 2225 |
-| Spectral_Legionnaire | 2226 |
-| Spectral_Tactician | 2227 |
-| Ondar_the_Betrayer | 2228 |
-| Lightborne_Apostle | 2229 |
-| Lightborne_Elite | 2230 |
-| Lightborne_Faithful | 2231 |
-| Brinecrack | 2232 |
-| Waste_Lurcher | 2233 |
-| Abberath_the_Cloven_One | 2234 |
-| Mephod_the_Earth_Scorcher | 2235 |
-| Wailing_Widow | 2236 |
-| Shrieking_Witch | 2237 |
-| The_Sanguine_Siren | 2238 |
-| Iorphia_Dream_Eater | 2239 |
-| Vengeful_Soul | 2240 |
-| Desperate_Soul | 2241 |
-| Gruthkul_Mother_of_Despair | 2242 |
-| Erebix_Lights_Bane | 2243 |
-| Restless_Pauper | 2244 |
-| Yugul_Reflection_of_Terror | 2245 |
-| Varhesh_Shimmering_Aberration | 2246 |
-| Reflection_of_Yugul | 2247 |
-| Reflection_of_Varhesh | 2248 |
-| Silver_Orb | 2249 |
-| Silver_Pool | 2250 |
-| Egg_Sac | 2251 |
-| Arakaalis_Gift | 2252 |
-| Ryslathas_Brood_Egg | 2253 |
-| Bulbous_Growth | 2254 |
-| Yeena_Aspect_of_the_Fox | 2255 |
-| Bone_Husk | 2256 |
-| Hector_Titucius_Eternal_Servant | 2257 |
-| The_Forgotten_Soldier | 2258 |
-| Wild_Rhex | 2259 |
-| Maternal_Rhex | 2260 |
-| Adolescent_Rhex | 2261 |
-| Escaped_Rhex | 2262 |
-| Garukhan_Queen_of_the_Winds | 2263 |
-| Stalker_of_the_Endless_Dunes | 2264 |
-| Kira_Servant_of_Garukhan | 2265 |
-| The_Vulture_Queen | 2266 |
-| Preethi_EyePecker | 2267 |
-| Sand_Warrior | 2268 |
-| Sand_Goliath | 2269 |
-| Mummified_Maraketh | 2270 |
-| Black_Scorpion | 2271 |
-| Sulphuric_Scorpion | 2272 |
-| Sand_Scorpion | 2273 |
-| Tamulus | 2274 |
-| Predatory_Scorpion | 2275 |
-| Tamipin | 2276 |
-| The_Basilisk | 2277 |
-| The_Gorgon | 2278 |
-| Imperial_Legionaire | 2279 |
-| Imperial_Archer | 2280 |
-| Imperial_Vanguard | 2281 |
-| Doedre_Darksoul | 2282 |
-| Doedre_the_Defiler | 2283 |
-| Shavronne_Unbound | 2284 |
-| Shavronne_the_Sickening | 2285 |
-| Maligaro_The_Broken | 2286 |
-| Maligaro_the_Mutilator | 2287 |
-| The_Depraved_Trinity | 2288 |
-| Amalgam_of_Nightmares | 2289 |
-| Bone_Stalker | 2290 |
-| General_Adus | 2291 |
-| Pesquin_the_Mad_Baron | 2292 |
-| Refinery_Construct | 2293 |
-| Shavronnes_Vision | 2294 |
-| Void_Construct | 2295 |
-| Accursed_Monolith | 2296 |
-| Doedres_Monolith | 2297 |
-| Mountain_Lynx | 2298 |
-| Lightning_Orb | 2299 |
-| Tentacle_Fiend | 2300 |
-| Rhexback_Raider | 2301 |
-| Rhexback_Spearman | 2302 |
-| ____ | 2303 |
-| Harbingers_Panthera | 2304 |
-| Trio_Daemon | 2305 |
-| Doedre_Daemon | 2306 |
-| Shakari_Queen_of_the_Sands | 2307 |
-| Terror_of_the_Infinite_Drifts | 2308 |
-| Reliquarian | 2309 |
-| The_Grand_Antiquarian | 2310 |
-| Cauldron | 2311 |
-| Droolmaw | 2312 |
-| Primeval_Watcher | 2313 |
-| Risen_Watcher | 2314 |
-| Primeval_Hunter | 2315 |
-| Risen_Hunter | 2316 |
-| Corpse_Thief | 2317 |
-| Risen_Thief | 2318 |
-| Lightless_Terror | 2319 |
-| Wellwing | 2320 |
-| Deep_Stalker | 2321 |
-| Risen_Stalker | 2322 |
-| Thresher | 2323 |
-| Risen_Thresher | 2324 |
-| Pit_Maw | 2325 |
-| Risen_Maw | 2326 |
-| Lightless_Nightmare | 2327 |
-| Wellwing_Matriarch | 2328 |
-| Ulaman_Sovereign_of_the_Well | 2329 |
-| Amanamu_Liege_of_the_Lightless | 2330 |
-| Kurgal_the_Blackblooded | 2331 |
-| The_Enslaver | 2332 |
-| The_Eradicator | 2333 |
-| The_Constrictor | 2334 |
-| The_Purifier | 2335 |
-| The_Elder | 2336 |
-| Doedres_Effigy | 2337 |
-| Coconut_Crab | 2338 |
-| Bleached_Coconut_Crab | 2339 |
-| Graceful_Kelp_Crab | 2340 |
-| Bleached_Kelp_Crab | 2341 |
-| Nimble_Spray_Crab | 2342 |
-| Bleached_Spray_Crab | 2343 |
-| Spider_Crab | 2344 |
-| Bleached_Spider_Crab | 2345 |
-| Stygian_Spire | 2346 |
-| Stygian_Heart | 2347 |
-| Pitworm | 2348 |
-| Lightless_Grub | 2349 |
-| Well_Creeper | 2350 |
-| Null_Portal | 2351 |
-| Eldritch_Spawn | 2352 |
-| Madness_Propagator | 2353 |
-| Formless_Witness | 2354 |
-| Strange_Rabbit | 2355 |
-| Saqawine_Rhoa_Spirit | 2356 |
-| Saqawine_Rhex | 2357 |
-| Young_Saqawine_Rhex | 2358 |
-| Hungry_Saqawine_Rhex | 2359 |
-| Saqawal_First_of_the_Sky | 2360 |
-| Saqawine_Rhoa | 2361 |
-| Adolescent_Saqawine_Rhoa | 2362 |
-| Aggressive_Saqawine_Rhoa | 2363 |
-| Saqawine_Vulture | 2364 |
-| Hungry_Saqawine_Vulture | 2365 |
-| Young_Saqawine_Vulture | 2366 |
-| Saqawine_Retch | 2367 |
-| Saqawine_Retch_Scavenger | 2368 |
-| Saqawine_Retch_Flockmate | 2369 |
-| Saqawine_Retch_Spirit | 2370 |
-| Saqawine_Cobra | 2371 |
-| Saqawine_Slitherer | 2372 |
-| Saqawine_Asp | 2373 |
-| Saqawine_Cobra_Spirit | 2374 |
-| Saqawine_Blood_Viper | 2375 |
-| Saqawine_Adder | 2376 |
-| Saqawine_Flamescale | 2377 |
-| Saqawine_Chimeral | 2378 |
-| Saqawine_Plumespitter | 2379 |
-| Saqawine_Stonescale | 2380 |
-| Saqawine_Chimeral_Spirit | 2381 |
-| Farric_Flame_Hellion_Alpha | 2382 |
-| Farric_Ember_Hellion | 2383 |
-| Farric_Frost_Hellion_Alpha | 2384 |
-| Farric_Flame_Hellion | 2385 |
-| Farric_Flamespitting_Hellion | 2386 |
-| Farric_Frost_Hellion | 2387 |
-| Farric_Frostspewing_Hellion | 2388 |
-| Farric_Lynx_Alpha | 2389 |
-| Farric_Lynx | 2390 |
-| Farric_Shredder | 2391 |
-| Farruls_Pack | 2392 |
-| Farric_Tiger_Alpha | 2393 |
-| Farric_Tiger | 2394 |
-| Farric_Pouncer | 2395 |
-| Farrul_First_of_the_Plains | 2396 |
-| Farric_Wolf_Alpha | 2397 |
-| Farric_Wolf | 2398 |
-| Farric_Howler | 2399 |
-| Craiceann_First_of_the_Deep | 2400 |
-| Fenumal_Queen | 2401 |
-| Fenumal_Mother | 2402 |
-| Fenumal_Strider | 2403 |
-| Fenumal_Scrabbler | 2404 |
-| Fenumal_Drone | 2405 |
-| Fenumal_Leaper | 2406 |
-| Fenumal_Pouncer | 2407 |
-| Fenumal_Devourer | 2408 |
-| Fenumal_Burrower | 2409 |
-| Fenumal_Eartheater | 2410 |
-| Fenumus_Devoted | 2411 |
-| Fenumal_Ambusher | 2412 |
-| Fenumal_Scorpion | 2413 |
-| Fenumal_Stinger | 2414 |
-| Fenumal_Sandwhipper | 2415 |
-| Fenumal_Striker | 2416 |
-| Fenumal_Plagued_Arachnid | 2417 |
-| Fenumal_Plaguecrawler | 2418 |
-| Fenumal_Pus_Arachnid | 2419 |
-| Fenumal_Virulent_Arachnid | 2420 |
-| Fenumal_Hybrid_Arachnid | 2421 |
-| Fenumal_Monstrosity | 2422 |
-| Fenumal_Abomination | 2423 |
-| Fenumus_First_of_the_Night | 2424 |
-| Fenumal_Widow | 2425 |
-| Fenumal_Webweaver | 2426 |
-| Fenumal_Spinner | 2427 |
-| Farric_Goliath | 2428 |
-| Farric_Reaver | 2429 |
-| Farric_Spikeback | 2430 |
-| Farric_Thornback | 2431 |
-| Farric_Taurus | 2432 |
-| Farric_Bull | 2433 |
-| Farric_Charger | 2434 |
-| Farric_Chieftain | 2435 |
-| Farric_Brute | 2436 |
-| Farric_Follower | 2437 |
-| Farric_Ape | 2438 |
-| Farric_Simian | 2439 |
-| Farric_Monkey | 2440 |
-| Farric_Goatman | 2441 |
-| Farric_Devil | 2442 |
-| Farric_Satyr | 2443 |
-| Farric_Bleeter | 2444 |
-| Farric_Magma_Hound | 2445 |
-| Farric_Cerberon | 2446 |
-| Farric_Ember_Hound | 2447 |
-| Farric_Pit_Hound | 2448 |
-| Farric_Attack_Hound | 2449 |
-| Farric_Dismemberer | 2450 |
-| Farric_Hound_Alpha | 2451 |
-| Farric_Tracker | 2452 |
-| Farric_Packhound | 2453 |
-| Farric_Gargantuan | 2454 |
-| Farric_Lumberer | 2455 |
-| Farric_Beast | 2456 |
-| Farric_Ursa | 2457 |
-| Farric_Fury | 2458 |
-| Farric_Fleshrender | 2459 |
-| Craicic_Sand_Spitter | 2460 |
-| Craicic_Graveleater | 2461 |
-| Craicic_Rockchewer | 2462 |
-| Craicic_Shield_Crab | 2463 |
-| Craicic_Shelter_Crab | 2464 |
-| Craicic_Crustacean | 2465 |
-| Craicic_Savage_Crab | 2466 |
-| Craicic_Sandstrider | 2467 |
-| Craicic_Spiked_Crab | 2468 |
-| Craicic_Spider_Crab | 2469 |
-| Craicic_Strider_Crab | 2470 |
-| Craicic_Stilted_Crab | 2471 |
-| Craicic_Maw | 2472 |
-| Craicic_Stomper | 2473 |
-| Craicic_Horror | 2474 |
-| Craicic_Chimeral | 2475 |
-| Craicic_Hunter | 2476 |
-| Craicic_Predator | 2477 |
-| Craicic_Vassal | 2478 |
-| Craicic_Bodythief | 2479 |
-| Craicic_Inkskin | 2480 |
-| Craicic_Squid | 2481 |
-| Craicic_Cephalis | 2482 |
-| Craicic_Swarmer | 2483 |
-| Craicic_Watcher | 2484 |
-| Craicic_Strangler | 2485 |
-| Craicic_Drifter | 2486 |
-| Void_Sphere | 2487 |
-| Farruls_Devoted | 2488 |
-| Bestial_Spirit | 2489 |
-| Craicic_Sandspitter | 2490 |
-| Craicic_Reaver | 2491 |
-| Test_Subject | 2492 |
-| Alva_Cazar_Treasure_Hunter | 2493 |
-| Grizzled_Bear | 2494 |
-| The_Vaal_Omnitect | 2495 |
-| Vaal_Saucer_Turret | 2496 |
-| Vaal_Zealot | 2497 |
-| Vaal_Fanatic | 2498 |
-| Vaal_Advocate | 2499 |
-| Risen_Vaal_Zealot | 2500 |
-| Risen_Vaal_Fanatic | 2501 |
-| Risen_Vaal_Advocate | 2502 |
-| Tacati_Architect_of_Toxins | 2503 |
-| Ahuana_Architect_of_Ceremonies | 2504 |
-| Topotante_Architect_of_Storms | 2505 |
-| Matatl_Architect_of_Fortifications | 2506 |
-| Uromoti_Architect_of_Expansion | 2507 |
-| Xipocado_Royal_Architect | 2508 |
-| Juatalotli_Architect_of_the_Hoard | 2509 |
-| Paquate_Architect_of_Corruption | 2510 |
-| Hayoxi_Architect_of_Destruction | 2511 |
-| Atmohua_Architect_of_Iron | 2512 |
-| Ticaba_Architect_of_the_Arena | 2513 |
-| Cholotl_Architect_of_the_War | 2514 |
-| Zilquapa_Architect_of_the_Breach | 2515 |
-| Zalatl_Architect_of_Thaumaturgy | 2516 |
-| Estazunti_Architect_of_the_Vault | 2517 |
-| Azcapa_Architect_of_the_Guild | 2518 |
-| Jiquani_Architect_of_Industry | 2519 |
-| Quipolatl_Architect_of_the_Nexus | 2520 |
-| Guatelitzi_Architect_of_Flesh | 2521 |
-| Citaqualotl_Architect_of_the_Swarm | 2522 |
-| Puhuarte_Architect_of_the_Forge | 2523 |
-| Xopec_Architect_of_Power | 2524 |
-| Tzamoto_Architect_of_Torments | 2525 |
-| Zantipi_Architect_of_Concealment | 2526 |
-| Opiloti_Architect_of_Stone | 2527 |
-| Vaal_Manifestation | 2528 |
-| Returned_Voidwalker | 2529 |
-| Enhanced_Vaal_Fallen | 2530 |
-| Blood_Priest | 2531 |
-| Soulseeker | 2532 |
-| Shadow_Priest | 2533 |
-| Shadestalker | 2534 |
-| Bloodback_Hatchling | 2535 |
-| Augmented_Hatchling | 2536 |
-| Barrel | 2537 |
-| Basket | 2538 |
-| Bone_Pile | 2539 |
-| Boulder | 2540 |
-| Cairn | 2541 |
-| Bone_Chest | 2542 |
-| Copper_Chest | 2543 |
-| Large_Chest | 2544 |
-| Crate | 2545 |
-| Golden_Chest | 2546 |
-| Silver_Chest | 2547 |
-| Tribal_Chest | 2548 |
-| Sarcophagus | 2549 |
-| Egg | 2550 |
-| Pot | 2551 |
-| Urn | 2552 |
-| Trunk | 2553 |
-| Bundle | 2554 |
-| Sealed_Remains | 2555 |
-| Gold_Pot | 2556 |
-| Cocoon | 2557 |
-| Rotted_Cocoon | 2558 |
-| Decayed_Cocoon | 2559 |
-| Putrid_Cocoon | 2560 |
-| Silver_Pot | 2561 |
-| Corpse | 2562 |
-| Rhoa_Nest | 2563 |
-| Slave_Girl | 2564 |
-| Strange_Device | 2565 |
-| Altar | 2566 |
-| Plum | 2567 |
-| Ornate_Chest | 2568 |
-| Stash | 2569 |
-| Blackguard_Chest | 2570 |
-| Supply_Container | 2571 |
-| Book_Stand | 2572 |
-| Experimental_Supplies | 2573 |
-| Tomb_of_the_First_Templar | 2574 |
-| Karui_Relic_Case | 2575 |
-| Solaris_Throne | 2576 |
-| Storage_Chest | 2577 |
-| Flag_Chest | 2578 |
-| Container_of_Sins | 2579 |
-| Dirty_Lockbox | 2580 |
-| Kisharas_Lockbox | 2581 |
-| Firefly | 2582 |
-| Sealed_Casket | 2583 |
-| Tomb_of_Hector_Titucius | 2584 |
-| Theurgic_Precipitate_Machine | 2585 |
-| Sealed_Chest | 2586 |
-| Pearl_Case | 2587 |
-| Weapon_Rack | 2588 |
-| Armour_Rack | 2589 |
-| Scribes_Rack | 2590 |
-| Crucified_Corpse | 2591 |
-| Bound_Corpse | 2592 |
-| Impaled_Corpse | 2593 |
-| Booty_Chest | 2594 |
-| Pirate_Lords_Treasure | 2595 |
-| Treasure_Pile | 2596 |
-| Lost_Maraketh_Treasure | 2597 |
-| Warmongers_Stash | 2598 |
-| Shipwrecked_Treasure | 2599 |
-| Sculptors_Tools | 2600 |
-| Arcanists_Strongbox | 2601 |
-| Grandmasters_Cache | 2602 |
-| Armourers_Strongbox | 2603 |
-| Blacksmiths_Strongbox | 2604 |
-| Artisans_Strongbox | 2605 |
-| Cartographers_Strongbox | 2606 |
-| Chemists_Strongbox | 2607 |
-| Gemcutters_Strongbox | 2608 |
-| Jewellers_Strongbox | 2609 |
-| Large_Strongbox | 2610 |
-| Ornate_Strongbox | 2611 |
-| Strongbox | 2612 |
-| Diviners_Strongbox | 2613 |
-| Vaal_Vessel | 2614 |
-| Decorative_Chest | 2615 |
-| Locked_Chest | 2616 |
-| Perandus_Chest | 2617 |
-| Temple_Stash | 2618 |
-| Perandus_Cache | 2619 |
-| Perandus_Hoard | 2620 |
-| Perandus_Coffer | 2621 |
-| Perandus_Jewellery_Box | 2622 |
-| Perandus_Safe | 2623 |
-| Perandus_Treasury | 2624 |
-| Perandus_Wardrobe | 2625 |
-| Perandus_Catalogue | 2626 |
-| Perandus_Trove | 2627 |
-| Perandus_Locker | 2628 |
-| Perandus_Archive | 2629 |
-| Perandus_Tackle_Box | 2630 |
-| Cadiros_Locker | 2631 |
-| Cadiros_Treasury | 2632 |
-| Cadiros_Archive | 2633 |
-| Cadiros_Jewellery_Box | 2634 |
-| Cadiros_Catalogue | 2635 |
-| Grand_Perandus_Vault | 2636 |
-| Hidden_Coffer | 2637 |
-| Supply_Cache | 2638 |
-| Labyrinth_Trove | 2639 |
-| Ascendants_Treasures | 2640 |
-| Emperors_Gifts | 2641 |
-| Battle_Supplies | 2642 |
-| War_Spoils | 2643 |
-| Warmongers_Cache | 2644 |
-| Guard_Supplies | 2645 |
-| Guard_Vault | 2646 |
-| Guard_Treasury | 2647 |
-| Emperors_Trove | 2648 |
-| Emperors_Vault | 2649 |
-| Emperors_Treasury | 2650 |
-| Emperors_Charts | 2651 |
-| Curious_Lockbox | 2652 |
-| Intricate_Locker | 2653 |
-| Izaros_Treasure | 2654 |
-| Fortune_Tellers_Chest | 2655 |
-| Clasped_Hand | 2656 |
-| Xophs_Clasped_Hand | 2657 |
-| Tuls_Clasped_Hand | 2658 |
-| Eshs_Clasped_Hand | 2659 |
-| UulNetols_Clasped_Hand | 2660 |
-| Chayulas_Clasped_Hand | 2661 |
-| Relic_Vault | 2662 |
-| Hoard | 2663 |
-| Abyssal_Trove | 2664 |
-| Vase | 2665 |
-| XXX | 2666 |
-| Amphora | 2667 |
-| Supplies | 2668 |
-| Cache | 2669 |
-| Trove | 2670 |
-| War_Chest | 2671 |
-| Ancient_Hoard | 2672 |
-| Stockpile | 2673 |
-| Receptacle | 2674 |
-| Anomalous_Objects | 2675 |
-| Pulsating_Growth | 2676 |
-| Portentous_Trunk | 2677 |
-| Regal_Coffer | 2678 |
-| Shimmering_Vault | 2679 |
-| Sealed_Trunk | 2680 |
-| Ancient_Excavation | 2681 |
-| Augurs_Wares | 2682 |
-| Stolen_Remnants | 2683 |
-| Judicial_Offerings | 2684 |
-| Ritualist_Regalia | 2685 |
-| Heirloom_Vessel | 2686 |
-| Ancient_Cache | 2687 |
-| Dusty_Charts | 2688 |
-| Ceremonial_Adornments | 2689 |
-| Thaumaturgy_Vessel | 2690 |
-| War_Regalia | 2691 |
-| Ancient_Armaments | 2692 |
-| War_Vault | 2693 |
-| Glittering_Trove | 2694 |
-| Stone_Coffer | 2695 |
-| Pools_Coffer | 2696 |
-| Grove_Vessel | 2697 |
-| Fortified_Casket | 2698 |
-| Storm_Coffer | 2699 |
-| Thunder_Coffer | 2700 |
-| Fireproof_Chest | 2701 |
-| Experimental_Chest | 2702 |
-| Flashpowder_Cache | 2703 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | Unknown | 0 |  |
+|  | Tarkleigh | 1 |  |
+|  | Nessa | 2 |  |
+|  | Bestel | 3 |  |
+|  | Doorman | 4 |  |
+|  | Captain_Fairgraves | 5 |  |
+|  | Dying_Exile | 6 |  |
+|  | Brutus_the_Warden | 7 |  |
+|  | Merveil | 8 |  |
+|  | Eramir | 9 |  |
+|  | Yeena | 10 |  |
+|  | Greust | 11 |  |
+|  | Silk | 12 |  |
+|  | Alira | 13 |  |
+|  | Kraityn | 14 |  |
+|  | Oak | 15 |  |
+|  | Hargan | 16 |  |
+|  | Lady_Dialla | 17 |  |
+|  | Maramoa | 18 |  |
+|  | Grigor | 19 |  |
+|  | Clarissa | 20 |  |
+|  | Shavronnes_Journal | 21 |  |
+|  | Helena | 22 |  |
+|  | Siosa | 23 |  |
+|  | Piety | 24 |  |
+|  | Gravicius | 25 |  |
+|  | Dominus | 26 |  |
+|  | King_Kaom | 27 |  |
+|  | Maligaro_the_Inquisitor | 28 |  |
+|  | Shavronne | 29 |  |
+|  | Malachai | 30 |  |
+|  | Daresso | 31 |  |
+|  | Oba | 32 |  |
+|  | Arteris_Letter | 33 |  |
+|  | Letters_of_Exile | 34 |  |
+|  | Weathered_Carving | 35 |  |
+|  | Ancient_Graffiti | 36 |  |
+|  | Ancient_Notebook | 37 |  |
+|  | Sailors_Skin | 38 |  |
+|  | Damp_Diary | 39 |  |
+|  | Scion | 40 |  |
+|  | Reverie_Device | 41 |  |
+|  | Ancient_Reverie_Device | 42 |  |
+|  | Transmutia_Device | 43 |  |
+|  | The_Purity_Chronicles | 44 |  |
+|  | Victarios_Writings | 45 |  |
+|  | The_Ancients | 46 |  |
+|  | Plaque | 47 |  |
+|  | Etchings_on_Wood_IV | 48 |  |
+|  | Etchings_on_Wood_III | 49 |  |
+|  | Etchings_on_Wood_I | 50 |  |
+|  | Etchings_on_Wood_II | 51 |  |
+|  | Note | 52 |  |
+|  | Proclamation | 53 |  |
+|  | Chest_1 | 54 |  |
+|  | Chest_2 | 55 |  |
+|  | Lioneyes_Standard | 56 |  |
+|  | Resonator_Instructions | 57 |  |
+|  | Volls_Confession | 58 |  |
+|  | Malachais_Notebook | 59 |  |
+|  | Malachais_Dedication | 60 |  |
+|  | Kira | 61 |  |
+|  | Oyun | 62 |  |
+|  | Petarus_and_Vanja | 63 |  |
+|  | Dialla | 64 |  |
+|  | Tasuni | 65 |  |
+|  | Tora_Master_of_the_Hunt | 66 |  |
+|  | Catarina_Master_of_the_Dead | 67 |  |
+|  | Haku_Armourmaster | 68 |  |
+|  | Vorici_Master_Assassin | 69 |  |
+|  | Vagan_Weaponmaster | 70 |  |
+|  | Elreon_Loremaster | 71 |  |
+|  | Zana_Master_Cartographer | 72 |  |
+|  | Leo_Master_of_the_Arena | 73 |  |
+|  | Krillson_Master_Fisherman | 74 |  |
+|  | Bronze_Monograph | 75 |  |
+|  | Bronze_Plaque | 76 |  |
+|  | Bronze_Inscription | 77 |  |
+|  | Izaro | 78 |  |
+|  | Poem | 79 |  |
+|  | Letter_of_Instruction | 80 |  |
+|  | Official_Orders | 81 |  |
+|  | Journal_Entry | 82 |  |
+|  | Malachais_Journal | 83 |  |
+|  | Letter_to_Chitus | 84 |  |
+|  | Rigwald | 85 |  |
+|  | Inscription | 86 |  |
+|  | Cadiro_Perandus | 87 |  |
+|  | Navali | 88 |  |
+|  | Dark_Tome | 89 |  |
+|  | The_Cursed_King | 90 |  |
+|  | Lycius_Midnights_Howl | 91 |  |
+|  | Balek_Dawn | 92 |  |
+|  | Einhar_Frey | 93 |  |
+|  | The_Shaper | 94 |  |
+|  | Lani | 95 |  |
+|  | Vilenta | 96 |  |
+|  | Utula | 97 |  |
+|  | Bannon | 98 |  |
+|  | Sin | 99 |  |
+|  | Lilly_Roth | 100 |  |
+|  | Weylam_Roth | 101 |  |
+|  | Yama_the_White | 102 |  |
+|  | Tukohama | 103 |  |
+|  | Vaal_Letter | 104 |  |
+|  | Tolman | 105 |  |
+|  | Avarius | 106 |  |
+|  | Innocence | 107 |  |
+|  | Ode_to_Ralakesh | 108 |  |
+|  | Love_Letter | 109 |  |
+|  | Maligaros_Manifesto | 110 |  |
+|  | Shrine_to_Arakaali | 111 |  |
+|  | Kitavas_Hunger_I | 112 |  |
+|  | Kitavas_Hunger_II | 113 |  |
+|  | Kitavas_Hunger_III | 114 |  |
+|  | Order_of_Protection | 115 |  |
+|  | Shavronnes_Manifesto | 116 |  |
+|  | Primitive_Carving | 117 |  |
+|  | Worn_Carving | 118 |  |
+|  | Karui_Carving | 119 |  |
+|  | Message_in_a_Bottle | 120 |  |
+|  | Leatherbound_Logbook | 121 |  |
+|  | Letter_Fragment | 122 |  |
+|  | Templar_Report | 123 |  |
+|  | Shrine_to_the_Brine_King | 124 |  |
+|  | Doedres_Manifesto | 125 |  |
+|  | Solaris_Statue | 126 |  |
+|  | Lunaris_Statue | 127 |  |
+|  | Research_Journal | 128 |  |
+|  | Triumph_of_Innocence | 129 |  |
+|  | Stained_Glass_Window | 130 |  |
+|  | Irasha | 131 |  |
+|  | Cultist_Tract | 132 |  |
+|  | Book_of_Memories | 133 |  |
+|  | Memory_Fragment | 134 |  |
+|  | Alva_Valai | 135 |  |
+|  | Calaf_Headstaver | 136 |  |
+|  | Merciless_Killer | 137 |  |
+|  | Callow_Sniper | 138 |  |
+|  | Kraityns_Scout | 139 |  |
+|  | Kraityns_Sentry | 140 |  |
+|  | Kraityns_Sniper | 141 |  |
+|  | Aliras_Deadeye | 142 |  |
+|  | Shadow_Archer | 143 |  |
+|  | Targa_Beast_Poacher | 144 |  |
+|  | Aliras_Blood_Hand | 145 |  |
+|  | Kraityns_Stalwart | 146 |  |
+|  | Guard_Stalwart | 147 |  |
+|  | Oaks_Fist | 148 |  |
+|  | Oaks_Guardian | 149 |  |
+|  | Treacherous_Deserter | 150 |  |
+|  | Guard_Archer | 151 |  |
+|  | Kraityns_High_Guard | 152 |  |
+|  | Aliras_Souleye | 153 |  |
+|  | Alira_Darktongue | 154 |  |
+|  | Kraityn_Scarbearer | 155 |  |
+|  | Oak_Skullbreaker | 156 |  |
+|  | Aliras_Martyr | 157 |  |
+|  | Crazed_Martyr | 158 |  |
+|  | Martyrs_Devoted | 159 |  |
+|  | Doedres_Fanatic | 160 |  |
+|  | Aliras_Blood_Guard | 161 |  |
+|  | Callow_Thug | 162 |  |
+|  | Shadow_Stalker | 163 |  |
+|  | Heartless_Deserter | 164 |  |
+|  | Kraityns_Thrall | 165 |  |
+|  | Highwayman | 166 |  |
+|  | ElderBlessed_Highwayman | 167 |  |
+|  | Kraityns_Aspirant | 168 |  |
+|  | Oaks_Devoted | 169 |  |
+|  | Oaks_Brute | 170 |  |
+|  | ElderBlessed_Brute | 171 |  |
+|  | Ryslathas_Devoted | 172 |  |
+|  | Ryslathas_Brute | 173 |  |
+|  | Devoted_Bandit | 174 |  |
+|  | Enterprising_Bandit | 175 |  |
+|  | Lasar_the_Ambitious | 176 |  |
+|  | Sumter_the_Twisted | 177 |  |
+|  | Flarus | 178 |  |
+|  | Frosis | 179 |  |
+|  | Wolfpack_Ranger | 180 |  |
+|  | Wolfpack_Guard | 181 |  |
+|  | Stag_Acolyte | 182 |  |
+|  | Greusts_Horn | 183 |  |
+|  | ElderBlessed_Acolyte | 184 |  |
+|  | Fallen_Azmeri | 185 |  |
+|  | Bear_Acolyte | 186 |  |
+|  | Greusts_Claw | 187 |  |
+|  | Boar_Acolyte | 188 |  |
+|  | Greusts_Tusk | 189 |  |
+|  | ALIRA_SPECTATOR | 190 |  |
+|  | OAK_SPECTATOR | 191 |  |
+|  | KRAITYN_SPECTATOR | 192 |  |
+|  | The_Animal_Pack | 193 |  |
+|  | Rotting_Stalwart | 194 |  |
+|  | Cave_Beast | 195 |  |
+|  | Enraptured_Beast | 196 |  |
+|  | Primal_Beast | 197 |  |
+|  | The_Alpha_Beast | 198 |  |
+|  | The_Great_White_Beast | 199 |  |
+|  | The_Great_White_Bones | 200 |  |
+|  | Primordius | 201 |  |
+|  | Kartarus | 202 |  |
+|  | Pallid_Vision | 203 |  |
+|  | Bone_Cruncher | 204 |  |
+|  | Hairy_Bonecruncher | 205 |  |
+|  | Shaggy_Monstrosity | 206 |  |
+|  | Thicket_Hulk | 207 |  |
+|  | Skeletal_Beast | 208 |  |
+|  | Corrupted_Beast | 209 |  |
+|  | Doomed_Hibernator | 210 |  |
+|  | Tyrannursus_Maximus | 211 |  |
+|  | Armour_Cruncher | 212 |  |
+|  | Forest_Beast | 213 |  |
+|  | Brutus_Lord_Incarcerator | 214 |  |
+|  | Fidelitas_the_Mourning | 215 |  |
+|  | Kruug_the_Frayed | 216 |  |
+|  | Vaal_Oversoul | 217 |  |
+|  | Jikshah | 218 |  |
+|  | Merveil_the_Siren | 219 |  |
+|  | Merveil_the_Twisted | 220 |  |
+|  | Spectral_Corsair | 221 |  |
+|  | Spectral_Scoundrel | 222 |  |
+|  | Ashen_Buccaneer | 223 |  |
+|  | Forgotten_Buccaneer | 224 |  |
+|  | Spectral_Swashbuckler | 225 |  |
+|  | Cursed_Mariner | 226 |  |
+|  | Spectral_Bowman | 227 |  |
+|  | Phantom_Occultist | 228 |  |
+|  | Grave_Corsair | 229 |  |
+|  | Soulless_Mariner | 230 |  |
+|  | Deathless_Buccaneer | 231 |  |
+|  | Revenant_Purser_ | 232 |  |
+|  | Charging_Corsair | 233 |  |
+|  | First_Mate_Crastus | 234 |  |
+|  | Telvar_the_Inebriated | 235 |  |
+|  | Spectral_Mage | 236 |  |
+|  | Spectral_Buccaneer | 237 |  |
+|  | Spectral_Captain | 238 |  |
+|  | Spectral_Ordnance | 239 |  |
+|  | Daemon | 240 |  |
+|  | Fairgraves_Corsair | 241 |  |
+|  | Savvy_Mariner | 242 |  |
+|  | Deadly_Buccaneer | 243 |  |
+|  | Lost_Corsair | 244 |  |
+|  | Borboss_the_Bruiser | 245 |  |
+|  | Lost_Mariner | 246 |  |
+|  | Lost_Buccaneer | 247 |  |
+|  | Fairgraves_Purser | 248 |  |
+|  | Goatman | 249 |  |
+|  | ElderBlessed_Goatman | 250 |  |
+|  | Goatman_Stomper | 251 |  |
+|  | Abberaths_Elite | 252 |  |
+|  | Mephods_Elite | 253 |  |
+|  | Bearded_Devil | 254 |  |
+|  | Alpine_Devil | 255 |  |
+|  | Gavuum_Goldhoof | 256 |  |
+|  | Venmur_the_Bloodgrin | 257 |  |
+|  | Mortumus_the_Second | 258 |  |
+|  | Mortumus_the_Third | 259 |  |
+|  | Gururu_the_Growler | 260 |  |
+|  | Kulgul_Mortalbane | 261 |  |
+|  | Shivrul_Goatqueen | 262 |  |
+|  | Mortumus_the_Other_One | 263 |  |
+|  | Rektar_the_Breaker | 264 |  |
+|  | The_Faun | 265 |  |
+|  | Goatman_Shaman | 266 |  |
+|  | Goatman_Fireraiser | 267 |  |
+|  | Bearded_Shaman | 268 |  |
+|  | Bearded_Skycaller | 269 |  |
+|  | Alpine_Shaman | 270 |  |
+|  | Hill_Devil | 271 |  |
+|  | Colossus_Crusher | 272 |  |
+|  | Ungulath | 273 |  |
+|  | Ancient_Construct | 274 |  |
+|  | Ancient_Sentry_Apparatus | 275 |  |
+|  | Fragment_Boss | 276 |  |
+|  | Cairn_Annihilator | 277 |  |
+|  | Vaal_Construct | 278 |  |
+|  | Vaal_Soul | 279 |  |
+|  | Archaic_Construct | 280 |  |
+|  | Flame_Hellion | 281 |  |
+|  | Dune_Hellion | 282 |  |
+|  | Highland_Hellion | 283 |  |
+|  | Demonic_Hellion | 284 |  |
+|  | Wolf | 285 |  |
+|  | Arctic_Wolf | 286 |  |
+|  | Snow_Wolf | 287 |  |
+|  | Freezing_Wolf | 288 |  |
+|  | Wolf_of_the_First_Ones | 289 |  |
+|  | Dire_Wolf | 290 |  |
+|  | Winterfang | 291 |  |
+|  | Storm_Eye | 292 |  |
+|  | Solus_Pack_Alpha | 293 |  |
+|  | Spectral_Wolf_Companion | 294 |  |
+|  | Enthralled_Dire_Wolf | 295 |  |
+|  | The_Burning_Menace | 296 |  |
+|  | Menacing_Vision | 297 |  |
+|  | Hellion | 298 |  |
+|  | ElderBlessed_Hellion | 299 |  |
+|  | Ruins_Hellion | 300 |  |
+|  | Mountain_Hellion | 301 |  |
+|  | Mountain_Hellion_Alpha | 302 |  |
+|  | Enslaved_Hellion | 303 |  |
+|  | Brood_Pup | 304 |  |
+|  | Enraptured_Hellion | 305 |  |
+|  | Shackled_Hellion | 306 |  |
+|  | Blood_Ape | 307 |  |
+|  | Dread_Primate | 308 |  |
+|  | Stygian_Ape | 309 |  |
+|  | Nadia_the_Soothing | 310 |  |
+|  | Aidan_the_Frenzied | 311 |  |
+|  | Shadow_Ape | 312 |  |
+|  | Infested_Ape | 313 |  |
+|  | Blood_Chieftain | 314 |  |
+|  | Carnage_Chieftain | 315 |  |
+|  | Stygian_Silverback | 316 |  |
+|  | Aboriginal_Chieftain | 317 |  |
+|  | Prime_Ape | 318 |  |
+|  | Host_Chieftain | 319 |  |
+|  | Hollowskull_the_Willing_Host | 320 |  |
+|  | Carnage_Ape | 321 |  |
+|  | Barrow_Ape | 322 |  |
+|  | Primitive_Ape | 323 |  |
+|  | Ruined_Titan | 324 |  |
+|  | Stalag_Nightmare | 325 |  |
+|  | Rumbling_Mass | 326 |  |
+|  | Hulking_Titan | 327 |  |
+|  | Gneiss | 328 |  |
+|  | ROCK_OUT | 329 |  |
+|  | Churning_Titan | 330 |  |
+|  | King_Rollem | 331 |  |
+|  | Fiery_Rollem | 332 |  |
+|  | Icey_Rollem | 333 |  |
+|  | Chaotic_Rollem | 334 |  |
+|  | Erosive_Rubble | 335 |  |
+|  | Frozen_Titan | 336 |  |
+|  | Mountain_Fragment | 337 |  |
+|  | Fiery_Rubble | 338 |  |
+|  | Panicked_Rubble | 339 |  |
+|  | Rubble_Golem | 340 |  |
+|  | Necromancer | 341 |  |
+|  | Kadavrus_the_Defiler | 342 |  |
+|  | Sawbones | 343 |  |
+|  | Sin_Master | 344 |  |
+|  | Defiler | 345 |  |
+|  | Diabolist | 346 |  |
+|  | Sin_Lord | 347 |  |
+|  | Thunder_Whisperer | 348 |  |
+|  | Fated_Necromancer | 349 |  |
+|  | Doedres_Animator | 350 |  |
+|  | The_Bone_Sculptor | 351 |  |
+|  | Bringer_of_Souls | 352 |  |
+|  | Rhoa_Scavenger | 353 |  |
+|  | ElderBlessed_Rhoa | 354 |  |
+|  | Adolescent_Rhoa | 355 |  |
+|  | Primordial_Rhoa | 356 |  |
+|  | The_First_Rhoa | 357 |  |
+|  | Albino_Rhoa | 358 |  |
+|  | Great_Rhoa | 359 |  |
+|  | Murk_Runner | 360 |  |
+|  | Charmed_Charger | 361 |  |
+|  | Summoned_Rhoa | 362 |  |
+|  | Oozeback_Bloom | 363 |  |
+|  | Pestilent_Vision | 364 |  |
+|  | Bone_Rhoa | 365 |  |
+|  | Corrupted_Rhoa | 366 |  |
+|  | Bone_Scavenger | 367 |  |
+|  | Zombie_Rhoa | 368 |  |
+|  | Ventarus | 369 |  |
+|  | Infested_Rhoa | 370 |  |
+|  | Gravel_Eater | 371 |  |
+|  | Fossil_Eater | 372 |  |
+|  | Colossal_Spitter | 373 |  |
+|  | Sand_Spitter | 374 |  |
+|  | Scrabbling_Spitter | 375 |  |
+|  | Granite_Eater | 376 |  |
+|  | Rock_Spitter | 377 |  |
+|  | Crustacean_Sniper | 378 |  |
+|  | Crustacean_Pelter | 379 |  |
+|  | Infested_Sniper | 380 |  |
+|  | Obsidian_Eater | 381 |  |
+|  | The_Deep_Dweller | 382 |  |
+|  | Charmed_Spitter | 383 |  |
+|  | Merveils_Favoured | 384 |  |
+|  | Ambrosia_Daughter_of_Merveil | 385 |  |
+|  | Amarissa_Daughter_of_Merveil | 386 |  |
+|  | Merveils_Daughter | 387 |  |
+|  | Merveils_Attendant | 388 |  |
+|  | Merveils_Chosen | 389 |  |
+|  | Merveils_Retainer | 390 |  |
+|  | Brood_Princess | 391 |  |
+|  | Brood_Child | 392 |  |
+|  | Singing_Siren | 393 |  |
+|  | Merveils_Blessed | 394 |  |
+|  | Fated_Siren | 395 |  |
+|  | Scrabbling_Menace | 396 |  |
+|  | Cave_Crustacean | 397 |  |
+|  | Invading_Crustacean | 398 |  |
+|  | Infested_Crustacean | 399 |  |
+|  | Deep_Crustacean | 400 |  |
+|  | Shield_Crab | 401 |  |
+|  | Bleached_Crustacean | 402 |  |
+|  | Brittle_Mage | 403 |  |
+|  | Archbishop_Geofri_the_Abashed | 404 |  |
+|  | Fairgraves_Never_Dying | 405 |  |
+|  | Chatters | 406 |  |
+|  | Ironpoint_the_Forsaken | 407 |  |
+|  | Fated_Archer | 408 |  |
+|  | Ancient_Archer | 409 |  |
+|  | Timeless_Hunter | 410 |  |
+|  | Brittle_Lookout | 411 |  |
+|  | Brittle_Bornagain | 412 |  |
+|  | Brittle_Poacher | 413 |  |
+|  | Sandy_Lookout | 414 |  |
+|  | Burning_Bowman | 415 |  |
+|  | Weathered_Watchman | 416 |  |
+|  | Vault_Hunter | 417 |  |
+|  | Brittle_Archer | 418 |  |
+|  | Sin_Archer | 419 |  |
+|  | Thunder_Thrall | 420 |  |
+|  | Plagued_Bowman | 421 |  |
+|  | Brittle_Bleeder | 422 |  |
+|  | Disbanded_Dead | 423 |  |
+|  | Vexing_Archer | 424 |  |
+|  | Bonewarped_Archer | 425 |  |
+|  | Bloodstained_Archer | 426 |  |
+|  | Azmeri_Ancestor | 427 |  |
+|  | Bone_Archer | 428 |  |
+|  | Axiom_Frostguard | 429 |  |
+|  | Frost_Archmage | 430 |  |
+|  | Frost_Bishop | 431 |  |
+|  | Frost_Priest | 432 |  |
+|  | Frost_Keeper | 433 |  |
+|  | Frost_Preacher | 434 |  |
+|  | Frost_Rattler | 435 |  |
+|  | Frost_Harbinger | 436 |  |
+|  | Malachais_Enlightened | 437 |  |
+|  | Gleaming_Saint | 438 |  |
+|  | Desecrated_Saint | 439 |  |
+|  | Brittle_Arsonist | 440 |  |
+|  | Flame_Archmage | 441 |  |
+|  | Flame_Bishop | 442 |  |
+|  | Smouldering_Embermage | 443 |  |
+|  | Flame_Priest | 444 |  |
+|  | Flame_Harbinger | 445 |  |
+|  | Smouldering_Infernomage | 446 |  |
+|  | Flame_Rattler | 447 |  |
+|  | Flame_Preacher | 448 |  |
+|  | Axiom_Thunderguard | 449 |  |
+|  | Servant_of_Rukuku | 450 |  |
+|  | Thunder_Archmage | 451 |  |
+|  | Thunder_Bishop | 452 |  |
+|  | Thunder_Harbinger | 453 |  |
+|  | Thunder_Priest | 454 |  |
+|  | Thunder_Keeper | 455 |  |
+|  | Thunder_Preacher | 456 |  |
+|  | Thunder_Champion | 457 |  |
+|  | Thunder_Rattler | 458 |  |
+|  | Sparking_Mage | 459 |  |
+|  | Ancient_Bonestalker | 460 |  |
+|  | Brittle_Cleric | 461 |  |
+|  | Brittle_Thief | 462 |  |
+|  | Rattling_Bones | 463 |  |
+|  | Vault_Guardian | 464 |  |
+|  | Timeless_Wanderer | 465 |  |
+|  | Sandworn_Watchman | 466 |  |
+|  | Ash_Harvester | 467 |  |
+|  | Angered_Remains | 468 |  |
+|  | Risen_Saint | 469 |  |
+|  | Sandy_Guardian | 470 |  |
+|  | Ancient_Worker | 471 |  |
+|  | Brittle_Gladiator | 472 |  |
+|  | Risen_Gladiator | 473 |  |
+|  | Brittle_Bandit | 474 |  |
+|  | Brittle_Farmer | 475 |  |
+|  | Smouldering_Farmer | 476 |  |
+|  | Nightmarish_Farmer | 477 |  |
+|  | Bonewarped_Warrior | 478 |  |
+|  | Bloodstained_Warrior | 479 |  |
+|  | Ancient_Convict | 480 |  |
+|  | Colossal_Bonestalker | 481 |  |
+|  | Awoken_Giant | 482 |  |
+|  | Frost_Guardian | 483 |  |
+|  | Frost_Champion | 484 |  |
+|  | Frost_Relicguard | 485 |  |
+|  | Volkuurs_Frostguard | 486 |  |
+|  | Flame_Guardian | 487 |  |
+|  | Flame_Champion | 488 |  |
+|  | Flame_Relicguard | 489 |  |
+|  | Volkuurs_Flameguard | 490 |  |
+|  | Fairgraves_Crewman | 491 |  |
+|  | Lost_Crewman | 492 |  |
+|  | Pirate_Lords_Crewman | 493 |  |
+|  | Bone_Warden | 494 |  |
+|  | Sparking_Bones | 495 |  |
+|  | Thunder_Guardian | 496 |  |
+|  | Thunder_Relicguard | 497 |  |
+|  | Volkuurs_Stormguard | 498 |  |
+|  | Shavronnes_Admirer | 499 |  |
+|  | Vaal_Fallen | 500 |  |
+|  | Colossal_Vaal_Fallen | 501 |  |
+|  | Vaal_Gargantuan | 502 |  |
+|  | Blightblade | 503 |  |
+|  | Vaal_Frost_Guardian | 504 |  |
+|  | Vaal_Flame_Guardian | 505 |  |
+|  | Vaal_Bone_Warden | 506 |  |
+|  | Vaal_Slayer | 507 |  |
+|  | Vaal_Arsonist | 508 |  |
+|  | Vaal_Frostguard | 509 |  |
+|  | Vaal_Thunderguard | 510 |  |
+|  | Bravalo | 511 |  |
+|  | Skeleton_Engineer | 512 |  |
+|  | Undead_Engineer | 513 |  |
+|  | Cinder_Bones | 514 |  |
+|  | Icy_Bones | 515 |  |
+|  | Crackling_Bones | 516 |  |
+|  | Brittle_Flametosser | 517 |  |
+|  | Brittle_Chillcaller | 518 |  |
+|  | Brittle_Stormtouched | 519 |  |
+|  | Scarecrow | 520 |  |
+|  | Crow_Keeper | 521 |  |
+|  | Effigy_of_Fear | 522 |  |
+|  | Slitherskin | 523 |  |
+|  | Brush_Viper | 524 |  |
+|  | Night_Adder | 525 |  |
+|  | Host_Adder | 526 |  |
+|  | Serpentine_Construct | 527 |  |
+|  | Spine_Construct | 528 |  |
+|  | Wiraqucha_Ancient_Guardian | 529 |  |
+|  | Bramble_Cobra | 530 |  |
+|  | ElderBlessed_Cobra | 531 |  |
+|  | Host_Cobra | 532 |  |
+|  | Seleslatha | 533 |  |
+|  | Acid_Slitherer | 534 |  |
+|  | Crypt_Stalker | 535 |  |
+|  | Glade_Mamba | 536 |  |
+|  | Charmed_Cobra | 537 |  |
+|  | Summoned_Cobra | 538 |  |
+|  | Cursed_Spawn | 539 |  |
+|  | Fathom_Screamer | 540 |  |
+|  | Flesh_Eater | 541 |  |
+|  | Sirens_Spawn | 542 |  |
+|  | Slimy_Bloodsucker | 543 |  |
+|  | Foreseen_Spawn | 544 |  |
+|  | DrTestopus | 545 |  |
+|  | EleReflectopus | 546 |  |
+|  | PhysReflectopus | 547 |  |
+|  | Spawn_Boss | 548 |  |
+|  | Unstable_Larva | 549 |  |
+|  | Brood_Larva | 550 |  |
+|  | Slimy_Nemesis | 551 |  |
+|  | Venomous_Spawn | 552 |  |
+|  | Broodling | 553 |  |
+|  | Black_Death | 554 |  |
+|  | Deathly_Vision | 555 |  |
+|  | The_Weaver | 556 |  |
+|  | Balah_Duke | 557 |  |
+|  | Great_Webmother | 558 |  |
+|  | Lurking_Venom | 559 |  |
+|  | Nesting_Spider | 560 |  |
+|  | Nesting_Venom | 561 |  |
+|  | Vaal_Recluse | 562 |  |
+|  | Noxious_Tarantula | 563 |  |
+|  | Deadly_Tarantula | 564 |  |
+|  | Leaping_Spider | 565 |  |
+|  | Arakaalis_Daughter | 566 |  |
+|  | Webbed_Spider | 567 |  |
+|  | Virulent_Spider | 568 |  |
+|  | Ink_Spinner | 569 |  |
+|  | Cave_Arach | 570 |  |
+|  | Corrupted_Arach | 571 |  |
+|  | Crypt_Spinner | 572 |  |
+|  | Crypt_Weaver | 573 |  |
+|  | Mutant_Arach | 574 |  |
+|  | Crypt_Ambusher | 575 |  |
+|  | Corrupted_Spitter | 576 |  |
+|  | Cave_Skitterer | 577 |  |
+|  | Spindle_Spider | 578 |  |
+|  | Hatchling | 579 |  |
+|  | Adolescent_Arachnid | 580 |  |
+|  | Mature_Arachnid | 581 |  |
+|  | Davnalleous | 582 |  |
+|  | Brooding_Tarantula | 583 |  |
+|  | Buried_Tarantula | 584 |  |
+|  | Maligaros_Inspiration | 585 |  |
+|  | Enraptured_Arachnid | 586 |  |
+|  | Essence_Tarantula | 587 |  |
+|  | Widows_Hatchling | 588 |  |
+|  | Widows_Skitterer | 589 |  |
+|  | Soulmourn | 590 |  |
+|  | Suncaller_Asha | 591 |  |
+|  | Talin_Faithbreaker | 592 |  |
+|  | Petrification_Statue | 593 |  |
+|  | Kuduku_the_False_God | 594 |  |
+|  | Rukuku_the_Pagan_God | 595 |  |
+|  | Kadaka_the_Goddess_of_Luck | 596 |  |
+|  | Grinning_Totem | 597 |  |
+|  | Vaal_Totem | 598 |  |
+|  | Carnage_Pillar | 599 |  |
+|  | Charging_Totem | 600 |  |
+|  | Fuming_Totem | 601 |  |
+|  | Billowing_Totem | 602 |  |
+|  | Humming_Totem | 603 |  |
+|  | Whispering_Totem | 604 |  |
+|  | Puruna_the_Challenger | 605 |  |
+|  | Poporo_the_Highest_Spire | 606 |  |
+|  | Crystal_Ice_Spires | 607 |  |
+|  | RENAME_ME | 608 |  |
+|  | Totem | 609 |  |
+|  | Seething_Brine | 610 |  |
+|  | Stranglecharm | 611 |  |
+|  | Captain_Pollution | 612 |  |
+|  | Crashing_Brine | 613 |  |
+|  | Tide_Strider | 614 |  |
+|  | Flood_Strider | 615 |  |
+|  | Boiling_Ambusher | 616 |  |
+|  | Boiling_Strider | 617 |  |
+|  | Sand_Strider | 618 |  |
+|  | Bubbling_Gold | 619 |  |
+|  | Clearwater_Strider | 620 |  |
+|  | Bubbling_Wave | 621 |  |
+|  | Crashing_Wave | 622 |  |
+|  | Riptide | 623 |  |
+|  | Brine_Princess | 624 |  |
+|  | Sulphuric_Strider | 625 |  |
+|  | Burning_Essence | 626 |  |
+|  | Freezing_Essence | 627 |  |
+|  | Crackling_Essence | 628 |  |
+|  | Hungry_Corpse | 629 |  |
+|  | Hillock | 630 |  |
+|  | Jaesyn | 631 |  |
+|  | placeholder_boss | 632 |  |
+|  | Plague_Retch | 633 |  |
+|  | Aliras_Dearest | 634 |  |
+|  | Cauldron_Zombie | 635 |  |
+|  | Avatar_of_Rot | 636 |  |
+|  | Towering_Aberration | 637 |  |
+|  | Lingering_Aberration | 638 |  |
+|  | Volatile_Awakened | 639 |  |
+|  | Drowned | 640 |  |
+|  | Unthinking | 641 |  |
+|  | Unstable_Drowned | 642 |  |
+|  | Drowned_Champion | 643 |  |
+|  | Dripping_Dead | 644 |  |
+|  | Unstable_Aberration | 645 |  |
+|  | Tolman_the_Exhumer | 646 |  |
+|  | Sleepy_Dead | 647 |  |
+|  | Awakened | 648 |  |
+|  | Darktongue_Thrall | 649 |  |
+|  | Darktongue_Servant | 650 |  |
+|  | Darktongue_Slave | 651 |  |
+|  | Darktongue_Risen | 652 |  |
+|  | Pale_Husk | 653 |  |
+|  | Shambling_Cadaver | 654 |  |
+|  | Devout_Dead | 655 |  |
+|  | Sewage_Cadaver | 656 |  |
+|  | Doedres_Loyal | 657 |  |
+|  | Sutured_Aberration | 658 |  |
+|  | Rotting_Damned | 659 |  |
+|  | Withered_Husk | 660 |  |
+|  | Fetid_Shambler | 661 |  |
+|  | Oozing_Dead | 662 |  |
+|  | Wrapped_Nobleman | 663 |  |
+|  | Dessicated_Maraketh | 664 |  |
+|  | Rotten_Gladiator | 665 |  |
+|  | Rotten_Veteran_Gladiator | 666 |  |
+|  | Child_of_Lunaris | 667 |  |
+|  | Captain_Aurelianus | 668 |  |
+|  | Fleshrend_Grand_Inquisitor | 669 |  |
+|  | Blackguard_Mage | 670 |  |
+|  | Blackguard_Arcmage | 671 |  |
+|  | ElderBlessed_Arcmage | 672 |  |
+|  | Solarsworn_Infernomage | 673 |  |
+|  | Lunarsworn_Wintermage | 674 |  |
+|  | Solarsworn_Archmage | 675 |  |
+|  | Lunarsworn_Archmage | 676 |  |
+|  | Compulsor_Octavia_Sparkfist | 677 |  |
+|  | Oriaths_Virtue | 678 |  |
+|  | Blackguard_Firemage | 679 |  |
+|  | Blackguard_Stormmage | 680 |  |
+|  | Blackguard_Chaplain | 681 |  |
+|  | Blackguard_Scout_Commander | 682 |  |
+|  | Blackguard_Elite | 683 |  |
+|  | Solaris_Elite | 684 |  |
+|  | Lunaris_Elite | 685 |  |
+|  | Solaris_Champion | 686 |  |
+|  | Lunaris_Champion | 687 |  |
+|  | Draconarius_Wilhelm_Flamebrand | 688 |  |
+|  | Imperator_Stantinus_Bitterblade_ | 689 |  |
+|  | Oriaths_Vengeance | 690 |  |
+|  | Oriaths_Vigil | 691 |  |
+|  | Gravicius_Elite_Guard | 692 |  |
+|  | Praetorian_Guard | 693 |  |
+|  | Mortality_Experimenter | 694 |  |
+|  | Reanimator | 695 |  |
+|  | Flesh_Sculptor | 696 |  |
+|  | Blackguard_Scout | 697 |  |
+|  | ElderBlessed_Scout | 698 |  |
+|  | Blackguard_Soldier | 699 |  |
+|  | Lunar_Scout | 700 |  |
+|  | Solar_Scout | 701 |  |
+|  | General_Gravicius | 702 |  |
+|  | Regulus_Suns_Herald | 703 |  |
+|  | Aloris_the_First_Light | 704 |  |
+|  | Nightbringer_Lucius | 705 |  |
+|  | Nebria_the_Last_Light | 706 |  |
+|  | Guard | 707 |  |
+|  | Guard_Captain | 708 |  |
+|  | Captain_Arteri | 709 |  |
+|  | Piety_the_Abomination | 710 |  |
+|  | Nightmare_Manifest | 711 |  |
+|  | Blackguard_of_Hatred | 712 |  |
+|  | Blackguard_of_Wrath | 713 |  |
+|  | Blackguard_Spectre | 714 |  |
+|  | Blackguard_Enforcer | 715 |  |
+|  | Blackguard_Interrogator | 716 |  |
+|  | Legius_Garhall | 717 |  |
+|  | Temple_Scholar | 718 |  |
+|  | Cato_Scholar_of_Light | 719 |  |
+|  | Barthol_the_Pure | 720 |  |
+|  | Cato_Defiler_of_Light | 721 |  |
+|  | Barthol_the_Corruptor | 722 |  |
+|  | Crimson_Scholar | 723 |  |
+|  | Shadow_Scholar | 724 |  |
+|  | Elite_Bodyguard | 725 |  |
+|  | Kole | 726 |  |
+|  | Maker_of_Mires | 727 |  |
+|  | The_Brute | 728 |  |
+|  | Pietys_Miscreation | 729 |  |
+|  | Miscreation | 730 |  |
+|  | Sacrificial_Demon | 731 |  |
+|  | ElderBlessed_Miscreation | 732 |  |
+|  | Lunar_Miscreation | 733 |  |
+|  | Slashed_Miscreation | 734 |  |
+|  | Shavronnes_Student | 735 |  |
+|  | Orcus_the_Reaver | 736 |  |
+|  | The_Broken_Prince | 737 |  |
+|  | Drenched_Miscreation | 738 |  |
+|  | Moontouched_Miscreation | 739 |  |
+|  | Burned_Miscreation | 740 |  |
+|  | Shocked_Miscreation | 741 |  |
+|  | Augmented_Dead | 742 |  |
+|  | Shavronnes_Legacy | 743 |  |
+|  | Spinecrack | 744 |  |
+|  | Horror_Archon | 745 |  |
+|  | Whipping_Miscreation | 746 |  |
+|  | ElderBlessed_Torturer | 747 |  |
+|  | Night_Horror | 748 |  |
+|  | Dusk_Horror | 749 |  |
+|  | Student_of_Pain | 750 |  |
+|  | Alal_the_Terrifying | 751 |  |
+|  | The_Fallen_Queen | 752 |  |
+|  | Tentacle_Miscreation | 753 |  |
+|  | ElderBlessed_Abberation | 754 |  |
+|  | Lunaris_Concubine | 755 |  |
+|  | Student_of_Torture | 756 |  |
+|  | Kali_the_Crazed | 757 |  |
+|  | The_Hollow_Lady | 758 |  |
+|  | Fated_Miscreation | 759 |  |
+|  | Demonic_Martyr | 760 |  |
+|  | Fetid_Maw | 761 |  |
+|  | Murk_Fiend | 762 |  |
+|  | Filth_Maw | 763 |  |
+|  | Gloomglut | 764 |  |
+|  | Bestial_Maw | 765 |  |
+|  | Great_Maw | 766 |  |
+|  | Infested_Maw | 767 |  |
+|  | Plumed_Chimeral | 768 |  |
+|  | Vibrant_Chimeral | 769 |  |
+|  | Feral_Chimeral | 770 |  |
+|  | Chrometouched_Chimeral | 771 |  |
+|  | Chromeinfused_Chimeral | 772 |  |
+|  | Wild_Chimeral | 773 |  |
+|  | Clutch_Queen | 774 |  |
+|  | Paradisae_Venenum | 775 |  |
+|  | Sallazzang | 776 |  |
+|  | Chimeric_Croaker | 777 |  |
+|  | Prized_Croaker | 778 |  |
+|  | Vaulting_Croaker | 779 |  |
+|  | Chrometouched_Croaker | 780 |  |
+|  | Chromeinfused_Croaker | 781 |  |
+|  | Banner_of_Passion | 782 |  |
+|  | Banner_of_Knowledge | 783 |  |
+|  | Banner_of_Action | 784 |  |
+|  | The_Infernal_Seal | 785 |  |
+|  | The_Voltaic_Seal | 786 |  |
+|  | Galvanic_Ribbon | 787 |  |
+|  | Flame_Sentinel | 788 |  |
+|  | Infernal_Sentinel | 789 |  |
+|  | Assault_Ribbon | 790 |  |
+|  | Rime_Sentinel | 791 |  |
+|  | Frost_Sentinel | 792 |  |
+|  | Carrion_Queen | 793 |  |
+|  | Ryslatha_the_Puppet_Mistress | 794 |  |
+|  | Gorulis_WillThief | 795 |  |
+|  | Carrion_Minion | 796 |  |
+|  | Carrion_Swarmer | 797 |  |
+|  | Carrion_Burrower | 798 |  |
+|  | Carrion_Raider | 799 |  |
+|  | Scum_Crawler | 800 |  |
+|  | Explosive_Crawler | 801 |  |
+|  | Explosive_Horror | 802 |  |
+|  | Nightmarish_Carrion | 803 |  |
+|  | Nightmarish_Crawler | 804 |  |
+|  | Testling | 805 |  |
+|  | THIS_IS_A_BUG | 806 |  |
+|  | Avian_Retch | 807 |  |
+|  | ElderBlessed_Retch | 808 |  |
+|  | Vassal_of_Inti | 809 |  |
+|  | Gluttonous_Gull | 810 |  |
+|  | Blooddrinker | 811 |  |
+|  | Tyranny_Archon | 812 |  |
+|  | Sire_of_the_Falling_Skies | 813 |  |
+|  | Frozen_Locustcaller | 814 |  |
+|  | Fiery_Locustcaller | 815 |  |
+|  | Thundering_Locustcaller | 816 |  |
+|  | Locust_Swarm | 817 |  |
+|  | Voidbearer | 818 |  |
+|  | Fiend_Archon | 819 |  |
+|  | The_Shipyard_Terror | 820 |  |
+|  | Harbinger | 821 |  |
+|  | Flame_Beast | 822 |  |
+|  | Nightbearer | 823 |  |
+|  | Maligaros_Passion | 824 |  |
+|  | Maligaros_Cruelty | 825 |  |
+|  | Cinder_Elemental | 826 |  |
+|  | Living_Fury | 827 |  |
+|  | Hatebeat | 828 |  |
+|  | Hatestorm | 829 |  |
+|  | Ash_Prophet | 830 |  |
+|  | Death_Bishop | 831 |  |
+|  | Undying_Incinerator | 832 |  |
+|  | Undying_Alchemist | 833 |  |
+|  | Traitorous_Incinerator | 834 |  |
+|  | Dominus_High_Templar | 835 |  |
+|  | The_High_Templar | 836 |  |
+|  | Gods_Chosen | 837 |  |
+|  | Dominus_Ascendant | 838 |  |
+|  | The_Hallowed_Husk | 839 |  |
+|  | Sewage_Crawler | 840 |  |
+|  | Toxic_Crawler | 841 |  |
+|  | Flayed_Warrior | 842 |  |
+|  | Restless_Labourer | 843 |  |
+|  | Restless_Archer | 844 |  |
+|  | Flayed_Archer | 845 |  |
+|  | Scorched_Guard | 846 |  |
+|  | Scorched_Mage | 847 |  |
+|  | Incinerated_Mage | 848 |  |
+|  | Enlightened_Vicar | 849 |  |
+|  | Bleak_Aspirant | 850 |  |
+|  | Crackling_Acolyte | 851 |  |
+|  | Bleak_Vicar | 852 |  |
+|  | Crackling_Vicar | 853 |  |
+|  | Spine_Serpent | 854 |  |
+|  | Infested_Serpent | 855 |  |
+|  | Barb_Serpent | 856 |  |
+|  | Sand_Serpent | 857 |  |
+|  | Crypt_Arachnid | 858 |  |
+|  | Porcupine_Goliath | 859 |  |
+|  | Thistleback_Goliath | 860 |  |
+|  | Chrometouched_Goliath | 861 |  |
+|  | Chromeinfused_Goliath | 862 |  |
+|  | Thistlesage | 863 |  |
+|  | The_Goddess_of_Purity | 864 |  |
+|  | Purity_Restored | 865 |  |
+|  | Marceus_the_Defaced | 866 |  |
+|  | Marceus_the_Hidden | 867 |  |
+|  | Fencer_Statue | 868 |  |
+|  | Maul_Statue | 869 |  |
+|  | Brittle_Fencer | 870 |  |
+|  | Brittle_Maul_Statue | 871 |  |
+|  | Archer_Statue | 872 |  |
+|  | Figment_of_Swords | 873 |  |
+|  | Figment_of_Destruction | 874 |  |
+|  | Figment_of_Winds | 875 |  |
+|  | Idolised_Saint | 876 |  |
+|  | Aurate_Warrior | 877 |  |
+|  | Aurate_Archer | 878 |  |
+|  | Embezzlers_Offer | 879 |  |
+|  | Embezzlers_Own | 880 |  |
+|  | Giant_Gladiator_Statue | 881 |  |
+|  | Towering_Figment | 882 |  |
+|  | Overgrown_Colossus | 883 |  |
+|  | Auric_Champion | 884 |  |
+|  | Auric_Colossus | 885 |  |
+|  | Martial_Statue | 886 |  |
+|  | Giant_Statue | 887 |  |
+|  | Majestic_Statue | 888 |  |
+|  | Auric_Lion | 889 |  |
+|  | Molten_Lion | 890 |  |
+|  | Blood_Elemental | 891 |  |
+|  | Aggravated_Wound | 892 |  |
+|  | Crimson_Ichor | 893 |  |
+|  | Coagulated_Elemental | 894 |  |
+|  | Fevered_Clot | 895 |  |
+|  | Doedres_Ichor | 896 |  |
+|  | Tainted_Water | 897 |  |
+|  | Mephitic_Maiden | 898 |  |
+|  | Noxious_Maiden | 899 |  |
+|  | Doedres_Vitriol | 900 |  |
+|  | Congealed_Blood | 901 |  |
+|  | Unstable_Clot | 902 |  |
+|  | Purged_Fluids | 903 |  |
+|  | Vengeful_Blood | 904 |  |
+|  | Congealed_Mud | 905 |  |
+|  | Fated_Coagulate | 906 |  |
+|  | Holy_Water | 907 |  |
+|  | Undying_Untouchable | 908 |  |
+|  | Undying_Subject | 909 |  |
+|  | Undying_Inductor | 910 |  |
+|  | Undying_Shredder | 911 |  |
+|  | Undying_Champion | 912 |  |
+|  | Undying_Engineer | 913 |  |
+|  | Ancient_Sculptor | 914 |  |
+|  | Ancient_Architect | 915 |  |
+|  | Undying_Worker | 916 |  |
+|  | Undying_Labourer | 917 |  |
+|  | Undying_Operator | 918 |  |
+|  | Undying_Archivist | 919 |  |
+|  | Stinking_Undying | 920 |  |
+|  | Undying_Cultist | 921 |  |
+|  | Undying_Degenerate | 922 |  |
+|  | Undying_Wretch | 923 |  |
+|  | Undying_Evangelist | 924 |  |
+|  | Student_of_Brutality | 925 |  |
+|  | Maligaros_Acolyte | 926 |  |
+|  | Trinian_Intellectus_Prime | 927 |  |
+|  | The_Arbiter_of_Knowledge | 928 |  |
+|  | Undying_Aristocrat | 929 |  |
+|  | Undying_Socialite | 930 |  |
+|  | Undying_Initiate | 931 |  |
+|  | Undying_Patrician | 932 |  |
+|  | Undying_Shade | 933 |  |
+|  | Undying_Dreg | 934 |  |
+|  | Caliga_Imperatrix | 935 |  |
+|  | Excellis_Aurafix | 936 |  |
+|  | Shavronnes_Envy | 937 |  |
+|  | Shavronnes_Greed | 938 |  |
+|  | Riftwalker | 939 |  |
+|  | The_Uncreated | 940 |  |
+|  | The_Unshaped | 941 |  |
+|  | Agent_of_the_Void | 942 |  |
+|  | Void_Remnant | 943 |  |
+|  | Abhorred_Elitist | 944 |  |
+|  | The_Stockkeeper | 945 |  |
+|  | Undying_Grappler | 946 |  |
+|  | Shavronnes_Gemling | 947 |  |
+|  | Augmented_Grappler | 948 |  |
+|  | Perpetus | 949 |  |
+|  | Undying_Outcast | 950 |  |
+|  | Undying_Impaler | 951 |  |
+|  | Undying_Ravager | 952 |  |
+|  | Dockhand_Wraith | 953 |  |
+|  | Labourer_Wraith | 954 |  |
+|  | Foreman | 955 |  |
+|  | Brittle_Longshoreman | 956 |  |
+|  | Brittle_Corsair | 957 |  |
+|  | Raised_Zombie | 958 |  |
+|  | Shadow_Minion | 959 |  |
+|  | Summoned_Skeleton | 960 |  |
+|  | Summoned_Phantasm | 961 |  |
+|  | Volatile_Phantasm | 962 |  |
+|  | Energised_Phantasm | 963 |  |
+|  | Summoned_Skeleton_Soldier | 964 |  |
+|  | Summoned_Skeleton_Archer | 965 |  |
+|  | Summoned_Skeleton_Caster | 966 |  |
+|  | Summoned_Skeleton_Colossus | 967 |  |
+|  | Summoned_Skeleton_General | 968 |  |
+|  | Summoned_Skeleton_Sniper | 969 |  |
+|  | Summoned_Skeleton_Deathmage | 970 |  |
+|  | Profane_Thrall | 971 |  |
+|  | Desecrated_Thrall | 972 |  |
+|  | Champion_of_the_Feast | 973 |  |
+|  | Shaman_of_the_Feast | 974 |  |
+|  | Guardian_of_the_Feast | 975 |  |
+|  | Spawn | 976 |  |
+|  | Molten_Skeleton | 977 |  |
+|  | Unearthly_Skeleton | 978 |  |
+|  | Pure_Water | 979 |  |
+|  | Pagan_Bishop_of_Agony | 980 |  |
+|  | Litanius_the_Black_Prayer | 981 |  |
+|  | Penitentiary_Incarcerator | 982 |  |
+|  | Penitentiary_Incarcerator_ | 983 |  |
+|  | Fire_and_Fury | 984 |  |
+|  | Loathe | 985 |  |
+|  | The_Blacksmith | 986 |  |
+|  | DroughtMaddened_Rhoa | 987 |  |
+|  | Titan_of_the_Grove | 988 |  |
+|  | Megaera | 989 |  |
+|  | Beast_of_the_Pits | 990 |  |
+|  | Steelpoint_the_Avenger | 991 |  |
+|  | Champion_of_Frost | 992 |  |
+|  | Thunderskull | 993 |  |
+|  | Belcer_the_Pirate_Lord | 994 |  |
+|  | Enticer_of_Rot | 995 |  |
+|  | Witch_of_the_Cauldron | 996 |  |
+|  | Xixic_High_Necromancer | 997 |  |
+|  | Shock_and_Horror | 998 |  |
+|  | Lady_of_the_Brood | 999 |  |
+|  | Glace | 1000 |  |
+|  | The_Idol_Beyond | 1001 |  |
+|  | Achioc_the_Glacier | 1002 |  |
+|  | Levioc_the_Volcano | 1003 |  |
+|  | Zorioc_the_Storm | 1004 |  |
+|  | Izioc_the_Abyss | 1005 |  |
+|  | Olmec_the_All_Stone | 1006 |  |
+|  | Flame_of_Truth | 1007 |  |
+|  | Merveil_the_Reflection | 1008 |  |
+|  | Merveil_the_Returned | 1009 |  |
+|  | Master_of_the_Blade | 1010 |  |
+|  | Leif_the_SwiftHanded | 1011 |  |
+|  | Plaguebringer | 1012 |  |
+|  | Lord_of_the_Bow | 1013 |  |
+|  | Lord_of_the_Ashen_Arrow | 1014 |  |
+|  | Massier | 1015 |  |
+|  | Spirit_of_Nadia | 1016 |  |
+|  | Spirit_of_Aidan | 1017 |  |
+|  | Spinner_of_False_Hope | 1018 |  |
+|  | Queen_of_the_Great_Tangle | 1019 |  |
+|  | Oak_the_Mighty | 1020 |  |
+|  | Aulen_Greychain | 1021 |  |
+|  | Shadow_of_the_Vaal | 1022 |  |
+|  | Atziris_Chosen | 1023 |  |
+|  | Asphyxia | 1024 |  |
+|  | Mother_Phyia | 1025 |  |
+|  | Avatar_of_the_Tempest | 1026 |  |
+|  | Blood_Progenitor | 1027 |  |
+|  | The_Primal_One | 1028 |  |
+|  | Skullbeak | 1029 |  |
+|  | Volcanus | 1030 |  |
+|  | Herald_of_Ashes | 1031 |  |
+|  | Herald_of_Thunder | 1032 |  |
+|  | The_Reaver | 1033 |  |
+|  | Blackguard_Avenger | 1034 |  |
+|  | Blackguard_Tempest | 1035 |  |
+|  | The_Wicked_One | 1036 |  |
+|  | Piety_the_Empyrean | 1037 |  |
+|  | Carnage | 1038 |  |
+|  | Diallas_Anger | 1039 |  |
+|  | Diallas_Hatred | 1040 |  |
+|  | Diallas_Wrath | 1041 |  |
+|  | Emperor_Radiant | 1042 |  |
+|  | Lady_Stormflay | 1043 |  |
+|  | Warmonger | 1044 |  |
+|  | Tyrant | 1045 |  |
+|  | Bramblemist | 1046 |  |
+|  | Arachnoxia | 1047 |  |
+|  | Hybrid_Widow | 1048 |  |
+|  | Mistress_of_Flame | 1049 |  |
+|  | Infector_of_Dreams | 1050 |  |
+|  | Rose | 1051 |  |
+|  | Thorn | 1052 |  |
+|  | Mistress_Hyseria | 1053 |  |
+|  | Burning_Totem | 1054 |  |
+|  | Chilling_Totem | 1055 |  |
+|  | Shocking_Totem | 1056 |  |
+|  | Diamond_Totem | 1057 |  |
+|  | Warping_Totem | 1058 |  |
+|  | Detonation_Totem | 1059 |  |
+|  | Frenzy_Totem | 1060 |  |
+|  | Endurance_Totem | 1061 |  |
+|  | Power_Totem | 1062 |  |
+|  | Ice_Totem | 1063 |  |
+|  | Necromantic_Totem | 1064 |  |
+|  | Shockwave_Totem | 1065 |  |
+|  | Healing_Totem | 1066 |  |
+|  | VaalInfused_Totem | 1067 |  |
+|  | Fickle_Totem | 1068 |  |
+|  | Burning_Portal | 1069 |  |
+|  | Chilling_Portal | 1070 |  |
+|  | Orra_Greengate | 1071 |  |
+|  | Thena_Moga | 1072 |  |
+|  | Thena_Moga_the_Crimson_Storm | 1073 |  |
+|  | Antalie_Napora | 1074 |  |
+|  | Silva_Fearsting | 1075 |  |
+|  | Ailentia_Rac | 1076 |  |
+|  | Torr_Olgosso | 1077 |  |
+|  | Armios_Bell | 1078 |  |
+|  | Antonio_Bravadi | 1079 |  |
+|  | Zacharie_Desmarais | 1080 |  |
+|  | Oyra_Ona | 1081 |  |
+|  | Minara_Anemina | 1082 |  |
+|  | Igna_Phoenix | 1083 |  |
+|  | Aria_Vindicia | 1084 |  |
+|  | Dena_Lorenni | 1085 |  |
+|  | Ultima_Thule | 1086 |  |
+|  | Kirmes_Olli | 1087 |  |
+|  | Jonah_Unchained | 1088 |  |
+|  | Damoi_Tui | 1089 |  |
+|  | Xandro_Blooddrinker | 1090 |  |
+|  | Haki_Karukaru | 1091 |  |
+|  | Vickas_Giantbone | 1092 |  |
+|  | Bolt_Brownfur | 1093 |  |
+|  | Bolt_Brownfur_Earth_Churner | 1094 |  |
+|  | Ohne_Trix | 1095 |  |
+|  | Eoin_Greyfur | 1096 |  |
+|  | Tinevin_Highdove | 1097 |  |
+|  | Doven_Falsetongue | 1098 |  |
+|  | Magnus_Stonethorn | 1099 |  |
+|  | Aurelio_Voidsinger | 1100 |  |
+|  | Baracus_Phraxisanct | 1101 |  |
+|  | Ion_Darkshroud | 1102 |  |
+|  | Ion_Darkshroud_the_Hungering_Blade | 1103 |  |
+|  | Ash_Lessard | 1104 |  |
+|  | Jarek_Irontrap | 1105 |  |
+|  | Wilorin_Demontamer | 1106 |  |
+|  | Ulysses_Morvant | 1107 |  |
+|  | Jade | 1108 |  |
+|  | Augustina_Solaria | 1109 |  |
+|  | Lael_Furia | 1110 |  |
+|  | Vanth_Agiel | 1111 |  |
+|  | Shade_of_a_Scion | 1112 |  |
+|  | Shade_of_a_Templar | 1113 |  |
+|  | Shade_of_a_Duelist | 1114 |  |
+|  | Shade_of_a_Marauder | 1115 |  |
+|  | Shade_of_a_Shadow | 1116 |  |
+|  | Shade_of_a_Witch | 1117 |  |
+|  | Shade_of_a_Ranger | 1118 |  |
+|  | Darbel_LePage | 1119 |  |
+|  | Elusive_Twin | 1120 |  |
+|  | Phantasmal_Twin | 1121 |  |
+|  | Nightmarish_Twin | 1122 |  |
+|  | Blood_Sister | 1123 |  |
+|  | Guardian_of_the_South | 1124 |  |
+|  | Guardian_of_the_North | 1125 |  |
+|  | Guardian_of_the_West | 1126 |  |
+|  | Guardian_of_the_East | 1127 |  |
+|  | Revived_Guardian | 1128 |  |
+|  | Tormented_Temptress | 1129 |  |
+|  | Devourer | 1130 |  |
+|  | Tunnelworm | 1131 |  |
+|  | Unstable_Devourer | 1132 |  |
+|  | Captive_Devourer | 1133 |  |
+|  | Ancient_Devourer | 1134 |  |
+|  | Elder_Devourer | 1135 |  |
+|  | The_Conqueror_Wurm | 1136 |  |
+|  | Tunneltrap | 1137 |  |
+|  | Mystic_Devourer | 1138 |  |
+|  | Cannibal | 1139 |  |
+|  | Cannibals_Devoted | 1140 |  |
+|  | Fire_Fury | 1141 |  |
+|  | Bameth_Cultist | 1142 |  |
+|  | Lunaris_Zealot | 1143 |  |
+|  | Moontouched_Zealot | 1144 |  |
+|  | Harbinger_Fanatic | 1145 |  |
+|  | Harbinger_Worshipper | 1146 |  |
+|  | Lunar_Devotee | 1147 |  |
+|  | Harbinger_Puppet | 1148 |  |
+|  | Hailrake | 1149 |  |
+|  | Herald_of_Bameth | 1150 |  |
+|  | Cannibal_Fireeater | 1151 |  |
+|  | Shrine_Daemon | 1152 |  |
+|  | Nemesis_Daemon | 1153 |  |
+|  | Boss_Daemon | 1154 |  |
+|  | Tempest_Daemon | 1155 |  |
+|  | Trap_Daemon | 1156 |  |
+|  | Animated_Guardian | 1157 |  |
+|  | Animated_Weapon | 1158 |  |
+|  | Animated_Axe | 1159 |  |
+|  | Animated_Sword | 1160 |  |
+|  | Animated_Staff | 1161 |  |
+|  | Collector | 1162 |  |
+|  | The_Steel_Soul | 1163 |  |
+|  | Ghostly_Steel | 1164 |  |
+|  | Nightmare_Steel | 1165 |  |
+|  | Mutilators_Blade | 1166 |  |
+|  | Mutilators_Hatchet | 1167 |  |
+|  | Mutilators_Knife | 1168 |  |
+|  | Mutilators_Claw | 1169 |  |
+|  | Mutilators_Needle | 1170 |  |
+|  | Kinslayers_Sword | 1171 |  |
+|  | Kinslayers_Axe | 1172 |  |
+|  | Kinslayers_Dagger | 1173 |  |
+|  | Kinslayers_Claw | 1174 |  |
+|  | Kinslayers_Rapier | 1175 |  |
+|  | Aspect_of_Rage | 1176 |  |
+|  | Aspect_of_Fury | 1177 |  |
+|  | Aspect_of_Violence | 1178 |  |
+|  | Living_Memorial | 1179 |  |
+|  | Living_Relic | 1180 |  |
+|  | Marchaks_Eviscerator | 1181 |  |
+|  | Marchaks_Impaler | 1182 |  |
+|  | Marchaks_Annihilator | 1183 |  |
+|  | Aspect_of_Destruction | 1184 |  |
+|  | Aspect_of_Annihilation | 1185 |  |
+|  | Aspect_of_Ruination | 1186 |  |
+|  | Soulless_Watcher | 1187 |  |
+|  | Drifting_Eye | 1188 |  |
+|  | Cavern_Drifter | 1189 |  |
+|  | Sewer_Drifter | 1190 |  |
+|  | Infected_Watcher | 1191 |  |
+|  | Avatar_of_Ash | 1192 |  |
+|  | Avatar_of_Winter | 1193 |  |
+|  | Avatar_of_Silence | 1194 |  |
+|  | Avatar_of_Apocalypse | 1195 |  |
+|  | Raging_Spirit | 1196 |  |
+|  | Bloodwings_Raven | 1197 |  |
+|  | Raven | 1198 |  |
+|  | Blood_Raven | 1199 |  |
+|  | Ancestral_Spirit | 1200 |  |
+|  | Death_Raven | 1201 |  |
+|  | Creeping_Fire | 1202 |  |
+|  | Desecrated_Bonestalker | 1203 |  |
+|  | Plummeting_Ursa | 1204 |  |
+|  | Tunnelfiend | 1205 |  |
+|  | Infested_Tunnelfiend | 1206 |  |
+|  | Birthed_Ursa | 1207 |  |
+|  | Woods_Ursa | 1208 |  |
+|  | Infested_Ursa | 1209 |  |
+|  | Scourge_of_the_Wilds | 1210 |  |
+|  | Quru | 1211 |  |
+|  | It_That_Fell | 1212 |  |
+|  | Spectral_Ursa | 1213 |  |
+|  | Summoned_Ursa | 1214 |  |
+|  | Kaoms_Primacy | 1215 |  |
+|  | Kaoms_Sign | 1216 |  |
+|  | Kaoms_Heart | 1217 |  |
+|  | Kaoms_Roots | 1218 |  |
+|  | Qura | 1219 |  |
+|  | Yaraaz | 1220 |  |
+|  | Aalai | 1221 |  |
+|  | Kaj_Qura | 1222 |  |
+|  | Kaj_Yaraaz | 1223 |  |
+|  | Kaj_Aalai | 1224 |  |
+|  | Slithering_Servant | 1225 |  |
+|  | Frozen_Supplicant | 1226 |  |
+|  | Storming_Supplicant | 1227 |  |
+|  | Vaal_Unknowable | 1228 |  |
+|  | Lost_Unknowable | 1229 |  |
+|  | Vaal_Unthinkable | 1230 |  |
+|  | Lost_Unthinkable | 1231 |  |
+|  | Atziris_Devoted | 1232 |  |
+|  | Vaal_Unspeakable | 1233 |  |
+|  | Lost_Unspeakable | 1234 |  |
+|  | Vessel_of_the_Vaal | 1235 |  |
+|  | The_Chaos_Engine | 1236 |  |
+|  | Atziri_Queen_of_the_Vaal | 1237 |  |
+|  | The_Allseeing_Eye | 1238 |  |
+|  | Konu_Maker_of_Wind | 1239 |  |
+|  | Coniraya_Shadow_of_Malice | 1240 |  |
+|  | Atziris_Pride | 1241 |  |
+|  | Sheaq_Maker_of_Floods | 1242 |  |
+|  | Ossecati_Boneshaper | 1243 |  |
+|  | Kamaq_Soilmaker | 1244 |  |
+|  | Inti_of_the_Blood_Moon | 1245 |  |
+|  | Shrapnelbearer | 1246 |  |
+|  | Cava_Artist_of_Pain | 1247 |  |
+|  | Curator_Miem | 1248 |  |
+|  | Simi_the_Nature_Touched | 1249 |  |
+|  | Aspect_of_Simi | 1250 |  |
+|  | The_Sunburst_Queen | 1251 |  |
+|  | Mgaska_the_Living_Pyre | 1252 |  |
+|  | Cintiq_the_Inescapable | 1253 |  |
+|  | Thornrunner | 1254 |  |
+|  | Perquil_the_Lucky | 1255 |  |
+|  | Haviri_Vaal_Metalsmith | 1256 |  |
+|  | Kutec_Vaal_Fleshsmith | 1257 |  |
+|  | Shadow_of_Vengeance | 1258 |  |
+|  | Beheader_Ataguchu | 1259 |  |
+|  | Wiraq_the_Impaler | 1260 |  |
+|  | Chaska_Maker_of_Rain | 1261 |  |
+|  | Mother_of_the_Hive | 1262 |  |
+|  | Rima_Deep_Temptress | 1263 |  |
+|  | Torrent_of_Fear | 1264 |  |
+|  | Commander_of_Flesh | 1265 |  |
+|  | Captain_of_the_Damned | 1266 |  |
+|  | Quetzerxi | 1267 |  |
+|  | Agnerax | 1268 |  |
+|  | Agnerix | 1269 |  |
+|  | Calxipher | 1270 |  |
+|  | Evocata_Apocalyptica | 1271 |  |
+|  | Docere_Incarnatis | 1272 |  |
+|  | Corrector_Draconides | 1273 |  |
+|  | Whisperers_Attendant | 1274 |  |
+|  | Dario_the_Living_Void | 1275 |  |
+|  | Balus_Stoneskull | 1276 |  |
+|  | Kall_Foxfly | 1277 |  |
+|  | Marrowcrush | 1278 |  |
+|  | The_Cadaver_Bull | 1279 |  |
+|  | Junglemare | 1280 |  |
+|  | The_Sanguine_Wave | 1281 |  |
+|  | Blood_Stasis_ | 1282 |  |
+|  | Blood_Morpher | 1283 |  |
+|  | Graveblood | 1284 |  |
+|  | Nighteater | 1285 |  |
+|  | The_Book_Burner | 1286 |  |
+|  | The_Bolt_Juggler | 1287 |  |
+|  | Avatar_of_Pain | 1288 |  |
+|  | Rancor | 1289 |  |
+|  | Hatespitter | 1290 |  |
+|  | Bluntslag | 1291 |  |
+|  | The_Revenant | 1292 |  |
+|  | Judgement_Apparatus | 1293 |  |
+|  | Spinesnap | 1294 |  |
+|  | Genesis_Paradisae | 1295 |  |
+|  | Death_from_Above | 1296 |  |
+|  | Guardian_of_the_Mound | 1297 |  |
+|  | Wonderwalker | 1298 |  |
+|  | The_Raging_Mask | 1299 |  |
+|  | The_Teetering_Mask | 1300 |  |
+|  | The_Furious_Mask | 1301 |  |
+|  | The_Callous_Mask | 1302 |  |
+|  | The_Capricious_Mask | 1303 |  |
+|  | Alpha_Paradisae | 1304 |  |
+|  | Mother_of_the_Swarm | 1305 |  |
+|  | Deathflutter | 1306 |  |
+|  | Bladetooth | 1307 |  |
+|  | Granitecrush | 1308 |  |
+|  | Corpsestitch | 1309 |  |
+|  | The_Firestarter | 1310 |  |
+|  | Wrigglechaw | 1311 |  |
+|  | Blinkflame | 1312 |  |
+|  | The_Duchess | 1313 |  |
+|  | Shivershell | 1314 |  |
+|  | Mammothcage | 1315 |  |
+|  | Harbinger_of_Elements | 1316 |  |
+|  | Nightsight | 1317 |  |
+|  | Tailsinger | 1318 |  |
+|  | Razorleaf | 1319 |  |
+|  | Stranglecreep | 1320 |  |
+|  | Pewterfang | 1321 |  |
+|  | Bladeback_Guardian | 1322 |  |
+|  | Strangledrift | 1323 |  |
+|  | Jikeji | 1324 |  |
+|  | Ghostram | 1325 |  |
+|  | Stranglecrawl | 1326 |  |
+|  | Mirageblast | 1327 |  |
+|  | The_Walking_Waste | 1328 |  |
+|  | Glassmaul | 1329 |  |
+|  | Grath | 1330 |  |
+|  | Burtok_Conjurer_of_Bones | 1331 |  |
+|  | The_Spiritless | 1332 |  |
+|  | Droolscar | 1333 |  |
+|  | Double | 1334 |  |
+|  | Flesh_of_Bameth | 1335 |  |
+|  | Blood_of_Haast | 1336 |  |
+|  | Eye_of_Tzteosh | 1337 |  |
+|  | Hand_of_Naem | 1338 |  |
+|  | Worshipper_of_Bameth | 1339 |  |
+|  | Hound_of_Tzteosh | 1340 |  |
+|  | Servant_of_Haast | 1341 |  |
+|  | Mouth_of_Ephij | 1342 |  |
+|  | Fanatic_of_Ephij | 1343 |  |
+|  | Disciple_of_Haast | 1344 |  |
+|  | Zealot_of_Tzteosh | 1345 |  |
+|  | Tzteosh_Hungering_Flame | 1346 |  |
+|  | Ephij_Crackling_Sky | 1347 |  |
+|  | Haast_Unrelenting_Frost | 1348 |  |
+|  | Bameth_Shifting_Darkness | 1349 |  |
+|  | Naem_Bending_Stone | 1350 |  |
+|  | Abaxoth_the_End_of_All_That_Is | 1351 |  |
+|  | Blood_of_Bameth | 1352 |  |
+|  | Eye_of_Bameth | 1353 |  |
+|  | Vagans_Companion | 1354 |  |
+|  | Relic | 1355 |  |
+|  | Resplendent_Construct | 1356 |  |
+|  | Heir_of_Flame | 1357 |  |
+|  | Heir_of_Storm | 1358 |  |
+|  | Merveils_Blade | 1359 |  |
+|  | Target_Dummy | 1360 |  |
+|  | _____________________________________ | 1361 |  |
+|  | Placeholder_1 | 1362 |  |
+|  | Placeholder_2 | 1363 |  |
+|  | Placeholder_3 | 1364 |  |
+|  | Placeholder_4 | 1365 |  |
+|  | Corrupted_Horde | 1366 |  |
+|  | Corrupted_Miscreation | 1367 |  |
+|  | Corrupted_Undying_Worshipper | 1368 |  |
+|  | Corrupted_Settler | 1369 |  |
+|  | Corrupted_Brood_Nurse | 1370 |  |
+|  | Corrupted_Furyfoot_Devil | 1371 |  |
+|  | Corrupted_Fire_Thrower | 1372 |  |
+|  | Corrupted_Bone_Lord | 1373 |  |
+|  | Corrupted_Python | 1374 |  |
+|  | Corrupted_Invader | 1375 |  |
+|  | Elite_Mercenary | 1376 |  |
+|  | Mage_Mercenary | 1377 |  |
+|  | Hired_Ruffian | 1378 |  |
+|  | Hired_Thug | 1379 |  |
+|  | Captive_Agent | 1380 |  |
+|  | Charred_Totem | 1381 |  |
+|  | Glistening_Totem | 1382 |  |
+|  | Rugged_Totem | 1383 |  |
+|  | Tahi | 1384 |  |
+|  | Boka | 1385 |  |
+|  | Necribrae | 1386 |  |
+|  | Blightraise | 1387 |  |
+|  | Rua | 1388 |  |
+|  | Wha | 1389 |  |
+|  | Toru | 1390 |  |
+|  | Magma_Elemental | 1391 |  |
+|  | Ice_Elemental | 1392 |  |
+|  | Storm_Elemental | 1393 |  |
+|  | Corrupted_Crawler | 1394 |  |
+|  | Corrupted_Swarmer | 1395 |  |
+|  | Corrupted_Ashweaver | 1396 |  |
+|  | Corrupted_Iceweaver | 1397 |  |
+|  | Corrupted_Martyr | 1398 |  |
+|  | Corrupted_Larva | 1399 |  |
+|  | Scion_of_Corruption | 1400 |  |
+|  | Corrupted_Wretch | 1401 |  |
+|  | Corrupted_Bonestalker | 1402 |  |
+|  | Rotting_Corrupted | 1403 |  |
+|  | Corrupted_Hound | 1404 |  |
+|  | Corrupted_Skullbearer | 1405 |  |
+|  | Corrupted_Deadeye | 1406 |  |
+|  | Corrupted_Thug | 1407 |  |
+|  | Corrupted_Guard | 1408 |  |
+|  | Corrupted_Bonereaver | 1409 |  |
+|  | Corrupted_Fireshot | 1410 |  |
+|  | Corrupted_Gull | 1411 |  |
+|  | Corrupted_Incinerator | 1412 |  |
+|  | Corrupted_Undying | 1413 |  |
+|  | Corrupted_Tarantula | 1414 |  |
+|  | Corrupted_Spider | 1415 |  |
+|  | Corrupted_Daughter | 1416 |  |
+|  | Corrupted_Spawn | 1417 |  |
+|  | Corrupted_Experimenter | 1418 |  |
+|  | Corrupted_Blackguard | 1419 |  |
+|  | Sickly_Spinner | 1420 |  |
+|  | Infected_Spiker | 1421 |  |
+|  | Infected_Beast | 1422 |  |
+|  | Infested_Beast | 1423 |  |
+|  | Risen_Infested_Beast | 1424 |  |
+|  | Crawling_Infestation | 1425 |  |
+|  | Rabid_Broodqueen | 1426 |  |
+|  | Rabid_Minion | 1427 |  |
+|  | Crazed_Chieftain | 1428 |  |
+|  | Putrid_Chimeral | 1429 |  |
+|  | Infected_Ambusher | 1430 |  |
+|  | Mutated_Ursa | 1431 |  |
+|  | Crazed_Flamebeast | 1432 |  |
+|  | Infected_Rhoa | 1433 |  |
+|  | Rabid_Rhoa | 1434 |  |
+|  | Putrid_Weaver | 1435 |  |
+|  | Infected_Adder | 1436 |  |
+|  | Surging_Adder | 1437 |  |
+|  | Putrid_Serpent | 1438 |  |
+|  | Rabid_Maw | 1439 |  |
+|  | Fused_Crawler | 1440 |  |
+|  | Shock_Spitter | 1441 |  |
+|  | Mutated_Watcher | 1442 |  |
+|  | Mutated_Broodqueen | 1443 |  |
+|  | Mutated_Croaker | 1444 |  |
+|  | Mutated_Arachnid | 1445 |  |
+|  | Twisted_Chimeral | 1446 |  |
+|  | Mutated_Flamebeast | 1447 |  |
+|  | Mutated_Winterclaw | 1448 |  |
+|  | Mutated_Chieftain | 1449 |  |
+|  | Mutated_Rhoa | 1450 |  |
+|  | Mutated_Adder | 1451 |  |
+|  | Mutated_Maw | 1452 |  |
+|  | Rotting_Zombie | 1453 |  |
+|  | Rotting_Mummy | 1454 |  |
+|  | Bone_Bird | 1455 |  |
+|  | Rotting_Outcast | 1456 |  |
+|  | Rotting_Weaver | 1457 |  |
+|  | Charred_Skeleton | 1458 |  |
+|  | Reanimated_Skeleton | 1459 |  |
+|  | Bound_Reaver | 1460 |  |
+|  | Bound_Seeker | 1461 |  |
+|  | Test_Trap | 1462 |  |
+|  | Fire_Trap | 1463 |  |
+|  | Storm_Call_Trap | 1464 |  |
+|  | Ice_Storm_Trap | 1465 |  |
+|  | Ball_Lightning_Trap | 1466 |  |
+|  | Blast_Rain_Trap | 1467 |  |
+|  | Ethereal_Knives_Trap | 1468 |  |
+|  | Blade_Blossom | 1469 |  |
+|  | Boring | 1470 |  |
+|  | Grandmaster | 1471 |  |
+|  | Tormented_Storm_Cultist | 1472 |  |
+|  | Tormented_Blasphemer | 1473 |  |
+|  | Tormented_Necromancer | 1474 |  |
+|  | Tormented_Arsonist | 1475 |  |
+|  | Tormented_Thief | 1476 |  |
+|  | Tormented_Mutilator | 1477 |  |
+|  | Tormented_Charlatan | 1478 |  |
+|  | Tormented_Cannibal | 1479 |  |
+|  | Tormented_Alchemist | 1480 |  |
+|  | Tormented_Vaal_Cultist | 1481 |  |
+|  | Tormented_Thug | 1482 |  |
+|  | Tormented_Rogue | 1483 |  |
+|  | Tormented_Illegal_Fisherman | 1484 |  |
+|  | Tormented_Seditionist | 1485 |  |
+|  | Tormented_Cutthroat | 1486 |  |
+|  | Tormented_Spy | 1487 |  |
+|  | Tormented_Martyr | 1488 |  |
+|  | Tormented_Embezzler | 1489 |  |
+|  | Tormented_Forger | 1490 |  |
+|  | Tormented_Warlord | 1491 |  |
+|  | Tormented_Aurora_Cultist | 1492 |  |
+|  | Tormented_Smuggler | 1493 |  |
+|  | Tormented_Bootlegger | 1494 |  |
+|  | Tormented_Buccaneer | 1495 |  |
+|  | Echo_of_Shavronne | 1496 |  |
+|  | Wraith | 1497 |  |
+|  | Doedres_Suffering | 1498 |  |
+|  | Doedres_Torment | 1499 |  |
+|  | Torment_Daemon | 1500 |  |
+|  | Clone | 1501 |  |
+|  | Mirage | 1502 |  |
+|  | Pale_Blackguard | 1503 |  |
+|  | Thrall_of_Lunaris | 1504 |  |
+|  | Pale_Commander | 1505 |  |
+|  | Mindless_Scavenger | 1506 |  |
+|  | Scavenging_Vulture | 1507 |  |
+|  | Rotting_Vulture | 1508 |  |
+|  | Infested_Vulture | 1509 |  |
+|  | The_Hundred_Foot_Shadow | 1510 |  |
+|  | The_Winged_Death | 1511 |  |
+|  | Meritarus | 1512 |  |
+|  | Volls_Fallen | 1513 |  |
+|  | Eternal_Woe | 1514 |  |
+|  | Fallen_Horror | 1515 |  |
+|  | Digested_Bones | 1516 |  |
+|  | Impure_Soldier | 1517 |  |
+|  | Crystallised_Fallen | 1518 |  |
+|  | Sun_Bleached_Fallen | 1519 |  |
+|  | Bloodstained_Fallen | 1520 |  |
+|  | Dreadmore | 1521 |  |
+|  | Bloodsoaked_Fallen | 1522 |  |
+|  | Impure_Archer | 1523 |  |
+|  | Volls_Vanguard | 1524 |  |
+|  | Crystallised_Sentry | 1525 |  |
+|  | Sun_Bleached_Vanguard | 1526 |  |
+|  | Bloodstained_Vanguard | 1527 |  |
+|  | Bloodsoaked_Vanguard | 1528 |  |
+|  | Nightwane | 1529 |  |
+|  | Mirage_of_Bones | 1530 |  |
+|  | Splinter_Liege | 1531 |  |
+|  | Maelström | 1532 |  |
+|  | Muck_Vortex | 1533 |  |
+|  | Blood_Vortex | 1534 |  |
+|  | Blackwater | 1535 |  |
+|  | Legion_of_Lost_Souls | 1536 |  |
+|  | Unbound_Maelström | 1537 |  |
+|  | Whispering_Spiral | 1538 |  |
+|  | Flood_Orb | 1539 |  |
+|  | Vortex | 1540 |  |
+|  | Voll_Emperor_of_Purity | 1541 |  |
+|  | The_Brittle_Emperor | 1542 |  |
+|  | Planus_Hollow_Soul | 1543 |  |
+|  | Corrupted_Elite | 1544 |  |
+|  | Dust_Scrabbler | 1545 |  |
+|  | Spiritflicker | 1546 |  |
+|  | Ululat_MaggotBearer | 1547 |  |
+|  | LeapLeapLeap | 1548 |  |
+|  | Dirt_Scrabbler | 1549 |  |
+|  | Infested_Skitterer | 1550 |  |
+|  | Lowlands_Hopper | 1551 |  |
+|  | Sand_Skitterer | 1552 |  |
+|  | Sand_Leaper | 1553 |  |
+|  | Knitted_Horror | 1554 |  |
+|  | Timeless_Horror | 1555 |  |
+|  | Tangled_Remains | 1556 |  |
+|  | Bleached_Horror | 1557 |  |
+|  | Bonestilts | 1558 |  |
+|  | Bundle_of_Woe | 1559 |  |
+|  | Unravelling_Horror | 1560 |  |
+|  | Embers_of_the_Past | 1561 |  |
+|  | Shrieker | 1562 |  |
+|  | Voidscream | 1563 |  |
+|  | Shrieker_Eihal | 1564 |  |
+|  | Howler | 1565 |  |
+|  | Screecher | 1566 |  |
+|  | Pocked_Miner | 1567 |  |
+|  | Pocked_Mason | 1568 |  |
+|  | Pocked_Plunderer | 1569 |  |
+|  | Pikerivet | 1570 |  |
+|  | Lord_of_the_Hollows | 1571 |  |
+|  | Pocked_Lanternbearer | 1572 |  |
+|  | Pocked_Flamebringer | 1573 |  |
+|  | Pocked_Illuminator | 1574 |  |
+|  | The_Burning_Man | 1575 |  |
+|  | Messenger_of_the_Hollows | 1576 |  |
+|  | Tunneler | 1577 |  |
+|  | Crawler | 1578 |  |
+|  | Burrower | 1579 |  |
+|  | Hammerstorm | 1580 |  |
+|  | Breaker_Toruul | 1581 |  |
+|  | Pocked_Goliath | 1582 |  |
+|  | Pocked_Giant | 1583 |  |
+|  | Pocked_Behemoth | 1584 |  |
+|  | Sewer_Goliath | 1585 |  |
+|  | Large_Miner | 1586 |  |
+|  | Champion_of_the_Hollows | 1587 |  |
+|  | Chaos_Sentinel | 1588 |  |
+|  | Chaos_Guardian | 1589 |  |
+|  | Muruk_the_Awakened | 1590 |  |
+|  | Void_Anomaly | 1591 |  |
+|  | Avatar_of_Undoing | 1592 |  |
+|  | Chaos_Golem | 1593 |  |
+|  | Protective_Golem | 1594 |  |
+|  | Ebers_Colossus | 1595 |  |
+|  | Guardian_Golem | 1596 |  |
+|  | The_Dreadstone | 1597 |  |
+|  | Hyrris_Sister | 1598 |  |
+|  | Hyrris_Ambusher | 1599 |  |
+|  | Kaoms_Chosen | 1600 |  |
+|  | Laviangas_Acolyte | 1601 |  |
+|  | Tukohamas_Scout | 1602 |  |
+|  | Tukohamas_Warrior | 1603 |  |
+|  | Tukohamas_Vanguard | 1604 |  |
+|  | Fury_Hound | 1605 |  |
+|  | War_Hound | 1606 |  |
+|  | Jawchaw | 1607 |  |
+|  | Raihara_Tukohamas_Loyal | 1608 |  |
+|  | Inua_Totem | 1609 |  |
+|  | Traitorous_Totem | 1610 |  |
+|  | Flameweeper | 1611 |  |
+|  | Vakali_Totem | 1612 |  |
+|  | Torchoak_Grove | 1613 |  |
+|  | Forest_of_Flames | 1614 |  |
+|  | Sapling | 1615 |  |
+|  | Tukohamas_Rage | 1616 |  |
+|  | Seedling | 1617 |  |
+|  | Rakango | 1618 |  |
+|  | Triskeriaki | 1619 |  |
+|  | War_Rakango | 1620 |  |
+|  | The_Infernal_King | 1621 |  |
+|  | Pitbull_Demon | 1622 |  |
+|  | Vicious_Hound | 1623 |  |
+|  | Steelchaw | 1624 |  |
+|  | Gnar_Eater_of_Carrion | 1625 |  |
+|  | Pit_Butcher | 1626 |  |
+|  | Rooster_Fiend | 1627 |  |
+|  | Rooster_Demon | 1628 |  |
+|  | Talon_Archer | 1629 |  |
+|  | Eyepecker | 1630 |  |
+|  | Stonebeak_Battle_Fowl | 1631 |  |
+|  | Talon_Demon | 1632 |  |
+|  | Feral_Fowl | 1633 |  |
+|  | Barkhul | 1634 |  |
+|  | Tore_Towering_Ancient | 1635 |  |
+|  | Olof_Son_of_the_Headsman | 1636 |  |
+|  | Avatar_of_Thunder | 1637 |  |
+|  | Mad_Gladiator | 1638 |  |
+|  | Bringer_of_Blood | 1639 |  |
+|  | Fighting_Bull | 1640 |  |
+|  | Avalanche_Rider | 1641 |  |
+|  | Grazing_Taurus | 1642 |  |
+|  | Battlecharger | 1643 |  |
+|  | Crusher_of_Gladiators | 1644 |  |
+|  | Boulderback | 1645 |  |
+|  | Shredder_of_Gladiators | 1646 |  |
+|  | Daresso_King_of_Swords | 1647 |  |
+|  | Ambrius_Legion_Slayer | 1648 |  |
+|  | Echo_of_Daresso | 1649 |  |
+|  | Wandering_Eye | 1650 |  |
+|  | Wideeyed_Assemblage | 1651 |  |
+|  | Pain_Witness | 1652 |  |
+|  | Strabismal_Sentry | 1653 |  |
+|  | Static_Eye | 1654 |  |
+|  | Doedres_Sight | 1655 |  |
+|  | Eye_Hatchery | 1656 |  |
+|  | The_Mother_of_Pus | 1657 |  |
+|  | Gut_Flayer | 1658 |  |
+|  | Arranged_Anatomy | 1659 |  |
+|  | Boiled_Dead | 1660 |  |
+|  | Gut_Spiker | 1661 |  |
+|  | Noisome_Ophidian | 1662 |  |
+|  | Death_Blossom | 1663 |  |
+|  | Maligaro_The_Inquisitor | 1664 |  |
+|  | Prodigy_of_Pain | 1665 |  |
+|  | He_of_Many_Pieces | 1666 |  |
+|  | Echo_of_Maligaro | 1667 |  |
+|  | Doedre_Darktongue | 1668 |  |
+|  | Prodigy_of_Hexes | 1669 |  |
+|  | Erythrophagia | 1670 |  |
+|  | Echo_of_Doedre | 1671 |  |
+|  | Headmistress_Braeta | 1672 |  |
+|  | Shavronne_of_Umbra | 1673 |  |
+|  | Prodigy_of_Darkness | 1674 |  |
+|  | Gisale_Thought_Thief | 1675 |  |
+|  | Malachai_The_Nightmare | 1676 |  |
+|  | Eater_of_Souls | 1677 |  |
+|  | Nightmares_Omen | 1678 |  |
+|  | Icy_Manifestation | 1679 |  |
+|  | Brittle_Shard | 1680 |  |
+|  | Window_Shard | 1681 |  |
+|  | Obsidian_Golem | 1682 |  |
+|  | Fragment_of_Winter | 1683 |  |
+|  | Volatile_Ice | 1684 |  |
+|  | Brittle_Ice | 1685 |  |
+|  | Ice_Golem | 1686 |  |
+|  | Lesser_Ice_Golem | 1687 |  |
+|  | Bound_Ice | 1688 |  |
+|  | Volatile_Fire | 1689 |  |
+|  | Flame_Golem | 1690 |  |
+|  | Lesser_Flame_Golem | 1691 |  |
+|  | Volcanic_Golem | 1692 |  |
+|  | Solarborn_Golem | 1693 |  |
+|  | Meteor_Golem | 1694 |  |
+|  | Bound_Flame | 1695 |  |
+|  | Hateful_Fire | 1696 |  |
+|  | Volatile_Poison | 1697 |  |
+|  | Stormstruck_Golem | 1698 |  |
+|  | Lightning_Golem | 1699 |  |
+|  | Jiquanis_Creation | 1700 |  |
+|  | Omnitects_Guard | 1701 |  |
+|  | Energy_Aberration | 1702 |  |
+|  | Bound_Storm | 1703 |  |
+|  | Stone_of_the_Currents | 1704 |  |
+|  | Blood_Worm | 1705 |  |
+|  | Writhing_Worm | 1706 |  |
+|  | Savage_Crab | 1707 |  |
+|  | Enraptured_Crab | 1708 |  |
+|  | Infested_Crawler | 1709 |  |
+|  | Infested_Crab | 1710 |  |
+|  | Crab_Champion | 1711 |  |
+|  | Bleached_Crawler | 1712 |  |
+|  | Primordial_Creation | 1713 |  |
+|  | TESTORATOR | 1714 |  |
+|  | Herald_of_Ash | 1715 |  |
+|  | Brinerot_Raider | 1716 |  |
+|  | Brinerot_Soothsayer | 1717 |  |
+|  | Brinerot_Stormhand | 1718 |  |
+|  | Musky_TwoEyes_Grenn | 1719 |  |
+|  | Susara_Siren_of_Pondium | 1720 |  |
+|  | Lussi_Rotmother_Roth | 1721 |  |
+|  | Mutewind_Wildrunner | 1722 |  |
+|  | Mutewind_Lynx | 1723 |  |
+|  | Mutewind_Hexbinder | 1724 |  |
+|  | Mutewind_Snowsinger | 1725 |  |
+|  | Yorishi_Aurorasage | 1726 |  |
+|  | Jeinei_Yuushu | 1727 |  |
+|  | Otesha_the_Giantslayer | 1728 |  |
+|  | Redblade_Skullbreaker | 1729 |  |
+|  | Redblade_Flamelord | 1730 |  |
+|  | Redblade_Warmonger | 1731 |  |
+|  | Uruk_Baleh | 1732 |  |
+|  | ElAbin_Bloodeater | 1733 |  |
+|  | Leli_Goya_Daughter_of_Ash | 1734 |  |
+|  | Binaia_Crimson_Rain | 1735 |  |
+|  | Rama_The_Kinslayer | 1736 |  |
+|  | Kalria_The_Fallen | 1737 |  |
+|  | Kalria_The_Risen | 1738 |  |
+|  | Risen_Legionnaire | 1739 |  |
+|  | Risen_Archer | 1740 |  |
+|  | Risen_Battlemage | 1741 |  |
+|  | Invari_The_Bloodshaper | 1742 |  |
+|  | Lokan_The_Deceiver | 1743 |  |
+|  | Marchak_The_Betrayer | 1744 |  |
+|  | Berrots_The_Breaker | 1745 |  |
+|  | Vessider_The_Unrivaled | 1746 |  |
+|  | Morgrants_The_Deafening | 1747 |  |
+|  | Gemling_Legionnaire | 1748 |  |
+|  | Ironclad_Arsonist | 1749 |  |
+|  | Ironclad_Demolisher | 1750 |  |
+|  | Ironclad_Decimator | 1751 |  |
+|  | Gemling_Captain | 1752 |  |
+|  | Captain_Tanner_Lightfoot | 1753 |  |
+|  | Heart_of_the_Beast | 1754 |  |
+|  | Stygian_Revenant | 1755 |  |
+|  | Escaped_Revenant | 1756 |  |
+|  | The_Bone_Queen | 1757 |  |
+|  | Thraxia | 1758 |  |
+|  | Dimachaeri_Cassius | 1759 |  |
+|  | Mevia | 1760 |  |
+|  | Rudiarius_Felix | 1761 |  |
+|  | Mevion | 1762 |  |
+|  | Avatar_of_the_Huntress | 1763 |  |
+|  | Avatar_of_the_Skies | 1764 |  |
+|  | Avatar_of_the_Forge | 1765 |  |
+|  | Argus | 1766 |  |
+|  | Hephaeus_The_Hammer | 1767 |  |
+|  | Dancing_Dervish | 1768 |  |
+|  | Grave_Spirit | 1769 |  |
+|  | Doedres_Hatred | 1770 |  |
+|  | Stone_Golem | 1771 |  |
+|  | Animated_Stone | 1772 |  |
+|  | Hill_Shard | 1773 |  |
+|  | Hill_Fragment | 1774 |  |
+|  | Hill_Remnant | 1775 |  |
+|  | Animated_Reef | 1776 |  |
+|  | Defiled_Proclamation | 1777 |  |
+|  | Arctic_Golem | 1778 |  |
+|  | The_Eroding_One | 1779 |  |
+|  | Guardian_of_the_Vault | 1780 |  |
+|  | Pirate_Treasure | 1781 |  |
+|  | Regenerative_Golem | 1782 |  |
+|  | Fiery_Crystal | 1783 |  |
+|  | Icy_Crystal | 1784 |  |
+|  | Talisman_Daemon | 1785 |  |
+|  | Wither_Daemon | 1786 |  |
+|  | AnimatedWeapon | 1787 |  |
+|  | Endless_Pain | 1788 |  |
+|  | Endless_Hazard | 1789 |  |
+|  | Endless_Drought | 1790 |  |
+|  | Endless_Sting | 1791 |  |
+|  | Unending_Lethargy | 1792 |  |
+|  | Unending_Frost | 1793 |  |
+|  | Unending_Fire | 1794 |  |
+|  | Unending_Storm | 1795 |  |
+|  | Goddess_of_Justice | 1796 |  |
+|  | The_Goddess | 1797 |  |
+|  | Vision_of_Justice | 1798 |  |
+|  | Lieutenant_of_Rage | 1799 |  |
+|  | Lieutenant_of_the_Bow | 1800 |  |
+|  | Lieutenant_of_the_Mace | 1801 |  |
+|  | Invisible | 1802 |  |
+|  | Banner_of_Hatred | 1803 |  |
+|  | Unbound_Rhoa | 1804 |  |
+|  | Unbound_Beast | 1805 |  |
+|  | Unbound_Hellion | 1806 |  |
+|  | Unbound_Primate_Chieftain | 1807 |  |
+|  | Unbound_Primate | 1808 |  |
+|  | Unbound_Cobra | 1809 |  |
+|  | Unbound_Arachnid | 1810 |  |
+|  | Unbound_Razormaw | 1811 |  |
+|  | Unbound_Chimeral | 1812 |  |
+|  | Unbound_Retch | 1813 |  |
+|  | Unbound_Ursa | 1814 |  |
+|  | Unbound_Gazer | 1815 |  |
+|  | Rigwald_the_Wolven_King | 1816 |  |
+|  | Relentless_Rhoa | 1817 |  |
+|  | Soul_of_Summer | 1818 |  |
+|  | Soul_of_Winter | 1819 |  |
+|  | Echo_of_the_Verdant | 1820 |  |
+|  | Charging_Bull | 1821 |  |
+|  | Charged_Engineer | 1822 |  |
+|  | Frozen_Builder | 1823 |  |
+|  | Immolator | 1824 |  |
+|  | Burning_Follower | 1825 |  |
+|  | Ryslathas_Nest | 1826 |  |
+|  | Gorulis_Nest | 1827 |  |
+|  | Burning_Ember | 1828 |  |
+|  | Guardian_of_the_Goddess | 1829 |  |
+|  | Cinder_Claimant | 1830 |  |
+|  | Burnt_Claimant | 1831 |  |
+|  | Ember_Claimant | 1832 |  |
+|  | Frost_Claimant | 1833 |  |
+|  | Rime_Claimant | 1834 |  |
+|  | Thundrous_Claimant | 1835 |  |
+|  | Storm_Claimant | 1836 |  |
+|  | Bitter_Deceiver | 1837 |  |
+|  | Seething_Deceiver | 1838 |  |
+|  | Fulminating_Deceiver | 1839 |  |
+|  | Accursed_Deceiver | 1840 |  |
+|  | Maze_Webspinner | 1841 |  |
+|  | Maze_Hatchling | 1842 |  |
+|  | Ancient_Contender | 1843 |  |
+|  | Putrescent_Contender | 1844 |  |
+|  | Rotting_Claimant | 1845 |  |
+|  | Eternal_Reanimator | 1846 |  |
+|  | Rotting_Contender | 1847 |  |
+|  | Eternal_Servant | 1848 |  |
+|  | Rime_Servant | 1849 |  |
+|  | Cinder_Servant | 1850 |  |
+|  | Shadow_Lurker | 1851 |  |
+|  | Molten_Shaker | 1852 |  |
+|  | Ancient_Combatant | 1853 |  |
+|  | Maze_Crusher | 1854 |  |
+|  | Undead_Guardian | 1855 |  |
+|  | Marionette | 1856 |  |
+|  | Spectral_Artisan | 1857 |  |
+|  | Skulking_Dweller | 1858 |  |
+|  | Maze_Needleback | 1859 |  |
+|  | Maze_Slitherer | 1860 |  |
+|  | Crushing_Mass | 1861 |  |
+|  | Muck_Elemental | 1862 |  |
+|  | Poisonous_Rat | 1863 |  |
+|  | Plague_Totem | 1864 |  |
+|  | Swarming_Rat | 1865 |  |
+|  | Overgrown_Rat | 1866 |  |
+|  | Bonechomp | 1867 |  |
+|  | Blue_Frog | 1868 |  |
+|  | Common_Frog | 1869 |  |
+|  | Strange_Frog | 1870 |  |
+|  | Karui_Spirit | 1871 |  |
+|  | Font_of_Lethargy | 1872 |  |
+|  | Font_of_Fragility | 1873 |  |
+|  | Font_of_Elements | 1874 |  |
+|  | SteelImbued_Gargoyle | 1875 |  |
+|  | QuicksilverImbued_Gargoyle | 1876 |  |
+|  | GraniteImbued_Gargoyle | 1877 |  |
+|  | Chromatic_Gargoyle | 1878 |  |
+|  | Chrometouched_Gargoyle | 1879 |  |
+|  | Threshold_of_Anger | 1880 |  |
+|  | Threshold_of_Hatred | 1881 |  |
+|  | Threshold_of_Wrath | 1882 |  |
+|  | Flame_Idol | 1883 |  |
+|  | Frost_Idol | 1884 |  |
+|  | Storm_Idol | 1885 |  |
+|  | Perandus_Daemon | 1886 |  |
+|  | Junith_Perandus_Keeper_of_Vaults | 1887 |  |
+|  | Platinia_Servant_of_Prospero | 1888 |  |
+|  | Platinia | 1889 |  |
+|  | Tantalo_Perandus_Seller_of_Secrets | 1890 |  |
+|  | Auriot_Prosperos_Furnace_Guardian | 1891 |  |
+|  | Auriot | 1892 |  |
+|  | Actaeo_Perandus_Master_of_Beasts | 1893 |  |
+|  | Rhodion_Servant_of_Prospero | 1894 |  |
+|  | Rhodion | 1895 |  |
+|  | Vitorica_Perandus_Maker_of_Marvels | 1896 |  |
+|  | Osmea_Servant_of_Prospero | 1897 |  |
+|  | Stasius_Perandus_Merchant_of_Corpses | 1898 |  |
+|  | Pallias_Servant_of_Prospero | 1899 |  |
+|  | Pallias | 1900 |  |
+|  | Darsia_Perandus_Collector_of_Debts | 1901 |  |
+|  | Argient_Servant_of_Prospero | 1902 |  |
+|  | Argient | 1903 |  |
+|  | Milo_Perandus_Handler_of_Swords | 1904 |  |
+|  | Rheniot_Servant_of_Prospero | 1905 |  |
+|  | Rheniot | 1906 |  |
+|  | Celona_Vault_Sentry | 1907 |  |
+|  | Hortus_Knee_Breaker | 1908 |  |
+|  | Kuto_Hired_Muscle | 1909 |  |
+|  | Luthis_Bounty_Hunter | 1910 |  |
+|  | Belatra_Hired_Assassin | 1911 |  |
+|  | Liana_Indebted_Peasant | 1912 |  |
+|  | Marius_Indebted_Smuggler | 1913 |  |
+|  | Vera_Indebted_Aristocrat | 1914 |  |
+|  | Percia_Indebted_Poacher | 1915 |  |
+|  | Sutrus_Vault_Binder | 1916 |  |
+|  | Otairo_Vault_Binder | 1917 |  |
+|  | Eiphirio_Vault_Binder | 1918 |  |
+|  | Artensia_Vault_Binder | 1919 |  |
+|  | Anaveli_Vault_Binder | 1920 |  |
+|  | Rothus_Vault_Binder | 1921 |  |
+|  | Arinea_Vault_Binder | 1922 |  |
+|  | Meritania_Vault_Binder | 1923 |  |
+|  | Shackled_Apparition | 1924 |  |
+|  | Guard_Hound | 1925 |  |
+|  | Phantom_Outcast | 1926 |  |
+|  | Phantom_Impaler | 1927 |  |
+|  | Phantom_Untouchable | 1928 |  |
+|  | Plumed_Apparition | 1929 |  |
+|  | Croaking_Apparition | 1930 |  |
+|  | Highborn_Evangelist | 1931 |  |
+|  | Highborn_Grappler | 1932 |  |
+|  | Devoted_Archer | 1933 |  |
+|  | Devoted_Thug | 1934 |  |
+|  | Devoted_Warrior | 1935 |  |
+|  | Indebted_Wretch | 1936 |  |
+|  | Indebted_Incinerator | 1937 |  |
+|  | Spectral_Hireling | 1938 |  |
+|  | Spectral_Mercenary | 1939 |  |
+|  | Perandus_Concubine | 1940 |  |
+|  | Perandus_Servant | 1941 |  |
+|  | Izaro_Charges | 1942 |  |
+|  | Parasite | 1943 |  |
+|  | Ravenous_Parasite | 1944 |  |
+|  | Broodspawn_Parasite | 1945 |  |
+|  | Vicious_Parasite | 1946 |  |
+|  | The_Encephelophage | 1947 |  |
+|  | Poisonous_Parasite | 1948 |  |
+|  | Plated_Parasite | 1949 |  |
+|  | Spitting_Parasite | 1950 |  |
+|  | Brine_Vassal | 1951 |  |
+|  | Swarthy_Mollusc | 1952 |  |
+|  | Eber_the_Plaguemaw | 1953 |  |
+|  | Inya_the_Unbearable_Whispers | 1954 |  |
+|  | Yriel_the_Feral_Lord | 1955 |  |
+|  | Volkuur_the_Unbreathing_Queen | 1956 |  |
+|  | Echo_of_the_Vaal | 1957 |  |
+|  | Remembered_Construct | 1958 |  |
+|  | Vaal_Memory | 1959 |  |
+|  | Prophecy_Daemon | 1960 |  |
+|  | Rania_Skyborne | 1961 |  |
+|  | Lora_the_Contender | 1962 |  |
+|  | Terese_Napora | 1963 |  |
+|  | Ancient_Hero | 1964 |  |
+|  | Ancient_Dead | 1965 |  |
+|  | Malachais_Laureate | 1966 |  |
+|  | Purge_Hound | 1967 |  |
+|  | Lola_the_Fierce | 1968 |  |
+|  | Rocco_the_Bloodthirsty | 1969 |  |
+|  | Volatile_Tome | 1970 |  |
+|  | Whispering_Tome | 1971 |  |
+|  | Wicker_Man | 1972 |  |
+|  | Avarius_Reassembled | 1973 |  |
+|  | Guardian_of_the_Phoenix | 1974 |  |
+|  | Phoenix | 1975 |  |
+|  | Guardian_of_the_Hydra | 1976 |  |
+|  | Guardians_Reflection | 1977 |  |
+|  | Guardian_of_the_Minotaur | 1978 |  |
+|  | Guardian_of_the_Chimera | 1979 |  |
+|  | Twisted_Effigy | 1980 |  |
+|  | Carius_the_Unnatural | 1981 |  |
+|  | Exartze_the_Woven_Stone | 1982 |  |
+|  | Slave_Driver | 1983 |  |
+|  | Crazed_Driver | 1984 |  |
+|  | Overseer_Krow | 1985 |  |
+|  | Arwyn_the_Houndmaster | 1986 |  |
+|  | Temple_Justicar | 1987 |  |
+|  | Twisted_Justicar | 1988 |  |
+|  | Depraved_Justicar | 1989 |  |
+|  | Justicar_Casticus | 1990 |  |
+|  | Executioner_Bloodwing | 1991 |  |
+|  | Blackguard_Stalker | 1992 |  |
+|  | Warped_Regurgitator | 1993 |  |
+|  | Slave_Catcher | 1994 |  |
+|  | Deranged_Slaver | 1995 |  |
+|  | Depraved_Slaver | 1996 |  |
+|  | Fleshmonster | 1997 |  |
+|  | Titan_Totem | 1998 |  |
+|  | Guardians_Goatman | 1999 |  |
+|  | Avatar_of_the_Goat | 2000 |  |
+|  | Guardians_Hellion | 2001 |  |
+|  | Avatar_of_the_Hellion | 2002 |  |
+|  | Guardians_Snake | 2003 |  |
+|  | Avatar_of_the_Snake | 2004 |  |
+|  | Anomaly | 2005 |  |
+|  | Volatile_Anomaly | 2006 |  |
+|  | Volatile_Core | 2007 |  |
+|  | WIP | 2008 |  |
+|  | Energy_Locus | 2009 |  |
+|  | Essence_Spirit | 2010 |  |
+|  | Shaped_Kaoms_Chosen | 2011 |  |
+|  | Shaped_Hyrris_Sister | 2012 |  |
+|  | Shaped_Rooster_Demon | 2013 |  |
+|  | Shaped_Pitbull_Demon | 2014 |  |
+|  | Shaped_Undying_Worker | 2015 |  |
+|  | Shaped_Undying_Archivist | 2016 |  |
+|  | Shaped_Undying_Grappler | 2017 |  |
+|  | Shaped_Vaal_Recluse | 2018 |  |
+|  | Shaped_Noxious_Tarantula | 2019 |  |
+|  | Shaped_Deadly_Tarantula | 2020 |  |
+|  | Shaped_Callow_Thug | 2021 |  |
+|  | Shaped_Shadow_Stalker | 2022 |  |
+|  | Shaped_Highwayman | 2023 |  |
+|  | Flame_Mother | 2024 |  |
+|  | The_Matriarch | 2025 |  |
+|  | Pileah_Corpse_Burner | 2026 |  |
+|  | The_Risen_Matriarch | 2027 |  |
+|  | Pileah_Burning_Corpse | 2028 |  |
+|  | The_Rotten_Matriarch | 2029 |  |
+|  | Kiln_Mother | 2030 |  |
+|  | Blessed_Sister | 2031 |  |
+|  | Sanguine_Sister | 2032 |  |
+|  | Temple_Ward | 2033 |  |
+|  | Temple_Guardian | 2034 |  |
+|  | Heretical_Ward | 2035 |  |
+|  | Heretical_Guardian | 2036 |  |
+|  | Xophs_Loyal | 2037 |  |
+|  | Displaced_Loyal | 2038 |  |
+|  | Xophs_Favoured | 2039 |  |
+|  | Chayulas_Perfected | 2040 |  |
+|  | They_of_Tul | 2041 |  |
+|  | Scale_of_Esh | 2042 |  |
+|  | Displaced_Scale | 2043 |  |
+|  | UulNetols_Trophy | 2044 |  |
+|  | UulNetols_Pet | 2045 |  |
+|  | It_That_Watches | 2046 |  |
+|  | It_of_Tul | 2047 |  |
+|  | It_That_Waits | 2048 |  |
+|  | It_That_Is_Displaced | 2049 |  |
+|  | It_That_Whispers | 2050 |  |
+|  | Chayulas_Ideal | 2051 |  |
+|  | It_That_Reaches | 2052 |  |
+|  | Xoph_Dark_Embers | 2053 |  |
+|  | Tul_Creeping_Avalanche | 2054 |  |
+|  | Esh_Forked_Thought | 2055 |  |
+|  | UulNetol_Unburdened_Flesh | 2056 |  |
+|  | Chayula_Who_Dreamt | 2057 |  |
+|  | High_Templar_Avarius | 2058 |  |
+|  | Konley_the_Unrepentant | 2059 |  |
+|  | Woad_Mockery_of_Man | 2060 |  |
+|  | Innocence_GodEmperor_of_Eternity | 2061 |  |
+|  | The_Cleansing_Light | 2062 |  |
+|  | Guardian_of_Eternity | 2063 |  |
+|  | Corrupted_Guardian_of_Eternity | 2064 |  |
+|  | Reassembled_Brutus | 2065 |  |
+|  | Bazur | 2066 |  |
+|  | Shavronne_the_Returned | 2067 |  |
+|  | Liantra | 2068 |  |
+|  | Tome_of_Thunder | 2069 |  |
+|  | Tsoagoth_The_Brine_King | 2070 |  |
+|  | Nassar_Lion_of_the_Seas | 2071 |  |
+|  | Brinespawn | 2072 |  |
+|  | Sulphurspawn | 2073 |  |
+|  | Vendigo | 2074 |  |
+|  | The_White_Death | 2075 |  |
+|  | Blackguard_Jaeger | 2076 |  |
+|  | Risen_Jaeger | 2077 |  |
+|  | Kitavas_Herald | 2078 |  |
+|  | Plaguewing | 2079 |  |
+|  | The_Grey_Plague | 2080 |  |
+|  | Rattling_Condemned | 2081 |  |
+|  | Sandworn_Slaves | 2082 |  |
+|  | Doedre_the_Vile | 2083 |  |
+|  | Portentia_the_Foul | 2084 |  |
+|  | Noble_Dead | 2085 |  |
+|  | Rhys_of_Abram | 2086 |  |
+|  | Experimented_Dead | 2087 |  |
+|  | Indoctrinated_Slave | 2088 |  |
+|  | Deformed_Slave | 2089 |  |
+|  | Truth_Extractor | 2090 |  |
+|  | Defiled_Extractor | 2091 |  |
+|  | Corrupted_Extractor | 2092 |  |
+|  | Seafloor_Maiden | 2093 |  |
+|  | Maiden_of_the_Black_Crest | 2094 |  |
+|  | Dreadwheel | 2095 |  |
+|  | Fleetfreak | 2096 |  |
+|  | Handmaiden | 2097 |  |
+|  | Stonefist | 2098 |  |
+|  | Prayer_Guard | 2099 |  |
+|  | Solar_Elemental | 2100 |  |
+|  | Solar_Guard | 2101 |  |
+|  | Spider_Minion | 2102 |  |
+|  | Temple_Adjudicator | 2103 |  |
+|  | Heretical_Adjudicator | 2104 |  |
+|  | Oriath_Enforcer | 2105 |  |
+|  | Enthralled_Enforcer | 2106 |  |
+|  | Depraved_Enforcer | 2107 |  |
+|  | Lunaris_Eternal_Moon | 2108 |  |
+|  | Selenia_the_Endless_Night | 2109 |  |
+|  | Dusk_Harbinger_of_Lunaris | 2110 |  |
+|  | Sebbert_Crescents_Point | 2111 |  |
+|  | Arteth_Selenias_Herald | 2112 |  |
+|  | Roaming_Gloom | 2113 |  |
+|  | Solaris_Eternal_Sun | 2114 |  |
+|  | Helial_the_Day_Unending | 2115 |  |
+|  | Dawn_Harbinger_of_Solaris | 2116 |  |
+|  | Jorus_Skys_Edge | 2117 |  |
+|  | Opid_Helials_Herald | 2118 |  |
+|  | Roaming_Embers | 2119 |  |
+|  | Maligaro_the_Artist | 2120 |  |
+|  | Visceris | 2121 |  |
+|  | Black_Death_Pain_Unending | 2122 |  |
+|  | Akaveesh | 2123 |  |
+|  | Fidelitas_Loyalty_Undying | 2124 |  |
+|  | Muneh | 2125 |  |
+|  | Plagued_Arachnid | 2126 |  |
+|  | Diseased_Arachnid | 2127 |  |
+|  | Maligaros_Muse | 2128 |  |
+|  | Arakaalis_Acolyte | 2129 |  |
+|  | Arakaalis_Creation | 2130 |  |
+|  | Hybrid_Arachnid | 2131 |  |
+|  | Scalding_Arachnid | 2132 |  |
+|  | Unholy_Aberration | 2133 |  |
+|  | Greust_Lord_of_the_Forest | 2134 |  |
+|  | Drek_Apex_Hunter | 2135 |  |
+|  | Greusts_Archer | 2136 |  |
+|  | Greusts_Bandit | 2137 |  |
+|  | Oaks_Archer | 2138 |  |
+|  | Oaks_Bandit | 2139 |  |
+|  | Aliras_Archer | 2140 |  |
+|  | Aliras_Bandit | 2141 |  |
+|  | Kraityns_Archer | 2142 |  |
+|  | Kraityns_Bandit | 2143 |  |
+|  | Arakaali_Spinner_of_Shadows | 2144 |  |
+|  | Armala_the_Widow | 2145 |  |
+|  | Kitava_the_Insatiable | 2146 |  |
+|  | Lord_of_the_Grey | 2147 |  |
+|  | Kitava_The_Destroyer | 2148 |  |
+|  | Kitavas_Heart | 2149 |  |
+|  | The_Lords_Heart | 2150 |  |
+|  | The_Destroyers_Heart | 2151 |  |
+|  | Utula_Stone_and_Steel | 2152 |  |
+|  | Calderus | 2153 |  |
+|  | Xuatl_Cutting_Wind | 2154 |  |
+|  | Daluatti_Stoneraiser | 2155 |  |
+|  | Anacuacotli_Deaths_Worship | 2156 |  |
+|  | Huitepa_the_Blind | 2157 |  |
+|  | Guraq_Daylights_Blade | 2158 |  |
+|  | Harbinger_of_Disorder | 2159 |  |
+|  | Tukohama_Karui_God_of_War | 2160 |  |
+|  | Tahsin_Warmaker | 2161 |  |
+|  | Tukohamas_Suffering | 2162 |  |
+|  | Tahsins_Suffering | 2163 |  |
+|  | Tukohamas_Servant | 2164 |  |
+|  | Tukohamas_Protection | 2165 |  |
+|  | Tukohamas_Frenzy | 2166 |  |
+|  | Soul_of_Prophecy | 2167 |  |
+|  | Soul_of_Breach | 2168 |  |
+|  | Soul_of_Essence | 2169 |  |
+|  | Soul_of_Perandus | 2170 |  |
+|  | Soul_of_Anarchy | 2171 |  |
+|  | Soul_of_Talisman | 2172 |  |
+|  | Soul_of_Tempest | 2173 |  |
+|  | Soul_of_Rampage | 2174 |  |
+|  | Soul_of_Beyond | 2175 |  |
+|  | Soul_of_Onslaught | 2176 |  |
+|  | Soul_of_Ambush | 2177 |  |
+|  | Soul_of_Bloodlines | 2178 |  |
+|  | Soul_of_Nemesis | 2179 |  |
+|  | Soul_of_Torment | 2180 |  |
+|  | Soul_of_Domination | 2181 |  |
+|  | Soul_of_Invasion | 2182 |  |
+|  | Soul_of_Warbands | 2183 |  |
+|  | __hbgm01__ | 2184 |  |
+|  | __HRB1__ | 2185 |  |
+|  | __HRB2__ | 2186 |  |
+|  | __HRB3__ | 2187 |  |
+|  | __HRB4__ | 2188 |  |
+|  | __HRB5__ | 2189 |  |
+|  | __HRB6__ | 2190 |  |
+|  | __HRB7__ | 2191 |  |
+|  | __HRB8__ | 2192 |  |
+|  | __HRB9__ | 2193 |  |
+|  | __HRB10__ | 2194 |  |
+|  | __HRB11__ | 2195 |  |
+|  | __HRB12__ | 2196 |  |
+|  | __HRB13__ | 2197 |  |
+|  | __HRB14__ | 2198 |  |
+|  | __HRB15__ | 2199 |  |
+|  | __HRB16__ | 2200 |  |
+|  | __HRB17__ | 2201 |  |
+|  | __HRB18__ | 2202 |  |
+|  | __HRB19__ | 2203 |  |
+|  | __HRB20__ | 2204 |  |
+|  | __HRB21__ | 2205 |  |
+|  | __HRB22__ | 2206 |  |
+|  | __HRB23__ | 2207 |  |
+|  | __HRB24__ | 2208 |  |
+|  | __HRB25__ | 2209 |  |
+|  | __HRB26__ | 2210 |  |
+|  | __HRB27__ | 2211 |  |
+|  | __HRB28__ | 2212 |  |
+|  | TEST | 2213 |  |
+|  | __HRB30__ | 2214 |  |
+|  | __HRB29__ | 2215 |  |
+|  | Chest | 2216 |  |
+|  | Karui_Rebel | 2217 |  |
+|  | The_Dishonoured_Queen | 2218 |  |
+|  | Forgotten_Warrior | 2219 |  |
+|  | Frightened_Citizen | 2220 |  |
+|  | Kitava_Zealot | 2221 |  |
+|  | Feast_Attendant | 2222 |  |
+|  | Abstract_of_Judgement | 2223 |  |
+|  | Spectral_Soldier | 2224 |  |
+|  | Spectral_Officer | 2225 |  |
+|  | Spectral_Legionnaire | 2226 |  |
+|  | Spectral_Tactician | 2227 |  |
+|  | Ondar_the_Betrayer | 2228 |  |
+|  | Lightborne_Apostle | 2229 |  |
+|  | Lightborne_Elite | 2230 |  |
+|  | Lightborne_Faithful | 2231 |  |
+|  | Brinecrack | 2232 |  |
+|  | Waste_Lurcher | 2233 |  |
+|  | Abberath_the_Cloven_One | 2234 |  |
+|  | Mephod_the_Earth_Scorcher | 2235 |  |
+|  | Wailing_Widow | 2236 |  |
+|  | Shrieking_Witch | 2237 |  |
+|  | The_Sanguine_Siren | 2238 |  |
+|  | Iorphia_Dream_Eater | 2239 |  |
+|  | Vengeful_Soul | 2240 |  |
+|  | Desperate_Soul | 2241 |  |
+|  | Gruthkul_Mother_of_Despair | 2242 |  |
+|  | Erebix_Lights_Bane | 2243 |  |
+|  | Restless_Pauper | 2244 |  |
+|  | Yugul_Reflection_of_Terror | 2245 |  |
+|  | Varhesh_Shimmering_Aberration | 2246 |  |
+|  | Reflection_of_Yugul | 2247 |  |
+|  | Reflection_of_Varhesh | 2248 |  |
+|  | Silver_Orb | 2249 |  |
+|  | Silver_Pool | 2250 |  |
+|  | Egg_Sac | 2251 |  |
+|  | Arakaalis_Gift | 2252 |  |
+|  | Ryslathas_Brood_Egg | 2253 |  |
+|  | Bulbous_Growth | 2254 |  |
+|  | Yeena_Aspect_of_the_Fox | 2255 |  |
+|  | Bone_Husk | 2256 |  |
+|  | Hector_Titucius_Eternal_Servant | 2257 |  |
+|  | The_Forgotten_Soldier | 2258 |  |
+|  | Wild_Rhex | 2259 |  |
+|  | Maternal_Rhex | 2260 |  |
+|  | Adolescent_Rhex | 2261 |  |
+|  | Escaped_Rhex | 2262 |  |
+|  | Garukhan_Queen_of_the_Winds | 2263 |  |
+|  | Stalker_of_the_Endless_Dunes | 2264 |  |
+|  | Kira_Servant_of_Garukhan | 2265 |  |
+|  | The_Vulture_Queen | 2266 |  |
+|  | Preethi_EyePecker | 2267 |  |
+|  | Sand_Warrior | 2268 |  |
+|  | Sand_Goliath | 2269 |  |
+|  | Mummified_Maraketh | 2270 |  |
+|  | Black_Scorpion | 2271 |  |
+|  | Sulphuric_Scorpion | 2272 |  |
+|  | Sand_Scorpion | 2273 |  |
+|  | Tamulus | 2274 |  |
+|  | Predatory_Scorpion | 2275 |  |
+|  | Tamipin | 2276 |  |
+|  | The_Basilisk | 2277 |  |
+|  | The_Gorgon | 2278 |  |
+|  | Imperial_Legionaire | 2279 |  |
+|  | Imperial_Archer | 2280 |  |
+|  | Imperial_Vanguard | 2281 |  |
+|  | Doedre_Darksoul | 2282 |  |
+|  | Doedre_the_Defiler | 2283 |  |
+|  | Shavronne_Unbound | 2284 |  |
+|  | Shavronne_the_Sickening | 2285 |  |
+|  | Maligaro_The_Broken | 2286 |  |
+|  | Maligaro_the_Mutilator | 2287 |  |
+|  | The_Depraved_Trinity | 2288 |  |
+|  | Amalgam_of_Nightmares | 2289 |  |
+|  | Bone_Stalker | 2290 |  |
+|  | General_Adus | 2291 |  |
+|  | Pesquin_the_Mad_Baron | 2292 |  |
+|  | Refinery_Construct | 2293 |  |
+|  | Shavronnes_Vision | 2294 |  |
+|  | Void_Construct | 2295 |  |
+|  | Accursed_Monolith | 2296 |  |
+|  | Doedres_Monolith | 2297 |  |
+|  | Mountain_Lynx | 2298 |  |
+|  | Lightning_Orb | 2299 |  |
+|  | Tentacle_Fiend | 2300 |  |
+|  | Rhexback_Raider | 2301 |  |
+|  | Rhexback_Spearman | 2302 |  |
+|  | ____ | 2303 |  |
+|  | Harbingers_Panthera | 2304 |  |
+|  | Trio_Daemon | 2305 |  |
+|  | Doedre_Daemon | 2306 |  |
+|  | Shakari_Queen_of_the_Sands | 2307 |  |
+|  | Terror_of_the_Infinite_Drifts | 2308 |  |
+|  | Reliquarian | 2309 |  |
+|  | The_Grand_Antiquarian | 2310 |  |
+|  | Cauldron | 2311 |  |
+|  | Droolmaw | 2312 |  |
+|  | Primeval_Watcher | 2313 |  |
+|  | Risen_Watcher | 2314 |  |
+|  | Primeval_Hunter | 2315 |  |
+|  | Risen_Hunter | 2316 |  |
+|  | Corpse_Thief | 2317 |  |
+|  | Risen_Thief | 2318 |  |
+|  | Lightless_Terror | 2319 |  |
+|  | Wellwing | 2320 |  |
+|  | Deep_Stalker | 2321 |  |
+|  | Risen_Stalker | 2322 |  |
+|  | Thresher | 2323 |  |
+|  | Risen_Thresher | 2324 |  |
+|  | Pit_Maw | 2325 |  |
+|  | Risen_Maw | 2326 |  |
+|  | Lightless_Nightmare | 2327 |  |
+|  | Wellwing_Matriarch | 2328 |  |
+|  | Ulaman_Sovereign_of_the_Well | 2329 |  |
+|  | Amanamu_Liege_of_the_Lightless | 2330 |  |
+|  | Kurgal_the_Blackblooded | 2331 |  |
+|  | The_Enslaver | 2332 |  |
+|  | The_Eradicator | 2333 |  |
+|  | The_Constrictor | 2334 |  |
+|  | The_Purifier | 2335 |  |
+|  | The_Elder | 2336 |  |
+|  | Doedres_Effigy | 2337 |  |
+|  | Coconut_Crab | 2338 |  |
+|  | Bleached_Coconut_Crab | 2339 |  |
+|  | Graceful_Kelp_Crab | 2340 |  |
+|  | Bleached_Kelp_Crab | 2341 |  |
+|  | Nimble_Spray_Crab | 2342 |  |
+|  | Bleached_Spray_Crab | 2343 |  |
+|  | Spider_Crab | 2344 |  |
+|  | Bleached_Spider_Crab | 2345 |  |
+|  | Stygian_Spire | 2346 |  |
+|  | Stygian_Heart | 2347 |  |
+|  | Pitworm | 2348 |  |
+|  | Lightless_Grub | 2349 |  |
+|  | Well_Creeper | 2350 |  |
+|  | Null_Portal | 2351 |  |
+|  | Eldritch_Spawn | 2352 |  |
+|  | Madness_Propagator | 2353 |  |
+|  | Formless_Witness | 2354 |  |
+|  | Strange_Rabbit | 2355 |  |
+|  | Saqawine_Rhoa_Spirit | 2356 |  |
+|  | Saqawine_Rhex | 2357 |  |
+|  | Young_Saqawine_Rhex | 2358 |  |
+|  | Hungry_Saqawine_Rhex | 2359 |  |
+|  | Saqawal_First_of_the_Sky | 2360 |  |
+|  | Saqawine_Rhoa | 2361 |  |
+|  | Adolescent_Saqawine_Rhoa | 2362 |  |
+|  | Aggressive_Saqawine_Rhoa | 2363 |  |
+|  | Saqawine_Vulture | 2364 |  |
+|  | Hungry_Saqawine_Vulture | 2365 |  |
+|  | Young_Saqawine_Vulture | 2366 |  |
+|  | Saqawine_Retch | 2367 |  |
+|  | Saqawine_Retch_Scavenger | 2368 |  |
+|  | Saqawine_Retch_Flockmate | 2369 |  |
+|  | Saqawine_Retch_Spirit | 2370 |  |
+|  | Saqawine_Cobra | 2371 |  |
+|  | Saqawine_Slitherer | 2372 |  |
+|  | Saqawine_Asp | 2373 |  |
+|  | Saqawine_Cobra_Spirit | 2374 |  |
+|  | Saqawine_Blood_Viper | 2375 |  |
+|  | Saqawine_Adder | 2376 |  |
+|  | Saqawine_Flamescale | 2377 |  |
+|  | Saqawine_Chimeral | 2378 |  |
+|  | Saqawine_Plumespitter | 2379 |  |
+|  | Saqawine_Stonescale | 2380 |  |
+|  | Saqawine_Chimeral_Spirit | 2381 |  |
+|  | Farric_Flame_Hellion_Alpha | 2382 |  |
+|  | Farric_Ember_Hellion | 2383 |  |
+|  | Farric_Frost_Hellion_Alpha | 2384 |  |
+|  | Farric_Flame_Hellion | 2385 |  |
+|  | Farric_Flamespitting_Hellion | 2386 |  |
+|  | Farric_Frost_Hellion | 2387 |  |
+|  | Farric_Frostspewing_Hellion | 2388 |  |
+|  | Farric_Lynx_Alpha | 2389 |  |
+|  | Farric_Lynx | 2390 |  |
+|  | Farric_Shredder | 2391 |  |
+|  | Farruls_Pack | 2392 |  |
+|  | Farric_Tiger_Alpha | 2393 |  |
+|  | Farric_Tiger | 2394 |  |
+|  | Farric_Pouncer | 2395 |  |
+|  | Farrul_First_of_the_Plains | 2396 |  |
+|  | Farric_Wolf_Alpha | 2397 |  |
+|  | Farric_Wolf | 2398 |  |
+|  | Farric_Howler | 2399 |  |
+|  | Craiceann_First_of_the_Deep | 2400 |  |
+|  | Fenumal_Queen | 2401 |  |
+|  | Fenumal_Mother | 2402 |  |
+|  | Fenumal_Strider | 2403 |  |
+|  | Fenumal_Scrabbler | 2404 |  |
+|  | Fenumal_Drone | 2405 |  |
+|  | Fenumal_Leaper | 2406 |  |
+|  | Fenumal_Pouncer | 2407 |  |
+|  | Fenumal_Devourer | 2408 |  |
+|  | Fenumal_Burrower | 2409 |  |
+|  | Fenumal_Eartheater | 2410 |  |
+|  | Fenumus_Devoted | 2411 |  |
+|  | Fenumal_Ambusher | 2412 |  |
+|  | Fenumal_Scorpion | 2413 |  |
+|  | Fenumal_Stinger | 2414 |  |
+|  | Fenumal_Sandwhipper | 2415 |  |
+|  | Fenumal_Striker | 2416 |  |
+|  | Fenumal_Plagued_Arachnid | 2417 |  |
+|  | Fenumal_Plaguecrawler | 2418 |  |
+|  | Fenumal_Pus_Arachnid | 2419 |  |
+|  | Fenumal_Virulent_Arachnid | 2420 |  |
+|  | Fenumal_Hybrid_Arachnid | 2421 |  |
+|  | Fenumal_Monstrosity | 2422 |  |
+|  | Fenumal_Abomination | 2423 |  |
+|  | Fenumus_First_of_the_Night | 2424 |  |
+|  | Fenumal_Widow | 2425 |  |
+|  | Fenumal_Webweaver | 2426 |  |
+|  | Fenumal_Spinner | 2427 |  |
+|  | Farric_Goliath | 2428 |  |
+|  | Farric_Reaver | 2429 |  |
+|  | Farric_Spikeback | 2430 |  |
+|  | Farric_Thornback | 2431 |  |
+|  | Farric_Taurus | 2432 |  |
+|  | Farric_Bull | 2433 |  |
+|  | Farric_Charger | 2434 |  |
+|  | Farric_Chieftain | 2435 |  |
+|  | Farric_Brute | 2436 |  |
+|  | Farric_Follower | 2437 |  |
+|  | Farric_Ape | 2438 |  |
+|  | Farric_Simian | 2439 |  |
+|  | Farric_Monkey | 2440 |  |
+|  | Farric_Goatman | 2441 |  |
+|  | Farric_Devil | 2442 |  |
+|  | Farric_Satyr | 2443 |  |
+|  | Farric_Bleeter | 2444 |  |
+|  | Farric_Magma_Hound | 2445 |  |
+|  | Farric_Cerberon | 2446 |  |
+|  | Farric_Ember_Hound | 2447 |  |
+|  | Farric_Pit_Hound | 2448 |  |
+|  | Farric_Attack_Hound | 2449 |  |
+|  | Farric_Dismemberer | 2450 |  |
+|  | Farric_Hound_Alpha | 2451 |  |
+|  | Farric_Tracker | 2452 |  |
+|  | Farric_Packhound | 2453 |  |
+|  | Farric_Gargantuan | 2454 |  |
+|  | Farric_Lumberer | 2455 |  |
+|  | Farric_Beast | 2456 |  |
+|  | Farric_Ursa | 2457 |  |
+|  | Farric_Fury | 2458 |  |
+|  | Farric_Fleshrender | 2459 |  |
+|  | Craicic_Sand_Spitter | 2460 |  |
+|  | Craicic_Graveleater | 2461 |  |
+|  | Craicic_Rockchewer | 2462 |  |
+|  | Craicic_Shield_Crab | 2463 |  |
+|  | Craicic_Shelter_Crab | 2464 |  |
+|  | Craicic_Crustacean | 2465 |  |
+|  | Craicic_Savage_Crab | 2466 |  |
+|  | Craicic_Sandstrider | 2467 |  |
+|  | Craicic_Spiked_Crab | 2468 |  |
+|  | Craicic_Spider_Crab | 2469 |  |
+|  | Craicic_Strider_Crab | 2470 |  |
+|  | Craicic_Stilted_Crab | 2471 |  |
+|  | Craicic_Maw | 2472 |  |
+|  | Craicic_Stomper | 2473 |  |
+|  | Craicic_Horror | 2474 |  |
+|  | Craicic_Chimeral | 2475 |  |
+|  | Craicic_Hunter | 2476 |  |
+|  | Craicic_Predator | 2477 |  |
+|  | Craicic_Vassal | 2478 |  |
+|  | Craicic_Bodythief | 2479 |  |
+|  | Craicic_Inkskin | 2480 |  |
+|  | Craicic_Squid | 2481 |  |
+|  | Craicic_Cephalis | 2482 |  |
+|  | Craicic_Swarmer | 2483 |  |
+|  | Craicic_Watcher | 2484 |  |
+|  | Craicic_Strangler | 2485 |  |
+|  | Craicic_Drifter | 2486 |  |
+|  | Void_Sphere | 2487 |  |
+|  | Farruls_Devoted | 2488 |  |
+|  | Bestial_Spirit | 2489 |  |
+|  | Craicic_Sandspitter | 2490 |  |
+|  | Craicic_Reaver | 2491 |  |
+|  | Test_Subject | 2492 |  |
+|  | Alva_Cazar_Treasure_Hunter | 2493 |  |
+|  | Grizzled_Bear | 2494 |  |
+|  | The_Vaal_Omnitect | 2495 |  |
+|  | Vaal_Saucer_Turret | 2496 |  |
+|  | Vaal_Zealot | 2497 |  |
+|  | Vaal_Fanatic | 2498 |  |
+|  | Vaal_Advocate | 2499 |  |
+|  | Risen_Vaal_Zealot | 2500 |  |
+|  | Risen_Vaal_Fanatic | 2501 |  |
+|  | Risen_Vaal_Advocate | 2502 |  |
+|  | Tacati_Architect_of_Toxins | 2503 |  |
+|  | Ahuana_Architect_of_Ceremonies | 2504 |  |
+|  | Topotante_Architect_of_Storms | 2505 |  |
+|  | Matatl_Architect_of_Fortifications | 2506 |  |
+|  | Uromoti_Architect_of_Expansion | 2507 |  |
+|  | Xipocado_Royal_Architect | 2508 |  |
+|  | Juatalotli_Architect_of_the_Hoard | 2509 |  |
+|  | Paquate_Architect_of_Corruption | 2510 |  |
+|  | Hayoxi_Architect_of_Destruction | 2511 |  |
+|  | Atmohua_Architect_of_Iron | 2512 |  |
+|  | Ticaba_Architect_of_the_Arena | 2513 |  |
+|  | Cholotl_Architect_of_the_War | 2514 |  |
+|  | Zilquapa_Architect_of_the_Breach | 2515 |  |
+|  | Zalatl_Architect_of_Thaumaturgy | 2516 |  |
+|  | Estazunti_Architect_of_the_Vault | 2517 |  |
+|  | Azcapa_Architect_of_the_Guild | 2518 |  |
+|  | Jiquani_Architect_of_Industry | 2519 |  |
+|  | Quipolatl_Architect_of_the_Nexus | 2520 |  |
+|  | Guatelitzi_Architect_of_Flesh | 2521 |  |
+|  | Citaqualotl_Architect_of_the_Swarm | 2522 |  |
+|  | Puhuarte_Architect_of_the_Forge | 2523 |  |
+|  | Xopec_Architect_of_Power | 2524 |  |
+|  | Tzamoto_Architect_of_Torments | 2525 |  |
+|  | Zantipi_Architect_of_Concealment | 2526 |  |
+|  | Opiloti_Architect_of_Stone | 2527 |  |
+|  | Vaal_Manifestation | 2528 |  |
+|  | Returned_Voidwalker | 2529 |  |
+|  | Enhanced_Vaal_Fallen | 2530 |  |
+|  | Blood_Priest | 2531 |  |
+|  | Soulseeker | 2532 |  |
+|  | Shadow_Priest | 2533 |  |
+|  | Shadestalker | 2534 |  |
+|  | Bloodback_Hatchling | 2535 |  |
+|  | Augmented_Hatchling | 2536 |  |
+|  | Barrel | 2537 |  |
+|  | Basket | 2538 |  |
+|  | Bone_Pile | 2539 |  |
+|  | Boulder | 2540 |  |
+|  | Cairn | 2541 |  |
+|  | Bone_Chest | 2542 |  |
+|  | Copper_Chest | 2543 |  |
+|  | Large_Chest | 2544 |  |
+|  | Crate | 2545 |  |
+|  | Golden_Chest | 2546 |  |
+|  | Silver_Chest | 2547 |  |
+|  | Tribal_Chest | 2548 |  |
+|  | Sarcophagus | 2549 |  |
+|  | Egg | 2550 |  |
+|  | Pot | 2551 |  |
+|  | Urn | 2552 |  |
+|  | Trunk | 2553 |  |
+|  | Bundle | 2554 |  |
+|  | Sealed_Remains | 2555 |  |
+|  | Gold_Pot | 2556 |  |
+|  | Cocoon | 2557 |  |
+|  | Rotted_Cocoon | 2558 |  |
+|  | Decayed_Cocoon | 2559 |  |
+|  | Putrid_Cocoon | 2560 |  |
+|  | Silver_Pot | 2561 |  |
+|  | Corpse | 2562 |  |
+|  | Rhoa_Nest | 2563 |  |
+|  | Slave_Girl | 2564 |  |
+|  | Strange_Device | 2565 |  |
+|  | Altar | 2566 |  |
+|  | Plum | 2567 |  |
+|  | Ornate_Chest | 2568 |  |
+|  | Stash | 2569 |  |
+|  | Blackguard_Chest | 2570 |  |
+|  | Supply_Container | 2571 |  |
+|  | Book_Stand | 2572 |  |
+|  | Experimental_Supplies | 2573 |  |
+|  | Tomb_of_the_First_Templar | 2574 |  |
+|  | Karui_Relic_Case | 2575 |  |
+|  | Solaris_Throne | 2576 |  |
+|  | Storage_Chest | 2577 |  |
+|  | Flag_Chest | 2578 |  |
+|  | Container_of_Sins | 2579 |  |
+|  | Dirty_Lockbox | 2580 |  |
+|  | Kisharas_Lockbox | 2581 |  |
+|  | Firefly | 2582 |  |
+|  | Sealed_Casket | 2583 |  |
+|  | Tomb_of_Hector_Titucius | 2584 |  |
+|  | Theurgic_Precipitate_Machine | 2585 |  |
+|  | Sealed_Chest | 2586 |  |
+|  | Pearl_Case | 2587 |  |
+|  | Weapon_Rack | 2588 |  |
+|  | Armour_Rack | 2589 |  |
+|  | Scribes_Rack | 2590 |  |
+|  | Crucified_Corpse | 2591 |  |
+|  | Bound_Corpse | 2592 |  |
+|  | Impaled_Corpse | 2593 |  |
+|  | Booty_Chest | 2594 |  |
+|  | Pirate_Lords_Treasure | 2595 |  |
+|  | Treasure_Pile | 2596 |  |
+|  | Lost_Maraketh_Treasure | 2597 |  |
+|  | Warmongers_Stash | 2598 |  |
+|  | Shipwrecked_Treasure | 2599 |  |
+|  | Sculptors_Tools | 2600 |  |
+|  | Arcanists_Strongbox | 2601 |  |
+|  | Grandmasters_Cache | 2602 |  |
+|  | Armourers_Strongbox | 2603 |  |
+|  | Blacksmiths_Strongbox | 2604 |  |
+|  | Artisans_Strongbox | 2605 |  |
+|  | Cartographers_Strongbox | 2606 |  |
+|  | Chemists_Strongbox | 2607 |  |
+|  | Gemcutters_Strongbox | 2608 |  |
+|  | Jewellers_Strongbox | 2609 |  |
+|  | Large_Strongbox | 2610 |  |
+|  | Ornate_Strongbox | 2611 |  |
+|  | Strongbox | 2612 |  |
+|  | Diviners_Strongbox | 2613 |  |
+|  | Vaal_Vessel | 2614 |  |
+|  | Decorative_Chest | 2615 |  |
+|  | Locked_Chest | 2616 |  |
+|  | Perandus_Chest | 2617 |  |
+|  | Temple_Stash | 2618 |  |
+|  | Perandus_Cache | 2619 |  |
+|  | Perandus_Hoard | 2620 |  |
+|  | Perandus_Coffer | 2621 |  |
+|  | Perandus_Jewellery_Box | 2622 |  |
+|  | Perandus_Safe | 2623 |  |
+|  | Perandus_Treasury | 2624 |  |
+|  | Perandus_Wardrobe | 2625 |  |
+|  | Perandus_Catalogue | 2626 |  |
+|  | Perandus_Trove | 2627 |  |
+|  | Perandus_Locker | 2628 |  |
+|  | Perandus_Archive | 2629 |  |
+|  | Perandus_Tackle_Box | 2630 |  |
+|  | Cadiros_Locker | 2631 |  |
+|  | Cadiros_Treasury | 2632 |  |
+|  | Cadiros_Archive | 2633 |  |
+|  | Cadiros_Jewellery_Box | 2634 |  |
+|  | Cadiros_Catalogue | 2635 |  |
+|  | Grand_Perandus_Vault | 2636 |  |
+|  | Hidden_Coffer | 2637 |  |
+|  | Supply_Cache | 2638 |  |
+|  | Labyrinth_Trove | 2639 |  |
+|  | Ascendants_Treasures | 2640 |  |
+|  | Emperors_Gifts | 2641 |  |
+|  | Battle_Supplies | 2642 |  |
+|  | War_Spoils | 2643 |  |
+|  | Warmongers_Cache | 2644 |  |
+|  | Guard_Supplies | 2645 |  |
+|  | Guard_Vault | 2646 |  |
+|  | Guard_Treasury | 2647 |  |
+|  | Emperors_Trove | 2648 |  |
+|  | Emperors_Vault | 2649 |  |
+|  | Emperors_Treasury | 2650 |  |
+|  | Emperors_Charts | 2651 |  |
+|  | Curious_Lockbox | 2652 |  |
+|  | Intricate_Locker | 2653 |  |
+|  | Izaros_Treasure | 2654 |  |
+|  | Fortune_Tellers_Chest | 2655 |  |
+|  | Clasped_Hand | 2656 |  |
+|  | Xophs_Clasped_Hand | 2657 |  |
+|  | Tuls_Clasped_Hand | 2658 |  |
+|  | Eshs_Clasped_Hand | 2659 |  |
+|  | UulNetols_Clasped_Hand | 2660 |  |
+|  | Chayulas_Clasped_Hand | 2661 |  |
+|  | Relic_Vault | 2662 |  |
+|  | Hoard | 2663 |  |
+|  | Abyssal_Trove | 2664 |  |
+|  | Vase | 2665 |  |
+|  | XXX | 2666 |  |
+|  | Amphora | 2667 |  |
+|  | Supplies | 2668 |  |
+|  | Cache | 2669 |  |
+|  | Trove | 2670 |  |
+|  | War_Chest | 2671 |  |
+|  | Ancient_Hoard | 2672 |  |
+|  | Stockpile | 2673 |  |
+|  | Receptacle | 2674 |  |
+|  | Anomalous_Objects | 2675 |  |
+|  | Pulsating_Growth | 2676 |  |
+|  | Portentous_Trunk | 2677 |  |
+|  | Regal_Coffer | 2678 |  |
+|  | Shimmering_Vault | 2679 |  |
+|  | Sealed_Trunk | 2680 |  |
+|  | Ancient_Excavation | 2681 |  |
+|  | Augurs_Wares | 2682 |  |
+|  | Stolen_Remnants | 2683 |  |
+|  | Judicial_Offerings | 2684 |  |
+|  | Ritualist_Regalia | 2685 |  |
+|  | Heirloom_Vessel | 2686 |  |
+|  | Ancient_Cache | 2687 |  |
+|  | Dusty_Charts | 2688 |  |
+|  | Ceremonial_Adornments | 2689 |  |
+|  | Thaumaturgy_Vessel | 2690 |  |
+|  | War_Regalia | 2691 |  |
+|  | Ancient_Armaments | 2692 |  |
+|  | War_Vault | 2693 |  |
+|  | Glittering_Trove | 2694 |  |
+|  | Stone_Coffer | 2695 |  |
+|  | Pools_Coffer | 2696 |  |
+|  | Grove_Vessel | 2697 |  |
+|  | Fortified_Casket | 2698 |  |
+|  | Storm_Coffer | 2699 |  |
+|  | Thunder_Coffer | 2700 |  |
+|  | Fireproof_Chest | 2701 |  |
+|  | Experimental_Chest | 2702 |  |
+|  | Flashpowder_Cache | 2703 |  |

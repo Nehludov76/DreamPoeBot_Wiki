@@ -1,5 +1,6 @@
 # EnergyShieldValue Property 
 
+**Вложено элементов:** 0  
 
 | Item EnergyShieldValue Property |
 | --- |

@@ -1,5 +1,6 @@
 # AscendencyClass Property 
 
+**Вложено элементов:** 0  
 
 | PlayerClass AscendencyClass Property |
 | --- |

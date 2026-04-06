@@ -1,5 +1,6 @@
 # JunRedMissionsLeft Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo Atlas JunRedMissionsLeft Property |
 | --- |

@@ -1,5 +1,6 @@
 # Generic3 Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState StashUi CurrencyTab Generic3 Property |
 | --- |

@@ -1,5 +1,6 @@
 # KeyPickup Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe ConfigManager KeyPickup Property |
 | --- |

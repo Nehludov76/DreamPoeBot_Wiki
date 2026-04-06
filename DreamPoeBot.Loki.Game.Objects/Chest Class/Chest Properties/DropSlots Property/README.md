@@ -1,5 +1,6 @@
 # DropSlots Property 
 
+**Вложено элементов:** 0  
 
 | Chest DropSlots Property |
 | --- |

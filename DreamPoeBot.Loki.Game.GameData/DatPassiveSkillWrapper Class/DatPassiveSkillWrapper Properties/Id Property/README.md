@@ -1,5 +1,6 @@
 # Id Property 
 
+**Вложено элементов:** 0  
 
 | DatPassiveSkillWrapper Id Property |
 | --- |

@@ -1,5 +1,6 @@
 # SafeInvoke(T) Method (Action(T), T)
 
+**Вложено элементов:** 0  
 
 | ActionHelper SafeInvoke T Method (Action T , T ) |
 | --- |

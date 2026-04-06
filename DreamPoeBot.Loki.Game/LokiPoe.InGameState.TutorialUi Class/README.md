@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.TutorialUi Class
 
+**Вложено элементов:** 2  
 
 | LokiPoe InGameState TutorialUi Class |
 | --- |
@@ -30,6 +31,9 @@ public ref class TutorialUi abstract sealed
 The LokiPoe InGameState TutorialUi type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| IsOpened | True if the panel is open. |
+|  | Name | Description |
+| --- | --- | --- |
+|  | IsOpened | True if the panel is open. |
+
+## Дочерние разделы
+- [**TutorialUi Properties**](./TutorialUi Properties/README.md)

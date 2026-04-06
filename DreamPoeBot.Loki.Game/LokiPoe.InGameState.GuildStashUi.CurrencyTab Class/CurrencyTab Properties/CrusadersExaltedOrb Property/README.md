@@ -1,5 +1,6 @@
 # CrusadersExaltedOrb Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState GuildStashUi CurrencyTab CrusadersExaltedOrb Property |
 | --- |

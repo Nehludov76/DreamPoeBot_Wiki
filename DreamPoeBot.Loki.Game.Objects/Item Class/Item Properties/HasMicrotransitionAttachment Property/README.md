@@ -1,5 +1,6 @@
 # HasMicrotransitionAttachment Property 
 
+**Вложено элементов:** 0  
 
 | Item HasMicrotransitionAttachment Property |
 | --- |

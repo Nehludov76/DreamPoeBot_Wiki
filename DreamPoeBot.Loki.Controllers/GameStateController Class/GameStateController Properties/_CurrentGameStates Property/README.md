@@ -1,5 +1,6 @@
 # _CurrentGameStates Property 
 
+**Вложено элементов:** 0  
 
 | GameStateController _CurrentGameStates Property |
 | --- |

@@ -1,5 +1,6 @@
 # Struct111_0 Property 
 
+**Вложено элементов:** 0  
 
 | TabControlWrapper Struct111_0 Property |
 | --- |

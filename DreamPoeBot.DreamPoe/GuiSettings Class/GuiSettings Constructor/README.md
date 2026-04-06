@@ -1,5 +1,6 @@
 # GuiSettings Constructor 
 
+**Вложено элементов:** 0  
 
 | GuiSettings Constructor |
 | --- |

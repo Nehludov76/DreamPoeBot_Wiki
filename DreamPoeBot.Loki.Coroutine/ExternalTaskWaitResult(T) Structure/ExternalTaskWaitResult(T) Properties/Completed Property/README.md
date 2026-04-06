@@ -1,5 +1,6 @@
 # Completed Property 
 
+**Вложено элементов:** 0  
 
 | ExternalTaskWaitResult T Completed Property |
 | --- |

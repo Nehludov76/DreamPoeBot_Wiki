@@ -1,5 +1,6 @@
 # GetWindowRectangleReal Method 
 
+**Вложено элементов:** 0  
 
 | GameWindow GetWindowRectangleReal Method |
 | --- |

@@ -1,5 +1,6 @@
 # LowestUltimatumY Field
 
+**Вложено элементов:** 0  
 
 | GridExplorer UltimatumDataClass LowestUltimatumY Field |
 | --- |

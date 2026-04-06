@@ -1,5 +1,6 @@
 # FastMove Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ArchnemesisInventoryUi FastMove Method |
 | --- |

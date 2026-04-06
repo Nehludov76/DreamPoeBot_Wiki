@@ -1,5 +1,6 @@
 # lpCustColors Field
 
+**Вложено элементов:** 0  
 
 | ChooseColor lpCustColors Field |
 | --- |

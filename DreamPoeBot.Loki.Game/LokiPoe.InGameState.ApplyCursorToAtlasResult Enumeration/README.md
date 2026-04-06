@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.ApplyCursorToAtlasResult Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ApplyCursorToAtlasResult Enumeration |
 | --- |
@@ -30,13 +31,13 @@ public enum class ApplyCursorToAtlasResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| ProcessHookManagerNotEnabled | 1 |
-| UiNotOpen | 2 |
-| AreaNotFound | 3 |
-| AreaControlNotEnable | 4 |
-| AreaControlNotVisible | 5 |
-| AreaControlNotUnlocked | 6 |
-| LeftOrRightUiOpen | 7 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | ProcessHookManagerNotEnabled | 1 |  |
+|  | UiNotOpen | 2 |  |
+|  | AreaNotFound | 3 |  |
+|  | AreaControlNotEnable | 4 |  |
+|  | AreaControlNotVisible | 5 |  |
+|  | AreaControlNotUnlocked | 6 |  |
+|  | LeftOrRightUiOpen | 7 |  |

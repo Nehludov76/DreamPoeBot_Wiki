@@ -1,5 +1,6 @@
 # use_bound_skill3 Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input Binding use_bound_skill3 Property |
 | --- |

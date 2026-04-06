@@ -1,5 +1,6 @@
 # EnergyShieldReserved Property 
 
+**Вложено элементов:** 0  
 
 | Actor EnergyShieldReserved Property |
 | --- |

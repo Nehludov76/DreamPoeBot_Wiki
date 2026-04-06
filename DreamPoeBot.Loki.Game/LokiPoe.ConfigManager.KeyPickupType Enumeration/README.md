@@ -1,5 +1,6 @@
 # LokiPoe.ConfigManager.KeyPickupType Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe ConfigManager KeyPickupType Enumeration |
 | --- |
@@ -30,9 +31,9 @@ public enum class KeyPickupType
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| Unknown | 0 |
-| Disabled | 1 |
-| UseHighlightKey | 2 |
-| UseBoundKey | 3 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | Unknown | 0 |  |
+|  | Disabled | 1 |  |
+|  | UseHighlightKey | 2 |  |
+|  | UseBoundKey | 3 |  |

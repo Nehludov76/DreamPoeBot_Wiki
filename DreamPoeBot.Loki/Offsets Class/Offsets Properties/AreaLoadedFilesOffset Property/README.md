@@ -1,5 +1,6 @@
 # AreaLoadedFilesOffset Property 
 
+**Вложено элементов:** 0  
 
 | Offsets AreaLoadedFilesOffset Property |
 | --- |

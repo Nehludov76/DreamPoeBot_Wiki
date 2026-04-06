@@ -1,5 +1,6 @@
 # OnSourceInitialized Method 
 
+**Вложено элементов:** 0  
 
 | MainWindow OnSourceInitialized Method |
 | --- |

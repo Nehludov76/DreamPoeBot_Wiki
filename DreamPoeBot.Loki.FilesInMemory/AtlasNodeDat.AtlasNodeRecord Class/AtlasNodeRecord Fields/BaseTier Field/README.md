@@ -1,5 +1,6 @@
 # BaseTier Field
 
+**Вложено элементов:** 0  
 
 | AtlasNodeDat AtlasNodeRecord BaseTier Field |
 | --- |

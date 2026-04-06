@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.ArchnemesisInventoryUi Class
 
+**Вложено элементов:** 6  
 
 | LokiPoe InGameState ArchnemesisInventoryUi Class |
 | --- |
@@ -30,13 +31,17 @@ public ref class ArchnemesisInventoryUi abstract sealed
 The LokiPoe InGameState ArchnemesisInventoryUi type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| AvailableArchnemesisMods |
-| IsOpened |
+|  | Name | Description |
+| --- | --- | --- |
+|  | AvailableArchnemesisMods |  |
+|  | IsOpened |  |
 
 
-| Name | Description |
-| --- | --- |
-| FastMove |
-| PickUp |
+|  | Name | Description |
+| --- | --- | --- |
+|  | FastMove |  |
+|  | PickUp |  |
+
+## Дочерние разделы
+- [**ArchnemesisInventoryUi Properties**](./ArchnemesisInventoryUi Properties/README.md)
+- [**ArchnemesisInventoryUi Methods**](./ArchnemesisInventoryUi Methods/README.md)

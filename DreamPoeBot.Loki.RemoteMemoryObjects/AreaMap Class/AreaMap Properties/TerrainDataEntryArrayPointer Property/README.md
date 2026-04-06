@@ -1,5 +1,6 @@
 # TerrainDataEntryArrayPointer Property 
 
+**Вложено элементов:** 0  
 
 | AreaMap TerrainDataEntryArrayPointer Property |
 | --- |

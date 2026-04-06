@@ -1,5 +1,6 @@
 # OrbofIntention Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState GuildStashUi CurrencyTab OrbofIntention Property |
 | --- |

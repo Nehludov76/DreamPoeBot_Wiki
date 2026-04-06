@@ -1,5 +1,6 @@
 # LokiPoe.ConfigManager.EngineMultithreadingType Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe ConfigManager EngineMultithreadingType Enumeration |
 | --- |
@@ -30,8 +31,8 @@ public enum class EngineMultithreadingType
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| Unknown | 0 |
-| Disabled | 1 |
-| Enabled | 2 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | Unknown | 0 |  |
+|  | Disabled | 1 |  |
+|  | Enabled | 2 |  |

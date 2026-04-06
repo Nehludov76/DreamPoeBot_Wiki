@@ -1,5 +1,6 @@
 # Explorer Class
 
+**Вложено элементов:** 5  
 
 | Explorer Class |
 | --- |
@@ -32,12 +33,16 @@ public ref class Explorer abstract sealed
 The Explorer type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| CreateDelegate |
-| CurrentDelegate |
+|  | Name | Description |
+| --- | --- | --- |
+|  | CreateDelegate |  |
+|  | CurrentDelegate |  |
 
 
-| Name | Description |
-| --- | --- |
-| GetCurrent |
+|  | Name | Description |
+| --- | --- | --- |
+|  | GetCurrent |  |
+
+## Дочерние разделы
+- [**Explorer Properties**](./Explorer Properties/README.md)
+- [**Explorer Methods**](./Explorer Methods/README.md)

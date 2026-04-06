@@ -1,5 +1,6 @@
 # unusedInt0 Field
 
+**Вложено элементов:** 0  
 
 | NativeList unusedInt0 Field |
 | --- |

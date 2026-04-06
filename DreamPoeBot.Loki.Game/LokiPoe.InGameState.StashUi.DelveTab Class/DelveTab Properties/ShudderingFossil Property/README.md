@@ -1,5 +1,6 @@
 # ShudderingFossil Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState StashUi DelveTab ShudderingFossil Property |
 | --- |

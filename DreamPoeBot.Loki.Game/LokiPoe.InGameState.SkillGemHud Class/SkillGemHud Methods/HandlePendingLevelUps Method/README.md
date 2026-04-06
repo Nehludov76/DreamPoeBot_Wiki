@@ -1,5 +1,6 @@
 # HandlePendingLevelUps Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SkillGemHud HandlePendingLevelUps Method |
 | --- |

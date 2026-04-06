@@ -1,5 +1,6 @@
 # ChallengesPannelElement Constructor 
 
+**Вложено элементов:** 0  
 
 | ChallengesPannelElement Constructor |
 | --- |

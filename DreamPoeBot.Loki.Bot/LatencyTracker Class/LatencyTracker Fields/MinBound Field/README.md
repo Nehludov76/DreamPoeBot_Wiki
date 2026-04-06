@@ -1,5 +1,6 @@
 # MinBound Field
 
+**Вложено элементов:** 0  
 
 | LatencyTracker MinBound Field |
 | --- |

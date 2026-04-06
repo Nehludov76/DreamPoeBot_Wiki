@@ -1,5 +1,6 @@
 # Name Property 
 
+**Вложено элементов:** 0  
 
 | NetworkObject Name Property |
 | --- |

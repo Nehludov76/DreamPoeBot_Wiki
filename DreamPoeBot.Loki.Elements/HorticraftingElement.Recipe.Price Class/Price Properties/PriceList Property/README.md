@@ -1,5 +1,6 @@
 # PriceList Property 
 
+**Вложено элементов:** 0  
 
 | HorticraftingElement Recipe Price PriceList Property |
 | --- |

@@ -1,5 +1,6 @@
 # Chat Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ChatPanel Chat Method |
 | --- |

@@ -1,5 +1,6 @@
 # NormalJewelsPassiveIdItemDictionaly Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo NormalJewelsPassiveIdItemDictionaly Property |
 | --- |

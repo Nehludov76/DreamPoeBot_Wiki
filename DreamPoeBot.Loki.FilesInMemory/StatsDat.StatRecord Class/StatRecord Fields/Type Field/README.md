@@ -1,5 +1,6 @@
 # Type Field
 
+**Вложено элементов:** 0  
 
 | StatsDat StatRecord Type Field |
 | --- |

@@ -1,5 +1,6 @@
 # IntersectsPath Method (Vector3, Single, Vector3, Vector3)
 
+**Вложено элементов:** 0  
 
 | MathEx IntersectsPath Method (Vector3, Single, Vector3, Vector3) |
 | --- |

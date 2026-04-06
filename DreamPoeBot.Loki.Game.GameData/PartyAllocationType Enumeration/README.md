@@ -1,5 +1,6 @@
 # PartyAllocationType Enumeration
 
+**Вложено элементов:** 0  
 
 | PartyAllocationType Enumeration |
 | --- |
@@ -30,9 +31,9 @@ public enum class PartyAllocationType
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| FreeForAll | 0 |
-| ShortAllocation | 1 |
-| PermanentAllocation | 2 |
-| None | 3 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | FreeForAll | 0 |  |
+|  | ShortAllocation | 1 |  |
+|  | PermanentAllocation | 2 |  |
+|  | None | 3 |  |

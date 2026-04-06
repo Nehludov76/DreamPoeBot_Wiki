@@ -1,5 +1,6 @@
 # IsVisible Property 
 
+**Вложено элементов:** 0  
 
 | MinimapIcon IsVisible Property |
 | --- |

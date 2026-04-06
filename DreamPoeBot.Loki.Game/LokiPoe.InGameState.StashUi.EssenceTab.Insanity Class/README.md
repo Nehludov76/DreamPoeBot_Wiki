@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.StashUi.EssenceTab.Insanity Class
 
+**Вложено элементов:** 2  
 
 | LokiPoe InGameState StashUi EssenceTab Insanity Class |
 | --- |
@@ -32,6 +33,9 @@ public ref class Insanity abstract sealed
 The LokiPoe InGameState StashUi EssenceTab Insanity type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Essence |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Essence |  |
+
+## Дочерние разделы
+- [**Insanity Properties**](./Insanity Properties/README.md)

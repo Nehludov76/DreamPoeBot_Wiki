@@ -1,5 +1,6 @@
 # IntPtr_AscendUi Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SkillsUi AscendencyUi IntPtr_AscendUi Property |
 | --- |

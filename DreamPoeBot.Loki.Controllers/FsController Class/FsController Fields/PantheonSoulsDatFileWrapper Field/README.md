@@ -1,5 +1,6 @@
 # PantheonSoulsDatFileWrapper Field
 
+**Вложено элементов:** 0  
 
 | FsController PantheonSoulsDatFileWrapper Field |
 | --- |

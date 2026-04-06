@@ -1,5 +1,6 @@
 # DeferReward2 Property 
 
+**Вложено элементов:** 0  
 
 | SanctumArchivesElement SanctumRoom DeferReward2 Property |
 | --- |

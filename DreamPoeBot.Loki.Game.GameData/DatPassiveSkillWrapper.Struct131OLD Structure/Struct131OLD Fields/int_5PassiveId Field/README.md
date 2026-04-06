@@ -1,5 +1,6 @@
 # int_5PassiveId Field
 
+**Вложено элементов:** 0  
 
 | DatPassiveSkillWrapper Struct131OLD int_5PassiveId Field |
 | --- |

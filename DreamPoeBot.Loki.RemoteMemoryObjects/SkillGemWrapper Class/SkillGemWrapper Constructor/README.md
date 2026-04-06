@@ -1,5 +1,6 @@
 # SkillGemWrapper Constructor 
 
+**Вложено элементов:** 0  
 
 | SkillGemWrapper Constructor |
 | --- |

@@ -1,5 +1,6 @@
 # BlightScarab Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState GuildStashUi FragmentTab Scarab BlightScarab Property |
 | --- |

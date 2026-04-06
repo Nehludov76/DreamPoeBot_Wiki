@@ -1,5 +1,6 @@
 # PausedGame Property 
 
+**Вложено элементов:** 0  
 
 | IngameState PausedGame Property |
 | --- |

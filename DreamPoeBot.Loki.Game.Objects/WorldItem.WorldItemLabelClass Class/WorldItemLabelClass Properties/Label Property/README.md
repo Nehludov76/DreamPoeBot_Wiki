@@ -1,5 +1,6 @@
 # Label Property 
 
+**Вложено элементов:** 0  
 
 | WorldItem WorldItemLabelClass Label Property |
 | --- |

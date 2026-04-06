@@ -1,5 +1,6 @@
 # SingleSlotUiElement Field
 
+**Вложено элементов:** 0  
 
 | InventoryControlWrapper SingleSlotUiElement Field |
 | --- |

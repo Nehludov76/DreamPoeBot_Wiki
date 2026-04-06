@@ -1,5 +1,6 @@
 # GetItemAtLocation Method (Vector2i)
 
+**Вложено элементов:** 0  
 
 | Inventory GetItemAtLocation Method (Vector2i) |
 | --- |

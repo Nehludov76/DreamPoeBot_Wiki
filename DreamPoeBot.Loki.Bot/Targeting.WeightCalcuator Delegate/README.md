@@ -1,5 +1,6 @@
 # Targeting.WeightCalcuator Delegate
 
+**Вложено элементов:** 0  
 
 | Targeting WeightCalcuator Delegate |
 | --- |

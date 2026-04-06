@@ -1,5 +1,6 @@
 # DetailSampleMaxError Property 
 
+**Вложено элементов:** 0  
 
 | RecastMeshSettings DetailSampleMaxError Property |
 | --- |

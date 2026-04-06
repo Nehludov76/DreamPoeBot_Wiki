@@ -1,5 +1,6 @@
 # MinimapIcon Constructor 
 
+**Вложено элементов:** 0  
 
 | MinimapIcon Constructor |
 | --- |

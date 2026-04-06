@@ -1,5 +1,6 @@
 # HandlePendingLevelUps Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState InventoryUi HandlePendingLevelUps Method |
 | --- |

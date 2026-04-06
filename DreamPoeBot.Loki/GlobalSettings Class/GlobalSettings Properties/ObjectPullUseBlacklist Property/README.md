@@ -1,5 +1,6 @@
 # ObjectPullUseBlacklist Property 
 
+**Вложено элементов:** 0  
 
 | GlobalSettings ObjectPullUseBlacklist Property |
 | --- |

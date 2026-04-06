@@ -1,5 +1,6 @@
 # IndexedList(T) Constructor (IEnumerable(T), Boolean)
 
+**Вложено элементов:** 0  
 
 | IndexedList T Constructor (IEnumerable T , Boolean) |
 | --- |

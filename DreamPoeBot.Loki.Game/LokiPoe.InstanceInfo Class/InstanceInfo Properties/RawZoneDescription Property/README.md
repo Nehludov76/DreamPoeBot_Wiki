@@ -1,5 +1,6 @@
 # RawZoneDescription Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo RawZoneDescription Property |
 | --- |

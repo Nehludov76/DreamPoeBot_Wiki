@@ -1,5 +1,6 @@
 # nativeVector_7List_2DeployedObjects Field
 
+**Вложено элементов:** 0  
 
 | Actor ActorStruct137 nativeVector_7List_2DeployedObjects Field |
 | --- |

@@ -1,5 +1,6 @@
 # CurrentIncursionRoom Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo Incursion CurrentIncursionRoom Property |
 | --- |

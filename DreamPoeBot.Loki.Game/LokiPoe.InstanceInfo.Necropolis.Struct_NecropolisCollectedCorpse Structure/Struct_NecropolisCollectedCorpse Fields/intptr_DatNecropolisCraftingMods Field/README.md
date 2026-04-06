@@ -1,5 +1,6 @@
 # intptr_DatNecropolisCraftingMods Field
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo Necropolis Struct_NecropolisCollectedCorpse intptr_DatNecropolisCraftingMods Field |
 | --- |

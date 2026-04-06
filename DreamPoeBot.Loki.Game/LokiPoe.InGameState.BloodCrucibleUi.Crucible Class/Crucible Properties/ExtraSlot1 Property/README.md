@@ -1,5 +1,6 @@
 # ExtraSlot1 Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState BloodCrucibleUi Crucible ExtraSlot1 Property |
 | --- |

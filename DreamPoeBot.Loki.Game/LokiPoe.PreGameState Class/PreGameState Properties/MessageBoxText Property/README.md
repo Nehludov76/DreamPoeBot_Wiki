@@ -1,5 +1,6 @@
 # MessageBoxText Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe PreGameState MessageBoxText Property |
 | --- |

@@ -1,5 +1,6 @@
 # SelectTier Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState StashUi MapsTab SelectTier Method |
 | --- |

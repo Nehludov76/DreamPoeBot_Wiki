@@ -1,5 +1,6 @@
 # TotalDistance Property 
 
+**Вложено элементов:** 0  
 
 | PathfindingCommand TotalDistance Property |
 | --- |

@@ -1,5 +1,6 @@
 # ThrustingOneHandSword Field
 
+**Вложено элементов:** 0  
 
 | ItemClasses ThrustingOneHandSword Field |
 | --- |

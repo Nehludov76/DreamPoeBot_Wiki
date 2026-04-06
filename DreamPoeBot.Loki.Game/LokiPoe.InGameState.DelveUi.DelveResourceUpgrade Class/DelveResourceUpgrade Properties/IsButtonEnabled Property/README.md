@@ -1,5 +1,6 @@
 # IsButtonEnabled Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState DelveUi DelveResourceUpgrade IsButtonEnabled Property |
 | --- |

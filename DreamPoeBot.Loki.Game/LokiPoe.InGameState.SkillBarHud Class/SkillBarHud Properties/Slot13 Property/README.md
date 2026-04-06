@@ -1,5 +1,6 @@
 # Slot13 Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SkillBarHud Slot13 Property |
 | --- |

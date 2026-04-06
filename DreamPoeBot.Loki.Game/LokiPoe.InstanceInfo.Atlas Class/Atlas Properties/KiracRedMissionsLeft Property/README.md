@@ -1,5 +1,6 @@
 # KiracRedMissionsLeft Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo Atlas KiracRedMissionsLeft Property |
 | --- |

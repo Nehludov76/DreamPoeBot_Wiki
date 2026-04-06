@@ -1,5 +1,6 @@
 # IsOnCooldown Property 
 
+**Вложено элементов:** 0  
 
 | Skill IsOnCooldown Property |
 | --- |

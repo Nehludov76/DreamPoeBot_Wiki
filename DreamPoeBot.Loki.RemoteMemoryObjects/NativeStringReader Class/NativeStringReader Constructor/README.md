@@ -1,5 +1,6 @@
 # NativeStringReader Constructor 
 
+**Вложено элементов:** 0  
 
 | NativeStringReader Constructor |
 | --- |

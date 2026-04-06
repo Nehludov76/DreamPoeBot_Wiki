@@ -1,5 +1,6 @@
 # IsSafeHouseVisible Property 
 
+**Вложено элементов:** 0  
 
 | BetryalElement IsSafeHouseVisible Property |
 | --- |

@@ -1,5 +1,6 @@
 # JobsRequires Property 
 
+**Вложено элементов:** 0  
 
 | HeistContract JobsRequires Property |
 | --- |

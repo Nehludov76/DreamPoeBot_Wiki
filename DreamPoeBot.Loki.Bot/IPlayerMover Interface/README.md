@@ -1,5 +1,6 @@
 # IPlayerMover Interface
 
+**Вложено элементов:** 4  
 
 | IPlayerMover Interface |
 | --- |
@@ -32,24 +33,28 @@ public interface class IPlayerMover : IConfigurable , IStartStopEvents , ITickEv
 The IPlayerMover type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Author | (Inherited from IAuthored .) |
-| Control | (Inherited from IConfigurable .) |
-| CurrentCommand |
-| Description | (Inherited from IAuthored .) |
-| Name | (Inherited from IAuthored .) |
-| Settings | (Inherited from IConfigurable .) |
-| Version | (Inherited from IAuthored .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Author | (Inherited from IAuthored .) |
+|  | Control | (Inherited from IConfigurable .) |
+|  | CurrentCommand |  |
+|  | Description | (Inherited from IAuthored .) |
+|  | Name | (Inherited from IAuthored .) |
+|  | Settings | (Inherited from IConfigurable .) |
+|  | Version | (Inherited from IAuthored .) |
 
 
-| Name | Description |
-| --- | --- |
-| Deinitialize | (Inherited from IBase .) |
-| Initialize | (Inherited from IBase .) |
-| Logic | (Inherited from ILogicProvider .) |
-| Message | (Inherited from IMessageHandler .) |
-| MoveTowards |
-| Start | (Inherited from IStartStopEvents .) |
-| Stop | (Inherited from IStartStopEvents .) |
-| Tick | (Inherited from ITickEvents .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Deinitialize | (Inherited from IBase .) |
+|  | Initialize | (Inherited from IBase .) |
+|  | Logic | (Inherited from ILogicProvider .) |
+|  | Message | (Inherited from IMessageHandler .) |
+|  | MoveTowards |  |
+|  | Start | (Inherited from IStartStopEvents .) |
+|  | Stop | (Inherited from IStartStopEvents .) |
+|  | Tick | (Inherited from ITickEvents .) |
+
+## Дочерние разделы
+- [**IPlayerMover Properties**](./IPlayerMover Properties/README.md)
+- [**IPlayerMover Methods**](./IPlayerMover Methods/README.md)

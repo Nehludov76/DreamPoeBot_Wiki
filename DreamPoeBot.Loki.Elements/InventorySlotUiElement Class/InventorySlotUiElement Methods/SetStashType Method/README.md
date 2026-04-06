@@ -1,5 +1,6 @@
 # SetStashType Method 
 
+**Вложено элементов:** 0  
 
 | InventorySlotUiElement SetStashType Method |
 | --- |

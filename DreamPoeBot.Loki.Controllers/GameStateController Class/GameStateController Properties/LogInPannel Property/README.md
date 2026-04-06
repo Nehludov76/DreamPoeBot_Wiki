@@ -1,5 +1,6 @@
 # LogInPannel Property 
 
+**Вложено элементов:** 0  
 
 | GameStateController LogInPannel Property |
 | --- |

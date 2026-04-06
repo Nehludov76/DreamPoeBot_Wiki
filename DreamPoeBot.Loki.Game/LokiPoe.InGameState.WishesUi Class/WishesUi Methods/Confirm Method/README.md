@@ -1,5 +1,6 @@
 # Confirm Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState WishesUi Confirm Method |
 | --- |

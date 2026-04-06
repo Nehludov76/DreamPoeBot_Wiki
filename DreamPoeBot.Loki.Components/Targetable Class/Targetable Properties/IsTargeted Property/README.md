@@ -1,5 +1,6 @@
 # IsTargeted Property 
 
+**Вложено элементов:** 0  
 
 | Targetable IsTargeted Property |
 | --- |

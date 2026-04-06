@@ -1,5 +1,6 @@
 # EnchantedFossil Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState GuildStashUi DelveTab EnchantedFossil Property |
 | --- |

@@ -1,5 +1,6 @@
 # CapturedMonster Constructor 
 
+**Вложено элементов:** 0  
 
 | CapturedMonster Constructor |
 | --- |

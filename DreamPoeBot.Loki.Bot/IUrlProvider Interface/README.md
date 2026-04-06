@@ -1,5 +1,6 @@
 # IUrlProvider Interface
 
+**Вложено элементов:** 2  
 
 | IUrlProvider Interface |
 | --- |
@@ -32,6 +33,9 @@ public interface class IUrlProvider
 The IUrlProvider type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Url |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Url |  |
+
+## Дочерние разделы
+- [**IUrlProvider Properties**](./IUrlProvider Properties/README.md)

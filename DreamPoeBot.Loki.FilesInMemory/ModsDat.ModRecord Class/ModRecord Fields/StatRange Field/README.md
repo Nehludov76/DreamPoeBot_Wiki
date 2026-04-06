@@ -1,5 +1,6 @@
 # StatRange Field
 
+**Вложено элементов:** 0  
 
 | ModsDat ModRecord StatRange Field |
 | --- |

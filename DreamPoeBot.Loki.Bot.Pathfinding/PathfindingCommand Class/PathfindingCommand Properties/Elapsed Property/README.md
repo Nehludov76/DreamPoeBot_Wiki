@@ -1,5 +1,6 @@
 # Elapsed Property 
 
+**Вложено элементов:** 0  
 
 | PathfindingCommand Elapsed Property |
 | --- |

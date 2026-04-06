@@ -1,5 +1,6 @@
 # LokiPoe.ConfigManager.CorpseTargeting Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe ConfigManager CorpseTargeting Enumeration |
 | --- |
@@ -30,8 +31,8 @@ public enum class CorpseTargeting
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| Unknown | 0 |
-| Always | 1 |
-| UseBoundKey | 2 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | Unknown | 0 |  |
+|  | Always | 1 |  |
+|  | UseBoundKey | 2 |  |

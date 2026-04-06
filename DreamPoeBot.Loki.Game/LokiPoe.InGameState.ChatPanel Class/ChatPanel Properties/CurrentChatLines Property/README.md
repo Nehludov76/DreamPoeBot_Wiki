@@ -1,5 +1,6 @@
 # CurrentChatLines Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ChatPanel CurrentChatLines Property |
 | --- |

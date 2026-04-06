@@ -1,5 +1,6 @@
 # NecropolisGraveUi Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements NecropolisGraveUi Property |
 | --- |

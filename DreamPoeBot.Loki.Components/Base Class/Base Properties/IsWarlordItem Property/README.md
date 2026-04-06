@@ -1,5 +1,6 @@
 # IsWarlordItem Property 
 
+**Вложено элементов:** 0  
 
 | Base IsWarlordItem Property |
 | --- |

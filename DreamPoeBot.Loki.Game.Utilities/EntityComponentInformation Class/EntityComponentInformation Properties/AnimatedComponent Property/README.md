@@ -1,5 +1,6 @@
 # AnimatedComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation AnimatedComponent Property |
 | --- |

@@ -1,5 +1,6 @@
 # HasExpeditionLockerOverride Property 
 
+**Вложено элементов:** 0  
 
 | InventoryControlWrapper HasExpeditionLockerOverride Property |
 | --- |

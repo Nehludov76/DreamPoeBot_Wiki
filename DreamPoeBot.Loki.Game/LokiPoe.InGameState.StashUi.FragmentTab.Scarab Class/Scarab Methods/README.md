@@ -1,5 +1,6 @@
 # Scarab Methods
 
+**Вложено элементов:** 1  
 
 | Scarab Methods |
 | --- |
@@ -10,6 +11,9 @@
 The LokiPoe InGameState StashUi FragmentTab Scarab type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| ClickUpgradeButton | Click the Uprage button. |
+|  | Name | Description |
+| --- | --- | --- |
+|  | ClickUpgradeButton | Click the Uprage button. |
+
+## Дочерние разделы
+- [**ClickUpgradeButton Method **](./ClickUpgradeButton Method/README.md)

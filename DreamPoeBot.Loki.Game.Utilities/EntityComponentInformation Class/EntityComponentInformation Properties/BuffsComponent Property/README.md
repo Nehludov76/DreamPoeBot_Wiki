@@ -1,5 +1,6 @@
 # BuffsComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation BuffsComponent Property |
 | --- |

@@ -1,5 +1,6 @@
 # Id1 Property 
 
+**Вложено элементов:** 0  
 
 | SanctumArchivesElement SanctumRoom Id1 Property |
 | --- |

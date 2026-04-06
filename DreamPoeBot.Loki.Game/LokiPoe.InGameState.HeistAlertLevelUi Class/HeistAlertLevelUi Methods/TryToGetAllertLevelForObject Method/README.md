@@ -1,5 +1,6 @@
 # TryToGetAllertLevelForObject Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState HeistAlertLevelUi TryToGetAllertLevelForObject Method |
 | --- |

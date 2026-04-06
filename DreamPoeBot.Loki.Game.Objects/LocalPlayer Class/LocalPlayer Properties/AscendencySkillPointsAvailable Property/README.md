@@ -1,5 +1,6 @@
 # AscendencySkillPointsAvailable Property 
 
+**Вложено элементов:** 0  
 
 | LocalPlayer AscendencySkillPointsAvailable Property |
 | --- |

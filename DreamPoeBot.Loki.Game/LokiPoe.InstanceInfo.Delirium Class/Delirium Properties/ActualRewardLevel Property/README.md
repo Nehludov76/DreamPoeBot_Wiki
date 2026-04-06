@@ -1,5 +1,6 @@
 # ActualRewardLevel Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo Delirium ActualRewardLevel Property |
 | --- |

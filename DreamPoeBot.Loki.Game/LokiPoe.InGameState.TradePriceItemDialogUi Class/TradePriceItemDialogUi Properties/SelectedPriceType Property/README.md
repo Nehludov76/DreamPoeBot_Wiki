@@ -1,5 +1,6 @@
 # SelectedPriceType Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState TradePriceItemDialogUi SelectedPriceType Property |
 | --- |

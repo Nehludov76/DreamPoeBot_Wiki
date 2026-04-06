@@ -1,5 +1,6 @@
 # CircleObstacle Constructor 
 
+**Вложено элементов:** 0  
 
 | CircleObstacle Constructor |
 | --- |

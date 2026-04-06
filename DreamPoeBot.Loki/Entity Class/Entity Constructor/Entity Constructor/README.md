@@ -1,5 +1,6 @@
 # Entity Constructor 
 
+**Вложено элементов:** 0  
 
 | Entity Constructor |
 | --- |

@@ -1,5 +1,6 @@
 # BaseArmor Property 
 
+**Вложено элементов:** 0  
 
 | Armour BaseArmor Property |
 | --- |

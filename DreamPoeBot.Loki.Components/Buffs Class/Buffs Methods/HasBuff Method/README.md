@@ -1,5 +1,6 @@
 # HasBuff Method 
 
+**Вложено элементов:** 0  
 
 | Buffs HasBuff Method |
 | --- |

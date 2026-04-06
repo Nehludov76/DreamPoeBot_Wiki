@@ -1,5 +1,6 @@
 # EntityLabelMap Property 
 
+**Вложено элементов:** 0  
 
 | IngameState EntityLabelMap Property |
 | --- |

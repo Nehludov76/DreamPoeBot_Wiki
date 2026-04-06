@@ -1,5 +1,6 @@
 # HealthPercent Property 
 
+**Вложено элементов:** 0  
 
 | Actor HealthPercent Property |
 | --- |

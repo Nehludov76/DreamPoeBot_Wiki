@@ -1,5 +1,6 @@
 # TogglePlacement Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ExplosivePlacementUi TogglePlacement Method |
 | --- |

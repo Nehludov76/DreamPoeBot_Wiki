@@ -1,5 +1,6 @@
 # PantheonPannelLayoutKey Property 
 
+**Вложено элементов:** 0  
 
 | PantheonSoulsDatFileWrapper PantheonSoulsDatFileHardcoded PantheonPannelLayoutKey Property |
 | --- |

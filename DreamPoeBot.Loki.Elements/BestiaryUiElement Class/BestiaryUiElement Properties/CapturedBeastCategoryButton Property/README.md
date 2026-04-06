@@ -1,5 +1,6 @@
 # CapturedBeastCategoryButton Property 
 
+**Вложено элементов:** 0  
 
 | BestiaryUiElement CapturedBeastCategoryButton Property |
 | --- |

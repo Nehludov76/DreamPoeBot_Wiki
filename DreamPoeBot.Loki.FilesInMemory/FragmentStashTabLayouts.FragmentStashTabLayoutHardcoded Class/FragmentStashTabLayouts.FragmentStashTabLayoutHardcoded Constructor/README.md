@@ -1,5 +1,6 @@
 # FragmentStashTabLayouts.FragmentStashTabLayoutHardcoded Constructor 
 
+**Вложено элементов:** 0  
 
 | FragmentStashTabLayouts FragmentStashTabLayoutHardcoded Constructor |
 | --- |

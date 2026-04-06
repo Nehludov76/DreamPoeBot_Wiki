@@ -1,5 +1,6 @@
 # DisableTheMavenInvitation Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState MasterDeviceUi DisableTheMavenInvitation Method |
 | --- |

@@ -1,5 +1,6 @@
 # IsWalkable Property 
 
+**Вложено элементов:** 0  
 
 | AreaTilesData IsWalkable Property |
 | --- |

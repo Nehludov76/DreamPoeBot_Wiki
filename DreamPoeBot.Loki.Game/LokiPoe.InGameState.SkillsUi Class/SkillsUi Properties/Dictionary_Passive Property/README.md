@@ -1,5 +1,6 @@
 # Dictionary_Passive Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SkillsUi Dictionary_Passive Property |
 | --- |

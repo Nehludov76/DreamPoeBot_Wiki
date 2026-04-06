@@ -1,5 +1,6 @@
 # IsOnLastTab Property 
 
+**Вложено элементов:** 0  
 
 | TabControlWrapper IsOnLastTab Property |
 | --- |

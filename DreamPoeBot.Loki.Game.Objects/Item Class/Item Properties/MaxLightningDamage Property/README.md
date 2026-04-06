@@ -1,5 +1,6 @@
 # MaxLightningDamage Property 
 
+**Вложено элементов:** 0  
 
 | Item MaxLightningDamage Property |
 | --- |

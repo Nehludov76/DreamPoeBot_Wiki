@@ -1,5 +1,6 @@
 # GenericSlot1 Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState GuildStashUi EssenceTab GenericSlot1 Property |
 | --- |

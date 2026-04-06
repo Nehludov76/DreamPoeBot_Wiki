@@ -1,5 +1,6 @@
 # HasCurseFrom Method (String)
 
+**Вложено элементов:** 0  
 
 | Actor HasCurseFrom Method (String) |
 | --- |

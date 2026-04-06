@@ -1,5 +1,6 @@
 # IsRGB Property 
 
+**Вложено элементов:** 0  
 
 | Sockets IsRGB Property |
 | --- |

@@ -1,5 +1,6 @@
 # TradeInventories Property 
 
+**Вложено элементов:** 0  
 
 | ServerData TradeInventories Property |
 | --- |

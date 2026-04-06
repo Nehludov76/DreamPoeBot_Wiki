@@ -1,5 +1,6 @@
 # IsUndoAvaiable Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ExplosivePlacementUi IsUndoAvaiable Property |
 | --- |

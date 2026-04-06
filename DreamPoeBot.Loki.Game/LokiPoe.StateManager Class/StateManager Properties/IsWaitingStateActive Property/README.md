@@ -1,5 +1,6 @@
 # IsWaitingStateActive Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe StateManager IsWaitingStateActive Property |
 | --- |

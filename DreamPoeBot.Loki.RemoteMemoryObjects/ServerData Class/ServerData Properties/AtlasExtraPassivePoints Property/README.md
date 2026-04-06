@@ -1,5 +1,6 @@
 # AtlasExtraPassivePoints Property 
 
+**Вложено элементов:** 0  
 
 | ServerData AtlasExtraPassivePoints Property |
 | --- |

@@ -1,5 +1,6 @@
 # StartBlightEncounterClickLocation Property 
 
+**Вложено элементов:** 0  
 
 | HudUIElement StartBlightEncounterClickLocation Property |
 | --- |

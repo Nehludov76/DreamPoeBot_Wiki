@@ -1,5 +1,6 @@
 # DexRatio Property 
 
+**Вложено элементов:** 0  
 
 | DatSkillGemWrapper DexRatio Property |
 | --- |

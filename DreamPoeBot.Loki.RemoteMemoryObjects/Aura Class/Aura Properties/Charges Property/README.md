@@ -1,5 +1,6 @@
 # Charges Property 
 
+**Вложено элементов:** 0  
 
 | Aura Charges Property |
 | --- |

@@ -1,5 +1,6 @@
 # LabyrintWayPoint Property 
 
+**Вложено элементов:** 0  
 
 | WorldElement LabyrintWayPoint Property |
 | --- |

@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.SelectMasterMissionResult Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SelectMasterMissionResult Enumeration |
 | --- |
@@ -30,9 +31,9 @@ public enum class SelectMasterMissionResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| ProcessHookManagerNotEnabled | 1 |
-| MasterDeviceNotOpen | 2 |
-| Failed | 3 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | ProcessHookManagerNotEnabled | 1 |  |
+|  | MasterDeviceNotOpen | 2 |  |
+|  | Failed | 3 |  |

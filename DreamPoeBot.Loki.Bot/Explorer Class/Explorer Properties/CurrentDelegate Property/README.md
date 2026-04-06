@@ -1,5 +1,6 @@
 # CurrentDelegate Property 
 
+**Вложено элементов:** 0  
 
 | Explorer CurrentDelegate Property |
 | --- |

@@ -1,5 +1,6 @@
 # SectionType Property 
 
+**Вложено элементов:** 0  
 
 | LabyrinthRoom LabyrinthSection SectionType Property |
 | --- |

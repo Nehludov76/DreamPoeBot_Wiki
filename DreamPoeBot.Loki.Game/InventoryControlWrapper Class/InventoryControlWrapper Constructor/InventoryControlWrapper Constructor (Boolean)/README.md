@@ -1,5 +1,6 @@
 # InventoryControlWrapper Constructor (Boolean)
 
+**Вложено элементов:** 0  
 
 | InventoryControlWrapper Constructor (Boolean) |
 | --- |

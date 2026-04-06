@@ -1,5 +1,6 @@
 # LokiPoe.Utility Class
 
+**Вложено элементов:** 2  
 
 | LokiPoe Utility Class |
 | --- |
@@ -30,6 +31,9 @@ public ref class Utility abstract sealed
 The LokiPoe Utility type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| MousePosToScreenPosAbsoluteDebug | Returm the real position of a given point. Used for debugging purpose to move the real cursor on te game window. |
+|  | Name | Description |
+| --- | --- | --- |
+|  | MousePosToScreenPosAbsoluteDebug | Returm the real position of a given point. Used for debugging purpose to move the real cursor on te game window. |
+
+## Дочерние разделы
+- [**Utility Methods**](./Utility Methods/README.md)

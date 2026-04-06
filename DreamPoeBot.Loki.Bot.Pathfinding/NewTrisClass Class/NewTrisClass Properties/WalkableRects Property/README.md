@@ -1,5 +1,6 @@
 # WalkableRects Property 
 
+**Вложено элементов:** 0  
 
 | NewTrisClass WalkableRects Property |
 | --- |

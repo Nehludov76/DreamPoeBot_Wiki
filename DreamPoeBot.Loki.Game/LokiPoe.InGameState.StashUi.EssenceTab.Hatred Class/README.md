@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.StashUi.EssenceTab.Hatred Class
 
+**Вложено элементов:** 8  
 
 | LokiPoe InGameState StashUi EssenceTab Hatred Class |
 | --- |
@@ -32,12 +33,15 @@ public ref class Hatred abstract sealed
 The LokiPoe InGameState StashUi EssenceTab Hatred type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Deafening |
-| Muttering |
-| Screaming |
-| Shrieking |
-| Wailing |
-| Weeping |
-| Whispering |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Deafening |  |
+|  | Muttering |  |
+|  | Screaming |  |
+|  | Shrieking |  |
+|  | Wailing |  |
+|  | Weeping |  |
+|  | Whispering |  |
+
+## Дочерние разделы
+- [**Hatred Properties**](./Hatred Properties/README.md)

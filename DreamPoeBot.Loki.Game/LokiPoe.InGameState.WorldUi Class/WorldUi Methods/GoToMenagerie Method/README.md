@@ -1,5 +1,6 @@
 # GoToMenagerie Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState WorldUi GoToMenagerie Method |
 | --- |

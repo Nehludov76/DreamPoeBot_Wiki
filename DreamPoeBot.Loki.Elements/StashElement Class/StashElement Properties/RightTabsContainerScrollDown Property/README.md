@@ -1,5 +1,6 @@
 # RightTabsContainerScrollDown Property 
 
+**Вложено элементов:** 0  
 
 | StashElement RightTabsContainerScrollDown Property |
 | --- |

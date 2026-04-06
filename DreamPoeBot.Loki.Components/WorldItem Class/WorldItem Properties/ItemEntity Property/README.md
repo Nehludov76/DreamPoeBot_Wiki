@@ -1,5 +1,6 @@
 # ItemEntity Property 
 
+**Вложено элементов:** 0  
 
 | WorldItem ItemEntity Property |
 | --- |

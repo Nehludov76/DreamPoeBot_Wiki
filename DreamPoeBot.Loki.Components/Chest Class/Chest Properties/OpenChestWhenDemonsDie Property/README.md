@@ -1,5 +1,6 @@
 # OpenChestWhenDemonsDie Property 
 
+**Вложено элементов:** 0  
 
 | Chest OpenChestWhenDemonsDie Property |
 | --- |

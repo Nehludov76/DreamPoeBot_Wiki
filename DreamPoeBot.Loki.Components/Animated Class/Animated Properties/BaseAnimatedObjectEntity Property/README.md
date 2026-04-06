@@ -1,5 +1,6 @@
 # BaseAnimatedObjectEntity Property 
 
+**Вложено элементов:** 0  
 
 | Animated BaseAnimatedObjectEntity Property |
 | --- |

@@ -1,5 +1,6 @@
 # NextReward Property 
 
+**Вложено элементов:** 0  
 
 | UltimatumRewardUiElement NextReward Property |
 | --- |

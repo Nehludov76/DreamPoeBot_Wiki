@@ -1,5 +1,6 @@
 # CraftOptions Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState DivineFontUi CraftOptions Property |
 | --- |

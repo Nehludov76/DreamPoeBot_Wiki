@@ -1,5 +1,6 @@
 # GenericSlot3 Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState GuildStashUi DeliriumTab GenericSlot3 Property |
 | --- |

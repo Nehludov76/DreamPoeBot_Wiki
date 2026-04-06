@@ -1,5 +1,6 @@
 # IsInBreachTower Method 
 
+**Вложено элементов:** 0  
 
 | GridExplorer BreachTowerDataClass IsInBreachTower Method |
 | --- |

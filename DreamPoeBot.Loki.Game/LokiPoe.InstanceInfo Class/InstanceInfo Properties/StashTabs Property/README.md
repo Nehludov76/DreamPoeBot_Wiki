@@ -1,5 +1,6 @@
 # StashTabs Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo StashTabs Property |
 | --- |

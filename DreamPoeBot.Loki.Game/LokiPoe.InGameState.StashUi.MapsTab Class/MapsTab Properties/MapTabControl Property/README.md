@@ -1,5 +1,6 @@
 # MapTabControl Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState StashUi MapsTab MapTabControl Property |
 | --- |

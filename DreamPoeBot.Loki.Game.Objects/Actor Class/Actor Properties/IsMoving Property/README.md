@@ -1,5 +1,6 @@
 # IsMoving Property 
 
+**Вложено элементов:** 0  
 
 | Actor IsMoving Property |
 | --- |

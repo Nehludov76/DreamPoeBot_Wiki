@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.StashUi.EssenceTab.Greed Class
 
+**Вложено элементов:** 8  
 
 | LokiPoe InGameState StashUi EssenceTab Greed Class |
 | --- |
@@ -32,12 +33,15 @@ public ref class Greed abstract sealed
 The LokiPoe InGameState StashUi EssenceTab Greed type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Deafening |
-| Muttering |
-| Screaming |
-| Shrieking |
-| Wailing |
-| Weeping |
-| Whispering |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Deafening |  |
+|  | Muttering |  |
+|  | Screaming |  |
+|  | Shrieking |  |
+|  | Wailing |  |
+|  | Weeping |  |
+|  | Whispering |  |
+
+## Дочерние разделы
+- [**Greed Properties**](./Greed Properties/README.md)

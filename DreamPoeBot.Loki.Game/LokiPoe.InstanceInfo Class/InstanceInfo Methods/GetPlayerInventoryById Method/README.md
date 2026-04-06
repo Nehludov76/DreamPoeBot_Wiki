@@ -1,5 +1,6 @@
 # GetPlayerInventoryById Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo GetPlayerInventoryById Method |
 | --- |

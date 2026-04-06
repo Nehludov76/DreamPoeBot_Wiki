@@ -1,5 +1,6 @@
 # VisibleIndex Property 
 
+**Вложено элементов:** 0  
 
 | StashTabNode VisibleIndex Property |
 | --- |

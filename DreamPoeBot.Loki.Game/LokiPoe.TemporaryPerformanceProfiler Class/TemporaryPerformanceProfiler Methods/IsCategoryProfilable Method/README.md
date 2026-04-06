@@ -1,5 +1,6 @@
 # IsCategoryProfilable Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe TemporaryPerformanceProfiler IsCategoryProfilable Method |
 | --- |

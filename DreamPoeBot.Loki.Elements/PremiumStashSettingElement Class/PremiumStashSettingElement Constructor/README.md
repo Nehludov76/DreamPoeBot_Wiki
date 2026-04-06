@@ -1,5 +1,6 @@
 # PremiumStashSettingElement Constructor 
 
+**Вложено элементов:** 0  
 
 | PremiumStashSettingElement Constructor |
 | --- |

@@ -1,5 +1,6 @@
 # SkillOwnerId Property 
 
+**Вложено элементов:** 0  
 
 | Aura SkillOwnerId Property |
 | --- |

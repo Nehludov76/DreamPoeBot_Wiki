@@ -1,5 +1,6 @@
 # CraftingElementYOffset Property 
 
+**Вложено элементов:** 0  
 
 | MasterDeviceElement CraftingElementYOffset Property |
 | --- |

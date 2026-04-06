@@ -1,5 +1,6 @@
 # weapon_swap_combo Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input Binding weapon_swap_combo Property |
 | --- |

@@ -1,5 +1,6 @@
 # IsBlacklisted Method (String)
 
+**Вложено элементов:** 0  
 
 | SkillBlacklist IsBlacklisted Method (String) |
 | --- |

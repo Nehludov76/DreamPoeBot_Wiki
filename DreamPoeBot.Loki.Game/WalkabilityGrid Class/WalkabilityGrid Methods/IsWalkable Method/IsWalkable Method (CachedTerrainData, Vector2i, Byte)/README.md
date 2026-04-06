@@ -1,5 +1,6 @@
 # IsWalkable Method (CachedTerrainData, Vector2i, Byte)
 
+**Вложено элементов:** 0  
 
 | WalkabilityGrid IsWalkable Method (CachedTerrainData, Vector2i, Byte) |
 | --- |

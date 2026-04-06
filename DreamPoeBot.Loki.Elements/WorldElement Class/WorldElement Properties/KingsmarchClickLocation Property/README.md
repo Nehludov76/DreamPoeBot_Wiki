@@ -1,5 +1,6 @@
 # KingsmarchClickLocation Property 
 
+**Вложено элементов:** 0  
 
 | WorldElement KingsmarchClickLocation Property |
 | --- |

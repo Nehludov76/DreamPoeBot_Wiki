@@ -1,5 +1,6 @@
 # Oil2Inventory Property 
 
+**Вложено элементов:** 0  
 
 | AnointingElement Oil2Inventory Property |
 | --- |

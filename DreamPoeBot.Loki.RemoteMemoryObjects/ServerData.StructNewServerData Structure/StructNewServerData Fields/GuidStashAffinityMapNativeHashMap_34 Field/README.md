@@ -1,5 +1,6 @@
 # GuidStashAffinityMapNativeHashMap_34 Field
 
+**Вложено элементов:** 0  
 
 | ServerData StructNewServerData GuidStashAffinityMapNativeHashMap_34 Field |
 | --- |

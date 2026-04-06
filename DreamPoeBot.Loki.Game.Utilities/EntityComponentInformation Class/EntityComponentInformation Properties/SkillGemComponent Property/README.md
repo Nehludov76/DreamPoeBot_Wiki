@@ -1,5 +1,6 @@
 # SkillGemComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation SkillGemComponent Property |
 | --- |

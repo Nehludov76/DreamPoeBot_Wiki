@@ -1,5 +1,6 @@
 # Merc_2_Element Property 
 
+**Вложено элементов:** 0  
 
 | HudUIElement Merc_2_Element Property |
 | --- |

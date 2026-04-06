@@ -1,5 +1,6 @@
 # MapItemQuantity Property 
 
+**Вложено элементов:** 0  
 
 | Item MapItemQuantity Property |
 | --- |

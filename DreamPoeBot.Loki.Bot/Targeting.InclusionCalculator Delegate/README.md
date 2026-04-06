@@ -1,5 +1,6 @@
 # Targeting.InclusionCalculator Delegate
 
+**Вложено элементов:** 0  
 
 | Targeting InclusionCalculator Delegate |
 | --- |

@@ -1,5 +1,6 @@
 # IsShowingFull Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState DebugOverlay IsShowingFull Property |
 | --- |

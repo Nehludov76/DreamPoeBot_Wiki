@@ -1,5 +1,6 @@
 # ShieldComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation ShieldComponent Property |
 | --- |

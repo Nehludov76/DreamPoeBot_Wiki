@@ -1,5 +1,6 @@
 # EnergyShieldRegen Property 
 
+**Вложено элементов:** 0  
 
 | Life EnergyShieldRegen Property |
 | --- |

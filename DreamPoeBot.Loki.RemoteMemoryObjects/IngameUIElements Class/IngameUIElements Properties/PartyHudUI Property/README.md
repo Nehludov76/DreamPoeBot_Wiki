@@ -1,5 +1,6 @@
 # PartyHudUI Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements PartyHudUI Property |
 | --- |

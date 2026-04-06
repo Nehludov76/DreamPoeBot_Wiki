@@ -1,5 +1,6 @@
 # ReadSecondPointerArray_Count Method 
 
+**Вложено элементов:** 0  
 
 | Memory ReadSecondPointerArray_Count Method |
 | --- |

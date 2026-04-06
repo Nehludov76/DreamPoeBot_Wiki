@@ -1,5 +1,6 @@
 # MaxSimplificationError Property 
 
+**Вложено элементов:** 0  
 
 | RecastMeshSettings MaxSimplificationError Property |
 | --- |

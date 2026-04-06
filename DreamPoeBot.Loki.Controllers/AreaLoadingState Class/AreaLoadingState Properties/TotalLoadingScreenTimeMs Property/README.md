@@ -1,5 +1,6 @@
 # TotalLoadingScreenTimeMs Property 
 
+**Вложено элементов:** 0  
 
 | AreaLoadingState TotalLoadingScreenTimeMs Property |
 | --- |

@@ -1,5 +1,6 @@
 # MarketRatioElement Property 
 
+**Вложено элементов:** 0  
 
 | CurrencyExchangeElement MarketRatioElement Property |
 | --- |

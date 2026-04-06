@@ -1,5 +1,6 @@
 # LastActionId Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo LastActionId Property |
 | --- |

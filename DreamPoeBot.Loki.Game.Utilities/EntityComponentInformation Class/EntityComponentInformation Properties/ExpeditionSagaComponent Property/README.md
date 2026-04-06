@@ -1,5 +1,6 @@
 # ExpeditionSagaComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation ExpeditionSagaComponent Property |
 | --- |

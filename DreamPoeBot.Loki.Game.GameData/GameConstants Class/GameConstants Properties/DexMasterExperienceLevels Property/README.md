@@ -1,5 +1,6 @@
 # DexMasterExperienceLevels Property 
 
+**Вложено элементов:** 0  
 
 | GameConstants DexMasterExperienceLevels Property |
 | --- |

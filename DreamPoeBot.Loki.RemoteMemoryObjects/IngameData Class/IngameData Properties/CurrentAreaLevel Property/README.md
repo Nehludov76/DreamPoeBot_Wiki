@@ -1,5 +1,6 @@
 # CurrentAreaLevel Property 
 
+**Вложено элементов:** 0  
 
 | IngameData CurrentAreaLevel Property |
 | --- |

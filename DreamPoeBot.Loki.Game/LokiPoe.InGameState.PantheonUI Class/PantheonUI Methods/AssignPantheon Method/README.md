@@ -1,5 +1,6 @@
 # AssignPantheon Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState PantheonUI AssignPantheon Method |
 | --- |

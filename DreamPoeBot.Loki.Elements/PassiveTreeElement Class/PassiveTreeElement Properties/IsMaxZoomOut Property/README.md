@@ -1,5 +1,6 @@
 # IsMaxZoomOut Property 
 
+**Вложено элементов:** 0  
 
 | PassiveTreeElement IsMaxZoomOut Property |
 | --- |

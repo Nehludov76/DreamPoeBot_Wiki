@@ -1,5 +1,6 @@
 # MaxStackCount Property 
 
+**Вложено элементов:** 0  
 
 | Item MaxStackCount Property |
 | --- |

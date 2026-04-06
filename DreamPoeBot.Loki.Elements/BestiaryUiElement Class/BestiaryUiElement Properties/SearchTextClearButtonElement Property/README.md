@@ -1,5 +1,6 @@
 # SearchTextClearButtonElement Property 
 
+**Вложено элементов:** 0  
 
 | BestiaryUiElement SearchTextClearButtonElement Property |
 | --- |

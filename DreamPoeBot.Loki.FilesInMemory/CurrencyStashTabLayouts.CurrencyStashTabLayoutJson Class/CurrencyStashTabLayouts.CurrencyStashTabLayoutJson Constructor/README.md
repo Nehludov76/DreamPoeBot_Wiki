@@ -1,5 +1,6 @@
 # CurrencyStashTabLayouts.CurrencyStashTabLayoutJson Constructor 
 
+**Вложено элементов:** 0  
 
 | CurrencyStashTabLayouts CurrencyStashTabLayoutJson Constructor |
 | --- |

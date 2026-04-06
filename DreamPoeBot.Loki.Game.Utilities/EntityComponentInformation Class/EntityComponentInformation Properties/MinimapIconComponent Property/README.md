@@ -1,5 +1,6 @@
 # MinimapIconComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation MinimapIconComponent Property |
 | --- |

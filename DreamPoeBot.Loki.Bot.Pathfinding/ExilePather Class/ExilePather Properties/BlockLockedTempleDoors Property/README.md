@@ -1,5 +1,6 @@
 # BlockLockedTempleDoors Property 
 
+**Вложено элементов:** 0  
 
 | ExilePather BlockLockedTempleDoors Property |
 | --- |

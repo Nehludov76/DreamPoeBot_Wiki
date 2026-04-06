@@ -1,5 +1,6 @@
 # GetInventoryControlForMetadata Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState GuildStashUi CurrencyTab GetInventoryControlForMetadata Method |
 | --- |

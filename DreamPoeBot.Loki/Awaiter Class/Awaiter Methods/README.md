@@ -1,5 +1,6 @@
 # Awaiter Methods
 
+**Вложено элементов:** 1  
 
 | Awaiter Methods |
 | --- |
@@ -10,6 +11,9 @@
 The Awaiter type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Await |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Await |  |
+
+## Дочерние разделы
+- [**Await Method **](./Await Method/README.md)

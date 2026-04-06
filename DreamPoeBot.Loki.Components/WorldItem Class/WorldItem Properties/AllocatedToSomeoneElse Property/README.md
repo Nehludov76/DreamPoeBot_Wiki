@@ -1,5 +1,6 @@
 # AllocatedToSomeoneElse Property 
 
+**Вложено элементов:** 0  
 
 | WorldItem AllocatedToSomeoneElse Property |
 | --- |

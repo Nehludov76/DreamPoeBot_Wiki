@@ -1,5 +1,6 @@
 # SkillGem Property 
 
+**Вложено элементов:** 0  
 
 | Skill SkillGem Property |
 | --- |

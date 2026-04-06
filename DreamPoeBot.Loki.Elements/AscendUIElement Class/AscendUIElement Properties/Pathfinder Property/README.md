@@ -1,5 +1,6 @@
 # Pathfinder Property 
 
+**Вложено элементов:** 0  
 
 | AscendUIElement Pathfinder Property |
 | --- |

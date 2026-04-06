@@ -1,5 +1,6 @@
 # CapturedVessel Property 
 
+**Вложено элементов:** 0  
 
 | PantheonSoulsDatFileWrapper PantheonSoulsDatFileHardcodedJson CapturedVessel Property |
 | --- |

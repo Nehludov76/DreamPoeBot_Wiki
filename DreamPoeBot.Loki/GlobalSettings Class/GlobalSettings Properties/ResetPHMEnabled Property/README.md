@@ -1,5 +1,6 @@
 # ResetPHMEnabled Property 
 
+**Вложено элементов:** 0  
 
 | GlobalSettings ResetPHMEnabled Property |
 | --- |

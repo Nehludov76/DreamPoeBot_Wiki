@@ -1,5 +1,6 @@
 # IsTheSearingExarchInvitationClicked Property 
 
+**Вложено элементов:** 0  
 
 | MasterDeviceElement IsTheSearingExarchInvitationClicked Property |
 | --- |

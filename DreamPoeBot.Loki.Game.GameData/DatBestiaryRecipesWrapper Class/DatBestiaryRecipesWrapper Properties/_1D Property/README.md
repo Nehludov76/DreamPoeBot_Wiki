@@ -1,5 +1,6 @@
 # _1D Property 
 
+**Вложено элементов:** 0  
 
 | DatBestiaryRecipesWrapper _1D Property |
 | --- |

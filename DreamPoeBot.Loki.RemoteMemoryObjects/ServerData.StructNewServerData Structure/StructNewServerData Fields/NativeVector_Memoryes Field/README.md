@@ -1,5 +1,6 @@
 # NativeVector_Memoryes Field
 
+**Вложено элементов:** 0  
 
 | ServerData StructNewServerData NativeVector_Memoryes Field |
 | --- |

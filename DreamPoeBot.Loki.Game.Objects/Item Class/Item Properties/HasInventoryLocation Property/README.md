@@ -1,5 +1,6 @@
 # HasInventoryLocation Property 
 
+**Вложено элементов:** 0  
 
 | Item HasInventoryLocation Property |
 | --- |

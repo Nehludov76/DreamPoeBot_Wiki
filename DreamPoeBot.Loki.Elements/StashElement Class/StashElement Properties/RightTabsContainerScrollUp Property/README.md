@@ -1,5 +1,6 @@
 # RightTabsContainerScrollUp Property 
 
+**Вложено элементов:** 0  
 
 | StashElement RightTabsContainerScrollUp Property |
 | --- |

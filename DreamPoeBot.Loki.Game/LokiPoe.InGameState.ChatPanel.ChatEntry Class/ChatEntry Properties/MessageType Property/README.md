@@ -1,5 +1,6 @@
 # MessageType Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ChatPanel ChatEntry MessageType Property |
 | --- |

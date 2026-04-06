@@ -1,5 +1,6 @@
 # LastTabIndex Property 
 
+**Вложено элементов:** 0  
 
 | TabControlWrapper LastTabIndex Property |
 | --- |

@@ -1,5 +1,6 @@
 # Quality Constructor (Int64)
 
+**Вложено элементов:** 0  
 
 | Quality Constructor (Int64) |
 | --- |

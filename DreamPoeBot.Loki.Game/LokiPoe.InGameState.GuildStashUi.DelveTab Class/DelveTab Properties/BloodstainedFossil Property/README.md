@@ -1,5 +1,6 @@
 # BloodstainedFossil Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState GuildStashUi DelveTab BloodstainedFossil Property |
 | --- |

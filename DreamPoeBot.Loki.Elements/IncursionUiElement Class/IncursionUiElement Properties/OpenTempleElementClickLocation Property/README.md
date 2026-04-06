@@ -1,5 +1,6 @@
 # OpenTempleElementClickLocation Property 
 
+**Вложено элементов:** 0  
 
 | IncursionUiElement OpenTempleElementClickLocation Property |
 | --- |

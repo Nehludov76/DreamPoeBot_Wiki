@@ -1,5 +1,6 @@
 # ShowUi Method 
 
+**Вложено элементов:** 0  
 
 | NecropolisCorpse ShowUi Method |
 | --- |

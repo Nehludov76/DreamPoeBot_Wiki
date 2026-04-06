@@ -1,5 +1,6 @@
 # ScionExtraPassiveSkillPointsLeft Property 
 
+**Вложено элементов:** 0  
 
 | ServerData ScionExtraPassiveSkillPointsLeft Property |
 | --- |

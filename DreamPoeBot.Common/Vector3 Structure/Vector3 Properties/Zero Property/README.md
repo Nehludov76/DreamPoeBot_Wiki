@@ -1,5 +1,6 @@
 # Zero Property 
 
+**Вложено элементов:** 0  
 
 | Vector3 Zero Property |
 | --- |

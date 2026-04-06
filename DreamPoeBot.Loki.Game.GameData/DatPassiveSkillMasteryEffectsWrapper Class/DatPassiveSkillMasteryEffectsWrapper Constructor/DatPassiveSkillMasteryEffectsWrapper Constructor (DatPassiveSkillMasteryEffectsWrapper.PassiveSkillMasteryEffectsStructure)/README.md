@@ -1,5 +1,6 @@
 # DatPassiveSkillMasteryEffectsWrapper Constructor (DatPassiveSkillMasteryEffectsWrapper.PassiveSkillMasteryEffectsStructure)
 
+**Вложено элементов:** 0  
 
 | DatPassiveSkillMasteryEffectsWrapper Constructor (DatPassiveSkillMasteryEffectsWrapper PassiveSkillMasteryEffectsStructure) |
 | --- |

@@ -1,5 +1,6 @@
 # CloseWindowResult Enumeration
 
+**Вложено элементов:** 0  
 
 | CloseWindowResult Enumeration |
 | --- |
@@ -30,7 +31,7 @@ public enum class CloseWindowResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| ProcessHookManagerNotEnabled | 1 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | ProcessHookManagerNotEnabled | 1 |  |

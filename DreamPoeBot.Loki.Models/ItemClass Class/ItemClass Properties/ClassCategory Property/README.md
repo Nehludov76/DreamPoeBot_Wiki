@@ -1,5 +1,6 @@
 # ClassCategory Property 
 
+**Вложено элементов:** 0  
 
 | ItemClass ClassCategory Property |
 | --- |

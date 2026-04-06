@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.GuildStashUi.EssenceTab.Anger Class
 
+**Вложено элементов:** 7  
 
 | LokiPoe InGameState GuildStashUi EssenceTab Anger Class |
 | --- |
@@ -32,11 +33,14 @@ public ref class Anger abstract sealed
 The LokiPoe InGameState GuildStashUi EssenceTab Anger type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Deafening |
-| Muttering |
-| Screaming |
-| Shrieking |
-| Wailing |
-| Weeping |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Deafening |  |
+|  | Muttering |  |
+|  | Screaming |  |
+|  | Shrieking |  |
+|  | Wailing |  |
+|  | Weeping |  |
+
+## Дочерние разделы
+- [**Anger Properties**](./Anger Properties/README.md)

@@ -1,5 +1,6 @@
 # HasTalismanTabOverride Property 
 
+**Вложено элементов:** 0  
 
 | InventoryControlWrapper HasTalismanTabOverride Property |
 | --- |

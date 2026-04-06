@@ -1,5 +1,6 @@
 # RefundPassivesButtonElement Property 
 
+**Вложено элементов:** 0  
 
 | PassiveTreeElement RefundPassivesButtonElement Property |
 | --- |

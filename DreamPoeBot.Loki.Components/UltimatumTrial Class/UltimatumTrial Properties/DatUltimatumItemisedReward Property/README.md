@@ -1,5 +1,6 @@
 # DatUltimatumItemisedReward Property 
 
+**Вложено элементов:** 0  
 
 | UltimatumTrial DatUltimatumItemisedReward Property |
 | --- |

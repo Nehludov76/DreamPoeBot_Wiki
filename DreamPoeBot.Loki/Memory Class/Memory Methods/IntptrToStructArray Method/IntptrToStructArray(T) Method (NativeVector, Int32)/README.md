@@ -1,5 +1,6 @@
 # IntptrToStructArray(T) Method (NativeVector, Int32)
 
+**Вложено элементов:** 0  
 
 | Memory IntptrToStructArray T Method (NativeVector, Int32) |
 | --- |

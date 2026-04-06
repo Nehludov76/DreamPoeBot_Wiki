@@ -1,5 +1,6 @@
 # nativeVector_3AvailableSkills Field
 
+**Вложено элементов:** 0  
 
 | Actor ActorStruct137 nativeVector_3AvailableSkills Field |
 | --- |

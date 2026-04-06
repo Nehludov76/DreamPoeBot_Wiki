@@ -1,5 +1,6 @@
 # PrimalDeliriumOrb Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState GuildStashUi DeliriumTab PrimalDeliriumOrb Property |
 | --- |

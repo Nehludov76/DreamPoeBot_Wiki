@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.GuildStashUi.EssenceTab.Spite Class
 
+**Вложено элементов:** 5  
 
 | LokiPoe InGameState GuildStashUi EssenceTab Spite Class |
 | --- |
@@ -32,9 +33,12 @@ public ref class Spite abstract sealed
 The LokiPoe InGameState GuildStashUi EssenceTab Spite type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Deafening |
-| Screaming |
-| Shrieking |
-| Wailing |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Deafening |  |
+|  | Screaming |  |
+|  | Shrieking |  |
+|  | Wailing |  |
+
+## Дочерние разделы
+- [**Spite Properties**](./Spite Properties/README.md)

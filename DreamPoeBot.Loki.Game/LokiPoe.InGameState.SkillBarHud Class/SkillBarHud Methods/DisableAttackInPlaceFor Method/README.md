@@ -1,5 +1,6 @@
 # DisableAttackInPlaceFor Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SkillBarHud DisableAttackInPlaceFor Method |
 | --- |

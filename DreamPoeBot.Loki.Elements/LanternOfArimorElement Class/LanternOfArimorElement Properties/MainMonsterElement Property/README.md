@@ -1,5 +1,6 @@
 # MainMonsterElement Property 
 
+**Вложено элементов:** 0  
 
 | LanternOfArimorElement MainMonsterElement Property |
 | --- |

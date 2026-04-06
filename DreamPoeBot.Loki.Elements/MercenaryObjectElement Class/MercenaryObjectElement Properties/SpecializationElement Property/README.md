@@ -1,5 +1,6 @@
 # SpecializationElement Property 
 
+**Вложено элементов:** 0  
 
 | MercenaryObjectElement SpecializationElement Property |
 | --- |

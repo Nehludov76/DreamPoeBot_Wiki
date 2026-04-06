@@ -1,5 +1,6 @@
 # IsMirrored Property 
 
+**Вложено элементов:** 0  
 
 | Mods IsMirrored Property |
 | --- |

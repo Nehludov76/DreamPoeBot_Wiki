@@ -1,5 +1,6 @@
 # Dump Method 
 
+**Вложено элементов:** 0  
 
 | UltimatumChallengeInteractable Dump Method |
 | --- |

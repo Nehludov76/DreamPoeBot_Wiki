@@ -1,5 +1,6 @@
 # IsTabsMenuVisible Property 
 
+**Вложено элементов:** 0  
 
 | TabControlWrapper IsTabsMenuVisible Property |
 | --- |

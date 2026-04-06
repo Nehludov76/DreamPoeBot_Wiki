@@ -1,5 +1,6 @@
 # highlight_combo Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input Binding highlight_combo Property |
 | --- |

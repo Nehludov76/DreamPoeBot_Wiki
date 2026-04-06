@@ -1,5 +1,6 @@
 # AcceleratingCatalyst Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState StashUi MetamorphTab AcceleratingCatalyst Property |
 | --- |

@@ -1,5 +1,6 @@
 # DebugTicks Property 
 
+**Вложено элементов:** 0  
 
 | GlobalSettings DebugTicks Property |
 | --- |

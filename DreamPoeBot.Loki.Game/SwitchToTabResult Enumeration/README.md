@@ -1,5 +1,6 @@
 # SwitchToTabResult Enumeration
 
+**Вложено элементов:** 0  
 
 | SwitchToTabResult Enumeration |
 | --- |
@@ -30,15 +31,15 @@ public enum class SwitchToTabResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| ProcessHookManagerNotEnabled | 1 |
-| Failed | 2 |
-| UiNotOpen | 3 |
-| TabListNotOpen | 4 |
-| TabNotFound | 5 |
-| FailedToOpenTabList | 6 |
-| UnableToFindTabInScrollView | 7 |
-| NoMoreTabs | 8 |
-| NotSupported | 9 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | ProcessHookManagerNotEnabled | 1 |  |
+|  | Failed | 2 |  |
+|  | UiNotOpen | 3 |  |
+|  | TabListNotOpen | 4 |  |
+|  | TabNotFound | 5 |  |
+|  | FailedToOpenTabList | 6 |  |
+|  | UnableToFindTabInScrollView | 7 |  |
+|  | NoMoreTabs | 8 |  |
+|  | NotSupported | 9 |  |

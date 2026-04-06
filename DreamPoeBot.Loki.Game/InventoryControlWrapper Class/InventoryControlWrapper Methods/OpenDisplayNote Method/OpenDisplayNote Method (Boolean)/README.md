@@ -1,5 +1,6 @@
 # OpenDisplayNote Method (Boolean)
 
+**Вложено элементов:** 0  
 
 | InventoryControlWrapper OpenDisplayNote Method (Boolean) |
 | --- |

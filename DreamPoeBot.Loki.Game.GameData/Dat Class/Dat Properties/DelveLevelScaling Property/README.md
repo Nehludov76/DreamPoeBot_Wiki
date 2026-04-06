@@ -1,5 +1,6 @@
 # DelveLevelScaling Property 
 
+**Вложено элементов:** 0  
 
 | Dat DelveLevelScaling Property |
 | --- |

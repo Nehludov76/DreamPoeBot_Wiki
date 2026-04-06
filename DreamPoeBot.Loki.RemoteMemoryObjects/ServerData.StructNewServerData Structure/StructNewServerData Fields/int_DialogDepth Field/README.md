@@ -1,5 +1,6 @@
 # int_DialogDepth Field
 
+**Вложено элементов:** 0  
 
 | ServerData StructNewServerData int_DialogDepth Field |
 | --- |

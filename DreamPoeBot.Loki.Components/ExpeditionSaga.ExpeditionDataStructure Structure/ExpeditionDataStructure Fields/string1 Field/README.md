@@ -1,5 +1,6 @@
 # string1 Field
 
+**Вложено элементов:** 0  
 
 | ExpeditionSaga ExpeditionDataStructure string1 Field |
 | --- |

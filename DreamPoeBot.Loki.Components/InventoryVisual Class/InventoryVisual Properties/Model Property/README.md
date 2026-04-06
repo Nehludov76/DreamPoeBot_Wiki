@@ -1,5 +1,6 @@
 # Model Property 
 
+**Вложено элементов:** 0  
 
 | InventoryVisual Model Property |
 | --- |

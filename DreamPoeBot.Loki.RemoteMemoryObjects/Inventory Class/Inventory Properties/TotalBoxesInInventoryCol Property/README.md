@@ -1,5 +1,6 @@
 # TotalBoxesInInventoryCol Property 
 
+**Вложено элементов:** 0  
 
 | Inventory TotalBoxesInInventoryCol Property |
 | --- |

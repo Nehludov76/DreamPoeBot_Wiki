@@ -1,5 +1,6 @@
 # CurrentWorldAreaAddress Property 
 
+**Вложено элементов:** 0  
 
 | IngameData CurrentWorldAreaAddress Property |
 | --- |

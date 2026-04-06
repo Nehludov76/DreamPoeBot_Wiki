@@ -1,5 +1,6 @@
 # IsFolder Property 
 
+**Вложено элементов:** 0  
 
 | StashTabInfo IsFolder Property |
 | --- |

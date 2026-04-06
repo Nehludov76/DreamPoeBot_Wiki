@@ -1,5 +1,6 @@
 # IsAssignedKeyOrIsActive Property 
 
+**Вложено элементов:** 0  
 
 | SkillElement IsAssignedKeyOrIsActive Property |
 | --- |

@@ -1,5 +1,6 @@
 # MapKeyComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation MapKeyComponent Property |
 | --- |

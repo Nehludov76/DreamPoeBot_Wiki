@@ -1,5 +1,6 @@
 # CurrentRatioElement Property 
 
+**Вложено элементов:** 0  
 
 | CurrencyExchangeElement CurrentRatioElement Property |
 | --- |

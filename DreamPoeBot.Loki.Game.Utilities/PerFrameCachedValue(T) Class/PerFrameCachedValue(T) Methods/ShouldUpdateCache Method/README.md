@@ -1,5 +1,6 @@
 # ShouldUpdateCache Method 
 
+**Вложено элементов:** 0  
 
 | PerFrameCachedValue T ShouldUpdateCache Method |
 | --- |

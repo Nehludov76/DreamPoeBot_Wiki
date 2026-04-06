@@ -1,5 +1,6 @@
 # PersistentEffectStatType Property 
 
+**Вложено элементов:** 0  
 
 | SanctumArchivesElement SanctumRoom PersistentEffectStatType Property |
 | --- |

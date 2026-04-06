@@ -1,5 +1,6 @@
 # zana_influence_skill_2 Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input Binding zana_influence_skill_2 Property |
 | --- |

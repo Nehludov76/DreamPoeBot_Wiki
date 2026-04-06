@@ -1,5 +1,6 @@
 # IsOnSkillBar Property 
 
+**Вложено элементов:** 0  
 
 | Skill IsOnSkillBar Property |
 | --- |

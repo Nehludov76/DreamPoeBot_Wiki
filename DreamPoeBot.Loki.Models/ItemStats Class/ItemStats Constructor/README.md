@@ -1,5 +1,6 @@
 # ItemStats Constructor 
 
+**Вложено элементов:** 0  
 
 | ItemStats Constructor |
 | --- |

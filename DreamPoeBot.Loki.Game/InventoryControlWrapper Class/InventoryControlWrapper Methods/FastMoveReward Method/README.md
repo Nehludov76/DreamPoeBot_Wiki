@@ -1,5 +1,6 @@
 # FastMoveReward Method 
 
+**Вложено элементов:** 0  
 
 | InventoryControlWrapper FastMoveReward Method |
 | --- |

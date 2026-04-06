@@ -1,5 +1,6 @@
 # MinionsDisplaydUi Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements MinionsDisplaydUi Property |
 | --- |

@@ -1,5 +1,6 @@
 # IsResetAllPassivesEnabled Property 
 
+**Вложено элементов:** 0  
 
 | AtlasSkillElement IsResetAllPassivesEnabled Property |
 | --- |

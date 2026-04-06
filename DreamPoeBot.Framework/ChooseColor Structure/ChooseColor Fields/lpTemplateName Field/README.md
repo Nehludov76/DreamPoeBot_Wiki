@@ -1,5 +1,6 @@
 # lpTemplateName Field
 
+**Вложено элементов:** 0  
 
 | ChooseColor lpTemplateName Field |
 | --- |

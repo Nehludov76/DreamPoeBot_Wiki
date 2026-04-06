@@ -1,5 +1,6 @@
 # CloseHandle Method 
 
+**Вложено элементов:** 0  
 
 | Interop CloseHandle Method |
 | --- |

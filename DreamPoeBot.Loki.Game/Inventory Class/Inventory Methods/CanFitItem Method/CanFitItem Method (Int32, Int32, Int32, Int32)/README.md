@@ -1,5 +1,6 @@
 # CanFitItem Method (Int32, Int32, Int32, Int32)
 
+**Вложено элементов:** 0  
 
 | Inventory CanFitItem Method (Int32, Int32, Int32 , Int32 ) |
 | --- |

@@ -1,5 +1,6 @@
 # Regular Field
 
+**Вложено элементов:** 0  
 
 | Offsets Regular Field |
 | --- |

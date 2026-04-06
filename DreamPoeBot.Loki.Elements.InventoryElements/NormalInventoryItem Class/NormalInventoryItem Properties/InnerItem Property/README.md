@@ -1,5 +1,6 @@
 # InnerItem Property 
 
+**Вложено элементов:** 0  
 
 | NormalInventoryItem InnerItem Property |
 | --- |

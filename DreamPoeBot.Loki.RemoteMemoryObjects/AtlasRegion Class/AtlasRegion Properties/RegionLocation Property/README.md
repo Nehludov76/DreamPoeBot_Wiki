@@ -1,5 +1,6 @@
 # RegionLocation Property 
 
+**Вложено элементов:** 0  
 
 | AtlasRegion RegionLocation Property |
 | --- |

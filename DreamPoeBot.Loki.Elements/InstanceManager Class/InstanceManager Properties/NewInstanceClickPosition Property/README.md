@@ -1,5 +1,6 @@
 # NewInstanceClickPosition Property 
 
+**Вложено элементов:** 0  
 
 | InstanceManager NewInstanceClickPosition Property |
 | --- |

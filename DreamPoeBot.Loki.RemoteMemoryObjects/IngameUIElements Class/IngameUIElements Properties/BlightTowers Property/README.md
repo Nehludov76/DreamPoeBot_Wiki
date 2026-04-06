@@ -1,5 +1,6 @@
 # BlightTowers Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements BlightTowers Property |
 | --- |

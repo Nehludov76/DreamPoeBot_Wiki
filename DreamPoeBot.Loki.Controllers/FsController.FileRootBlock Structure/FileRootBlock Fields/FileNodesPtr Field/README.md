@@ -1,5 +1,6 @@
 # FileNodesPtr Field
 
+**Вложено элементов:** 0  
 
 | FsController FileRootBlock FileNodesPtr Field |
 | --- |

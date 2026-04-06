@@ -1,5 +1,6 @@
 # DetailMeshCount Property 
 
+**Вложено элементов:** 0  
 
 | TileDebugData DetailMeshCount Property |
 | --- |

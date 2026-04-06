@@ -1,5 +1,6 @@
 # Tributes Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo Ritual Tributes Property |
 | --- |

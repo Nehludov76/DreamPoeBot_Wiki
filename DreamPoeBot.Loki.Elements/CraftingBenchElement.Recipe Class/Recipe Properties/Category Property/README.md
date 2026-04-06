@@ -1,5 +1,6 @@
 # Category Property 
 
+**Вложено элементов:** 0  
 
 | CraftingBenchElement Recipe Category Property |
 | --- |

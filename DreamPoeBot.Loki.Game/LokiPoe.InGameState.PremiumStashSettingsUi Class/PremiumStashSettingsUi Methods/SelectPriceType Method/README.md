@@ -1,5 +1,6 @@
 # SelectPriceType Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState PremiumStashSettingsUi SelectPriceType Method |
 | --- |

@@ -1,5 +1,6 @@
 # IsStopping Property 
 
+**Вложено элементов:** 0  
 
 | BotManager IsStopping Property |
 | --- |

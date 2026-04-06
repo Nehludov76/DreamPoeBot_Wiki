@@ -1,5 +1,6 @@
 # HasBuff Method (String)
 
+**Вложено элементов:** 0  
 
 | Actor HasBuff Method (String) |
 | --- |

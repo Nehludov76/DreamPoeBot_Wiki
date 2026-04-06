@@ -1,5 +1,6 @@
 # Remnant Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState StashUi EssenceTab Corruption Remnant Property |
 | --- |

@@ -1,5 +1,6 @@
 # HasMoltenShellBuff Property 
 
+**Вложено элементов:** 0  
 
 | Actor HasMoltenShellBuff Property |
 | --- |

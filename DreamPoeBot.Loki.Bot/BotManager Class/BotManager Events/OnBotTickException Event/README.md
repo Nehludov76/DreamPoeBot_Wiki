@@ -1,5 +1,6 @@
 # OnBotTickException Event
 
+**Вложено элементов:** 0  
 
 | BotManager OnBotTickException Event |
 | --- |

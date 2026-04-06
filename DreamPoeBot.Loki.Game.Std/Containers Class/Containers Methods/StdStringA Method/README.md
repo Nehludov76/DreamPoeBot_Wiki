@@ -1,5 +1,6 @@
 # StdStringA Method 
 
+**Вложено элементов:** 0  
 
 | Containers StdStringA Method |
 | --- |

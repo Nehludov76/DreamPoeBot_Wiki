@@ -1,5 +1,6 @@
 # MapVirtualKeyEx Method (UInt32, UInt32, IntPtr)
 
+**Вложено элементов:** 0  
 
 | Interop MapVirtualKeyEx Method (UInt32, UInt32, IntPtr) |
 | --- |

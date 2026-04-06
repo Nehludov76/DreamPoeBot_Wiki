@@ -1,5 +1,6 @@
 # close_panels Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input Binding close_panels Property |
 | --- |

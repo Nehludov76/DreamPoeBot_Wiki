@@ -1,5 +1,6 @@
 # RemoveObstaclesInAabb Method 
 
+**Вложено элементов:** 0  
 
 | Pathfinder RemoveObstaclesInAabb Method |
 | --- |

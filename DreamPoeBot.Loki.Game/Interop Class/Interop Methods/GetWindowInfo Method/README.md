@@ -1,5 +1,6 @@
 # GetWindowInfo Method 
 
+**Вложено элементов:** 0  
 
 | Interop GetWindowInfo Method |
 | --- |

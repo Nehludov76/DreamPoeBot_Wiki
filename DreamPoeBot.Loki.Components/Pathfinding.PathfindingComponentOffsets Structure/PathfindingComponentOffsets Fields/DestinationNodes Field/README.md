@@ -1,5 +1,6 @@
 # DestinationNodes Field
 
+**Вложено элементов:** 0  
 
 | Pathfinding PathfindingComponentOffsets DestinationNodes Field |
 | --- |

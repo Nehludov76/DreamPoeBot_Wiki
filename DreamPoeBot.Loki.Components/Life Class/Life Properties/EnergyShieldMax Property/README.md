@@ -1,5 +1,6 @@
 # EnergyShieldMax Property 
 
+**Вложено элементов:** 0  
 
 | Life EnergyShieldMax Property |
 | --- |

@@ -1,5 +1,6 @@
 # GenericSlot2 Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState StashUi DeliriumTab GenericSlot2 Property |
 | --- |

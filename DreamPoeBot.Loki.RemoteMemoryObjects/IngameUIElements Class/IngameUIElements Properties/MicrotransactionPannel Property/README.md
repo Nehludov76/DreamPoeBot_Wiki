@@ -1,5 +1,6 @@
 # MicrotransactionPannel Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements MicrotransactionPannel Property |
 | --- |

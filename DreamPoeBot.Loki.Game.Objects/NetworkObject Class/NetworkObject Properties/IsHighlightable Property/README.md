@@ -1,5 +1,6 @@
 # IsHighlightable Property 
 
+**Вложено элементов:** 0  
 
 | NetworkObject IsHighlightable Property |
 | --- |

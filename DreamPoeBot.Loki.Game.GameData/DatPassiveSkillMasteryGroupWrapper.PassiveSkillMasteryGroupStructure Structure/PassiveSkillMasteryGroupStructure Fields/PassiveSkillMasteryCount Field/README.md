@@ -1,5 +1,6 @@
 # PassiveSkillMasteryCount Field
 
+**Вложено элементов:** 0  
 
 | DatPassiveSkillMasteryGroupWrapper PassiveSkillMasteryGroupStructure PassiveSkillMasteryCount Field |
 | --- |

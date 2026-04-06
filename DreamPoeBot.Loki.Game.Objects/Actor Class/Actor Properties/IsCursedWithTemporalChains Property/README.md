@@ -1,5 +1,6 @@
 # IsCursedWithTemporalChains Property 
 
+**Вложено элементов:** 0  
 
 | Actor IsCursedWithTemporalChains Property |
 | --- |

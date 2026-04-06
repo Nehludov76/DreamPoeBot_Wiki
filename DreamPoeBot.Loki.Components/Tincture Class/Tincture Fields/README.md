@@ -1,5 +1,6 @@
 # Tincture Fields
 
+**Вложено элементов:** 0  
 
 | Tincture Fields |
 | --- |
@@ -10,6 +11,6 @@
 The Tincture type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| NeedUpdate | (Inherited from RemoteMemoryObject .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | NeedUpdate | (Inherited from RemoteMemoryObject .) |

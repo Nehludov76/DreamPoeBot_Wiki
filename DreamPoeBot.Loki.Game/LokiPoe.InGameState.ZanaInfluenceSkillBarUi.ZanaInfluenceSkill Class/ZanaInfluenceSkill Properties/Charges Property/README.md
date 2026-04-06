@@ -1,5 +1,6 @@
 # Charges Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ZanaInfluenceSkillBarUi ZanaInfluenceSkill Charges Property |
 | --- |

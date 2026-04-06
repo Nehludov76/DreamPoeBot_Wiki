@@ -1,5 +1,6 @@
 # IsRecipeOpionsExpanded Property 
 
+**Вложено элементов:** 0  
 
 | CraftingBenchElement Recipe IsRecipeOpionsExpanded Property |
 | --- |

@@ -1,5 +1,6 @@
 # GetDescriptionFromStatTypeGGG Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe GetDescriptionFromStatTypeGGG Method |
 | --- |

@@ -1,5 +1,6 @@
 # NetworkObject Constructor (Int64, Int32)
 
+**Вложено элементов:** 0  
 
 | NetworkObject Constructor (Int64, Int32) |
 | --- |

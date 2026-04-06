@@ -1,5 +1,6 @@
 # Bots Property 
 
+**Вложено элементов:** 0  
 
 | ThirdPartyInstanceWrapper Bots Property |
 | --- |

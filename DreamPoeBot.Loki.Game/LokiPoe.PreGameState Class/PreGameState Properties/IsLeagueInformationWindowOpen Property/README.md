@@ -1,5 +1,6 @@
 # IsLeagueInformationWindowOpen Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe PreGameState IsLeagueInformationWindowOpen Property |
 | --- |

@@ -1,5 +1,6 @@
 # Quality Property 
 
+**Вложено элементов:** 0  
 
 | Item Quality Property |
 | --- |

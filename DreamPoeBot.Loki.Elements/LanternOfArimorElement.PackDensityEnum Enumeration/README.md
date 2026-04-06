@@ -1,5 +1,6 @@
 # LanternOfArimorElement.PackDensityEnum Enumeration
 
+**Вложено элементов:** 0  
 
 | LanternOfArimorElement PackDensityEnum Enumeration |
 | --- |
@@ -30,10 +31,10 @@ public enum class PackDensityEnum
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| Unknown | 0 |
-| High | 1 |
-| Normal | 2 |
-| Low | 3 |
-| VeryLow | 4 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | Unknown | 0 |  |
+|  | High | 1 |  |
+|  | Normal | 2 |  |
+|  | Low | 3 |  |
+|  | VeryLow | 4 |  |

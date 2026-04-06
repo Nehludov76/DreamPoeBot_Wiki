@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.ZanaInfluenceSkillBarUi Class
 
+**Вложено элементов:** 2  
 
 | LokiPoe InGameState ZanaInfluenceSkillBarUi Class |
 | --- |
@@ -30,6 +31,9 @@ public ref class ZanaInfluenceSkillBarUi abstract sealed
 The LokiPoe InGameState ZanaInfluenceSkillBarUi type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Skills | Return a list of ZanaInfluenceSkill describing the available skills. |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Skills | Return a list of ZanaInfluenceSkill describing the available skills. |
+
+## Дочерние разделы
+- [**ZanaInfluenceSkillBarUi Properties**](./ZanaInfluenceSkillBarUi Properties/README.md)

@@ -1,5 +1,6 @@
 # InventoryControl_LeftRing Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState MercenaryEncounterUi InventoryControl_LeftRing Property |
 | --- |

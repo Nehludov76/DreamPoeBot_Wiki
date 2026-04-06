@@ -1,5 +1,6 @@
 # ManaRecoveredPerSecond Property 
 
+**Вложено элементов:** 0  
 
 | Item ManaRecoveredPerSecond Property |
 | --- |

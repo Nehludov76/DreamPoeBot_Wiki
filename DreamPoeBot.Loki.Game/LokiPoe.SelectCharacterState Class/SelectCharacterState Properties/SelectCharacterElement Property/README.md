@@ -1,5 +1,6 @@
 # SelectCharacterElement Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe SelectCharacterState SelectCharacterElement Property |
 | --- |

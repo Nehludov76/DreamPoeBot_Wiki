@@ -1,5 +1,6 @@
 # IUrlProvider Properties
 
+**Вложено элементов:** 1  
 
 | IUrlProvider Properties |
 | --- |
@@ -10,6 +11,9 @@
 The IUrlProvider type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Url |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Url |  |
+
+## Дочерние разделы
+- [**Url Property **](./Url Property/README.md)

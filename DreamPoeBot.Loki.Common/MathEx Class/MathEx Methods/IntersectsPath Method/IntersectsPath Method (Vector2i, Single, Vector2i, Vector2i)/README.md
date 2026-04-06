@@ -1,5 +1,6 @@
 # IntersectsPath Method (Vector2i, Single, Vector2i, Vector2i)
 
+**Вложено элементов:** 0  
 
 | MathEx IntersectsPath Method (Vector2i, Single, Vector2i, Vector2i) |
 | --- |

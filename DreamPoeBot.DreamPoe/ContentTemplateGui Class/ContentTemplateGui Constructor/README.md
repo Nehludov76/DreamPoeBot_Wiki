@@ -1,5 +1,6 @@
 # ContentTemplateGui Constructor 
 
+**Вложено элементов:** 0  
 
 | ContentTemplateGui Constructor |
 | --- |

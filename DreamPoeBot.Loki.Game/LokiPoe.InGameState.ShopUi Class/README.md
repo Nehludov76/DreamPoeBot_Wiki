@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.ShopUi Class
 
+**Вложено элементов:** 2  
 
 | LokiPoe InGameState ShopUi Class |
 | --- |
@@ -30,6 +31,9 @@ public ref class ShopUi abstract sealed
 The LokiPoe InGameState ShopUi type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| IsOpened | Return true if the panel is open. |
+|  | Name | Description |
+| --- | --- | --- |
+|  | IsOpened | Return true if the panel is open. |
+
+## Дочерние разделы
+- [**ShopUi Properties**](./ShopUi Properties/README.md)

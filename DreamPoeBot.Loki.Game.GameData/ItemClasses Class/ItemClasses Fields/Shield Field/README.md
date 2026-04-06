@@ -1,5 +1,6 @@
 # Shield Field
 
+**Вложено элементов:** 0  
 
 | ItemClasses Shield Field |
 | --- |

@@ -1,5 +1,6 @@
 # SelectedLeague Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe CaracterCreationState SelectedLeague Property |
 | --- |

@@ -1,5 +1,6 @@
 # ExternalTask(T) Method (Task(T), Int32)
 
+**Вложено элементов:** 0  
 
 | Coroutine ExternalTask T Method (Task T , Int32) |
 | --- |

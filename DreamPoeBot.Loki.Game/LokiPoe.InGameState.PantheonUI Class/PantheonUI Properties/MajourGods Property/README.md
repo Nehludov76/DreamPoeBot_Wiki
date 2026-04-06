@@ -1,5 +1,6 @@
 # MajourGods Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState PantheonUI MajourGods Property |
 | --- |

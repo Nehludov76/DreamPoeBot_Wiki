@@ -1,5 +1,6 @@
 # Min Method (Vector3, Vector3, Vector3)
 
+**Вложено элементов:** 0  
 
 | Vector3 Min Method (Vector3 , Vector3 , Vector3 ) |
 | --- |

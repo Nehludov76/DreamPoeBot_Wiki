@@ -1,5 +1,6 @@
 # RequiredInt Property 
 
+**Вложено элементов:** 0  
 
 | Item RequiredInt Property |
 | --- |

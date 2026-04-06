@@ -1,5 +1,6 @@
 # I2 Field
 
+**Вложено элементов:** 0  
 
 | SmallFileTableNew I2 Field |
 | --- |

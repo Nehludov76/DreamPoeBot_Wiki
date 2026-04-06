@@ -1,5 +1,6 @@
 # TangledFossil Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState GuildStashUi DelveTab TangledFossil Property |
 | --- |

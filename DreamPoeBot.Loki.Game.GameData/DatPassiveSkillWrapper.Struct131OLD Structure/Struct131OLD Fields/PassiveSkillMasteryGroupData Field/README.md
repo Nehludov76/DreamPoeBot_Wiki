@@ -1,5 +1,6 @@
 # PassiveSkillMasteryGroupData Field
 
+**Вложено элементов:** 0  
 
 | DatPassiveSkillWrapper Struct131OLD PassiveSkillMasteryGroupData Field |
 | --- |

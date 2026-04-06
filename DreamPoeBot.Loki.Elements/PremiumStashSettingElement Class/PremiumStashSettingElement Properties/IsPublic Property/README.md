@@ -1,5 +1,6 @@
 # IsPublic Property 
 
+**Вложено элементов:** 0  
 
 | PremiumStashSettingElement IsPublic Property |
 | --- |

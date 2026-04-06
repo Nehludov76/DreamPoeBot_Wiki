@@ -1,5 +1,6 @@
 # CancelTakeItem Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState MercenaryEncounterUi CancelTakeItem Method |
 | --- |

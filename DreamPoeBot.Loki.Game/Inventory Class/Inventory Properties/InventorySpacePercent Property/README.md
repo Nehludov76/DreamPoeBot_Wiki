@@ -1,5 +1,6 @@
 # InventorySpacePercent Property 
 
+**Вложено элементов:** 0  
 
 | Inventory InventorySpacePercent Property |
 | --- |

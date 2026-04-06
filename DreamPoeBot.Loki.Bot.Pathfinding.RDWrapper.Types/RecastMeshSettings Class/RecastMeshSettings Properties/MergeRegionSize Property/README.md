@@ -1,5 +1,6 @@
 # MergeRegionSize Property 
 
+**Вложено элементов:** 0  
 
 | RecastMeshSettings MergeRegionSize Property |
 | --- |

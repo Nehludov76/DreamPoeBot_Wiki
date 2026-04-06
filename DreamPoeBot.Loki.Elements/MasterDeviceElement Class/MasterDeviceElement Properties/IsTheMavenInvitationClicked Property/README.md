@@ -1,5 +1,6 @@
 # IsTheMavenInvitationClicked Property 
 
+**Вложено элементов:** 0  
 
 | MasterDeviceElement IsTheMavenInvitationClicked Property |
 | --- |

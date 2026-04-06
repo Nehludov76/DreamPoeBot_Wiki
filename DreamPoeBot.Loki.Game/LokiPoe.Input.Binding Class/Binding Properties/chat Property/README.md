@@ -1,5 +1,6 @@
 # chat Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input Binding chat Property |
 | --- |

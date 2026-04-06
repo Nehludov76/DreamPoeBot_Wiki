@@ -1,5 +1,6 @@
 # MaxEdgeLength Property 
 
+**Вложено элементов:** 0  
 
 | RecastMeshSettings MaxEdgeLength Property |
 | --- |

@@ -1,5 +1,6 @@
 # SimulateKeyEvent Method (Char)
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input SimulateKeyEvent Method (Char) |
 | --- |

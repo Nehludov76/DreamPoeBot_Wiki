@@ -1,5 +1,6 @@
 # WorldPosition Property 
 
+**Вложено элементов:** 0  
 
 | NetworkObject WorldPosition Property |
 | --- |

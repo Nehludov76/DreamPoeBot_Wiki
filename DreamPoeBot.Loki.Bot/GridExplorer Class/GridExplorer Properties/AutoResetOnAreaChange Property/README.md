@@ -1,5 +1,6 @@
 # AutoResetOnAreaChange Property 
 
+**Вложено элементов:** 0  
 
 | GridExplorer AutoResetOnAreaChange Property |
 | --- |

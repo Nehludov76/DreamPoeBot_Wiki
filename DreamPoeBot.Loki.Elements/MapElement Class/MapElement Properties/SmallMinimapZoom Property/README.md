@@ -1,5 +1,6 @@
 # SmallMinimapZoom Property 
 
+**Вложено элементов:** 0  
 
 | MapElement SmallMinimapZoom Property |
 | --- |

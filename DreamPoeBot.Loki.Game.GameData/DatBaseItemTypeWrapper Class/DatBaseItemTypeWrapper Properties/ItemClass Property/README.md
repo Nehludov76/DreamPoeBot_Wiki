@@ -1,5 +1,6 @@
 # ItemClass Property 
 
+**Вложено элементов:** 0  
 
 | DatBaseItemTypeWrapper ItemClass Property |
 | --- |

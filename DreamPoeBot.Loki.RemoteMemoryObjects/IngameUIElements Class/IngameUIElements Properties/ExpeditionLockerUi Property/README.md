@@ -1,5 +1,6 @@
 # ExpeditionLockerUi Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements ExpeditionLockerUi Property |
 | --- |

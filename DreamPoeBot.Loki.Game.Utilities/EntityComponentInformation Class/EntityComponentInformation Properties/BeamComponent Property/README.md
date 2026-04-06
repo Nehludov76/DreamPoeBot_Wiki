@@ -1,5 +1,6 @@
 # BeamComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation BeamComponent Property |
 | --- |

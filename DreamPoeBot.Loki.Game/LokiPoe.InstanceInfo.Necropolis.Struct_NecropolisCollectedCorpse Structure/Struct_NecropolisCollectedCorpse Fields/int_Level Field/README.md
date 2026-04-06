@@ -1,5 +1,6 @@
 # int_Level Field
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo Necropolis Struct_NecropolisCollectedCorpse int_Level Field |
 | --- |

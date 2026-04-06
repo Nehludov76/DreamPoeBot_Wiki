@@ -1,5 +1,6 @@
 # UltimatumData Field
 
+**Вложено элементов:** 0  
 
 | GridExplorer UltimatumData Field |
 | --- |

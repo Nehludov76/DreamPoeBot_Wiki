@@ -1,5 +1,6 @@
 # Disable Method (IPlugin)
 
+**Вложено элементов:** 0  
 
 | PluginManager Disable Method (IPlugin) |
 | --- |

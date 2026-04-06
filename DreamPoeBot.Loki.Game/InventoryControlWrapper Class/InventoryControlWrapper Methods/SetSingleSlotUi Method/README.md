@@ -1,5 +1,6 @@
 # SetSingleSlotUi Method 
 
+**Вложено элементов:** 0  
 
 | InventoryControlWrapper SetSingleSlotUi Method |
 | --- |

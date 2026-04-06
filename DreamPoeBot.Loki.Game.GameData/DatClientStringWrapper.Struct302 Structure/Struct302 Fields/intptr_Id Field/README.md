@@ -1,5 +1,6 @@
 # intptr_Id Field
 
+**Вложено элементов:** 0  
 
 | DatClientStringWrapper Struct302 intptr_Id Field |
 | --- |

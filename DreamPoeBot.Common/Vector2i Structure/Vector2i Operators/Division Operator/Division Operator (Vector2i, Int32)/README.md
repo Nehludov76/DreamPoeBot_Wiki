@@ -1,5 +1,6 @@
 # Division Operator (Vector2i, Int32)
 
+**Вложено элементов:** 0  
 
 | Vector2i Division Operator (Vector2i, Int32) |
 | --- |

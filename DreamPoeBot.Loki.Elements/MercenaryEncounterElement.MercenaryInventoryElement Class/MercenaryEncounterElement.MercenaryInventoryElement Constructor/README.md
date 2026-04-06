@@ -1,5 +1,6 @@
 # MercenaryEncounterElement.MercenaryInventoryElement Constructor 
 
+**Вложено элементов:** 0  
 
 | MercenaryEncounterElement MercenaryInventoryElement Constructor |
 | --- |

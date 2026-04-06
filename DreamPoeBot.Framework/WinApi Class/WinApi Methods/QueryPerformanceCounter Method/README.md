@@ -1,5 +1,6 @@
 # QueryPerformanceCounter Method 
 
+**Вложено элементов:** 0  
 
 | WinApi QueryPerformanceCounter Method |
 | --- |

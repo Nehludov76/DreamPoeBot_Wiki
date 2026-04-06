@@ -1,5 +1,6 @@
 # TotalVaalUses Property 
 
+**Вложено элементов:** 0  
 
 | Skill TotalVaalUses Property |
 | --- |

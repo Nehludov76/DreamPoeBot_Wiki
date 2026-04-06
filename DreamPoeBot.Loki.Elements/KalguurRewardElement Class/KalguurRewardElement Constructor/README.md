@@ -1,5 +1,6 @@
 # KalguurRewardElement Constructor 
 
+**Вложено элементов:** 0  
 
 | KalguurRewardElement Constructor |
 | --- |

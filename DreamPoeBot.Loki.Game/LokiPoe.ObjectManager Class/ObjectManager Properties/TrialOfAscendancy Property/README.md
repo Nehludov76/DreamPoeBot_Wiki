@@ -1,5 +1,6 @@
 # TrialOfAscendancy Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe ObjectManager TrialOfAscendancy Property |
 | --- |

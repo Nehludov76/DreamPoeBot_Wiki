@@ -1,5 +1,6 @@
 # LeftClick Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ChallengesUi BestiaryPanelUi Beast LeftClick Method |
 | --- |

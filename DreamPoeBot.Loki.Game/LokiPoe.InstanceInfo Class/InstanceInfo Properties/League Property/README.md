@@ -1,5 +1,6 @@
 # League Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo League Property |
 | --- |

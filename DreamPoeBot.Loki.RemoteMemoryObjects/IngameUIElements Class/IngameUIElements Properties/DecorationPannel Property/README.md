@@ -1,5 +1,6 @@
 # DecorationPannel Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements DecorationPannel Property |
 | --- |

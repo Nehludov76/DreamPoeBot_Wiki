@@ -1,5 +1,6 @@
 # EnergyShieldPercentTotal Property 
 
+**Вложено элементов:** 0  
 
 | Actor EnergyShieldPercentTotal Property |
 | --- |

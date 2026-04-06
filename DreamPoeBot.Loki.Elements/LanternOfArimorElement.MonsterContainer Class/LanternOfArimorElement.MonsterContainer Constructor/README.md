@@ -1,5 +1,6 @@
 # LanternOfArimorElement.MonsterContainer Constructor 
 
+**Вложено элементов:** 0  
 
 | LanternOfArimorElement MonsterContainer Constructor |
 | --- |

@@ -1,5 +1,6 @@
 # LokiPoe.SelectCharacterState Class
 
+**Вложено элементов:** 9  
 
 | LokiPoe SelectCharacterState Class |
 | --- |
@@ -30,16 +31,20 @@ public ref class SelectCharacterState abstract sealed
 The LokiPoe SelectCharacterState type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Characters | Retrieve an IEnumerable of CharacterEntry representing the list of aviable characters. |
-| IntPtr_6 |
-| IsCharacterListLoaded | Return true if the list of aviable characters is fully loaded. |
-| SelectCharacterElement |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Characters | Retrieve an IEnumerable of CharacterEntry representing the list of aviable characters. |
+|  | IntPtr_6 |  |
+|  | IsCharacterListLoaded | Return true if the list of aviable characters is fully loaded. |
+|  | SelectCharacterElement |  |
 
 
-| Name | Description |
-| --- | --- |
-| CreateNonRaceCharacter | This function is actually Disabled. |
-| PressCreateCharacter | Click the Create Character button. |
-| SelectCharacter | Select a specific character given a name, and click the Play button. |
+|  | Name | Description |
+| --- | --- | --- |
+|  | CreateNonRaceCharacter | This function is actually Disabled. |
+|  | PressCreateCharacter | Click the Create Character button. |
+|  | SelectCharacter | Select a specific character given a name, and click the Play button. |
+
+## Дочерние разделы
+- [**SelectCharacterState Properties**](./SelectCharacterState Properties/README.md)
+- [**SelectCharacterState Methods**](./SelectCharacterState Methods/README.md)

@@ -1,5 +1,6 @@
 # DelveNodeComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation DelveNodeComponent Property |
 | --- |

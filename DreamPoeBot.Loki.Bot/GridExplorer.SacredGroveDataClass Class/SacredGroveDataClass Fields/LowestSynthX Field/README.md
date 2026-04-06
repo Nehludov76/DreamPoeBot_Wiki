@@ -1,5 +1,6 @@
 # LowestSynthX Field
 
+**Вложено элементов:** 0  
 
 | GridExplorer SacredGroveDataClass LowestSynthX Field |
 | --- |

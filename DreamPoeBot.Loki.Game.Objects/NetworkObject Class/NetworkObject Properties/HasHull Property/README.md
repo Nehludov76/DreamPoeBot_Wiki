@@ -1,5 +1,6 @@
 # HasHull Property 
 
+**Вложено элементов:** 0  
 
 | NetworkObject HasHull Property |
 | --- |

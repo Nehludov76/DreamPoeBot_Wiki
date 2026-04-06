@@ -1,5 +1,6 @@
 # SmallMinimap Property 
 
+**Вложено элементов:** 0  
 
 | MapElement SmallMinimap Property |
 | --- |

@@ -1,5 +1,6 @@
 # IsTown Property 
 
+**Вложено элементов:** 0  
 
 | AreaInstance IsTown Property |
 | --- |

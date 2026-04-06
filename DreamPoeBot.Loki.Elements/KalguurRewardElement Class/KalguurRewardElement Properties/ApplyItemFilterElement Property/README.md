@@ -1,5 +1,6 @@
 # ApplyItemFilterElement Property 
 
+**Вложено элементов:** 0  
 
 | KalguurRewardElement ApplyItemFilterElement Property |
 | --- |

@@ -1,5 +1,6 @@
 # MergeStackResult Enumeration
 
+**Вложено элементов:** 0  
 
 | MergeStackResult Enumeration |
 | --- |
@@ -30,11 +31,11 @@ public enum class MergeStackResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| ProcessHookManagerNotEnabled | 1 |
-| NoPhysicalItem | 2 |
-| IncompatibleItemType | 3 |
-| ItemNotFound | 4 |
-| Unsupported | 5 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | ProcessHookManagerNotEnabled | 1 |  |
+|  | NoPhysicalItem | 2 |  |
+|  | IncompatibleItemType | 3 |  |
+|  | ItemNotFound | 4 |  |
+|  | Unsupported | 5 |  |

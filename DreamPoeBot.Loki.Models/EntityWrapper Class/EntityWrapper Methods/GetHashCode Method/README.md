@@ -1,5 +1,6 @@
 # GetHashCode Method 
 
+**Вложено элементов:** 0  
 
 | EntityWrapper GetHashCode Method |
 | --- |

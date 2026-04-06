@@ -1,5 +1,6 @@
 # Skill Property 
 
+**Вложено элементов:** 0  
 
 | Item Skill Property |
 | --- |

@@ -1,5 +1,6 @@
 # data Field
 
+**Вложено элементов:** 0  
 
 | DiagnosticElementNew RowGraphData data Field |
 | --- |

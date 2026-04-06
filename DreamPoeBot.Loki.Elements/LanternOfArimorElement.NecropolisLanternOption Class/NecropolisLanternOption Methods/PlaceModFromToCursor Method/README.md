@@ -1,5 +1,6 @@
 # PlaceModFromToCursor Method 
 
+**Вложено элементов:** 0  
 
 | LanternOfArimorElement NecropolisLanternOption PlaceModFromToCursor Method |
 | --- |

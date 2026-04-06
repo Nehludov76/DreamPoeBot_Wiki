@@ -1,5 +1,6 @@
 # Metadata0 Property 
 
+**Вложено элементов:** 0  
 
 | SanctumArchivesElement SanctumRoom Metadata0 Property |
 | --- |

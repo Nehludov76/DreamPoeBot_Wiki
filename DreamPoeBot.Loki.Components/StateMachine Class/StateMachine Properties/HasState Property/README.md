@@ -1,5 +1,6 @@
 # HasState Property 
 
+**Вложено элементов:** 0  
 
 | StateMachine HasState Property |
 | --- |

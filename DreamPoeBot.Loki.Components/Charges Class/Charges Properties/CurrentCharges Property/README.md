@@ -1,5 +1,6 @@
 # CurrentCharges Property 
 
+**Вложено элементов:** 0  
 
 | Charges CurrentCharges Property |
 | --- |

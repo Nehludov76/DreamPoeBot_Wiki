@@ -1,5 +1,6 @@
 # DatPassiveSkillMasteryGroupWrapper Constructor 
 
+**Вложено элементов:** 0  
 
 | DatPassiveSkillMasteryGroupWrapper Constructor |
 | --- |

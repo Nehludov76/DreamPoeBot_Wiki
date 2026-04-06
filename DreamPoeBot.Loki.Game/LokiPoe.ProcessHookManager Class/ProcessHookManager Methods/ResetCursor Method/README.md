@@ -1,5 +1,6 @@
 # ResetCursor Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe ProcessHookManager ResetCursor Method |
 | --- |

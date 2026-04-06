@@ -1,5 +1,6 @@
 # LatencyText Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState DebugOverlay LatencyText Property |
 | --- |

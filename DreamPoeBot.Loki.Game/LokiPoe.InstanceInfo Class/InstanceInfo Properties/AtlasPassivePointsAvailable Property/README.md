@@ -1,5 +1,6 @@
 # AtlasPassivePointsAvailable Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo AtlasPassivePointsAvailable Property |
 | --- |

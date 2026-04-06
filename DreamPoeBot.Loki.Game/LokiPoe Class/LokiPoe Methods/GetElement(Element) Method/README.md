@@ -1,5 +1,6 @@
 # GetElement(Element) Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe GetElement Element Method |
 | --- |

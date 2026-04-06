@@ -1,5 +1,6 @@
 # SkillBlacklistSettings Class
 
+**Вложено элементов:** 7  
 
 | SkillBlacklistSettings Class |
 | --- |
@@ -32,33 +33,38 @@ public ref class SkillBlacklistSettings : public JsonSettings
 The SkillBlacklistSettings type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| SkillBlacklistSettings | Initializes a new instance of the SkillBlacklistSettings class |
+|  | Name | Description |
+| --- | --- | --- |
+|  | SkillBlacklistSettings | Initializes a new instance of the SkillBlacklistSettings class |
 
 
-| Name | Description |
-| --- | --- |
-| BlacklistedSkillIds |
-| BlacklistedSkillNames |
-| FilePath | (Inherited from JsonSettings .) |
-| Instance |
-| PlayerSkillStrings |
+|  | Name | Description |
+| --- | --- | --- |
+|  | BlacklistedSkillIds |  |
+|  | BlacklistedSkillNames |  |
+|  | FilePath | (Inherited from JsonSettings .) |
+|  | Instance |  |
+|  | PlayerSkillStrings |  |
 
 
-| Name | Description |
-| --- | --- |
-| Equals | Determines whether the specified object is equal to the current object. (Inherited from Object .) |
-| Finalize | Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection. (Inherited from Object .) |
-| GetDefaultValue T | (Inherited from JsonSettings .) |
-| GetHashCode | Serves as the default hash function. (Inherited from Object .) |
-| GetProperty | (Inherited from JsonSettings .) |
-| GetType | Gets the Type of the current instance. (Inherited from Object .) |
-| HasProperty | (Inherited from JsonSettings .) |
-| LoadFrom | (Inherited from JsonSettings .) |
-| MemberwiseClone | Creates a shallow copy of the current Object . (Inherited from Object .) |
-| Save | (Inherited from JsonSettings .) |
-| SaveAs | (Inherited from JsonSettings .) |
-| SetProperty | (Inherited from JsonSettings .) |
-| ToString | Returns a string that represents the current object. (Inherited from Object .) |
-| Validate | (Inherited from JsonSettings .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Equals | Determines whether the specified object is equal to the current object. (Inherited from Object .) |
+|  | Finalize | Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection. (Inherited from Object .) |
+|  | GetDefaultValue T | (Inherited from JsonSettings .) |
+|  | GetHashCode | Serves as the default hash function. (Inherited from Object .) |
+|  | GetProperty | (Inherited from JsonSettings .) |
+|  | GetType | Gets the Type of the current instance. (Inherited from Object .) |
+|  | HasProperty | (Inherited from JsonSettings .) |
+|  | LoadFrom | (Inherited from JsonSettings .) |
+|  | MemberwiseClone | Creates a shallow copy of the current Object . (Inherited from Object .) |
+|  | Save | (Inherited from JsonSettings .) |
+|  | SaveAs | (Inherited from JsonSettings .) |
+|  | SetProperty | (Inherited from JsonSettings .) |
+|  | ToString | Returns a string that represents the current object. (Inherited from Object .) |
+|  | Validate | (Inherited from JsonSettings .) |
+
+## Дочерние разделы
+- [**SkillBlacklistSettings Constructor **](./SkillBlacklistSettings Constructor/README.md)
+- [**SkillBlacklistSettings Properties**](./SkillBlacklistSettings Properties/README.md)
+- [**SkillBlacklistSettings Methods**](./SkillBlacklistSettings Methods/README.md)

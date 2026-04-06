@@ -1,5 +1,6 @@
 # IsAreaLoadingStateActive Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe StateManager IsAreaLoadingStateActive Property |
 | --- |

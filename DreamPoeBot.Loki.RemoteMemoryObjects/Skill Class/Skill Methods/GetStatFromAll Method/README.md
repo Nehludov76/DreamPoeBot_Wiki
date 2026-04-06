@@ -1,5 +1,6 @@
 # GetStatFromAll Method 
 
+**Вложено элементов:** 0  
 
 | Skill GetStatFromAll Method |
 | --- |

@@ -1,5 +1,6 @@
 # NativeVector_Influences Field
 
+**Вложено элементов:** 0  
 
 | ServerData StructNewServerData NativeVector_Influences Field |
 | --- |

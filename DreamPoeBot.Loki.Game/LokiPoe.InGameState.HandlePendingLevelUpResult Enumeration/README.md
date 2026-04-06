@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.HandlePendingLevelUpResult Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState HandlePendingLevelUpResult Enumeration |
 | --- |
@@ -30,12 +31,12 @@ public enum class HandlePendingLevelUpResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| ProcessHookManagerNotEnabled | 1 |
-| UiNotOpen | 2 |
-| NoGemsToLevel | 3 |
-| GemDismissed | 4 |
-| GemLeveled | 5 |
-| InventoryIsNull | 6 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | ProcessHookManagerNotEnabled | 1 |  |
+|  | UiNotOpen | 2 |  |
+|  | NoGemsToLevel | 3 |  |
+|  | GemDismissed | 4 |  |
+|  | GemLeveled | 5 |  |
+|  | InventoryIsNull | 6 |  |

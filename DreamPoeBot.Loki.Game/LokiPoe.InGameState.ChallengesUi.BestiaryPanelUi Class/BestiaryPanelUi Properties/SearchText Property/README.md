@@ -1,5 +1,6 @@
 # SearchText Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ChallengesUi BestiaryPanelUi SearchText Property |
 | --- |

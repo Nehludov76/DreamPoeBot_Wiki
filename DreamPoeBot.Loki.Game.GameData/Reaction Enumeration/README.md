@@ -1,5 +1,6 @@
 # Reaction Enumeration
 
+**Вложено элементов:** 0  
 
 | Reaction Enumeration |
 | --- |
@@ -30,10 +31,10 @@ public enum class Reaction
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| Unset | -3 |
-| NonActor | -2 |
-| Npc | -1 |
-| Friendly | 0 |
-| Enemy | 1 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | Unset | -3 |  |
+|  | NonActor | -2 |  |
+|  | Npc | -1 |  |
+|  | Friendly | 0 |  |
+|  | Enemy | 1 |  |

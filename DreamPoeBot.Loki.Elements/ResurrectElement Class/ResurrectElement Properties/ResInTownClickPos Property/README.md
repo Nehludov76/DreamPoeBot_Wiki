@@ -1,5 +1,6 @@
 # ResInTownClickPos Property 
 
+**Вложено элементов:** 0  
 
 | ResurrectElement ResInTownClickPos Property |
 | --- |

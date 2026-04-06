@@ -1,5 +1,6 @@
 # open_ladder_panel_combo Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input Binding open_ladder_panel_combo Property |
 | --- |

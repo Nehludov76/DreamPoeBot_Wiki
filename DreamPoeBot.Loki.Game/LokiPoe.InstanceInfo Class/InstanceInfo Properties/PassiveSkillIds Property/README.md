@@ -1,5 +1,6 @@
 # PassiveSkillIds Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo PassiveSkillIds Property |
 | --- |

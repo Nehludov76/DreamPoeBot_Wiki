@@ -1,5 +1,6 @@
 # IMouseHandler Interface
 
+**Вложено элементов:** 2  
 
 | IMouseHandler Interface |
 | --- |
@@ -32,6 +33,9 @@ public interface class IMouseHandler
 The IMouseHandler type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| OnPreMove |
+|  | Name | Description |
+| --- | --- | --- |
+|  | OnPreMove |  |
+
+## Дочерние разделы
+- [**IMouseHandler Methods**](./IMouseHandler Methods/README.md)

@@ -1,5 +1,6 @@
 # HideLabel Method 
 
+**Вложено элементов:** 0  
 
 | WorldItem WorldItemLabelClass HideLabel Method |
 | --- |

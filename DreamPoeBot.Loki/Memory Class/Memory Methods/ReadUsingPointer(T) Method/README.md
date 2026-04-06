@@ -1,5 +1,6 @@
 # ReadUsingPointer(T) Method 
 
+**Вложено элементов:** 0  
 
 | Memory ReadUsingPointer T Method |
 | --- |

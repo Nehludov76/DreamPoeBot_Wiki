@@ -1,5 +1,6 @@
 # Waypoints Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState WorldUi Waypoints Property |
 | --- |

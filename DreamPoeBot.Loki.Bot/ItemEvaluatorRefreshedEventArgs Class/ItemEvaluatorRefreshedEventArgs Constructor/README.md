@@ -1,5 +1,6 @@
 # ItemEvaluatorRefreshedEventArgs Constructor 
 
+**Вложено элементов:** 0  
 
 | ItemEvaluatorRefreshedEventArgs Constructor |
 | --- |

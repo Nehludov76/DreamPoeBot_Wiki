@@ -1,5 +1,6 @@
 # Berserker Property 
 
+**Вложено элементов:** 0  
 
 | AscendUIElement Berserker Property |
 | --- |

@@ -1,5 +1,6 @@
 # PointerComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation PointerComponent Property |
 | --- |

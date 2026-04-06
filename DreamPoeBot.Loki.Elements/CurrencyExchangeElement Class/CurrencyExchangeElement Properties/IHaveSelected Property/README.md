@@ -1,5 +1,6 @@
 # IHaveSelected Property 
 
+**Вложено элементов:** 0  
 
 | CurrencyExchangeElement IHaveSelected Property |
 | --- |

@@ -1,5 +1,6 @@
 # SearchCloseElement Property 
 
+**Вложено элементов:** 0  
 
 | StashElement SearchCloseElement Property |
 | --- |

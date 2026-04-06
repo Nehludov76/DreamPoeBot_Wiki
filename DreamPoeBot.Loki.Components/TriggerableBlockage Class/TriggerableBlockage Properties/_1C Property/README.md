@@ -1,5 +1,6 @@
 # _1C Property 
 
+**Вложено элементов:** 0  
 
 | TriggerableBlockage _1C Property |
 | --- |

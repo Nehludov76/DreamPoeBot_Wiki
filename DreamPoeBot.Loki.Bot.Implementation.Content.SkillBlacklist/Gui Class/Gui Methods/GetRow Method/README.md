@@ -1,5 +1,6 @@
 # GetRow Method 
 
+**Вложено элементов:** 0  
 
 | Gui GetRow Method |
 | --- |

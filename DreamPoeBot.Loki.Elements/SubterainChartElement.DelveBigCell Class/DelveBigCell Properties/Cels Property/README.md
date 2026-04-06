@@ -1,5 +1,6 @@
 # Cels Property 
 
+**Вложено элементов:** 0  
 
 | SubterainChartElement DelveBigCell Cels Property |
 | --- |

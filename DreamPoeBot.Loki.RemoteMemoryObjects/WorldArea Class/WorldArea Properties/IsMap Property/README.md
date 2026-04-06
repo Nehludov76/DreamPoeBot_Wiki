@@ -1,5 +1,6 @@
 # IsMap Property 
 
+**Вложено элементов:** 0  
 
 | WorldArea IsMap Property |
 | --- |

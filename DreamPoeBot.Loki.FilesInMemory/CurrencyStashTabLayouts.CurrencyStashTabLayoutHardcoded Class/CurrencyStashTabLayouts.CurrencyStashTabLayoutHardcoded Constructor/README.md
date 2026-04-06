@@ -1,5 +1,6 @@
 # CurrencyStashTabLayouts.CurrencyStashTabLayoutHardcoded Constructor 
 
+**Вложено элементов:** 0  
 
 | CurrencyStashTabLayouts CurrencyStashTabLayoutHardcoded Constructor |
 | --- |

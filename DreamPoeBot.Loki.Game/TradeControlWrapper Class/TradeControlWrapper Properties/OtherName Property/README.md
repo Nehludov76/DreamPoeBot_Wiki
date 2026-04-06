@@ -1,5 +1,6 @@
 # OtherName Property 
 
+**Вложено элементов:** 0  
 
 | TradeControlWrapper OtherName Property |
 | --- |

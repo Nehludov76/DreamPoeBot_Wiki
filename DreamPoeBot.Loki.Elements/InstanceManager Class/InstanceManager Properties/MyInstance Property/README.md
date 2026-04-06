@@ -1,5 +1,6 @@
 # MyInstance Property 
 
+**Вложено элементов:** 0  
 
 | InstanceManager MyInstance Property |
 | --- |

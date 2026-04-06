@@ -1,5 +1,6 @@
 # Affixes2 Property 
 
+**Вложено элементов:** 0  
 
 | ObjectMagicProperties Affixes2 Property |
 | --- |

@@ -1,5 +1,6 @@
 # GetAreaByAreaId Method (String)
 
+**Вложено элементов:** 0  
 
 | WorldAreas GetAreaByAreaId Method (String) |
 | --- |

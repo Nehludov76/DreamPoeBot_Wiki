@@ -1,5 +1,6 @@
 # UltimatumChallengeInteractable.BeginTrialResult Enumeration
 
+**Вложено элементов:** 0  
 
 | UltimatumChallengeInteractable BeginTrialResult Enumeration |
 | --- |
@@ -30,9 +31,9 @@ public enum class BeginTrialResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| UiNotVisible | 1 |
-| OptionNotSelected | 2 |
-| ProcessHookManagerNotEnabled | 3 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | UiNotVisible | 1 |  |
+|  | OptionNotSelected | 2 |  |
+|  | ProcessHookManagerNotEnabled | 3 |  |

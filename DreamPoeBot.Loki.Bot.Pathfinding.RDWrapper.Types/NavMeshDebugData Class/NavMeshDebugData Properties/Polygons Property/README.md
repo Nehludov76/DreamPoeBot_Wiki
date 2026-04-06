@@ -1,5 +1,6 @@
 # Polygons Property 
 
+**Вложено элементов:** 0  
 
 | NavMeshDebugData Polygons Property |
 | --- |

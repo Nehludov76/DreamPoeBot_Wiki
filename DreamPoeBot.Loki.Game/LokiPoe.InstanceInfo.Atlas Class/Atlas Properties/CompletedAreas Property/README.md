@@ -1,5 +1,6 @@
 # CompletedAreas Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo Atlas CompletedAreas Property |
 | --- |

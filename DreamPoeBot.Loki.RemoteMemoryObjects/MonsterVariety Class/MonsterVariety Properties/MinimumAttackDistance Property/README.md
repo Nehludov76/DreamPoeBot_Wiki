@@ -1,5 +1,6 @@
 # MinimumAttackDistance Property 
 
+**Вложено элементов:** 0  
 
 | MonsterVariety MinimumAttackDistance Property |
 | --- |

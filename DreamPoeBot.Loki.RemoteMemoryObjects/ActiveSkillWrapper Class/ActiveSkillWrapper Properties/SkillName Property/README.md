@@ -1,5 +1,6 @@
 # SkillName Property 
 
+**Вложено элементов:** 0  
 
 | ActiveSkillWrapper SkillName Property |
 | --- |

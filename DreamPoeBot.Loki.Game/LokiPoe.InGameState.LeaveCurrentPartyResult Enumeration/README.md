@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.LeaveCurrentPartyResult Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState LeaveCurrentPartyResult Enumeration |
 | --- |
@@ -30,11 +31,11 @@ public enum class LeaveCurrentPartyResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| ProcessHookManagerNotEnabled | 1 |
-| UiNotOpen | 2 |
-| TabNotSelected | 3 |
-| LeaveNotFound | 4 |
-| Obstructed | 5 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | ProcessHookManagerNotEnabled | 1 |  |
+|  | UiNotOpen | 2 |  |
+|  | TabNotSelected | 3 |  |
+|  | LeaveNotFound | 4 |  |
+|  | Obstructed | 5 |  |

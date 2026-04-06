@@ -1,5 +1,6 @@
 # MouseHook Class
 
+**Вложено элементов:** 3  
 
 | MouseHook Class |
 | --- |
@@ -32,7 +33,10 @@ public ref class MouseHook abstract sealed
 The MouseHook type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| OnButtonDown |
-| OnButtonUp |
+|  | Name | Description |
+| --- | --- | --- |
+|  | OnButtonDown |  |
+|  | OnButtonUp |  |
+
+## Дочерние разделы
+- [**MouseHook Events**](./MouseHook Events/README.md)

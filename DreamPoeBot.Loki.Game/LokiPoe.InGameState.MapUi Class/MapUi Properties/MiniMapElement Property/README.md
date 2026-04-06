@@ -1,5 +1,6 @@
 # MiniMapElement Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState MapUi MiniMapElement Property |
 | --- |

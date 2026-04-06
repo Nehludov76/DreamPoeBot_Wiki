@@ -1,5 +1,6 @@
 # ReservedSizeunused Field
 
+**Вложено элементов:** 0  
 
 | NativeStringW ReservedSizeunused Field |
 | --- |

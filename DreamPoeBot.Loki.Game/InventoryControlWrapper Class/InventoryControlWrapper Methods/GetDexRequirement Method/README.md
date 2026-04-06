@@ -1,5 +1,6 @@
 # GetDexRequirement Method 
 
+**Вложено элементов:** 0  
 
 | InventoryControlWrapper GetDexRequirement Method |
 | --- |

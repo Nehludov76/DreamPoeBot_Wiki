@@ -1,5 +1,6 @@
 # LastActionId Field
 
+**Вложено элементов:** 0  
 
 | ServerData StructNewServerData LastActionId Field |
 | --- |

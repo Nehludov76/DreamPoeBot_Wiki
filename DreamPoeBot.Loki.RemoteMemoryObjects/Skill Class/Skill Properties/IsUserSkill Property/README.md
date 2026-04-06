@@ -1,5 +1,6 @@
 # IsUserSkill Property 
 
+**Вложено элементов:** 0  
 
 | Skill IsUserSkill Property |
 | --- |

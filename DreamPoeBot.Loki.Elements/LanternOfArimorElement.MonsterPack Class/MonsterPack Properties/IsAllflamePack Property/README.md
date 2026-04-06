@@ -1,5 +1,6 @@
 # IsAllflamePack Property 
 
+**Вложено элементов:** 0  
 
 | LanternOfArimorElement MonsterPack IsAllflamePack Property |
 | --- |

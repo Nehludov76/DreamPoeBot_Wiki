@@ -1,5 +1,6 @@
 # RectangleOptimized Field
 
+**Вложено элементов:** 0  
 
 | RecastMeshSettings RectangleOptimized Field |
 | --- |

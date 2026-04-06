@@ -1,5 +1,6 @@
 # OnRefreshed Event
 
+**Вложено элементов:** 0  
 
 | ItemEvaluator OnRefreshed Event |
 | --- |

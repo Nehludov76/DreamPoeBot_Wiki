@@ -1,5 +1,6 @@
 # ItemSize Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState CursorItemOverlay ItemSize Property |
 | --- |

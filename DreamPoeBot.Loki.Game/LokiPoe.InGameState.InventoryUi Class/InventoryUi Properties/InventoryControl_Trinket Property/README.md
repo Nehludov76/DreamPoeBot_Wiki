@@ -1,5 +1,6 @@
 # InventoryControl_Trinket Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState InventoryUi InventoryControl_Trinket Property |
 | --- |

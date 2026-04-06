@@ -1,5 +1,6 @@
 # Gladiator Property 
 
+**Вложено элементов:** 0  
 
 | AscendUIElement Gladiator Property |
 | --- |

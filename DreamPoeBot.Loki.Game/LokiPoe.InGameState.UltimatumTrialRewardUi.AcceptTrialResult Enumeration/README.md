@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.UltimatumTrialRewardUi.AcceptTrialResult Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState UltimatumTrialRewardUi AcceptTrialResult Enumeration |
 | --- |
@@ -30,9 +31,9 @@ public enum class AcceptTrialResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| UiNotVisible | 1 |
-| OptionNotSelected | 2 |
-| ProcessHookManagerNotEnabled | 3 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | UiNotVisible | 1 |  |
+|  | OptionNotSelected | 2 |  |
+|  | ProcessHookManagerNotEnabled | 3 |  |

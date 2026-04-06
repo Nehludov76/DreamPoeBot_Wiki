@@ -1,5 +1,6 @@
 # IsFlaskInCooldown Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState QuickFlaskHud IsFlaskInCooldown Method |
 | --- |

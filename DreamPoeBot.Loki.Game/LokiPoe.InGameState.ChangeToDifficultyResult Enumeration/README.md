@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.ChangeToDifficultyResult Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ChangeToDifficultyResult Enumeration |
 | --- |
@@ -30,9 +31,9 @@ public enum class ChangeToDifficultyResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| ProcessHookManagerNotEnabled | 1 |
-| UiNotOpen | 2 |
-| NotEnabled | 3 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | ProcessHookManagerNotEnabled | 1 |  |
+|  | UiNotOpen | 2 |  |
+|  | NotEnabled | 3 |  |

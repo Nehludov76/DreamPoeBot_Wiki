@@ -1,5 +1,6 @@
 # IsTabListButtonVisible Property 
 
+**Вложено элементов:** 0  
 
 | TabControlWrapper IsTabListButtonVisible Property |
 | --- |

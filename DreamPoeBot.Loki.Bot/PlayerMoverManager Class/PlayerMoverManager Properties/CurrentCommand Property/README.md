@@ -1,5 +1,6 @@
 # CurrentCommand Property 
 
+**Вложено элементов:** 0  
 
 | PlayerMoverManager CurrentCommand Property |
 | --- |

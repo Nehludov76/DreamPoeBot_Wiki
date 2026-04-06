@@ -1,5 +1,6 @@
 # IsWalkable Method (Int32, Int32)
 
+**Вложено элементов:** 0  
 
 | ExilePather IsWalkable Method (Int32, Int32) |
 | --- |

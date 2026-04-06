@@ -1,5 +1,6 @@
 # DebugStr Field
 
+**Вложено элементов:** 0  
 
 | Memory DebugStr Field |
 | --- |

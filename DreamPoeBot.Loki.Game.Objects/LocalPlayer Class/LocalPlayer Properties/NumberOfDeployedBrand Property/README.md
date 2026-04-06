@@ -1,5 +1,6 @@
 # NumberOfDeployedBrand Property 
 
+**Вложено элементов:** 0  
 
 | LocalPlayer NumberOfDeployedBrand Property |
 | --- |

@@ -1,5 +1,6 @@
 # IsVisible Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState MercenaryOptionsUi MercenaryOption IsVisible Property |
 | --- |

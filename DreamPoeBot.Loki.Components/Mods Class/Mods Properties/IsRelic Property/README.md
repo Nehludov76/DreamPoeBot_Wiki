@@ -1,5 +1,6 @@
 # IsRelic Property 
 
+**Вложено элементов:** 0  
 
 | Mods IsRelic Property |
 | --- |

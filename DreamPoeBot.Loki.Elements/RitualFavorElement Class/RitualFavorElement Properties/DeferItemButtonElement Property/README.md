@@ -1,5 +1,6 @@
 # DeferItemButtonElement Property 
 
+**Вложено элементов:** 0  
 
 | RitualFavorElement DeferItemButtonElement Property |
 | --- |

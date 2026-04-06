@@ -1,5 +1,6 @@
 # SkillTypeRequiresPercentPower Property 
 
+**Вложено элементов:** 0  
 
 | DatActiveSkillWrapper SkillTypeRequiresPercentPower Property |
 | --- |

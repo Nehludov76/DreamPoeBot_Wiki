@@ -1,5 +1,6 @@
 # ArchnemesisIsTrapped Property 
 
+**Вложено элементов:** 0  
 
 | NetworkObject ArchnemesisIsTrapped Property |
 | --- |

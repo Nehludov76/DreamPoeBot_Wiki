@@ -1,5 +1,6 @@
 # Waves Property 
 
+**Вложено элементов:** 0  
 
 | BreachProgressBarElement Waves Property |
 | --- |

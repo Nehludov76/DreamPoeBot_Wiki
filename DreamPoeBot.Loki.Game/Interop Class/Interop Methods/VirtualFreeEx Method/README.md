@@ -1,5 +1,6 @@
 # VirtualFreeEx Method 
 
+**Вложено элементов:** 0  
 
 | Interop VirtualFreeEx Method |
 | --- |

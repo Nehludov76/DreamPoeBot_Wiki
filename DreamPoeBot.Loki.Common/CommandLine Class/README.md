@@ -1,5 +1,6 @@
 # CommandLine Class
 
+**Вложено элементов:** 2  
 
 | CommandLine Class |
 | --- |
@@ -32,6 +33,9 @@ public ref class CommandLine abstract sealed
 The CommandLine type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Arguments |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Arguments |  |
+
+## Дочерние разделы
+- [**CommandLine Properties**](./CommandLine Properties/README.md)

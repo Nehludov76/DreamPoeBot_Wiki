@@ -1,5 +1,6 @@
 # IsAflictionInitiator Property 
 
+**Вложено элементов:** 0  
 
 | NetworkObject IsAflictionInitiator Property |
 | --- |

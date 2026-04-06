@@ -1,5 +1,6 @@
 # ArmorValue Property 
 
+**Вложено элементов:** 0  
 
 | Item ArmorValue Property |
 | --- |

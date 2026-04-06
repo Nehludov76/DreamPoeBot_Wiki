@@ -1,5 +1,6 @@
 # VisitHideout Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ContextMenu VisitHideout Method |
 | --- |

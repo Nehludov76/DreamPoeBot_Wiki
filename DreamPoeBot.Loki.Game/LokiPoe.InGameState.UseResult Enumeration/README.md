@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.UseResult Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState UseResult Enumeration |
 | --- |
@@ -30,12 +31,12 @@ public enum class UseResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| ProcessHookManagerNotEnabled | 1 |
-| InvalidSlot | 2 |
-| NoSkill | 3 |
-| SkillNotOnBar | 4 |
-| UnboundKey | 5 |
-| CouldNotHighlight | 6 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | ProcessHookManagerNotEnabled | 1 |  |
+|  | InvalidSlot | 2 |  |
+|  | NoSkill | 3 |  |
+|  | SkillNotOnBar | 4 |  |
+|  | UnboundKey | 5 |  |
+|  | CouldNotHighlight | 6 |  |

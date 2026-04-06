@@ -1,5 +1,6 @@
 # PlayerClass Constructor 
 
+**Вложено элементов:** 0  
 
 | PlayerClass Constructor |
 | --- |

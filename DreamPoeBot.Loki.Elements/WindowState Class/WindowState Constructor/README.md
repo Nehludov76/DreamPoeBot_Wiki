@@ -1,5 +1,6 @@
 # WindowState Constructor 
 
+**Вложено элементов:** 0  
 
 | WindowState Constructor |
 | --- |

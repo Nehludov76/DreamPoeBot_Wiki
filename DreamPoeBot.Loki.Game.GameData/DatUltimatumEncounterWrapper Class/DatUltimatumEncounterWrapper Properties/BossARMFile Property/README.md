@@ -1,5 +1,6 @@
 # BossARMFile Property 
 
+**Вложено элементов:** 0  
 
 | DatUltimatumEncounterWrapper BossARMFile Property |
 | --- |

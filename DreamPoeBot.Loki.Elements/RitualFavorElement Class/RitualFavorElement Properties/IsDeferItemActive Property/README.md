@@ -1,5 +1,6 @@
 # IsDeferItemActive Property 
 
+**Вложено элементов:** 0  
 
 | RitualFavorElement IsDeferItemActive Property |
 | --- |

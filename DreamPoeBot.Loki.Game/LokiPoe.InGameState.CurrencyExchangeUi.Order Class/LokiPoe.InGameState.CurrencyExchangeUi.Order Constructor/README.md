@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.CurrencyExchangeUi.Order Constructor 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState CurrencyExchangeUi Order Constructor |
 | --- |

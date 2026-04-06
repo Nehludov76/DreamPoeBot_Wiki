@@ -1,5 +1,6 @@
 # MavenButtonElement Properties
 
+**Вложено элементов:** 4  
 
 | MavenButtonElement Properties |
 | --- |
@@ -10,40 +11,46 @@
 The MavenButtonElement type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Address | (Inherited from RemoteMemoryObject .) |
-| ChildCount | (Inherited from Element .) |
-| Children | (Inherited from Element .) |
-| ControlType | (Inherited from Element .) |
-| DeltaX | (Inherited from Element .) |
-| DeltaY | (Inherited from Element .) |
-| ElementZoom | (Inherited from Element .) |
-| Game | (Inherited from RemoteMemoryObject .) |
-| GuiControlType | (Inherited from Element .) |
-| Height | (Inherited from Element .) |
-| IdLabel | (Inherited from Element .) |
-| IsButtonVisible |
-| IsClicked |
-| IsEnable | (Inherited from Element .) |
-| IsEnabled |
-| IsItemTransparent | (Inherited from Element .) |
-| IsValid | (Inherited from RemoteMemoryObject .) |
-| IsVisible | (Inherited from Element .) |
-| IsVisibleLocal | (Inherited from Element .) |
-| M | (Inherited from RemoteMemoryObject .) |
-| Offsets | (Inherited from RemoteMemoryObject .) |
-| Parent | (Inherited from Element .) |
-| Root | (Inherited from Element .) |
-| Scale | (Inherited from Element .) |
-| Text | (Inherited from Element .) |
-| Tooltip | (Inherited from Element .) |
-| Tooltips | (Inherited from Element .) |
-| TooltipText |
-| vTable | (Inherited from Element .) |
-| Width | (Inherited from Element .) |
-| X | (Inherited from Element .) |
-| XAddress | (Inherited from Element .) |
-| Y | (Inherited from Element .) |
-| YAddress | (Inherited from Element .) |
-| zoomAddress | (Inherited from Element .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Address | (Inherited from RemoteMemoryObject .) |
+|  | ChildCount | (Inherited from Element .) |
+|  | Children | (Inherited from Element .) |
+|  | ControlType | (Inherited from Element .) |
+|  | DeltaX | (Inherited from Element .) |
+|  | DeltaY | (Inherited from Element .) |
+|  | ElementZoom | (Inherited from Element .) |
+|  | Game | (Inherited from RemoteMemoryObject .) |
+|  | GuiControlType | (Inherited from Element .) |
+|  | Height | (Inherited from Element .) |
+|  | IdLabel | (Inherited from Element .) |
+|  | IsButtonVisible |  |
+|  | IsClicked |  |
+|  | IsEnable | (Inherited from Element .) |
+|  | IsEnabled |  |
+|  | IsItemTransparent | (Inherited from Element .) |
+|  | IsValid | (Inherited from RemoteMemoryObject .) |
+|  | IsVisible | (Inherited from Element .) |
+|  | IsVisibleLocal | (Inherited from Element .) |
+|  | M | (Inherited from RemoteMemoryObject .) |
+|  | Offsets | (Inherited from RemoteMemoryObject .) |
+|  | Parent | (Inherited from Element .) |
+|  | Root | (Inherited from Element .) |
+|  | Scale | (Inherited from Element .) |
+|  | Text | (Inherited from Element .) |
+|  | Tooltip | (Inherited from Element .) |
+|  | Tooltips | (Inherited from Element .) |
+|  | TooltipText |  |
+|  | vTable | (Inherited from Element .) |
+|  | Width | (Inherited from Element .) |
+|  | X | (Inherited from Element .) |
+|  | XAddress | (Inherited from Element .) |
+|  | Y | (Inherited from Element .) |
+|  | YAddress | (Inherited from Element .) |
+|  | zoomAddress | (Inherited from Element .) |
+
+## Дочерние разделы
+- [**IsButtonVisible Property **](./IsButtonVisible Property/README.md)
+- [**IsClicked Property **](./IsClicked Property/README.md)
+- [**IsEnabled Property **](./IsEnabled Property/README.md)
+- [**TooltipText Property **](./TooltipText Property/README.md)

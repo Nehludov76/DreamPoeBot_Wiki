@@ -1,5 +1,6 @@
 # IMessageHandler Interface
 
+**Вложено элементов:** 2  
 
 | IMessageHandler Interface |
 | --- |
@@ -32,6 +33,9 @@ public interface class IMessageHandler
 The IMessageHandler type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Message |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Message |  |
+
+## Дочерние разделы
+- [**IMessageHandler Methods**](./IMessageHandler Methods/README.md)

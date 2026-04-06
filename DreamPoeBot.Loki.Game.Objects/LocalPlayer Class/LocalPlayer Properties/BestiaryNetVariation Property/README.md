@@ -1,5 +1,6 @@
 # BestiaryNetVariation Property 
 
+**Вложено элементов:** 0  
 
 | LocalPlayer BestiaryNetVariation Property |
 | --- |

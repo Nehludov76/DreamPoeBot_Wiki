@@ -1,5 +1,6 @@
 # IsAllertVisible Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState HeistAlertLevelUi IsAllertVisible Property |
 | --- |

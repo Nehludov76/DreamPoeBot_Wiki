@@ -1,5 +1,6 @@
 # SplitterRowDefinitionHeight Property 
 
+**Вложено элементов:** 0  
 
 | GuiSettings SplitterRowDefinitionHeight Property |
 | --- |

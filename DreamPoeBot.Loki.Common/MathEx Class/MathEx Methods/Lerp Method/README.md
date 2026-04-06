@@ -1,5 +1,6 @@
 # Lerp Method 
 
+**Вложено элементов:** 0  
 
 | MathEx Lerp Method |
 | --- |

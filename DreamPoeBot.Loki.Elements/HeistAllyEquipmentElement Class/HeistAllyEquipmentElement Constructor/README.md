@@ -1,5 +1,6 @@
 # HeistAllyEquipmentElement Constructor 
 
+**Вложено элементов:** 0  
 
 | HeistAllyEquipmentElement Constructor |
 | --- |

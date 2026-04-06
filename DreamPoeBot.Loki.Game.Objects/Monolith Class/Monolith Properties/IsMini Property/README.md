@@ -1,5 +1,6 @@
 # IsMini Property 
 
+**Вложено элементов:** 0  
 
 | Monolith IsMini Property |
 | --- |

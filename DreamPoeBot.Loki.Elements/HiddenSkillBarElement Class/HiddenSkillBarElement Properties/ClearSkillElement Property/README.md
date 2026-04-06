@@ -1,5 +1,6 @@
 # ClearSkillElement Property 
 
+**Вложено элементов:** 0  
 
 | HiddenSkillBarElement ClearSkillElement Property |
 | --- |

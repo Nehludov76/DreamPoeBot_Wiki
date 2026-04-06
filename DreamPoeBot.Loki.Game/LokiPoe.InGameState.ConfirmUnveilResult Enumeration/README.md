@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.ConfirmUnveilResult Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ConfirmUnveilResult Enumeration |
 | --- |
@@ -30,9 +31,9 @@ public enum class ConfirmUnveilResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| ProcessHookManagerNotEnabled | 1 |
-| UiNotOpen | 2 |
-| ButtonNotEnabled | 3 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | ProcessHookManagerNotEnabled | 1 |  |
+|  | UiNotOpen | 2 |  |
+|  | ButtonNotEnabled | 3 |  |

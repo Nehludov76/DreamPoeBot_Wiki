@@ -1,5 +1,6 @@
 # ServerData Property 
 
+**Вложено элементов:** 0  
 
 | IngameState ServerData Property |
 | --- |

@@ -1,5 +1,6 @@
 # InWashedUpState Property 
 
+**Вложено элементов:** 0  
 
 | Actor InWashedUpState Property |
 | --- |

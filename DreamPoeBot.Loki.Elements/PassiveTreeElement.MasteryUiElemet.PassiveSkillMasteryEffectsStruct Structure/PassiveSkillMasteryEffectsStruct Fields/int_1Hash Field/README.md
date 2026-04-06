@@ -1,5 +1,6 @@
 # int_1Hash Field
 
+**Вложено элементов:** 0  
 
 | PassiveTreeElement MasteryUiElemet PassiveSkillMasteryEffectsStruct int_1Hash Field |
 | --- |

@@ -1,5 +1,6 @@
 # AllStashNames Property 
 
+**Вложено элементов:** 0  
 
 | PurchasePanellElement AllStashNames Property |
 | --- |

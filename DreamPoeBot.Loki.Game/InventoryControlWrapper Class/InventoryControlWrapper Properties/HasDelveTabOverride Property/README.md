@@ -1,5 +1,6 @@
 # HasDelveTabOverride Property 
 
+**Вложено элементов:** 0  
 
 | InventoryControlWrapper HasDelveTabOverride Property |
 | --- |

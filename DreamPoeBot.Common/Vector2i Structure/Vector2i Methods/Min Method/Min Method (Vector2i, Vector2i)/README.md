@@ -1,5 +1,6 @@
 # Min Method (Vector2i, Vector2i)
 
+**Вложено элементов:** 0  
 
 | Vector2i Min Method (Vector2i, Vector2i) |
 | --- |

@@ -1,5 +1,6 @@
 # Window Property 
 
+**Вложено элементов:** 0  
 
 | GameController Window Property |
 | --- |

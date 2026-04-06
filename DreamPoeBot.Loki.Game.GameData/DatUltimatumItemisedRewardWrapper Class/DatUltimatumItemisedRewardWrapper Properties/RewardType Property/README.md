@@ -1,5 +1,6 @@
 # RewardType Property 
 
+**Вложено элементов:** 0  
 
 | DatUltimatumItemisedRewardWrapper RewardType Property |
 | --- |

@@ -1,5 +1,6 @@
 # SetInventory Method 
 
+**Вложено элементов:** 0  
 
 | InventoryControlWrapper SetInventory Method |
 | --- |

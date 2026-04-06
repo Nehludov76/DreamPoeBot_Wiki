@@ -1,5 +1,6 @@
 # Quantity Property 
 
+**Вложено элементов:** 0  
 
 | CraftingBenchElement Recipe Cost Quantity Property |
 | --- |

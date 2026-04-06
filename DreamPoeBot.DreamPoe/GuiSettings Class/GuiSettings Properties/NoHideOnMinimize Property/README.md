@@ -1,5 +1,6 @@
 # NoHideOnMinimize Property 
 
+**Вложено элементов:** 0  
 
 | GuiSettings NoHideOnMinimize Property |
 | --- |

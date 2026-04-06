@@ -1,5 +1,6 @@
 # ObjectId Property 
 
+**Вложено элементов:** 0  
 
 | MinimapIconWrapper ObjectId Property |
 | --- |

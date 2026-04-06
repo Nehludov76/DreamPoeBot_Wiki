@@ -1,5 +1,6 @@
 # BaseItemTypeDat Field
 
+**Вложено элементов:** 0  
 
 | MapKey MapKeysDatStruct BaseItemTypeDat Field |
 | --- |

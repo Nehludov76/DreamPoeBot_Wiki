@@ -1,5 +1,6 @@
 # PlayerInventoryWrapper Property 
 
+**Вложено элементов:** 0  
 
 | ServerData PlayerInventoryWrapper Property |
 | --- |

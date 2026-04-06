@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.Kingsmarch Class
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState Kingsmarch Class |
 | --- |

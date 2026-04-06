@@ -1,5 +1,6 @@
 # CursorElement Fields
 
+**Вложено элементов:** 0  
 
 | CursorElement Fields |
 | --- |
@@ -10,6 +11,6 @@
 The CursorElement type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| NeedUpdate | (Inherited from RemoteMemoryObject .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | NeedUpdate | (Inherited from RemoteMemoryObject .) |

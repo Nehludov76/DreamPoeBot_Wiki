@@ -1,5 +1,6 @@
 # UIHover Property 
 
+**Вложено элементов:** 0  
 
 | IngameState UIHover Property |
 | --- |

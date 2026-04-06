@@ -1,5 +1,6 @@
 # EquipSkillGem Method (Int32, Boolean)
 
+**Вложено элементов:** 0  
 
 | InventoryControlWrapper EquipSkillGem Method (Int32, Boolean) |
 | --- |

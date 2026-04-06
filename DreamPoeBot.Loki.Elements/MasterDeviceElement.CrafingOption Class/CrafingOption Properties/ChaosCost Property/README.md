@@ -1,5 +1,6 @@
 # ChaosCost Property 
 
+**Вложено элементов:** 0  
 
 | MasterDeviceElement CrafingOption ChaosCost Property |
 | --- |

@@ -1,5 +1,6 @@
 # Debug Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState PreLevelSkillGemEventArgs Debug Property |
 | --- |

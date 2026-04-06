@@ -1,5 +1,6 @@
 # GetInput(T) Method (String)
 
+**Вложено элементов:** 0  
 
 | Logic GetInput T Method (String) |
 | --- |

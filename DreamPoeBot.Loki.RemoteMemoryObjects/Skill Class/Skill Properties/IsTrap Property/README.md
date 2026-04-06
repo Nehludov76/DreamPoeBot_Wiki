@@ -1,5 +1,6 @@
 # IsTrap Property 
 
+**Вложено элементов:** 0  
 
 | Skill IsTrap Property |
 | --- |

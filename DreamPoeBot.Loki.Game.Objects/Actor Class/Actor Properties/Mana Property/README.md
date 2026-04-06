@@ -1,5 +1,6 @@
 # Mana Property 
 
+**Вложено элементов:** 0  
 
 | Actor Mana Property |
 | --- |

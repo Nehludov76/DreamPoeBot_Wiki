@@ -1,5 +1,6 @@
 # EnchantmentsString Property 
 
+**Вложено элементов:** 0  
 
 | Mods EnchantmentsString Property |
 | --- |

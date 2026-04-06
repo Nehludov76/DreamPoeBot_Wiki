@@ -1,5 +1,6 @@
 # SkillTags Property 
 
+**Вложено элементов:** 0  
 
 | Skill SkillTags Property |
 | --- |

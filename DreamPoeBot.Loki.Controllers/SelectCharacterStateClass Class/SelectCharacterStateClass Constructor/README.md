@@ -1,5 +1,6 @@
 # SelectCharacterStateClass Constructor 
 
+**Вложено элементов:** 0  
 
 | SelectCharacterStateClass Constructor |
 | --- |

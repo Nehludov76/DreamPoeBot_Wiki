@@ -1,5 +1,6 @@
 # ChatToggle Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements ChatToggle Property |
 | --- |

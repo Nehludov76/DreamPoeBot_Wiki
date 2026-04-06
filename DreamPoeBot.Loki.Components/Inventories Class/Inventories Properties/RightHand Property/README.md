@@ -1,5 +1,6 @@
 # RightHand Property 
 
+**Вложено элементов:** 0  
 
 | Inventories RightHand Property |
 | --- |

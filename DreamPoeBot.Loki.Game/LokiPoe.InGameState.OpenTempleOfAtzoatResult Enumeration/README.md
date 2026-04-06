@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.OpenTempleOfAtzoatResult Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState OpenTempleOfAtzoatResult Enumeration |
 | --- |
@@ -30,11 +31,11 @@ public enum class OpenTempleOfAtzoatResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| ProcessHookManagerNotEnabled | 1 |
-| UiNotOpen | 2 |
-| ElementNotFound | 3 |
-| ButtonNotVisible | 4 |
-| ButtonLocationError | 5 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | ProcessHookManagerNotEnabled | 1 |  |
+|  | UiNotOpen | 2 |  |
+|  | ElementNotFound | 3 |  |
+|  | ButtonNotVisible | 4 |  |
+|  | ButtonLocationError | 5 |  |

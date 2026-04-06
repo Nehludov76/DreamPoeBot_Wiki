@@ -1,5 +1,6 @@
 # VaalOrb Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState StashUi CurrencyTab VaalOrb Property |
 | --- |

@@ -1,5 +1,6 @@
 # BladeVortexCharges Property 
 
+**Вложено элементов:** 0  
 
 | Actor BladeVortexCharges Property |
 | --- |

@@ -1,5 +1,6 @@
 # Layer Property 
 
+**Вложено элементов:** 0  
 
 | TileDebugData Layer Property |
 | --- |

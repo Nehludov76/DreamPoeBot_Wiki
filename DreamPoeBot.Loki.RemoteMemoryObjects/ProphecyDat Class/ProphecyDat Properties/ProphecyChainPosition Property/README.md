@@ -1,5 +1,6 @@
 # ProphecyChainPosition Property 
 
+**Вложено элементов:** 0  
 
 | ProphecyDat ProphecyChainPosition Property |
 | --- |

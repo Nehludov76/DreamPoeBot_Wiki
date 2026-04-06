@@ -1,5 +1,6 @@
 # ThirtySeconds Property 
 
+**Вложено элементов:** 0  
 
 | WaitTimer ThirtySeconds Property |
 | --- |

@@ -1,5 +1,6 @@
 # Distance Method (Vector2)
 
+**Вложено элементов:** 0  
 
 | Vector2 Distance Method (Vector2 ) |
 | --- |

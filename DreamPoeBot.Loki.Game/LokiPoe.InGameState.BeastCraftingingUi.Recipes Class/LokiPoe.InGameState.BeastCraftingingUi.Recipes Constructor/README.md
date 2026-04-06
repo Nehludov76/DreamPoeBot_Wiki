@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.BeastCraftingingUi.Recipes Constructor 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState BeastCraftingingUi Recipes Constructor |
 | --- |

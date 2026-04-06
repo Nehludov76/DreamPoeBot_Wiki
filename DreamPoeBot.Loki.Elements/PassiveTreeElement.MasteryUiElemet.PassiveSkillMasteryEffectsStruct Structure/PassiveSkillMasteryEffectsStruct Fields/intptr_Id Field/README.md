@@ -1,5 +1,6 @@
 # intptr_Id Field
 
+**Вложено элементов:** 0  
 
 | PassiveTreeElement MasteryUiElemet PassiveSkillMasteryEffectsStruct intptr_Id Field |
 | --- |

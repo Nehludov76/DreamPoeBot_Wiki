@@ -1,5 +1,6 @@
 # IsOpen Property 
 
+**Вложено элементов:** 0  
 
 | BlightElement IsOpen Property |
 | --- |

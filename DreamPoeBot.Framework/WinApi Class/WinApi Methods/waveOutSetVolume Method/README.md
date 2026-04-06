@@ -1,5 +1,6 @@
 # waveOutSetVolume Method 
 
+**Вложено элементов:** 0  
 
 | WinApi waveOutSetVolume Method |
 | --- |

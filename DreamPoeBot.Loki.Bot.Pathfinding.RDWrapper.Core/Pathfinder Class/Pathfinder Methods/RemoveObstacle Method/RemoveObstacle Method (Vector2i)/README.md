@@ -1,5 +1,6 @@
 # RemoveObstacle Method (Vector2i)
 
+**Вложено элементов:** 0  
 
 | Pathfinder RemoveObstacle Method (Vector2i) |
 | --- |

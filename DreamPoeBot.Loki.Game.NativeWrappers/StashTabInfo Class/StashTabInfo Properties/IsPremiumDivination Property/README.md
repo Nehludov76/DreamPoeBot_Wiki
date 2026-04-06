@@ -1,5 +1,6 @@
 # IsPremiumDivination Property 
 
+**Вложено элементов:** 0  
 
 | StashTabInfo IsPremiumDivination Property |
 | --- |

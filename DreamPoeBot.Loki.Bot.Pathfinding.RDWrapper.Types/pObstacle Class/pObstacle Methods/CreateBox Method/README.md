@@ -1,5 +1,6 @@
 # CreateBox Method 
 
+**Вложено элементов:** 0  
 
 | pObstacle CreateBox Method |
 | --- |

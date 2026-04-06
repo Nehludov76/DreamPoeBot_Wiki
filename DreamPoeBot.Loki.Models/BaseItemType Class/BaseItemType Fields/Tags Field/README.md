@@ -1,5 +1,6 @@
 # Tags Field
 
+**Вложено элементов:** 0  
 
 | BaseItemType Tags Field |
 | --- |

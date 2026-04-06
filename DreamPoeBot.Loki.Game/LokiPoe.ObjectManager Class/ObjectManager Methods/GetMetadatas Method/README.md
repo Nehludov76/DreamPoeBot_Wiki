@@ -1,5 +1,6 @@
 # GetMetadatas Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe ObjectManager GetMetadatas Method |
 | --- |

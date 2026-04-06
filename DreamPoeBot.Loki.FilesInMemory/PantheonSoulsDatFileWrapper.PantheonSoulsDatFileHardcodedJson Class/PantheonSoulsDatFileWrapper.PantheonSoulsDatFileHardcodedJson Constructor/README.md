@@ -1,5 +1,6 @@
 # PantheonSoulsDatFileWrapper.PantheonSoulsDatFileHardcodedJson Constructor 
 
+**Вложено элементов:** 0  
 
 | PantheonSoulsDatFileWrapper PantheonSoulsDatFileHardcodedJson Constructor |
 | --- |

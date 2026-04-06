@@ -1,5 +1,6 @@
 # RelicLocker Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements RelicLocker Property |
 | --- |

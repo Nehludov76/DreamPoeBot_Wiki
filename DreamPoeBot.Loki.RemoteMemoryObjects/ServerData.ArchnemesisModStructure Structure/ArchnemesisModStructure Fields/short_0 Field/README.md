@@ -1,5 +1,6 @@
 # short_0 Field
 
+**Вложено элементов:** 0  
 
 | ServerData ArchnemesisModStructure short_0 Field |
 | --- |

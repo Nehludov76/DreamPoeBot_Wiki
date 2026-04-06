@@ -1,5 +1,6 @@
 # Window Field
 
+**Вложено элементов:** 0  
 
 | Interop WindowInfoWin32 Window Field |
 | --- |

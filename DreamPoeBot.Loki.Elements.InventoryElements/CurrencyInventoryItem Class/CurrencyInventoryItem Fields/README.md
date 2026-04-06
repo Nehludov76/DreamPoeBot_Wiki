@@ -1,5 +1,6 @@
 # CurrencyInventoryItem Fields
 
+**Вложено элементов:** 0  
 
 | CurrencyInventoryItem Fields |
 | --- |
@@ -10,6 +11,6 @@
 The CurrencyInventoryItem type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| NeedUpdate | (Inherited from RemoteMemoryObject .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | NeedUpdate | (Inherited from RemoteMemoryObject .) |

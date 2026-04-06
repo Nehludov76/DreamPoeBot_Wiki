@@ -1,5 +1,6 @@
 # QuestComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation QuestComponent Property |
 | --- |

@@ -1,5 +1,6 @@
 # Ping Field
 
+**Вложено элементов:** 0  
 
 | GenericComboBoxElement StructGenericComboBoxEntry Ping Field |
 | --- |

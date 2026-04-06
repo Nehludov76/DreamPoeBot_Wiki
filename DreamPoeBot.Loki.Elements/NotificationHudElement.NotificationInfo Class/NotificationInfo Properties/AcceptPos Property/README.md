@@ -1,5 +1,6 @@
 # AcceptPos Property 
 
+**Вложено элементов:** 0  
 
 | NotificationHudElement NotificationInfo AcceptPos Property |
 | --- |

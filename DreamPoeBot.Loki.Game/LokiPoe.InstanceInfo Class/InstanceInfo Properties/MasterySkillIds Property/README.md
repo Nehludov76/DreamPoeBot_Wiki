@@ -1,5 +1,6 @@
 # MasterySkillIds Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo MasterySkillIds Property |
 | --- |

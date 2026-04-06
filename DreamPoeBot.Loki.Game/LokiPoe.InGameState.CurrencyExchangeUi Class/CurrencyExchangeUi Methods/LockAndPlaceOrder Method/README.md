@@ -1,5 +1,6 @@
 # LockAndPlaceOrder Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState CurrencyExchangeUi LockAndPlaceOrder Method |
 | --- |

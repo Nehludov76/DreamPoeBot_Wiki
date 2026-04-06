@@ -1,5 +1,6 @@
 # UltimatumTrial Fields
 
+**Вложено элементов:** 0  
 
 | UltimatumTrial Fields |
 | --- |
@@ -10,6 +11,6 @@
 The UltimatumTrial type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| NeedUpdate | (Inherited from RemoteMemoryObject .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | NeedUpdate | (Inherited from RemoteMemoryObject .) |

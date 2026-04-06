@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.StashUi.EssenceTab.Loathing Class
 
+**Вложено элементов:** 5  
 
 | LokiPoe InGameState StashUi EssenceTab Loathing Class |
 | --- |
@@ -32,9 +33,12 @@ public ref class Loathing abstract sealed
 The LokiPoe InGameState StashUi EssenceTab Loathing type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Deafening |
-| Screaming |
-| Shrieking |
-| Wailing |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Deafening |  |
+|  | Screaming |  |
+|  | Shrieking |  |
+|  | Wailing |  |
+
+## Дочерние разделы
+- [**Loathing Properties**](./Loathing Properties/README.md)

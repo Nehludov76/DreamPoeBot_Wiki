@@ -1,5 +1,6 @@
 # ObjectMagicProperties.Struct185ObgectMagicProperties Structure
 
+**Вложено элементов:** 7  
 
 | ObjectMagicProperties Struct185ObgectMagicProperties Structure |
 | --- |
@@ -32,18 +33,22 @@ public value class Struct185ObgectMagicProperties
 The ObjectMagicProperties Struct185ObgectMagicProperties type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Equals | Indicates whether this instance and a specified object are equal. (Inherited from ValueType .) |
-| GetHashCode | Returns the hash code for this instance. (Inherited from ValueType .) |
-| GetType | Gets the Type of the current instance. (Inherited from Object .) |
-| ToString | Returns the fully qualified type name of this instance. (Inherited from ValueType .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Equals | Indicates whether this instance and a specified object are equal. (Inherited from ValueType .) |
+|  | GetHashCode | Returns the hash code for this instance. (Inherited from ValueType .) |
+|  | GetType | Gets the Type of the current instance. (Inherited from Object .) |
+|  | ToString | Returns the fully qualified type name of this instance. (Inherited from ValueType .) |
 
 
-| Name | Description |
-| --- | --- |
-| byte_4IsIdentified |
-| nativeVector_1ImpAfex |
-| nativeVector_2ExpAfex |
-| nativeVector_3StatDict |
-| rarity_0 |
+|  | Name | Description |
+| --- | --- | --- |
+|  | byte_4IsIdentified |  |
+|  | nativeVector_1ImpAfex |  |
+|  | nativeVector_2ExpAfex |  |
+|  | nativeVector_3StatDict |  |
+|  | rarity_0 |  |
+
+## Дочерние разделы
+- [**Struct185ObgectMagicProperties Methods**](./Struct185ObgectMagicProperties Methods/README.md)
+- [**Struct185ObgectMagicProperties Fields**](./Struct185ObgectMagicProperties Fields/README.md)

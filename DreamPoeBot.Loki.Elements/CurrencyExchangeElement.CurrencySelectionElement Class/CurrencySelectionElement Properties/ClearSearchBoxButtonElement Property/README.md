@@ -1,5 +1,6 @@
 # ClearSearchBoxButtonElement Property 
 
+**Вложено элементов:** 0  
 
 | CurrencyExchangeElement CurrencySelectionElement ClearSearchBoxButtonElement Property |
 | --- |

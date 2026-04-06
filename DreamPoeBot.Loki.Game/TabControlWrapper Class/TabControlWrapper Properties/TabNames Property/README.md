@@ -1,5 +1,6 @@
 # TabNames Property 
 
+**Вложено элементов:** 0  
 
 | TabControlWrapper TabNames Property |
 | --- |

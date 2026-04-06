@@ -1,5 +1,6 @@
 # IsPremiumDelve Property 
 
+**Вложено элементов:** 0  
 
 | StashTabInfo IsPremiumDelve Property |
 | --- |

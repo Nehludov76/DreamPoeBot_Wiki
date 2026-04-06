@@ -1,5 +1,6 @@
 # FullEntityListAdr Property 
 
+**Вложено элементов:** 0  
 
 | IngameData FullEntityListAdr Property |
 | --- |

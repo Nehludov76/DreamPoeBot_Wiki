@@ -1,5 +1,6 @@
 # Positioned.Struct196 Structure
 
+**Вложено элементов:** 9  
 
 | Positioned Struct196 Structure |
 | --- |
@@ -32,20 +33,24 @@ public value class Struct196
 The Positioned Struct196 type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Equals | Indicates whether this instance and a specified object are equal. (Inherited from ValueType .) |
-| GetHashCode | Returns the hash code for this instance. (Inherited from ValueType .) |
-| GetType | Gets the Type of the current instance. (Inherited from Object .) |
-| ToString | Returns the fully qualified type name of this instance. (Inherited from ValueType .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Equals | Indicates whether this instance and a specified object are equal. (Inherited from ValueType .) |
+|  | GetHashCode | Returns the hash code for this instance. (Inherited from ValueType .) |
+|  | GetType | Gets the Type of the current instance. (Inherited from Object .) |
+|  | ToString | Returns the fully qualified type name of this instance. (Inherited from ValueType .) |
 
 
-| Name | Description |
-| --- | --- |
-| byte_6 |
-| byte_7Reaction |
-| float_Size |
-| float_SizeScale |
-| floatRotationNew |
-| vector2_0WorldPosition |
-| vector2i_0MapPosition |
+|  | Name | Description |
+| --- | --- | --- |
+|  | byte_6 |  |
+|  | byte_7Reaction |  |
+|  | float_Size |  |
+|  | float_SizeScale |  |
+|  | floatRotationNew |  |
+|  | vector2_0WorldPosition |  |
+|  | vector2i_0MapPosition |  |
+
+## Дочерние разделы
+- [**Struct196 Methods**](./Struct196 Methods/README.md)
+- [**Struct196 Fields**](./Struct196 Fields/README.md)

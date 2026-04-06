@@ -1,5 +1,6 @@
 # AllowExternalAccess Property 
 
+**Вложено элементов:** 0  
 
 | GlobalSettings AllowExternalAccess Property |
 | --- |

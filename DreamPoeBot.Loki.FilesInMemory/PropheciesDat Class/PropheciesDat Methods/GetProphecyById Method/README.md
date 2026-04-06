@@ -1,5 +1,6 @@
 # GetProphecyById Method 
 
+**Вложено элементов:** 0  
 
 | PropheciesDat GetProphecyById Method |
 | --- |

@@ -1,5 +1,6 @@
 # FracturedFossil Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState GuildStashUi DelveTab FracturedFossil Property |
 | --- |

@@ -1,5 +1,6 @@
 # CurentUIElementPosY Property 
 
+**Вложено элементов:** 0  
 
 | IngameState CurentUIElementPosY Property |
 | --- |

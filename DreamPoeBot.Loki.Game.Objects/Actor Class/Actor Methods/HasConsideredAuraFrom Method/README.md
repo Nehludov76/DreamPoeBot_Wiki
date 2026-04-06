@@ -1,5 +1,6 @@
 # HasConsideredAuraFrom Method 
 
+**Вложено элементов:** 0  
 
 | Actor HasConsideredAuraFrom Method |
 | --- |

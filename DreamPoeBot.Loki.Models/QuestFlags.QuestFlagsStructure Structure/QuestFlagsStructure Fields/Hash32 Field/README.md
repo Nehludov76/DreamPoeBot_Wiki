@@ -1,5 +1,6 @@
 # Hash32 Field
 
+**Вложено элементов:** 0  
 
 | QuestFlags QuestFlagsStructure Hash32 Field |
 | --- |

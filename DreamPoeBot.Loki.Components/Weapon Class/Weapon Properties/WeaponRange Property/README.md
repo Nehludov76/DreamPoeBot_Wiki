@@ -1,5 +1,6 @@
 # WeaponRange Property 
 
+**Вложено элементов:** 0  
 
 | Weapon WeaponRange Property |
 | --- |

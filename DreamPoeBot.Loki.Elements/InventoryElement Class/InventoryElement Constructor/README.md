@@ -1,5 +1,6 @@
 # InventoryElement Constructor 
 
+**Вложено элементов:** 0  
 
 | InventoryElement Constructor |
 | --- |

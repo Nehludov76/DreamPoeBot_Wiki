@@ -1,5 +1,6 @@
 # Dat.NativeExperienceLevels Structure
 
+**Вложено элементов:** 5  
 
 | Dat NativeExperienceLevels Structure |
 | --- |
@@ -32,16 +33,20 @@ public value class NativeExperienceLevels
 The Dat NativeExperienceLevels type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Equals | Indicates whether this instance and a specified object are equal. (Inherited from ValueType .) |
-| GetHashCode | Returns the hash code for this instance. (Inherited from ValueType .) |
-| GetType | Gets the Type of the current instance. (Inherited from Object .) |
-| ToString | Returns the fully qualified type name of this instance. (Inherited from ValueType .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Equals | Indicates whether this instance and a specified object are equal. (Inherited from ValueType .) |
+|  | GetHashCode | Returns the hash code for this instance. (Inherited from ValueType .) |
+|  | GetType | Gets the Type of the current instance. (Inherited from Object .) |
+|  | ToString | Returns the fully qualified type name of this instance. (Inherited from ValueType .) |
 
 
-| Name | Description |
-| --- | --- |
-| Experience |
-| Level |
-| NameIndex |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Experience |  |
+|  | Level |  |
+|  | NameIndex |  |
+
+## Дочерние разделы
+- [**NativeExperienceLevels Methods**](./NativeExperienceLevels Methods/README.md)
+- [**NativeExperienceLevels Fields**](./NativeExperienceLevels Fields/README.md)

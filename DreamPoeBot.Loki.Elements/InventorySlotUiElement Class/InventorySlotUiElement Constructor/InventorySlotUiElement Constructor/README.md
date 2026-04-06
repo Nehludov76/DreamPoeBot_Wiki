@@ -1,5 +1,6 @@
 # InventorySlotUiElement Constructor 
 
+**Вложено элементов:** 0  
 
 | InventorySlotUiElement Constructor |
 | --- |

@@ -1,5 +1,6 @@
 # DivinationCards Field
 
+**Вложено элементов:** 0  
 
 | AtlasNodeDat AtlasNodeRecordStruct DivinationCards Field |
 | --- |

@@ -1,5 +1,6 @@
 # Center Method 
 
+**Вложено элементов:** 0  
 
 | RectangleFExtension Center Method |
 | --- |

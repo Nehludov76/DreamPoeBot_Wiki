@@ -1,5 +1,6 @@
 # InventoryList Constructor 
 
+**Вложено элементов:** 0  
 
 | InventoryList Constructor |
 | --- |

@@ -1,5 +1,6 @@
 # byte_6 Field
 
+**Вложено элементов:** 0  
 
 | Positioned Struct196 byte_6 Field |
 | --- |

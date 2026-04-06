@@ -1,5 +1,6 @@
 # GetTileDebugData Method 
 
+**Вложено элементов:** 0  
 
 | Pathfinder GetTileDebugData Method |
 | --- |

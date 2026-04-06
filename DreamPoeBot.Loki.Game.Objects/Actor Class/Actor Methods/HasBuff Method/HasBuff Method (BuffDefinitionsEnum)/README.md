@@ -1,5 +1,6 @@
 # HasBuff Method (BuffDefinitionsEnum)
 
+**Вложено элементов:** 0  
 
 | Actor HasBuff Method (BuffDefinitionsEnum) |
 | --- |

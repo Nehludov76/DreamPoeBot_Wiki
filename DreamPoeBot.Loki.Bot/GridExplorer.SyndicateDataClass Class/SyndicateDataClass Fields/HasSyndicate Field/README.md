@@ -1,5 +1,6 @@
 # HasSyndicate Field
 
+**Вложено элементов:** 0  
 
 | GridExplorer SyndicateDataClass HasSyndicate Field |
 | --- |

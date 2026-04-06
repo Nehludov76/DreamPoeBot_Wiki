@@ -1,5 +1,6 @@
 # SanctumArchivesElement.SanctumRoom Constructor 
 
+**Вложено элементов:** 0  
 
 | SanctumArchivesElement SanctumRoom Constructor |
 | --- |

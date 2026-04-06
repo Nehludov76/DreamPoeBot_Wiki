@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.GuildStashUi.EssenceTab.Sorrow Class
 
+**Вложено элементов:** 7  
 
 | LokiPoe InGameState GuildStashUi EssenceTab Sorrow Class |
 | --- |
@@ -32,11 +33,14 @@ public ref class Sorrow abstract sealed
 The LokiPoe InGameState GuildStashUi EssenceTab Sorrow type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Deafening |
-| Muttering |
-| Screaming |
-| Shrieking |
-| Wailing |
-| Weeping |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Deafening |  |
+|  | Muttering |  |
+|  | Screaming |  |
+|  | Shrieking |  |
+|  | Wailing |  |
+|  | Weeping |  |
+
+## Дочерние разделы
+- [**Sorrow Properties**](./Sorrow Properties/README.md)

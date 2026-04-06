@@ -1,5 +1,6 @@
 # CharacterLevel Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo CharacterLevel Property |
 | --- |

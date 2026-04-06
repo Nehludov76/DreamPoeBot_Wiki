@@ -1,5 +1,6 @@
 # Agent Property 
 
+**Вложено элементов:** 0  
 
 | RecastMeshSettings Agent Property |
 | --- |

@@ -1,5 +1,6 @@
 # MoveMouseToWorldPos Method (String, Vector2)
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input MoveMouseToWorldPos Method (String, Vector2) |
 | --- |

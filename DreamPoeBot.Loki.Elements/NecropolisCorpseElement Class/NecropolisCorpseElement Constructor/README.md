@@ -1,5 +1,6 @@
 # NecropolisCorpseElement Constructor 
 
+**Вложено элементов:** 0  
 
 | NecropolisCorpseElement Constructor |
 | --- |

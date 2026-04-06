@@ -1,5 +1,6 @@
 # PerandusCoin Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState StashUi CurrencyTab PerandusCoin Property |
 | --- |

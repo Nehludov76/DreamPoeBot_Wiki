@@ -1,5 +1,6 @@
 # ExplicitStats Property 
 
+**Вложено элементов:** 0  
 
 | Monster ExplicitStats Property |
 | --- |

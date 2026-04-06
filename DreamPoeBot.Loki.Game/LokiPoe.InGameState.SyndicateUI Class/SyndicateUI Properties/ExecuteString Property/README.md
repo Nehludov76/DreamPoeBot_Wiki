@@ -1,5 +1,6 @@
 # ExecuteString Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SyndicateUI ExecuteString Property |
 | --- |

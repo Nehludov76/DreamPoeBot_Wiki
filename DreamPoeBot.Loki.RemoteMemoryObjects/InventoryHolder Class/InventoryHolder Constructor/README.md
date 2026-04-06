@@ -1,5 +1,6 @@
 # InventoryHolder Constructor 
 
+**Вложено элементов:** 0  
 
 | InventoryHolder Constructor |
 | --- |

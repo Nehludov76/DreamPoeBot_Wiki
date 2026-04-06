@@ -1,5 +1,6 @@
 # BotWindow Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe BotWindow Property |
 | --- |

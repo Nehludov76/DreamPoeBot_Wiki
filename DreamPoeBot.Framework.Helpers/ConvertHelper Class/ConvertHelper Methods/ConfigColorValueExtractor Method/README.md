@@ -1,5 +1,6 @@
 # ConfigColorValueExtractor Method 
 
+**Вложено элементов:** 0  
 
 | ConvertHelper ConfigColorValueExtractor Method |
 | --- |

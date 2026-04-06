@@ -1,5 +1,6 @@
 # BaseItemType Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo Atlas AtlasInfluence BaseItemType Property |
 | --- |

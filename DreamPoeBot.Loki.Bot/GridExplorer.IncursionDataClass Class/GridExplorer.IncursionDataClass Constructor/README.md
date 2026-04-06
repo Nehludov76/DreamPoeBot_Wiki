@@ -1,5 +1,6 @@
 # GridExplorer.IncursionDataClass Constructor 
 
+**Вложено элементов:** 0  
 
 | GridExplorer IncursionDataClass Constructor |
 | --- |

@@ -1,5 +1,6 @@
 # TierString Property 
 
+**Вложено элементов:** 0  
 
 | ModAffix TierString Property |
 | --- |

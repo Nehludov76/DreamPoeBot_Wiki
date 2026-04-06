@@ -1,5 +1,6 @@
 # GetWalkableBitArray Method 
 
+**Вложено элементов:** 0  
 
 | WalkabilityGrid GetWalkableBitArray Method |
 | --- |

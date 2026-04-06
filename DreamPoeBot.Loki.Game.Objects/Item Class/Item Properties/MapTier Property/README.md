@@ -1,5 +1,6 @@
 # MapTier Property 
 
+**Вложено элементов:** 0  
 
 | Item MapTier Property |
 | --- |

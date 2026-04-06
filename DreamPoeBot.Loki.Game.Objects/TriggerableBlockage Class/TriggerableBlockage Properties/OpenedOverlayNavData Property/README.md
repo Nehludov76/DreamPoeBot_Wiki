@@ -1,5 +1,6 @@
 # OpenedOverlayNavData Property 
 
+**Вложено элементов:** 0  
 
 | TriggerableBlockage OpenedOverlayNavData Property |
 | --- |

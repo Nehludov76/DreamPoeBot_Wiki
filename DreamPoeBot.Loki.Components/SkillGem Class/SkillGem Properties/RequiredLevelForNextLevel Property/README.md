@@ -1,5 +1,6 @@
 # RequiredLevelForNextLevel Property 
 
+**Вложено элементов:** 0  
 
 | SkillGem RequiredLevelForNextLevel Property |
 | --- |

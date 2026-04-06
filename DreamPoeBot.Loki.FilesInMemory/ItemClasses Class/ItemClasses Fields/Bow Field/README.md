@@ -1,5 +1,6 @@
 # Bow Field
 
+**Вложено элементов:** 0  
 
 | ItemClasses Bow Field |
 | --- |

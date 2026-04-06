@@ -1,5 +1,6 @@
 # EffectivenessOfAddedDamage Property 
 
+**Вложено элементов:** 0  
 
 | GrantedEffectsPerLevel EffectivenessOfAddedDamage Property |
 | --- |

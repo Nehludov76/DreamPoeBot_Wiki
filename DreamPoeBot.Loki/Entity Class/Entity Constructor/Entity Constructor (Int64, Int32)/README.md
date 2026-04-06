@@ -1,5 +1,6 @@
 # Entity Constructor (Int64, Int32)
 
+**Вложено элементов:** 0  
 
 | Entity Constructor (Int64, Int32) |
 | --- |

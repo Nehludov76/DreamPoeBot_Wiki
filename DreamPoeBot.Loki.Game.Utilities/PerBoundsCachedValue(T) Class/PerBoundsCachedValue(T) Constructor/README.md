@@ -1,5 +1,6 @@
 # PerBoundsCachedValue(T) Constructor 
 
+**Вложено элементов:** 0  
 
 | PerBoundsCachedValue T Constructor |
 | --- |

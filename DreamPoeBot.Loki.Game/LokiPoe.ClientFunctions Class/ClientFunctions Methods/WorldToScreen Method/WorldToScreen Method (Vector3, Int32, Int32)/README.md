@@ -1,5 +1,6 @@
 # WorldToScreen Method (Vector3, Int32, Int32)
 
+**Вложено элементов:** 0  
 
 | LokiPoe ClientFunctions WorldToScreen Method (Vector3, Int32 , Int32 ) |
 | --- |

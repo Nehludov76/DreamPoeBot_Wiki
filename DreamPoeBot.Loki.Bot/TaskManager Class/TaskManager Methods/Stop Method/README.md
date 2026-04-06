@@ -1,5 +1,6 @@
 # Stop Method 
 
+**Вложено элементов:** 0  
 
 | TaskManager Stop Method |
 | --- |

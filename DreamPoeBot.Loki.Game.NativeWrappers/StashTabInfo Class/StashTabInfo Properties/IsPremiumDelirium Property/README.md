@@ -1,5 +1,6 @@
 # IsPremiumDelirium Property 
 
+**Вложено элементов:** 0  
 
 | StashTabInfo IsPremiumDelirium Property |
 | --- |

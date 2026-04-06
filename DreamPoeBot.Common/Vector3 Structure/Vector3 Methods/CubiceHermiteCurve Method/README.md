@@ -1,5 +1,6 @@
 # CubiceHermiteCurve Method 
 
+**Вложено элементов:** 0  
 
 | Vector3 CubiceHermiteCurve Method |
 | --- |

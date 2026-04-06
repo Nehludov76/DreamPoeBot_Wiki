@@ -1,5 +1,6 @@
 # _18 Property 
 
+**Вложено элементов:** 0  
 
 | DatQuestWrapper _18 Property |
 | --- |

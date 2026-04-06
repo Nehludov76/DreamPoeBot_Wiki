@@ -1,5 +1,6 @@
 # CorpseTargetingType Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input Binding CorpseTargetingType Property |
 | --- |

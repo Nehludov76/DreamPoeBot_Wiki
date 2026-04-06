@@ -1,5 +1,6 @@
 # ListExtensions Class
 
+**Вложено элементов:** 2  
 
 | ListExtensions Class |
 | --- |
@@ -32,6 +33,9 @@ public static class ListExtensions
 The ListExtensions type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Shuffle T |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Shuffle T |  |
+
+## Дочерние разделы
+- [**ListExtensions Methods**](./ListExtensions Methods/README.md)

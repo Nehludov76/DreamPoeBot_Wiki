@@ -1,5 +1,6 @@
 # Writelong Method 
 
+**Вложено элементов:** 0  
 
 | Memory Writelong Method |
 | --- |

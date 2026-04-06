@@ -1,5 +1,6 @@
 # OpenTempleElement Property 
 
+**Вложено элементов:** 0  
 
 | IncursionUiElement OpenTempleElement Property |
 | --- |

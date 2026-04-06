@@ -1,5 +1,6 @@
 # LokiPoe.ProcessHookManager.HookDisabledByIngecionEventHandler Delegate
 
+**Вложено элементов:** 0  
 
 | LokiPoe ProcessHookManager HookDisabledByIngecionEventHandler Delegate |
 | --- |

@@ -1,5 +1,6 @@
 # MonsterName Property 
 
+**Вложено элементов:** 0  
 
 | MonsterVariety MonsterName Property |
 | --- |

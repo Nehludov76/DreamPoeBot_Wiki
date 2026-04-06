@@ -1,5 +1,6 @@
 # Obstacles Property 
 
+**Вложено элементов:** 0  
 
 | Pathfinder Obstacles Property |
 | --- |

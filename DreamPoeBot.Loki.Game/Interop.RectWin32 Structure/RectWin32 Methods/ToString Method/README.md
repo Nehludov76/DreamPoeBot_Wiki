@@ -1,5 +1,6 @@
 # ToString Method 
 
+**Вложено элементов:** 0  
 
 | Interop RectWin32 ToString Method |
 | --- |

@@ -1,5 +1,6 @@
 # CoroutineStatus Enumeration
 
+**Вложено элементов:** 0  
 
 | CoroutineStatus Enumeration |
 | --- |
@@ -30,9 +31,9 @@ public enum class CoroutineStatus
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| Runnable | 0 |
-| RanToCompletion | 1 |
-| Stopped | 2 |
-| Faulted | 3 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | Runnable | 0 |  |
+|  | RanToCompletion | 1 |  |
+|  | Stopped | 2 |  |
+|  | Faulted | 3 |  |

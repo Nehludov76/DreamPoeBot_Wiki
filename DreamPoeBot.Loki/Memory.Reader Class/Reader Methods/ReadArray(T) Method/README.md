@@ -1,5 +1,6 @@
 # ReadArray(T) Method 
 
+**Вложено элементов:** 0  
 
 | Memory Reader ReadArray T Method |
 | --- |

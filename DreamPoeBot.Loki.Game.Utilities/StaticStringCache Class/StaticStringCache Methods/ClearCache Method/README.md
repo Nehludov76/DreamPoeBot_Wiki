@@ -1,5 +1,6 @@
 # ClearCache Method 
 
+**Вложено элементов:** 0  
 
 | StaticStringCache ClearCache Method |
 | --- |

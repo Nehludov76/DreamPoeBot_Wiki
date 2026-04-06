@@ -1,5 +1,6 @@
 # WalkableValue Method (CachedTerrainData, Int32, Int32)
 
+**Вложено элементов:** 0  
 
 | WalkabilityGrid WalkableValue Method (CachedTerrainData, Int32, Int32) |
 | --- |

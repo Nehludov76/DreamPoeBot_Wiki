@@ -1,5 +1,6 @@
 # ChargesUsed Property 
 
+**Вложено элементов:** 0  
 
 | SentinelDrone ChargesUsed Property |
 | --- |

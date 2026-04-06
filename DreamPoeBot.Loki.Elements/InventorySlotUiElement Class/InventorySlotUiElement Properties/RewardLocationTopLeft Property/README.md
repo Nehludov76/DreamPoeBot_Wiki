@@ -1,5 +1,6 @@
 # RewardLocationTopLeft Property 
 
+**Вложено элементов:** 0  
 
 | InventorySlotUiElement RewardLocationTopLeft Property |
 | --- |

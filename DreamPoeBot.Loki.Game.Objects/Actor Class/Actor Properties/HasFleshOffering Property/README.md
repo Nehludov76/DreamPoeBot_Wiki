@@ -1,5 +1,6 @@
 # HasFleshOffering Property 
 
+**Вложено элементов:** 0  
 
 | Actor HasFleshOffering Property |
 | --- |

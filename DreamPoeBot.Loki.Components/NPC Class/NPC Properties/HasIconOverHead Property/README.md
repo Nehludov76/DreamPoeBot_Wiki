@@ -1,5 +1,6 @@
 # HasIconOverHead Property 
 
+**Вложено элементов:** 0  
 
 | NPC HasIconOverHead Property |
 | --- |

@@ -1,5 +1,6 @@
 # sanctum_open_map_ui_combo Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input Binding sanctum_open_map_ui_combo Property |
 | --- |

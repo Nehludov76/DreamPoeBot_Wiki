@@ -1,5 +1,6 @@
 # SelectOption Method 
 
+**Вложено элементов:** 0  
 
 | UltimatumChallengeInteractable SelectOption Method |
 | --- |

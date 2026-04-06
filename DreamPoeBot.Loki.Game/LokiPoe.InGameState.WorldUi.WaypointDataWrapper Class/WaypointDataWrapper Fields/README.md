@@ -1,5 +1,6 @@
 # WaypointDataWrapper Fields
 
+**Вложено элементов:** 1  
 
 | WaypointDataWrapper Fields |
 | --- |
@@ -10,6 +11,9 @@
 The LokiPoe InGameState WorldUi WaypointDataWrapper type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| WorldArea |
+|  | Name | Description |
+| --- | --- | --- |
+|  | WorldArea |  |
+
+## Дочерние разделы
+- [**WorldArea Field**](./WorldArea Field/README.md)

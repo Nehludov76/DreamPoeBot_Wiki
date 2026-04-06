@@ -1,5 +1,6 @@
 # LowestSyndicateX Field
 
+**Вложено элементов:** 0  
 
 | GridExplorer SyndicateDataClass LowestSyndicateX Field |
 | --- |

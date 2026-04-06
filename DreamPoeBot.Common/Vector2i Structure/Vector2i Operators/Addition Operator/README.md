@@ -1,5 +1,6 @@
 # Addition Operator 
 
+**Вложено элементов:** 0  
 
 | Vector2i Addition Operator |
 | --- |

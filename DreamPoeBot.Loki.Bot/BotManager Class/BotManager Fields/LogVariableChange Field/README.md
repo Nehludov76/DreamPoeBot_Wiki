@@ -1,5 +1,6 @@
 # LogVariableChange Field
 
+**Вложено элементов:** 0  
 
 | BotManager LogVariableChange Field |
 | --- |

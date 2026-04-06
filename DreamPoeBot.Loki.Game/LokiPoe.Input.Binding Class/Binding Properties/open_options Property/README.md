@@ -1,5 +1,6 @@
 # open_options Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input Binding open_options Property |
 | --- |

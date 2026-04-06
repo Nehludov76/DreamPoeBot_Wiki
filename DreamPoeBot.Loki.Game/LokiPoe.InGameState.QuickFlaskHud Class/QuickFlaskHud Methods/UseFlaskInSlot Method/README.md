@@ -1,5 +1,6 @@
 # UseFlaskInSlot Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState QuickFlaskHud UseFlaskInSlot Method |
 | --- |

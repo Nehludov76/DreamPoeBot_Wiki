@@ -1,5 +1,6 @@
 # IMemoryObject Interface
 
+**Вложено элементов:** 4  
 
 | IMemoryObject Interface |
 | --- |
@@ -32,11 +33,15 @@ public interface class IMemoryObject
 The IMemoryObject type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| BaseAddress |
+|  | Name | Description |
+| --- | --- | --- |
+|  | BaseAddress |  |
 
 
-| Name | Description |
-| --- | --- |
-| UpdatePointer |
+|  | Name | Description |
+| --- | --- | --- |
+|  | UpdatePointer |  |
+
+## Дочерние разделы
+- [**IMemoryObject Properties**](./IMemoryObject Properties/README.md)
+- [**IMemoryObject Methods**](./IMemoryObject Methods/README.md)

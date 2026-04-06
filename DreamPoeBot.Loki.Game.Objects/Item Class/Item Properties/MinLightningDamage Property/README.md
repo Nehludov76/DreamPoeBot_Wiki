@@ -1,5 +1,6 @@
 # MinLightningDamage Property 
 
+**Вложено элементов:** 0  
 
 | Item MinLightningDamage Property |
 | --- |

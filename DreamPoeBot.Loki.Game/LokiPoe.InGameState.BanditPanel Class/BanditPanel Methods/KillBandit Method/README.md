@@ -1,5 +1,6 @@
 # KillBandit Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState BanditPanel KillBandit Method |
 | --- |

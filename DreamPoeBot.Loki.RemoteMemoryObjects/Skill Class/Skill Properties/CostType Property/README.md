@@ -1,5 +1,6 @@
 # CostType Property 
 
+**Вложено элементов:** 0  
 
 | Skill CostType Property |
 | --- |

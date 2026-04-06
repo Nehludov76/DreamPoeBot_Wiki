@@ -1,5 +1,6 @@
 # SanctifiedFossil Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState GuildStashUi DelveTab SanctifiedFossil Property |
 | --- |

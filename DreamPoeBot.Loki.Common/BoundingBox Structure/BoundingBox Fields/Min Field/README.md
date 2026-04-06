@@ -1,5 +1,6 @@
 # Min Field
 
+**Вложено элементов:** 0  
 
 | BoundingBox Min Field |
 | --- |

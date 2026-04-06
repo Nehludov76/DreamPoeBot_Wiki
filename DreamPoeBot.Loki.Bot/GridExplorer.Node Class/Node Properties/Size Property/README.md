@@ -1,5 +1,6 @@
 # Size Property 
 
+**Вложено элементов:** 0  
 
 | GridExplorer Node Size Property |
 | --- |

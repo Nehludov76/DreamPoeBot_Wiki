@@ -1,5 +1,6 @@
 # GridExplorer.ExplorationMethodEnum Enumeration
 
+**Вложено элементов:** 0  
 
 | GridExplorer ExplorationMethodEnum Enumeration |
 | --- |
@@ -30,7 +31,7 @@ public enum class ExplorationMethodEnum
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| Breadth_First | 0 |
-| Depth_First | 1 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | Breadth_First | 0 |  |
+|  | Depth_First | 1 |  |

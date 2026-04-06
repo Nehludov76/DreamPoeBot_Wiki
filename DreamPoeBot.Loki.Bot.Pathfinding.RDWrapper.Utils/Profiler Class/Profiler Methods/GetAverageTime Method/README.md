@@ -1,5 +1,6 @@
 # GetAverageTime Method 
 
+**Вложено элементов:** 0  
 
 | Profiler GetAverageTime Method |
 | --- |

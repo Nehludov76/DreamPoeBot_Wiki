@@ -1,5 +1,6 @@
 # ReadObjectSkill Method 
 
+**Вложено элементов:** 0  
 
 | RemoteMemoryObject ReadObjectSkill Method |
 | --- |

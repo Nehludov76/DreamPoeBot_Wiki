@@ -1,5 +1,6 @@
 # MaxBet Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ExpeditionDealerUi Haggle MaxBet Property |
 | --- |

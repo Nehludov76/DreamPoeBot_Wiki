@@ -1,5 +1,6 @@
 # Upgrade Method 
 
+**Вложено элементов:** 0  
 
 | BlightDefensiveTower Upgrade Method |
 | --- |

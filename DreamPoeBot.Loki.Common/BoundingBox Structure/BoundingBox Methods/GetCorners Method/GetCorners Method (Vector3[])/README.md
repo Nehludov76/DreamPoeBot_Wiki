@@ -1,5 +1,6 @@
 # GetCorners Method (Vector3[])
 
+**Вложено элементов:** 0  
 
 | BoundingBox GetCorners Method ( Vector3 ) |
 | --- |

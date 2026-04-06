@@ -1,5 +1,6 @@
 # CancelButton Property 
 
+**Вложено элементов:** 0  
 
 | TradeUiElement CancelButton Property |
 | --- |

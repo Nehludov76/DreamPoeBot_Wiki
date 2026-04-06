@@ -1,5 +1,6 @@
 # IsStartBlightVisible Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState BlightUi IsStartBlightVisible Property |
 | --- |

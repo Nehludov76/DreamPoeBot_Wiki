@@ -1,5 +1,6 @@
 # IsPassiveTreeResetWarningOverlayOpen Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState GlobalWarningDialog IsPassiveTreeResetWarningOverlayOpen Property |
 | --- |

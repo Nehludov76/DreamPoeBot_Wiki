@@ -1,5 +1,6 @@
 # HasCurrentAction Property 
 
+**Вложено элементов:** 0  
 
 | Actor HasCurrentAction Property |
 | --- |

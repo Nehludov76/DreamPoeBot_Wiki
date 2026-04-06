@@ -1,5 +1,6 @@
 # GetTileCacheDebugData Method 
 
+**Вложено элементов:** 0  
 
 | Pathfinder GetTileCacheDebugData Method |
 | --- |

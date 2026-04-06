@@ -1,5 +1,6 @@
 # GetGrantedEffectAddress Property 
 
+**Вложено элементов:** 0  
 
 | SkillGem GetGrantedEffectAddress Property |
 | --- |

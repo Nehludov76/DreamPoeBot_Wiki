@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.HeistContractUi Class
 
+**Вложено элементов:** 7  
 
 | LokiPoe InGameState HeistContractUi Class |
 | --- |
@@ -30,14 +31,18 @@ public ref class HeistContractUi abstract sealed
 The LokiPoe InGameState HeistContractUi type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| AvailableAgent |
-| IsAgentSelected |
-| IsOpened |
+|  | Name | Description |
+| --- | --- | --- |
+|  | AvailableAgent |  |
+|  | IsAgentSelected |  |
+|  | IsOpened |  |
 
 
-| Name | Description |
-| --- | --- |
-| OpenAgentSelection |
-| SignContract |
+|  | Name | Description |
+| --- | --- | --- |
+|  | OpenAgentSelection |  |
+|  | SignContract |  |
+
+## Дочерние разделы
+- [**HeistContractUi Properties**](./HeistContractUi Properties/README.md)
+- [**HeistContractUi Methods**](./HeistContractUi Methods/README.md)

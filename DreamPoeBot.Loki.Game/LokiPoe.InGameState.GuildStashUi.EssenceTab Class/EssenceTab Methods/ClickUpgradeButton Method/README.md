@@ -1,5 +1,6 @@
 # ClickUpgradeButton Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState GuildStashUi EssenceTab ClickUpgradeButton Method |
 | --- |

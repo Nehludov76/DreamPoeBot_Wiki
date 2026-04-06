@@ -1,5 +1,6 @@
 # Skill.SkillCostType Enumeration
 
+**Вложено элементов:** 0  
 
 | Skill SkillCostType Enumeration |
 | --- |
@@ -30,7 +31,7 @@ public enum class SkillCostType
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| Life | 0 |
-| Mana | 1 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | Life | 0 |  |
+|  | Mana | 1 |  |

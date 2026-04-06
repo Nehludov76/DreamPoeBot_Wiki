@@ -1,5 +1,6 @@
 # BoundingBoxMin Property 
 
+**Вложено элементов:** 0  
 
 | TileDebugData BoundingBoxMin Property |
 | --- |

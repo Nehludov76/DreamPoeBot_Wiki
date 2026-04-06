@@ -1,5 +1,6 @@
 # GetClickableHighlightLabelDimensions Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input GetClickableHighlightLabelDimensions Method |
 | --- |

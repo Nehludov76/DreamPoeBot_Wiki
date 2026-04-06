@@ -1,5 +1,6 @@
 # HasFragmentTabOverride Property 
 
+**Вложено элементов:** 0  
 
 | InventoryControlWrapper HasFragmentTabOverride Property |
 | --- |

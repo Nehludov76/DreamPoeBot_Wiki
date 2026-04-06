@@ -1,5 +1,6 @@
 # Affinities Property 
 
+**Вложено элементов:** 0  
 
 | PremiumStashSettingElement Affinities Property |
 | --- |

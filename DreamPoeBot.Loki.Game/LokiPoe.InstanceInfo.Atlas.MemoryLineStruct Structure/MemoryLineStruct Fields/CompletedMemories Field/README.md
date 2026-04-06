@@ -1,5 +1,6 @@
 # CompletedMemories Field
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo Atlas MemoryLineStruct CompletedMemories Field |
 | --- |

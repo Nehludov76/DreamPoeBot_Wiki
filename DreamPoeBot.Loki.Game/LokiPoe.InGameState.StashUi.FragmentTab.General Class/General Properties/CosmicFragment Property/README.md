@@ -1,5 +1,6 @@
 # CosmicFragment Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState StashUi FragmentTab General CosmicFragment Property |
 | --- |

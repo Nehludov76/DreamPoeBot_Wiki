@@ -1,5 +1,6 @@
 # HasTempestShieldBuff Property 
 
+**Вложено элементов:** 0  
 
 | Actor HasTempestShieldBuff Property |
 | --- |

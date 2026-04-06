@@ -1,5 +1,6 @@
 # ReturnToMineEnchampment Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState DelveSubterrainChartUi ReturnToMineEnchampment Method |
 | --- |

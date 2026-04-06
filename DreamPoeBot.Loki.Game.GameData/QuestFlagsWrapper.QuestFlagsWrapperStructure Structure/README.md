@@ -1,5 +1,6 @@
 # QuestFlagsWrapper.QuestFlagsWrapperStructure Structure
 
+**Вложено элементов:** 4  
 
 | QuestFlagsWrapper QuestFlagsWrapperStructure Structure |
 | --- |
@@ -32,15 +33,19 @@ public value class QuestFlagsWrapperStructure
 The QuestFlagsWrapper QuestFlagsWrapperStructure type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Equals | Indicates whether this instance and a specified object are equal. (Inherited from ValueType .) |
-| GetHashCode | Returns the hash code for this instance. (Inherited from ValueType .) |
-| GetType | Gets the Type of the current instance. (Inherited from Object .) |
-| ToString | Returns the fully qualified type name of this instance. (Inherited from ValueType .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Equals | Indicates whether this instance and a specified object are equal. (Inherited from ValueType .) |
+|  | GetHashCode | Returns the hash code for this instance. (Inherited from ValueType .) |
+|  | GetType | Gets the Type of the current instance. (Inherited from Object .) |
+|  | ToString | Returns the fully qualified type name of this instance. (Inherited from ValueType .) |
 
 
-| Name | Description |
-| --- | --- |
-| isUnlocked |
-| QuestStateData |
+|  | Name | Description |
+| --- | --- | --- |
+|  | isUnlocked |  |
+|  | QuestStateData |  |
+
+## Дочерние разделы
+- [**QuestFlagsWrapperStructure Methods**](./QuestFlagsWrapperStructure Methods/README.md)
+- [**QuestFlagsWrapperStructure Fields**](./QuestFlagsWrapperStructure Fields/README.md)

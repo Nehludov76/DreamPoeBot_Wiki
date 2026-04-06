@@ -1,5 +1,6 @@
 # EnduranceCharges Property 
 
+**Вложено элементов:** 0  
 
 | Actor EnduranceCharges Property |
 | --- |

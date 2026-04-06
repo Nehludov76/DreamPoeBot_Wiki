@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.CurrencyExchangeUi.SelectCurrencyError Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState CurrencyExchangeUi SelectCurrencyError Enumeration |
 | --- |
@@ -30,9 +31,9 @@ public enum class SelectCurrencyError
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| CurrencySelectionPannelNotOpen | 1 |
-| UnableToFindCurrency | 2 |
-| FailedToSetTheCurrency | 3 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | CurrencySelectionPannelNotOpen | 1 |  |
+|  | UnableToFindCurrency | 2 |  |
+|  | FailedToSetTheCurrency | 3 |  |

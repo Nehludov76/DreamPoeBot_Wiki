@@ -1,5 +1,6 @@
 # Author Property 
 
+**Вложено элементов:** 0  
 
 | PluginBindingWrapper Author Property |
 | --- |

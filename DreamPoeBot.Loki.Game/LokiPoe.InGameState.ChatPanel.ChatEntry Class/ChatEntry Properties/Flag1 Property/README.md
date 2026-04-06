@@ -1,5 +1,6 @@
 # Flag1 Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ChatPanel ChatEntry Flag1 Property |
 | --- |

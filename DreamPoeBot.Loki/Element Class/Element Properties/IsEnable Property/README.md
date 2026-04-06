@@ -1,5 +1,6 @@
 # IsEnable Property 
 
+**Вложено элементов:** 0  
 
 | Element IsEnable Property |
 | --- |

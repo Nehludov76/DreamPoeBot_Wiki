@@ -1,5 +1,6 @@
 # Click Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ZanaInfluenceSkillBarUi ZanaInfluenceSkill Click Method |
 | --- |

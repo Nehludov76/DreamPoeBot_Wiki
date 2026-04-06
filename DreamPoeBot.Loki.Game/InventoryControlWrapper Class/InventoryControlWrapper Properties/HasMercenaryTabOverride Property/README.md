@@ -1,5 +1,6 @@
 # HasMercenaryTabOverride Property 
 
+**Вложено элементов:** 0  
 
 | InventoryControlWrapper HasMercenaryTabOverride Property |
 | --- |

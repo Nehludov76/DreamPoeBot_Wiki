@@ -1,5 +1,6 @@
 # NormalJewelPassiveSkillIds Property 
 
+**Вложено элементов:** 0  
 
 | ServerData NormalJewelPassiveSkillIds Property |
 | --- |

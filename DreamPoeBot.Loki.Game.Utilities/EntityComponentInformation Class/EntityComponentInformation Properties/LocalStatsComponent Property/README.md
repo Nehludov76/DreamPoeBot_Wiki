@@ -1,5 +1,6 @@
 # LocalStatsComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation LocalStatsComponent Property |
 | --- |

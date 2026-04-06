@@ -1,5 +1,6 @@
 # ModType Enumeration
 
+**Вложено элементов:** 0  
 
 | ModType Enumeration |
 | --- |
@@ -30,17 +31,17 @@ public enum class ModType
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| Unknown | -1 |
-| Prefix | 1 |
-| Suffix | 2 |
-| Hidden | 3 |
-| Nemesis | 4 |
-| Corrupted | 5 |
-| Bloodlines | 6 |
-| Torment | 7 |
-| Eclipse | 8 |
-| Talisman | 9 |
-| Enchant | 10 |
-| Bestiary | 13 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | Unknown | -1 |  |
+|  | Prefix | 1 |  |
+|  | Suffix | 2 |  |
+|  | Hidden | 3 |  |
+|  | Nemesis | 4 |  |
+|  | Corrupted | 5 |  |
+|  | Bloodlines | 6 |  |
+|  | Torment | 7 |  |
+|  | Eclipse | 8 |  |
+|  | Talisman | 9 |  |
+|  | Enchant | 10 |  |
+|  | Bestiary | 13 |  |

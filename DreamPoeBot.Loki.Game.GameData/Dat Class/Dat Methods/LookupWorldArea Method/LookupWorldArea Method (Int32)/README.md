@@ -1,5 +1,6 @@
 # LookupWorldArea Method (Int32)
 
+**Вложено элементов:** 0  
 
 | Dat LookupWorldArea Method (Int32) |
 | --- |

@@ -1,5 +1,6 @@
 # MinorVersion Property 
 
+**Вложено элементов:** 0  
 
 | OSInfo MinorVersion Property |
 | --- |

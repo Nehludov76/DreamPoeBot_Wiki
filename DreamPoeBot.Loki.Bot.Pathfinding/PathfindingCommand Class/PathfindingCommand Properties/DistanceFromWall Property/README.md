@@ -1,5 +1,6 @@
 # DistanceFromWall Property 
 
+**Вложено элементов:** 0  
 
 | PathfindingCommand DistanceFromWall Property |
 | --- |

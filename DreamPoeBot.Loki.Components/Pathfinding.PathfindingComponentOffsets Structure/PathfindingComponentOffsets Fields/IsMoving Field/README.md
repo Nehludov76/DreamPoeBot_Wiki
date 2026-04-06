@@ -1,5 +1,6 @@
 # IsMoving Field
 
+**Вложено элементов:** 0  
 
 | Pathfinding PathfindingComponentOffsets IsMoving Field |
 | --- |

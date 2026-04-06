@@ -1,5 +1,6 @@
 # IsRelicInactive Property 
 
+**Вложено элементов:** 0  
 
 | Actor IsRelicInactive Property |
 | --- |

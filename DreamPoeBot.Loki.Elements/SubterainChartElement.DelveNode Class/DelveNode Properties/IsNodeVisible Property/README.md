@@ -1,5 +1,6 @@
 # IsNodeVisible Property 
 
+**Вложено элементов:** 0  
 
 | SubterainChartElement DelveNode IsNodeVisible Property |
 | --- |

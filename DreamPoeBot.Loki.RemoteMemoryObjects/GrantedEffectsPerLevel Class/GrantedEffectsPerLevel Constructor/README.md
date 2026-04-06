@@ -1,5 +1,6 @@
 # GrantedEffectsPerLevel Constructor 
 
+**Вложено элементов:** 0  
 
 | GrantedEffectsPerLevel Constructor |
 | --- |

@@ -1,5 +1,6 @@
 # CorpseLevel Property 
 
+**Вложено элементов:** 0  
 
 | NecropolisCorpseElement CorpseLevel Property |
 | --- |

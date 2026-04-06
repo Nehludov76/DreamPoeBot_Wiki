@@ -1,5 +1,6 @@
 # intptr_Text Field
 
+**Вложено элементов:** 0  
 
 | DatClientStringWrapper Struct302 intptr_Text Field |
 | --- |

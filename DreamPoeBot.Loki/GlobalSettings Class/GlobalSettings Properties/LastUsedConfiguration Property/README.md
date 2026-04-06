@@ -1,5 +1,6 @@
 # LastUsedConfiguration Property 
 
+**Вложено элементов:** 0  
 
 | GlobalSettings LastUsedConfiguration Property |
 | --- |

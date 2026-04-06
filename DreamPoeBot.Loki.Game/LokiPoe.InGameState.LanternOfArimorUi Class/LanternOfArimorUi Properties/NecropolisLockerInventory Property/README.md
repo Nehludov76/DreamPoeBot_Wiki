@@ -1,5 +1,6 @@
 # NecropolisLockerInventory Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState LanternOfArimorUi NecropolisLockerInventory Property |
 | --- |

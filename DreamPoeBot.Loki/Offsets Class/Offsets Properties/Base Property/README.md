@@ -1,5 +1,6 @@
 # Base Property 
 
+**Вложено элементов:** 0  
 
 | Offsets Base Property |
 | --- |

@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.SocialUi.OnlineFriend Constructor 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SocialUi OnlineFriend Constructor |
 | --- |

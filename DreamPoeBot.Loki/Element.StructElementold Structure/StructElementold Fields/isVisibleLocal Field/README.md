@@ -1,5 +1,6 @@
 # isVisibleLocal Field
 
+**Вложено элементов:** 0  
 
 | Element StructElementold isVisibleLocal Field |
 | --- |

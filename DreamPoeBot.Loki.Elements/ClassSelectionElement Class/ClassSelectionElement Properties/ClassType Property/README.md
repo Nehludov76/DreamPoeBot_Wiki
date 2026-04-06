@@ -1,5 +1,6 @@
 # ClassType Property 
 
+**Вложено элементов:** 0  
 
 | ClassSelectionElement ClassType Property |
 | --- |

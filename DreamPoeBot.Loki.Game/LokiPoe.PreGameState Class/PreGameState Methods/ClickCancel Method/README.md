@@ -1,5 +1,6 @@
 # ClickCancel Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe PreGameState ClickCancel Method |
 | --- |

@@ -1,5 +1,6 @@
 # LoadingScreen Property 
 
+**Вложено элементов:** 0  
 
 | BeastCraftingUiElement LoadingScreen Property |
 | --- |

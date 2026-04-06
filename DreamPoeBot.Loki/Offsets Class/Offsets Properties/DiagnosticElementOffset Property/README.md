@@ -1,5 +1,6 @@
 # DiagnosticElementOffset Property 
 
+**Вложено элементов:** 0  
 
 | Offsets DiagnosticElementOffset Property |
 | --- |

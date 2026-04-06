@@ -1,5 +1,6 @@
 # method_2 Method 
 
+**Вложено элементов:** 0  
 
 | WorldItem method_2 Method |
 | --- |

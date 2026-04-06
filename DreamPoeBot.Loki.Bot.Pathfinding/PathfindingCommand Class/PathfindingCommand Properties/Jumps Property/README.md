@@ -1,5 +1,6 @@
 # Jumps Property 
 
+**Вложено элементов:** 0  
 
 | PathfindingCommand Jumps Property |
 | --- |

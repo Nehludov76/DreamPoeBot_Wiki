@@ -1,5 +1,6 @@
 # ObjectMagicProperties Constructor 
 
+**Вложено элементов:** 0  
 
 | ObjectMagicProperties Constructor |
 | --- |

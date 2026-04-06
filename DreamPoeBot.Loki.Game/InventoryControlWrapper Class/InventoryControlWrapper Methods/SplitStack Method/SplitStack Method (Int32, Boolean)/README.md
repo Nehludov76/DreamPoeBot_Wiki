@@ -1,5 +1,6 @@
 # SplitStack Method (Int32, Boolean)
 
+**Вложено элементов:** 0  
 
 | InventoryControlWrapper SplitStack Method (Int32, Boolean) |
 | --- |

@@ -1,5 +1,6 @@
 # intPtr_5CurrentArea Field
 
+**Вложено элементов:** 0  
 
 | IngameData StructInGameData intPtr_5CurrentArea Field |
 | --- |

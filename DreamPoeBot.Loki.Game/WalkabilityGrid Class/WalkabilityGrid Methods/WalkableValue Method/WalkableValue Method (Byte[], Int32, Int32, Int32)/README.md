@@ -1,5 +1,6 @@
 # WalkableValue Method (Byte[], Int32, Int32, Int32)
 
+**Вложено элементов:** 0  
 
 | WalkabilityGrid WalkableValue Method ( Byte , Int32, Int32, Int32) |
 | --- |

@@ -1,5 +1,6 @@
 # IsWaypoint Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState WorldUi WaypointDataWrapper IsWaypoint Property |
 | --- |

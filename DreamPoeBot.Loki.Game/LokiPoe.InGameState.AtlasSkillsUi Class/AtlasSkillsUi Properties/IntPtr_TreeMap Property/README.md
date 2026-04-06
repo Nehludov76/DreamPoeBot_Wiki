@@ -1,5 +1,6 @@
 # IntPtr_TreeMap Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState AtlasSkillsUi IntPtr_TreeMap Property |
 | --- |

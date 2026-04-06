@@ -1,5 +1,6 @@
 # ClickPublicButton Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState PremiumStashSettingsUi ClickPublicButton Method |
 | --- |

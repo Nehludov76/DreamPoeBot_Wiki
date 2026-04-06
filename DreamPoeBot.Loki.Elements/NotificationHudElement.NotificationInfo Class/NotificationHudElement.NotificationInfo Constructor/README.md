@@ -1,5 +1,6 @@
 # NotificationHudElement.NotificationInfo Constructor 
 
+**Вложено элементов:** 0  
 
 | NotificationHudElement NotificationInfo Constructor |
 | --- |

@@ -1,5 +1,6 @@
 # ObstacleType Enumeration
 
+**Вложено элементов:** 0  
 
 | ObstacleType Enumeration |
 | --- |
@@ -28,8 +29,8 @@ public enum class ObstacleType
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| Circle | 0 |
-| AABB | 1 |
-| OBB | 2 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | Circle | 0 |  |
+|  | AABB | 1 |  |
+|  | OBB | 2 |  |

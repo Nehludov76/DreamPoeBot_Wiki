@@ -1,5 +1,6 @@
 # CurrentAreaHash Property 
 
+**Вложено элементов:** 0  
 
 | IngameData CurrentAreaHash Property |
 | --- |

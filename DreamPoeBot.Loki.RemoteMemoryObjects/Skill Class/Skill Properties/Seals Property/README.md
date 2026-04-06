@@ -1,5 +1,6 @@
 # Seals Property 
 
+**Вложено элементов:** 0  
 
 | Skill Seals Property |
 | --- |

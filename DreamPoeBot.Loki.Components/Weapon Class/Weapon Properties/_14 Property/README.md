@@ -1,5 +1,6 @@
 # _14 Property 
 
+**Вложено элементов:** 0  
 
 | Weapon _14 Property |
 | --- |

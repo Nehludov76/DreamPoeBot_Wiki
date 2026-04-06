@@ -1,5 +1,6 @@
 # IsActiveDead Property 
 
+**Вложено элементов:** 0  
 
 | Monster IsActiveDead Property |
 | --- |

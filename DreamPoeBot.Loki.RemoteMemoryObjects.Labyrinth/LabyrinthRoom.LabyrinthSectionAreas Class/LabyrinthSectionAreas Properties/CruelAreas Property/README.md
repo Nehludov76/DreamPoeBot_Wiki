@@ -1,5 +1,6 @@
 # CruelAreas Property 
 
+**Вложено элементов:** 0  
 
 | LabyrinthRoom LabyrinthSectionAreas CruelAreas Property |
 | --- |

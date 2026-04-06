@@ -1,5 +1,6 @@
 # Waypoint Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe ObjectManager Waypoint Property |
 | --- |

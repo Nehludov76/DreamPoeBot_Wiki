@@ -1,5 +1,6 @@
 # MaxClimb Property 
 
+**Вложено элементов:** 0  
 
 | AgentSettings MaxClimb Property |
 | --- |

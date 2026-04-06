@@ -1,5 +1,6 @@
 # MapType Enumeration
 
+**Вложено элементов:** 0  
 
 | MapType Enumeration |
 | --- |
@@ -30,10 +31,10 @@ public enum class MapType
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| Normal | 0 |
-| Shaped | 1 |
-| Unknown2 | 2 |
-| Unknown3 | 3 |
-| Unique | 4 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | Normal | 0 |  |
+|  | Shaped | 1 |  |
+|  | Unknown2 | 2 |  |
+|  | Unknown3 | 3 |  |
+|  | Unique | 4 |  |

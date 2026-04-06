@@ -1,5 +1,6 @@
 # BonusCompletedAreasAddress Property 
 
+**Вложено элементов:** 0  
 
 | ServerData BonusCompletedAreasAddress Property |
 | --- |

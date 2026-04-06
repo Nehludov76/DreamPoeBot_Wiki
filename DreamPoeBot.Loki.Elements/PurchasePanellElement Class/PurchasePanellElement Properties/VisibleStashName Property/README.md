@@ -1,5 +1,6 @@
 # VisibleStashName Property 
 
+**Вложено элементов:** 0  
 
 | PurchasePanellElement VisibleStashName Property |
 | --- |

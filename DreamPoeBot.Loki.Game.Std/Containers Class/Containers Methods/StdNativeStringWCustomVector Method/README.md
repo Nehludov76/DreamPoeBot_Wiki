@@ -1,5 +1,6 @@
 # StdNativeStringWCustomVector Method 
 
+**Вложено элементов:** 0  
 
 | Containers StdNativeStringWCustomVector Method |
 | --- |

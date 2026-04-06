@@ -1,5 +1,6 @@
 # Oil2 Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState AnointingUi Oil2 Property |
 | --- |

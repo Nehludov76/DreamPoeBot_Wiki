@@ -1,5 +1,6 @@
 # MemoryObject Class
 
+**Вложено элементов:** 15  
 
 | MemoryObject Class |
 | --- |
@@ -32,32 +33,38 @@ public ref class MemoryObject : IEquatable < MemoryObject ^>, IMemoryObject
 The MemoryObject type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| MemoryObject | Initializes a new instance of the MemoryObject class |
+|  | Name | Description |
+| --- | --- | --- |
+|  | MemoryObject | Initializes a new instance of the MemoryObject class |
 
 
-| Name | Description |
-| --- | --- |
-| BaseAddress |
-| IsValid |
+|  | Name | Description |
+| --- | --- | --- |
+|  | BaseAddress |  |
+|  | IsValid |  |
 
 
-| Name | Description |
-| --- | --- |
-| Equals(Object) | (Overrides Object Equals(Object) .) |
-| Equals(MemoryObject) |
-| Finalize | Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection. (Inherited from Object .) |
-| GetHashCode | (Overrides Object GetHashCode .) |
-| GetType | Gets the Type of the current instance. (Inherited from Object .) |
-| MemberwiseClone | Creates a shallow copy of the current Object . (Inherited from Object .) |
-| OnPointerChanged |
-| ToString | Returns a string that represents the current object. (Inherited from Object .) |
-| UpdatePointer |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Equals(Object) | (Overrides Object Equals(Object) .) |
+|  | Equals(MemoryObject) |  |
+|  | Finalize | Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection. (Inherited from Object .) |
+|  | GetHashCode | (Overrides Object GetHashCode .) |
+|  | GetType | Gets the Type of the current instance. (Inherited from Object .) |
+|  | MemberwiseClone | Creates a shallow copy of the current Object . (Inherited from Object .) |
+|  | OnPointerChanged |  |
+|  | ToString | Returns a string that represents the current object. (Inherited from Object .) |
+|  | UpdatePointer |  |
 
 
-| Name | Description |
-| --- | --- |
-| Equality |
-| (MemoryObject to Int64) |
-| Inequality |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Equality |  |
+|  | (MemoryObject to Int64) |  |
+|  | Inequality |  |
+
+## Дочерние разделы
+- [**MemoryObject Constructor **](./MemoryObject Constructor/README.md)
+- [**MemoryObject Properties**](./MemoryObject Properties/README.md)
+- [**MemoryObject Methods**](./MemoryObject Methods/README.md)
+- [**MemoryObject Operators and Type Conversions**](./MemoryObject Operators and Type Conversions/README.md)

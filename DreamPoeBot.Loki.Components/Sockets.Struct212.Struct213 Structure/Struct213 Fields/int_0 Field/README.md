@@ -1,5 +1,6 @@
 # int_0 Field
 
+**Вложено элементов:** 0  
 
 | Sockets Struct212 Struct213 int_0 Field |
 | --- |

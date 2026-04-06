@@ -1,5 +1,6 @@
 # AreaChangeCount Property 
 
+**Вложено элементов:** 0  
 
 | Offsets AreaChangeCount Property |
 | --- |

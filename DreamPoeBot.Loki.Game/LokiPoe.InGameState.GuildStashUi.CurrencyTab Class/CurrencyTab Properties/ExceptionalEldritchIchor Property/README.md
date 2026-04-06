@@ -1,5 +1,6 @@
 # ExceptionalEldritchIchor Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState GuildStashUi CurrencyTab ExceptionalEldritchIchor Property |
 | --- |

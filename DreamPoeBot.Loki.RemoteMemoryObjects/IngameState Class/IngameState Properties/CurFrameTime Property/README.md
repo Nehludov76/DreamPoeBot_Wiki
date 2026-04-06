@@ -1,5 +1,6 @@
 # CurFrameTime Property 
 
+**Вложено элементов:** 0  
 
 | IngameState CurFrameTime Property |
 | --- |

@@ -1,5 +1,6 @@
 # LokiPoe.InstanceInfo.CurrencyExchange.CurrencyExchangeOrderStatus Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo CurrencyExchange CurrencyExchangeOrderStatus Enumeration |
 | --- |
@@ -30,9 +31,9 @@ public enum class CurrencyExchangeOrderStatus
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| Listed | 0 |
-| Complete | 1 |
-| Partial | 2 |
-| Cancelled | 3 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | Listed | 0 |  |
+|  | Complete | 1 |  |
+|  | Partial | 2 |  |
+|  | Cancelled | 3 |  |

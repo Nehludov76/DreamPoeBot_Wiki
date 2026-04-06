@@ -1,5 +1,6 @@
 # PristineFossil Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState GuildStashUi DelveTab PristineFossil Property |
 | --- |

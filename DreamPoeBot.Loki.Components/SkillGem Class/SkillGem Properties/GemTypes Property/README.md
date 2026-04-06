@@ -1,5 +1,6 @@
 # GemTypes Property 
 
+**Вложено элементов:** 0  
 
 | SkillGem GemTypes Property |
 | --- |

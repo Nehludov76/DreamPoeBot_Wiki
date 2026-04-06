@@ -1,5 +1,6 @@
 # CriticalStrikeChance Property 
 
+**Вложено элементов:** 0  
 
 | MonsterVariety CriticalStrikeChance Property |
 | --- |

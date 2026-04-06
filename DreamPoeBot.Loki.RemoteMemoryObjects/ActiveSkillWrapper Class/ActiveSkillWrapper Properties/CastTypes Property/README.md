@@ -1,5 +1,6 @@
 # CastTypes Property 
 
+**Вложено элементов:** 0  
 
 | ActiveSkillWrapper CastTypes Property |
 | --- |

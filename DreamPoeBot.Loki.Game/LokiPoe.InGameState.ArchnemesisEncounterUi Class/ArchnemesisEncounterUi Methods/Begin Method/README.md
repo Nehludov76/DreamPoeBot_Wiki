@@ -1,5 +1,6 @@
 # Begin Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ArchnemesisEncounterUi Begin Method |
 | --- |

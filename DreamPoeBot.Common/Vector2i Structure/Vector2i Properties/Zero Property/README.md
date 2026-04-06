@@ -1,5 +1,6 @@
 # Zero Property 
 
+**Вложено элементов:** 0  
 
 | Vector2i Zero Property |
 | --- |

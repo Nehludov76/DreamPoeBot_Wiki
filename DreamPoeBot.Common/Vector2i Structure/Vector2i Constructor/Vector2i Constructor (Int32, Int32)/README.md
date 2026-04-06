@@ -1,5 +1,6 @@
 # Vector2i Constructor (Int32, Int32)
 
+**Вложено элементов:** 0  
 
 | Vector2i Constructor (Int32, Int32) |
 | --- |

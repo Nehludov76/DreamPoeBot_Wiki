@@ -1,5 +1,6 @@
 # DefenceLevelPct Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState BreachEncounterUi DefenceLevelPct Property |
 | --- |

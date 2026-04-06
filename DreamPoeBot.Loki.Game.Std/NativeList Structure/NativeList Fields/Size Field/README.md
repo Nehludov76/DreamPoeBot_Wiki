@@ -1,5 +1,6 @@
 # Size Field
 
+**Вложено элементов:** 0  
 
 | NativeList Size Field |
 | --- |

@@ -1,5 +1,6 @@
 # StopReasonData Constructor 
 
+**Вложено элементов:** 0  
 
 | StopReasonData Constructor |
 | --- |

@@ -1,5 +1,6 @@
 # SelectCharacterState Property 
 
+**Вложено элементов:** 0  
 
 | GameStateController SelectCharacterState Property |
 | --- |

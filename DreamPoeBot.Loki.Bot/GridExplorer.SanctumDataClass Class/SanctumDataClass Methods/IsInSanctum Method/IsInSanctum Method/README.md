@@ -1,5 +1,6 @@
 # IsInSanctum Method 
 
+**Вложено элементов:** 0  
 
 | GridExplorer SanctumDataClass IsInSanctum Method |
 | --- |

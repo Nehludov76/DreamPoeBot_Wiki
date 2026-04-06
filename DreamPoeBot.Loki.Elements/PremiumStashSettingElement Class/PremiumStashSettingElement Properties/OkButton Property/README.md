@@ -1,5 +1,6 @@
 # OkButton Property 
 
+**Вложено элементов:** 0  
 
 | PremiumStashSettingElement OkButton Property |
 | --- |

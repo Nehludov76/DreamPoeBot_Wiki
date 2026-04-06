@@ -1,5 +1,6 @@
 # CharName Property 
 
+**Вложено элементов:** 0  
 
 | ClassSelectionElement CharName Property |
 | --- |

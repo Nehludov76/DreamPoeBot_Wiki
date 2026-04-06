@@ -1,5 +1,6 @@
 # UI Property 
 
+**Вложено элементов:** 0  
 
 | CreateCharacterStateClass UI Property |
 | --- |

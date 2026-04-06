@@ -1,5 +1,6 @@
 # ReadLong Method (Int64, Int64[])
 
+**Вложено элементов:** 0  
 
 | Memory ReadLong Method (Int64, Int64 ) |
 | --- |

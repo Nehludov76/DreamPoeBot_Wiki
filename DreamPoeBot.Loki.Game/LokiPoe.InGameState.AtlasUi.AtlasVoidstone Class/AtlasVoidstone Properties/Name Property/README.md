@@ -1,5 +1,6 @@
 # Name Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState AtlasUi AtlasVoidstone Name Property |
 | --- |

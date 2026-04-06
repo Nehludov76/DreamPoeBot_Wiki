@@ -1,5 +1,6 @@
 # Gloves Field
 
+**Вложено элементов:** 0  
 
 | ItemClasses Gloves Field |
 | --- |

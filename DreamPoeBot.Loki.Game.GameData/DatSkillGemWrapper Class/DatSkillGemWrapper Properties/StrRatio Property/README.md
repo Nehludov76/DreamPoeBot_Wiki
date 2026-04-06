@@ -1,5 +1,6 @@
 # StrRatio Property 
 
+**Вложено элементов:** 0  
 
 | DatSkillGemWrapper StrRatio Property |
 | --- |

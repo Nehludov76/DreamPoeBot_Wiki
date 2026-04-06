@@ -1,5 +1,6 @@
 # ExternalTask Method (Func(Task))
 
+**Вложено элементов:** 0  
 
 | Coroutine ExternalTask Method (Func Task ) |
 | --- |

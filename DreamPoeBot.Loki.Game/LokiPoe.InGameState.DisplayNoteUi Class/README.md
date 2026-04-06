@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.DisplayNoteUi Class
 
+**Вложено элементов:** 14  
 
 | LokiPoe InGameState DisplayNoteUi Class |
 | --- |
@@ -30,20 +31,24 @@ public ref class DisplayNoteUi abstract sealed
 The LokiPoe InGameState DisplayNoteUi type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| GetPriceCurrencyQuantity | Return the currently setted price quantity textbox string. |
-| IsOpened | Return true if the window is displayed |
-| Note | Read/Write the actual note. |
-| SelectedPriceCurrency | Return the currently selected price currency enum. |
-| SelectedPriceType | Return the Actualy selected price type enum. |
+|  | Name | Description |
+| --- | --- | --- |
+|  | GetPriceCurrencyQuantity | Return the currently setted price quantity textbox string. |
+|  | IsOpened | Return true if the window is displayed |
+|  | Note | Read/Write the actual note. |
+|  | SelectedPriceCurrency | Return the currently selected price currency enum. |
+|  | SelectedPriceType | Return the Actualy selected price type enum. |
 
 
-| Name | Description |
-| --- | --- |
-| Accept | Click the confirm button to accept the change. |
-| Accept(Boolean) | Click the confirm button to accept the change. |
-| Cancel | Click the cancel button. |
-| SelectPriceCurrency | Select the price currency. |
-| SelectPriceType | Select the price type. |
-| SetPriceCurrencyQuantity | Set the price quantity text. |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Accept | Click the confirm button to accept the change. |
+|  | Accept(Boolean) | Click the confirm button to accept the change. |
+|  | Cancel | Click the cancel button. |
+|  | SelectPriceCurrency | Select the price currency. |
+|  | SelectPriceType | Select the price type. |
+|  | SetPriceCurrencyQuantity | Set the price quantity text. |
+
+## Дочерние разделы
+- [**DisplayNoteUi Properties**](./DisplayNoteUi Properties/README.md)
+- [**DisplayNoteUi Methods**](./DisplayNoteUi Methods/README.md)

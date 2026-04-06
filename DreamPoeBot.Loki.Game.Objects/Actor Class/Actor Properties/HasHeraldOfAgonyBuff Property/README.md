@@ -1,5 +1,6 @@
 # HasHeraldOfAgonyBuff Property 
 
+**Вложено элементов:** 0  
 
 | Actor HasHeraldOfAgonyBuff Property |
 | --- |

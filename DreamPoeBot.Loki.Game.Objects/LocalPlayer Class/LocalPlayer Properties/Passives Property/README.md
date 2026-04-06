@@ -1,5 +1,6 @@
 # Passives Property 
 
+**Вложено элементов:** 0  
 
 | LocalPlayer Passives Property |
 | --- |

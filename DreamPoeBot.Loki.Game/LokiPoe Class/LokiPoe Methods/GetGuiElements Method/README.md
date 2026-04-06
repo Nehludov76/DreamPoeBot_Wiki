@@ -1,5 +1,6 @@
 # GetGuiElements Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe GetGuiElements Method |
 | --- |

@@ -1,5 +1,6 @@
 # ReadNativeVector Method 
 
+**Вложено элементов:** 0  
 
 | Memory ReadNativeVector Method |
 | --- |

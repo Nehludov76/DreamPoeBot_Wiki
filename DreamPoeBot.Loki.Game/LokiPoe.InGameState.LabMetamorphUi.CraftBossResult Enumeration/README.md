@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.LabMetamorphUi.CraftBossResult Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState LabMetamorphUi CraftBossResult Enumeration |
 | --- |
@@ -30,10 +31,10 @@ public enum class CraftBossResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| UiNotOpen | 1 |
-| MissingIngredient | 2 |
-| IngredientNotFound | 3 |
-| CreateNotEnabled | 4 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | UiNotOpen | 1 |  |
+|  | MissingIngredient | 2 |  |
+|  | IngredientNotFound | 3 |  |
+|  | CreateNotEnabled | 4 |  |

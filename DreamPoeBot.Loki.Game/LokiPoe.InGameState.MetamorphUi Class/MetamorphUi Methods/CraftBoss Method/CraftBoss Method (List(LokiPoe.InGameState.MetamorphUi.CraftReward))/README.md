@@ -1,5 +1,6 @@
 # CraftBoss Method (List(LokiPoe.InGameState.MetamorphUi.CraftReward))
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState MetamorphUi CraftBoss Method (List LokiPoe InGameState MetamorphUi CraftReward ) |
 | --- |

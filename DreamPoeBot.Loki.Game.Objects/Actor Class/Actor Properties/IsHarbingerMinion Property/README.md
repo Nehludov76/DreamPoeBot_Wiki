@@ -1,5 +1,6 @@
 # IsHarbingerMinion Property 
 
+**Вложено элементов:** 0  
 
 | Actor IsHarbingerMinion Property |
 | --- |

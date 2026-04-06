@@ -1,5 +1,6 @@
 # TwoHandSword Field
 
+**Вложено элементов:** 0  
 
 | ItemClasses TwoHandSword Field |
 | --- |

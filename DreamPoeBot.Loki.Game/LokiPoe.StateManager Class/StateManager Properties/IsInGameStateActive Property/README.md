@@ -1,5 +1,6 @@
 # IsInGameStateActive Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe StateManager IsInGameStateActive Property |
 | --- |

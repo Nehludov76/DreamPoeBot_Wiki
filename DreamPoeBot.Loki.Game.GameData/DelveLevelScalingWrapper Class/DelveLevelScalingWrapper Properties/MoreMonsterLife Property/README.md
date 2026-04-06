@@ -1,5 +1,6 @@
 # MoreMonsterLife Property 
 
+**Вложено элементов:** 0  
 
 | DelveLevelScalingWrapper MoreMonsterLife Property |
 | --- |

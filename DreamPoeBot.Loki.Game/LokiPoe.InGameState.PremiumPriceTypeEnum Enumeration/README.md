@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.PremiumPriceTypeEnum Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState PremiumPriceTypeEnum Enumeration |
 | --- |
@@ -30,9 +31,9 @@ public enum class PremiumPriceTypeEnum
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| Unknown | -1 |
-| EachItemIndividuallyPriced | 0 |
-| SetNegotiablePriceOnAllItems | 1 |
-| SetExactPriceOnAllItems | 2 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | Unknown | -1 |  |
+|  | EachItemIndividuallyPriced | 0 |  |
+|  | SetNegotiablePriceOnAllItems | 1 |  |
+|  | SetExactPriceOnAllItems | 2 |  |

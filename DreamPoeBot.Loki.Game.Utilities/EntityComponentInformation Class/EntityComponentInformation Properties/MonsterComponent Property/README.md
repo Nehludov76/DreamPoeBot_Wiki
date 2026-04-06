@@ -1,5 +1,6 @@
 # MonsterComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation MonsterComponent Property |
 | --- |

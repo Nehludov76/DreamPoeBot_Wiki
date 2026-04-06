@@ -1,5 +1,6 @@
 # GetContinue Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState NpcDialogUi GetContinue Property |
 | --- |

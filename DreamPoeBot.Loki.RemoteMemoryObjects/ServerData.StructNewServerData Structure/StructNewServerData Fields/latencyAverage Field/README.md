@@ -1,5 +1,6 @@
 # latencyAverage Field
 
+**Вложено элементов:** 0  
 
 | ServerData StructNewServerData latencyAverage Field |
 | --- |

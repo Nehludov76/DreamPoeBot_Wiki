@@ -1,5 +1,6 @@
 # OtherOffertElement Property 
 
+**Вложено элементов:** 0  
 
 | SellPannelElement OtherOffertElement Property |
 | --- |

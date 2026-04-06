@@ -1,5 +1,6 @@
 # RoutineManager.RoutineEvent Delegate
 
+**Вложено элементов:** 0  
 
 | RoutineManager RoutineEvent Delegate |
 | --- |

@@ -1,5 +1,6 @@
 # IsWaitingState Property 
 
+**Вложено элементов:** 0  
 
 | GameStateController IsWaitingState Property |
 | --- |

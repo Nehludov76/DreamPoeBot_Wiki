@@ -1,5 +1,6 @@
 # StPassiveSkillMasteryEffectsStructureVector(TValue) Method 
 
+**Вложено элементов:** 0  
 
 | Containers StPassiveSkillMasteryEffectsStructureVector TValue Method |
 | --- |

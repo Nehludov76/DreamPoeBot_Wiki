@@ -1,5 +1,6 @@
 # HasDivinationTabOverride Property 
 
+**Вложено элементов:** 0  
 
 | InventoryControlWrapper HasDivinationTabOverride Property |
 | --- |

@@ -1,5 +1,6 @@
 # GetPlayerInventoryByType Method 
 
+**Вложено элементов:** 0  
 
 | ServerData GetPlayerInventoryByType Method |
 | --- |

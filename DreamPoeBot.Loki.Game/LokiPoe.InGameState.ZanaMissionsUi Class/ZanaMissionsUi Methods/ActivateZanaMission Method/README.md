@@ -1,5 +1,6 @@
 # ActivateZanaMission Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ZanaMissionsUi ActivateZanaMission Method |
 | --- |

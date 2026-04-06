@@ -1,5 +1,6 @@
 # CharacterPannel Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements CharacterPannel Property |
 | --- |

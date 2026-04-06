@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.MasterDeviceUi.SelectZanaModResult Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState MasterDeviceUi SelectZanaModResult Enumeration |
 | --- |
@@ -30,10 +31,10 @@ public enum class SelectZanaModResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| ProcessHookManagerNotEnabled | 1 |
-| ModNotEnabled | 2 |
-| ModNotFound | 3 |
-| InvalidControl | 4 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | ProcessHookManagerNotEnabled | 1 |  |
+|  | ModNotEnabled | 2 |  |
+|  | ModNotFound | 3 |  |
+|  | InvalidControl | 4 |  |

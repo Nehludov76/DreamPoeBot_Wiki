@@ -1,5 +1,6 @@
 # SetParent Method 
 
+**Вложено элементов:** 0  
 
 | WinApi SetParent Method |
 | --- |

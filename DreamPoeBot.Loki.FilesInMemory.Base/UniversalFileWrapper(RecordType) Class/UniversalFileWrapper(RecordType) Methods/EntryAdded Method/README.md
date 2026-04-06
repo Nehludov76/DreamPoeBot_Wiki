@@ -1,5 +1,6 @@
 # EntryAdded Method 
 
+**Вложено элементов:** 0  
 
 | UniversalFileWrapper RecordType EntryAdded Method |
 | --- |

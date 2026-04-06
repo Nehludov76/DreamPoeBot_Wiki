@@ -1,5 +1,6 @@
 # MoreTagsFromPath Field
 
+**Вложено элементов:** 0  
 
 | BaseItemType MoreTagsFromPath Field |
 | --- |

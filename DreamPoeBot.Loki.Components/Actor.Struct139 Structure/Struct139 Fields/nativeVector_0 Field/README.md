@@ -1,5 +1,6 @@
 # nativeVector_0 Field
 
+**Вложено элементов:** 0  
 
 | Actor Struct139 nativeVector_0 Field |
 | --- |

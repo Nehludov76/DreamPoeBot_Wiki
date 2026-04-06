@@ -1,5 +1,6 @@
 # IEnableable Interface
 
+**Вложено элементов:** 3  
 
 | IEnableable Interface |
 | --- |
@@ -32,7 +33,10 @@ public interface class IEnableable
 The IEnableable type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Disable |
-| Enable |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Disable |  |
+|  | Enable |  |
+
+## Дочерние разделы
+- [**IEnableable Methods**](./IEnableable Methods/README.md)

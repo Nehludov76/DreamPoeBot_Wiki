@@ -1,5 +1,6 @@
 # CharArea Property 
 
+**Вложено элементов:** 0  
 
 | NotificationHudElement NotificationInfo CharArea Property |
 | --- |

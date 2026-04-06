@@ -1,5 +1,6 @@
 # chat_combo Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input Binding chat_combo Property |
 | --- |

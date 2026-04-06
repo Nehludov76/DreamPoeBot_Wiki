@@ -1,5 +1,6 @@
 # PriceTypeComboBox Property 
 
+**Вложено элементов:** 0  
 
 | DisplayNoteElement PriceTypeComboBox Property |
 | --- |

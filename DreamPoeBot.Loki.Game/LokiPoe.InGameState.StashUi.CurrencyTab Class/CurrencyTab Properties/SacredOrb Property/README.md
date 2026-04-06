@@ -1,5 +1,6 @@
 # SacredOrb Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState StashUi CurrencyTab SacredOrb Property |
 | --- |

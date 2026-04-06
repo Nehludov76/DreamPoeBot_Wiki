@@ -1,5 +1,6 @@
 # _rid Property 
 
+**Вложено элементов:** 0  
 
 | CurrencyStashTabLayouts CurrencyStashTabLayoutJson _rid Property |
 | --- |

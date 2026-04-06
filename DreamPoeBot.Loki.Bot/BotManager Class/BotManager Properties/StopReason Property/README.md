@@ -1,5 +1,6 @@
 # StopReason Property 
 
+**Вложено элементов:** 0  
 
 | BotManager StopReason Property |
 | --- |

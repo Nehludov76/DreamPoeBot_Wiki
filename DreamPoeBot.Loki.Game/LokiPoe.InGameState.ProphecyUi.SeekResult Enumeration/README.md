@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.ProphecyUi.SeekResult Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ProphecyUi SeekResult Enumeration |
 | --- |
@@ -30,7 +31,7 @@ public enum class SeekResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| NoMoreProphecySlots | 1 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | NoMoreProphecySlots | 1 |  |

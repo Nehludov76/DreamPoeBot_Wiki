@@ -1,5 +1,6 @@
 # ItemsSlots Property 
 
+**Вложено элементов:** 0  
 
 | ZanaMissionElement ItemsSlots Property |
 | --- |

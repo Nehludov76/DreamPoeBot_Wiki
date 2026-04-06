@@ -1,5 +1,6 @@
 # DistanceSqr Property 
 
+**Вложено элементов:** 0  
 
 | LineSegment DistanceSqr Property |
 | --- |

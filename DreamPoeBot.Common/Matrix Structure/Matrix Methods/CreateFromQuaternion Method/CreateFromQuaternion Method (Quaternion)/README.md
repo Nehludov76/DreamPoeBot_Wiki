@@ -1,5 +1,6 @@
 # CreateFromQuaternion Method (Quaternion)
 
+**Вложено элементов:** 0  
 
 | Matrix CreateFromQuaternion Method (Quaternion) |
 | --- |

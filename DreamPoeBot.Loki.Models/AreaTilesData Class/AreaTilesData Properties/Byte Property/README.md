@@ -1,5 +1,6 @@
 # Byte Property 
 
+**Вложено элементов:** 0  
 
 | AreaTilesData Byte Property |
 | --- |

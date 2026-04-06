@@ -1,5 +1,6 @@
 # LokiPoe.PasteTextFailedEvent Delegate
 
+**Вложено элементов:** 0  
 
 | LokiPoe PasteTextFailedEvent Delegate |
 | --- |

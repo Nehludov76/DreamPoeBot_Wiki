@@ -1,5 +1,6 @@
 # IsTheEaterOfWorldsInvitationClicked Property 
 
+**Вложено элементов:** 0  
 
 | MasterDeviceElement IsTheEaterOfWorldsInvitationClicked Property |
 | --- |

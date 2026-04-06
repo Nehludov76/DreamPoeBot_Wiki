@@ -1,5 +1,6 @@
 # WaitFunction Constructor 
 
+**Вложено элементов:** 0  
 
 | WaitFunction Constructor |
 | --- |

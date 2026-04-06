@@ -1,5 +1,6 @@
 # HasHeraldOfThunderBuff Property 
 
+**Вложено элементов:** 0  
 
 | Actor HasHeraldOfThunderBuff Property |
 | --- |

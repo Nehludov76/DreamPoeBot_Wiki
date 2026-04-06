@@ -1,5 +1,6 @@
 # UnaryNegation Operator 
 
+**Вложено элементов:** 0  
 
 | Vector2 UnaryNegation Operator |
 | --- |

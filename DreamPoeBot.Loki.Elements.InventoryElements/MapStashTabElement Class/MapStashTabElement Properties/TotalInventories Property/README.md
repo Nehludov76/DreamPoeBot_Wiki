@@ -1,5 +1,6 @@
 # TotalInventories Property 
 
+**Вложено элементов:** 0  
 
 | MapStashTabElement TotalInventories Property |
 | --- |

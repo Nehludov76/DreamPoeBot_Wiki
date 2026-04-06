@@ -1,5 +1,6 @@
 # InventoryControl Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState QuickFlaskHud InventoryControl Property |
 | --- |

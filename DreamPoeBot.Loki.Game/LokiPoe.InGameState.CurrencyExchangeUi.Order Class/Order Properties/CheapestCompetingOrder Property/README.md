@@ -1,5 +1,6 @@
 # CheapestCompetingOrder Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState CurrencyExchangeUi Order CheapestCompetingOrder Property |
 | --- |

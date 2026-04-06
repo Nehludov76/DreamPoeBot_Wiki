@@ -1,5 +1,6 @@
 # AvailableArchnemesisMods Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ArchnemesisInventoryUi AvailableArchnemesisMods Property |
 | --- |

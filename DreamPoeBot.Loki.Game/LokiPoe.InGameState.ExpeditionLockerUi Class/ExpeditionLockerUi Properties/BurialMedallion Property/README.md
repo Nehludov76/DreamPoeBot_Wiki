@@ -1,5 +1,6 @@
 # BurialMedallion Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ExpeditionLockerUi BurialMedallion Property |
 | --- |

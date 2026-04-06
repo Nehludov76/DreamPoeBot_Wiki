@@ -1,5 +1,6 @@
 # Weight Field
 
+**Вложено элементов:** 0  
 
 | Targeting Entry Weight Field |
 | --- |

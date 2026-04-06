@@ -1,5 +1,6 @@
 # StdInt_LongList(TValue) Method 
 
+**Вложено элементов:** 0  
 
 | Containers StdInt_LongList TValue Method |
 | --- |

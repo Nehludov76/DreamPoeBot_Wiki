@@ -1,5 +1,6 @@
 # ResetAllPassivesElement Property 
 
+**Вложено элементов:** 0  
 
 | PassiveTreeElement ResetAllPassivesElement Property |
 | --- |

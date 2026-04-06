@@ -1,5 +1,6 @@
 # AscendStage Method 
 
+**Вложено элементов:** 0  
 
 | AscendUIElement AscendStage Method |
 | --- |

@@ -1,5 +1,6 @@
 # MonsterLevel Property 
 
+**Вложено элементов:** 0  
 
 | SubterainChartElement DelveNode MonsterLevel Property |
 | --- |

@@ -1,5 +1,6 @@
 # HandleNotificationEx Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState NotificationHud HandleNotificationEx Method |
 | --- |

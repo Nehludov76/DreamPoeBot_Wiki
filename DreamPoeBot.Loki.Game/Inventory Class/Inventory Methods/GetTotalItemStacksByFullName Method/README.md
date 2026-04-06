@@ -1,5 +1,6 @@
 # GetTotalItemStacksByFullName Method 
 
+**Вложено элементов:** 0  
 
 | Inventory GetTotalItemStacksByFullName Method |
 | --- |

@@ -1,5 +1,6 @@
 # StateManager Properties
 
+**Вложено элементов:** 7  
 
 | StateManager Properties |
 | --- |
@@ -10,12 +11,21 @@
 The LokiPoe StateManager type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| IsAreaLoadingStateActive | Return true if the Area loading screen is displayed. |
-| IsCreateCharacterStateActive | Return true if we are in the Create Character screen |
-| IsEscapeStateActive | Return True if the Escape panel is displayed (the panel that appear if you press Esc while ingame). |
-| IsInGameStateActive |
-| IsLoadingStateActive | Return true while the loading screen after you select a character is displayed. |
-| IsSelectCharacterStateActive | Return true if we are in the Select Character screen. |
-| IsWaitingStateActive | Return true if the game is paused. |
+|  | Name | Description |
+| --- | --- | --- |
+|  | IsAreaLoadingStateActive | Return true if the Area loading screen is displayed. |
+|  | IsCreateCharacterStateActive | Return true if we are in the Create Character screen |
+|  | IsEscapeStateActive | Return True if the Escape panel is displayed (the panel that appear if you press Esc while ingame). |
+|  | IsInGameStateActive |  |
+|  | IsLoadingStateActive | Return true while the loading screen after you select a character is displayed. |
+|  | IsSelectCharacterStateActive | Return true if we are in the Select Character screen. |
+|  | IsWaitingStateActive | Return true if the game is paused. |
+
+## Дочерние разделы
+- [**IsAreaLoadingStateActive Property **](./IsAreaLoadingStateActive Property/README.md)
+- [**IsCreateCharacterStateActive Property **](./IsCreateCharacterStateActive Property/README.md)
+- [**IsEscapeStateActive Property **](./IsEscapeStateActive Property/README.md)
+- [**IsInGameStateActive Property **](./IsInGameStateActive Property/README.md)
+- [**IsLoadingStateActive Property **](./IsLoadingStateActive Property/README.md)
+- [**IsSelectCharacterStateActive Property **](./IsSelectCharacterStateActive Property/README.md)
+- [**IsWaitingStateActive Property **](./IsWaitingStateActive Property/README.md)

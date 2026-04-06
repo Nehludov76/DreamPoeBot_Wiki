@@ -1,5 +1,6 @@
 # StackComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation StackComponent Property |
 | --- |

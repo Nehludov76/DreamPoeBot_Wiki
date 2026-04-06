@@ -1,5 +1,6 @@
 # ARTPath Property 
 
+**Вложено элементов:** 0  
 
 | DatUltimatumModifiersWrapper ARTPath Property |
 | --- |

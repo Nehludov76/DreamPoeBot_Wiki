@@ -1,5 +1,6 @@
 # ItemsCount Property 
 
+**Вложено элементов:** 0  
 
 | InventorySlotUiElement ItemsCount Property |
 | --- |

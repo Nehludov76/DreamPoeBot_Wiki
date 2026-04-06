@@ -1,5 +1,6 @@
 # Visited Property 
 
+**Вложено элементов:** 0  
 
 | SubterainChartElement DelveNode Visited Property |
 | --- |

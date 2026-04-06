@@ -1,5 +1,6 @@
 # Vector Field
 
+**Вложено элементов:** 0  
 
 | NativeHashMap Vector Field |
 | --- |

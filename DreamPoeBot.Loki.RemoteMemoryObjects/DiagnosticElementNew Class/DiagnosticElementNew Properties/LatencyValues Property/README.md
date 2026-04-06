@@ -1,5 +1,6 @@
 # LatencyValues Property 
 
+**Вложено элементов:** 0  
 
 | DiagnosticElementNew LatencyValues Property |
 | --- |

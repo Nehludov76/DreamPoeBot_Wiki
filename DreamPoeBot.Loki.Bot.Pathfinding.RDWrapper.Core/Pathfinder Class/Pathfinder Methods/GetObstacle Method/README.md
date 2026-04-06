@@ -1,5 +1,6 @@
 # GetObstacle Method 
 
+**Вложено элементов:** 0  
 
 | Pathfinder GetObstacle Method |
 | --- |

@@ -1,5 +1,6 @@
 # Clamp Method 
 
+**Вложено элементов:** 0  
 
 | MathEx Clamp Method |
 | --- |

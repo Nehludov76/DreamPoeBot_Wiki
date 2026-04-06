@@ -1,5 +1,6 @@
 # InventoryCount Property 
 
+**Вложено элементов:** 0  
 
 | InventoryList InventoryCount Property |
 | --- |

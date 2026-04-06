@@ -1,5 +1,6 @@
 # ClickablePosition Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState BeastCraftingingUi Recipes ClickablePosition Property |
 | --- |

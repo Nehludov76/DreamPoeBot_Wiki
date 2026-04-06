@@ -1,5 +1,6 @@
 # OnPassiveDump Event
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState AtlasSkillsUi OnPassiveDump Event |
 | --- |

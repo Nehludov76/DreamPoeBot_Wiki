@@ -1,5 +1,6 @@
 # UpdateElement Method 
 
+**Вложено элементов:** 0  
 
 | TradeControlWrapper UpdateElement Method |
 | --- |

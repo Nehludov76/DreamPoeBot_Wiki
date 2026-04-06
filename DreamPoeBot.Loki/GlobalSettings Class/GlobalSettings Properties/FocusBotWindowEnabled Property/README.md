@@ -1,5 +1,6 @@
 # FocusBotWindowEnabled Property 
 
+**Вложено элементов:** 0  
 
 | GlobalSettings FocusBotWindowEnabled Property |
 | --- |

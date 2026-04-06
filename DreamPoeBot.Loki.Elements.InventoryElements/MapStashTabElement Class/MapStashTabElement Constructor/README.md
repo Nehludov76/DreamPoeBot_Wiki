@@ -1,5 +1,6 @@
 # MapStashTabElement Constructor 
 
+**Вложено элементов:** 0  
 
 | MapStashTabElement Constructor |
 | --- |

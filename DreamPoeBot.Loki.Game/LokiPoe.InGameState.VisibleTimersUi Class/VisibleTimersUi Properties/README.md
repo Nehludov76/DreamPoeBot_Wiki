@@ -1,5 +1,6 @@
 # VisibleTimersUi Properties
 
+**Вложено элементов:** 2  
 
 | VisibleTimersUi Properties |
 | --- |
@@ -10,7 +11,11 @@
 The LokiPoe InGameState VisibleTimersUi type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| IsOpened | Return true if a Timer is visible. |
-| Timer | Return a Timestamp class rapresenting the current timer. |
+|  | Name | Description |
+| --- | --- | --- |
+|  | IsOpened | Return true if a Timer is visible. |
+|  | Timer | Return a Timestamp class rapresenting the current timer. |
+
+## Дочерние разделы
+- [**IsOpened Property **](./IsOpened Property/README.md)
+- [**Timer Property **](./Timer Property/README.md)

@@ -1,5 +1,6 @@
 # Activate Method 
 
+**Вложено элементов:** 0  
 
 | BreachSkillObject Activate Method |
 | --- |

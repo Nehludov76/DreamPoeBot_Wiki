@@ -1,5 +1,6 @@
 # performance_overlay_combo Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input Binding performance_overlay_combo Property |
 | --- |

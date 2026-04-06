@@ -1,5 +1,6 @@
 # GetDataFromTheClient Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe ProcessHookManager GetDataFromTheClient Method |
 | --- |

@@ -1,5 +1,6 @@
 # IsMaxZoomIn Property 
 
+**Вложено элементов:** 0  
 
 | PassiveTreeElement IsMaxZoomIn Property |
 | --- |

@@ -1,5 +1,6 @@
 # SetSlot13 Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SkillBarHud SetSlot13 Method |
 | --- |

@@ -1,5 +1,6 @@
 # ClosestT Method 
 
+**Вложено элементов:** 0  
 
 | LineSegment ClosestT Method |
 | --- |

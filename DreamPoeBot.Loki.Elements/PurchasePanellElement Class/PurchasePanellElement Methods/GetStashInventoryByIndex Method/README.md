@@ -1,5 +1,6 @@
 # GetStashInventoryByIndex Method 
 
+**Вложено элементов:** 0  
 
 | PurchasePanellElement GetStashInventoryByIndex Method |
 | --- |

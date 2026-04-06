@@ -1,5 +1,6 @@
 # Dictionary_0AtlasPassive Property 
 
+**Вложено элементов:** 0  
 
 | AtlasSkillElement Dictionary_0AtlasPassive Property |
 | --- |

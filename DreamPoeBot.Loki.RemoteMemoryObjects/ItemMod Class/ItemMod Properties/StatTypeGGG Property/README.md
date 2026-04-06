@@ -1,5 +1,6 @@
 # StatTypeGGG Property 
 
+**Вложено элементов:** 0  
 
 | ItemMod StatTypeGGG Property |
 | --- |

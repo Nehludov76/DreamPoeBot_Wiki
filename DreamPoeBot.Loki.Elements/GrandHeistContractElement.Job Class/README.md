@@ -1,5 +1,6 @@
 # GrandHeistContractElement.Job Class
 
+**Вложено элементов:** 6  
 
 | GrandHeistContractElement Job Class |
 | --- |
@@ -32,23 +33,28 @@ public ref class Job
 The GrandHeistContractElement Job type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| GrandHeistContractElement Job | Initializes a new instance of the GrandHeistContractElement Job class |
+|  | Name | Description |
+| --- | --- | --- |
+|  | GrandHeistContractElement Job | Initializes a new instance of the GrandHeistContractElement Job class |
 
 
-| Name | Description |
-| --- | --- |
-| Assigned |
-| HeistJob |
-| Level |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Assigned |  |
+|  | HeistJob |  |
+|  | Level |  |
 
 
-| Name | Description |
-| --- | --- |
-| Equals | Determines whether the specified object is equal to the current object. (Inherited from Object .) |
-| Finalize | Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection. (Inherited from Object .) |
-| GetHashCode | Serves as the default hash function. (Inherited from Object .) |
-| GetType | Gets the Type of the current instance. (Inherited from Object .) |
-| MemberwiseClone | Creates a shallow copy of the current Object . (Inherited from Object .) |
-| ToString | Returns a string that represents the current object. (Inherited from Object .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Equals | Determines whether the specified object is equal to the current object. (Inherited from Object .) |
+|  | Finalize | Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection. (Inherited from Object .) |
+|  | GetHashCode | Serves as the default hash function. (Inherited from Object .) |
+|  | GetType | Gets the Type of the current instance. (Inherited from Object .) |
+|  | MemberwiseClone | Creates a shallow copy of the current Object . (Inherited from Object .) |
+|  | ToString | Returns a string that represents the current object. (Inherited from Object .) |
+
+## Дочерние разделы
+- [**GrandHeistContractElement.Job Constructor **](./GrandHeistContractElement.Job Constructor/README.md)
+- [**Job Properties**](./Job Properties/README.md)
+- [**Job Methods**](./Job Methods/README.md)

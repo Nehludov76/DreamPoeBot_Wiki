@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.UnveilResult Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState UnveilResult Enumeration |
 | --- |
@@ -30,9 +31,9 @@ public enum class UnveilResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| ProcessHookManagerNotEnabled | 1 |
-| UiNotOpen | 2 |
-| ButtonNotEnabled | 3 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | ProcessHookManagerNotEnabled | 1 |  |
+|  | UiNotOpen | 2 |  |
+|  | ButtonNotEnabled | 3 |  |

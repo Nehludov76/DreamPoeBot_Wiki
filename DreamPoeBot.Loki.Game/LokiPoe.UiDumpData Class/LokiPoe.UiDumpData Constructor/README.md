@@ -1,5 +1,6 @@
 # LokiPoe.UiDumpData Constructor 
 
+**Вложено элементов:** 0  
 
 | LokiPoe UiDumpData Constructor |
 | --- |

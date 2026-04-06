@@ -1,5 +1,6 @@
 # ListOfCatecoryElement Property 
 
+**Вложено элементов:** 0  
 
 | CurrencyExchangeElement CurrencySelectionElement ListOfCatecoryElement Property |
 | --- |

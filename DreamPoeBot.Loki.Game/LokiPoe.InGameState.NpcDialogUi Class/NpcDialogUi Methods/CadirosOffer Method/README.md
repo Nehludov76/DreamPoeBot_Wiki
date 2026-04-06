@@ -1,5 +1,6 @@
 # CadirosOffer Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState NpcDialogUi CadirosOffer Method |
 | --- |

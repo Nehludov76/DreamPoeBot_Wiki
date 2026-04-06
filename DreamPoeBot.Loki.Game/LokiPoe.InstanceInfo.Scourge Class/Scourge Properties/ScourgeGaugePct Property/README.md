@@ -1,5 +1,6 @@
 # ScourgeGaugePct Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo Scourge ScourgeGaugePct Property |
 | --- |

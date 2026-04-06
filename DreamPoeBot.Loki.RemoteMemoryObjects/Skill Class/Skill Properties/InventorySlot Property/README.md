@@ -1,5 +1,6 @@
 # InventorySlot Property 
 
+**Вложено элементов:** 0  
 
 | Skill InventorySlot Property |
 | --- |

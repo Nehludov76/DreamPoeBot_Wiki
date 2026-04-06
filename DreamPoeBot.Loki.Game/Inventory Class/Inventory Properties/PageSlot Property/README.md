@@ -1,5 +1,6 @@
 # PageSlot Property 
 
+**Вложено элементов:** 0  
 
 | Inventory PageSlot Property |
 | --- |

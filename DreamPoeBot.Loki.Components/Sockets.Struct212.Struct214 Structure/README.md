@@ -1,5 +1,6 @@
 # Sockets.Struct212.Struct214 Structure
 
+**Вложено элементов:** 8  
 
 | Sockets Struct212 Struct214 Structure |
 | --- |
@@ -32,19 +33,23 @@ public value class Struct214
 The Sockets Struct212 Struct214 type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Equals | Indicates whether this instance and a specified object are equal. (Inherited from ValueType .) |
-| GetHashCode | Returns the hash code for this instance. (Inherited from ValueType .) |
-| GetType | Gets the Type of the current instance. (Inherited from Object .) |
-| ToString | Returns the fully qualified type name of this instance. (Inherited from ValueType .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Equals | Indicates whether this instance and a specified object are equal. (Inherited from ValueType .) |
+|  | GetHashCode | Returns the hash code for this instance. (Inherited from ValueType .) |
+|  | GetType | Gets the Type of the current instance. (Inherited from Object .) |
+|  | ToString | Returns the fully qualified type name of this instance. (Inherited from ValueType .) |
 
 
-| Name | Description |
-| --- | --- |
-| long_0 |
-| long_1 |
-| long_2 |
-| long_3 |
-| long_4 |
-| long_5 |
+|  | Name | Description |
+| --- | --- | --- |
+|  | long_0 |  |
+|  | long_1 |  |
+|  | long_2 |  |
+|  | long_3 |  |
+|  | long_4 |  |
+|  | long_5 |  |
+
+## Дочерние разделы
+- [**Struct214 Methods**](./Struct214 Methods/README.md)
+- [**Struct214 Fields**](./Struct214 Fields/README.md)

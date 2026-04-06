@@ -1,5 +1,6 @@
 # FlaskSlot Property 
 
+**Вложено элементов:** 0  
 
 | Aura FlaskSlot Property |
 | --- |

@@ -1,5 +1,6 @@
 # GetStashName Method 
 
+**Вложено элементов:** 0  
 
 | ExpeditionDealerElement GetStashName Method |
 | --- |

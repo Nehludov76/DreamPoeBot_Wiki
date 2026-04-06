@@ -1,5 +1,6 @@
 # WorldArea2 Field
 
+**Вложено элементов:** 0  
 
 | AtlasNodeDat AtlasNodeRecord WorldArea2 Field |
 | --- |

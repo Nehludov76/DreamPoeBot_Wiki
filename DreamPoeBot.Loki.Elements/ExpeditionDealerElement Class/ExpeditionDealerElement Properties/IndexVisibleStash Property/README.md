@@ -1,5 +1,6 @@
 # IndexVisibleStash Property 
 
+**Вложено элементов:** 0  
 
 | ExpeditionDealerElement IndexVisibleStash Property |
 | --- |

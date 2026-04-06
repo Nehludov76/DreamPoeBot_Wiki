@@ -1,5 +1,6 @@
 # HasAura Method (IEnumerable(String))
 
+**Вложено элементов:** 0  
 
 | Actor HasAura Method (IEnumerable String ) |
 | --- |

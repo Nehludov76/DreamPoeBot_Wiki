@@ -1,5 +1,6 @@
 # SkillIconPath Property 
 
+**Вложено элементов:** 0  
 
 | SkillElement SkillIconPath Property |
 | --- |

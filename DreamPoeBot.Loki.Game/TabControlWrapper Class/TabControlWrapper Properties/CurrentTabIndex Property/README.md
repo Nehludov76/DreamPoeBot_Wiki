@@ -1,5 +1,6 @@
 # CurrentTabIndex Property 
 
+**Вложено элементов:** 0  
 
 | TabControlWrapper CurrentTabIndex Property |
 | --- |

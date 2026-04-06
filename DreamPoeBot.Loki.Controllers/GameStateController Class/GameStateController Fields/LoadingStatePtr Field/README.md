@@ -1,5 +1,6 @@
 # LoadingStatePtr Field
 
+**Вложено элементов:** 0  
 
 | GameStateController LoadingStatePtr Field |
 | --- |

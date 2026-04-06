@@ -1,5 +1,6 @@
 # WaitTimer Events
 
+**Вложено элементов:** 1  
 
 | WaitTimer Events |
 | --- |
@@ -10,6 +11,9 @@
 The WaitTimer type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Finished |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Finished |  |
+
+## Дочерние разделы
+- [**Finished Event**](./Finished Event/README.md)

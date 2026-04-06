@@ -1,5 +1,6 @@
 # OnExilePatherReload Event
 
+**Вложено элементов:** 0  
 
 | ExilePather OnExilePatherReload Event |
 | --- |

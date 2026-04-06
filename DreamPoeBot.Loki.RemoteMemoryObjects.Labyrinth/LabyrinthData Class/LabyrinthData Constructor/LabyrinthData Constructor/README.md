@@ -1,5 +1,6 @@
 # LabyrinthData Constructor 
 
+**Вложено элементов:** 0  
 
 | LabyrinthData Constructor |
 | --- |

@@ -1,5 +1,6 @@
 # Souls Property 
 
+**Вложено элементов:** 0  
 
 | PantheonGodsWrapper Souls Property |
 | --- |

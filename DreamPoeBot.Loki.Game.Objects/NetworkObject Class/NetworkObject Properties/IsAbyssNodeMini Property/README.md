@@ -1,5 +1,6 @@
 # IsAbyssNodeMini Property 
 
+**Вложено элементов:** 0  
 
 | NetworkObject IsAbyssNodeMini Property |
 | --- |

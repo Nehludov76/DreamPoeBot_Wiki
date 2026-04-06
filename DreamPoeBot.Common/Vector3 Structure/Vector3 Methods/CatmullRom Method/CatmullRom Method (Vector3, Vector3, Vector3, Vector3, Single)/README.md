@@ -1,5 +1,6 @@
 # CatmullRom Method (Vector3, Vector3, Vector3, Vector3, Single)
 
+**Вложено элементов:** 0  
 
 | Vector3 CatmullRom Method (Vector3, Vector3, Vector3, Vector3, Single) |
 | --- |

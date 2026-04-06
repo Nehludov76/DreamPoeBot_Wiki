@@ -1,5 +1,6 @@
 # FossilisedDeliriumOrb Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState GuildStashUi DeliriumTab FossilisedDeliriumOrb Property |
 | --- |

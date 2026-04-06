@@ -1,5 +1,6 @@
 # GridExplorer.SanctumDataClass Constructor 
 
+**Вложено элементов:** 0  
 
 | GridExplorer SanctumDataClass Constructor |
 | --- |

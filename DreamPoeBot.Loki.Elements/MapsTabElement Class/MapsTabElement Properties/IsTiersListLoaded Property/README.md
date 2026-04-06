@@ -1,5 +1,6 @@
 # IsTiersListLoaded Property 
 
+**Вложено элементов:** 0  
 
 | MapsTabElement IsTiersListLoaded Property |
 | --- |

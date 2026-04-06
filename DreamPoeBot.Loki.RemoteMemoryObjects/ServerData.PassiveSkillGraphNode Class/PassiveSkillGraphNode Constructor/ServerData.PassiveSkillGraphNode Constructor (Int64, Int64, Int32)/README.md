@@ -1,5 +1,6 @@
 # ServerData.PassiveSkillGraphNode Constructor (Int64, Int64, Int32)
 
+**Вложено элементов:** 0  
 
 | ServerData PassiveSkillGraphNode Constructor (Int64, Int64, Int32) |
 | --- |

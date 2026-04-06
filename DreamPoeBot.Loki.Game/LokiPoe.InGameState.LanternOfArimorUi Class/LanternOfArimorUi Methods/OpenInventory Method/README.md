@@ -1,5 +1,6 @@
 # OpenInventory Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState LanternOfArimorUi OpenInventory Method |
 | --- |

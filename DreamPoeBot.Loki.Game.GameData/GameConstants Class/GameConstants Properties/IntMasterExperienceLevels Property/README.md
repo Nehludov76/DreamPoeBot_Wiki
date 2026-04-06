@@ -1,5 +1,6 @@
 # IntMasterExperienceLevels Property 
 
+**Вложено элементов:** 0  
 
 | GameConstants IntMasterExperienceLevels Property |
 | --- |

@@ -1,5 +1,6 @@
 # GetStrRequirement Method 
 
+**Вложено элементов:** 0  
 
 | InventoryControlWrapper GetStrRequirement Method |
 | --- |

@@ -1,5 +1,6 @@
 # SentinelDrone Constructor 
 
+**Вложено элементов:** 0  
 
 | SentinelDrone Constructor |
 | --- |

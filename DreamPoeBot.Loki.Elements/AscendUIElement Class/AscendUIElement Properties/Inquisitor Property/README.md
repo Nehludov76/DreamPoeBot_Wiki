@@ -1,5 +1,6 @@
 # Inquisitor Property 
 
+**Вложено элементов:** 0  
 
 | AscendUIElement Inquisitor Property |
 | --- |

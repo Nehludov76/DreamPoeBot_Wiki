@@ -1,5 +1,6 @@
 # LeagueType Enumeration
 
+**Вложено элементов:** 0  
 
 | LeagueType Enumeration |
 | --- |
@@ -30,7 +31,7 @@ public enum class LeagueType
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| Standard | 0 |
-| Challenge | 1 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | Standard | 0 |  |
+|  | Challenge | 1 |  |

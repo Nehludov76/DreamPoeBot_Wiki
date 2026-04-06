@@ -1,5 +1,6 @@
 # AreaMap Property 
 
+**Вложено элементов:** 0  
 
 | AreaInstance AreaMap Property |
 | --- |

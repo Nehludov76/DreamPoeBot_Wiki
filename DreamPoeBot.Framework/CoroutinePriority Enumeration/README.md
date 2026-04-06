@@ -1,5 +1,6 @@
 # CoroutinePriority Enumeration
 
+**Вложено элементов:** 0  
 
 | CoroutinePriority Enumeration |
 | --- |
@@ -30,8 +31,8 @@ public enum class CoroutinePriority
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| Normal | 0 |
-| High | 1 |
-| Critical | 2 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | Normal | 0 |  |
+|  | High | 1 |  |
+|  | Critical | 2 |  |

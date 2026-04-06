@@ -1,5 +1,6 @@
 # IsAbyssArea Property 
 
+**Вложено элементов:** 0  
 
 | DatWorldAreaWrapper IsAbyssArea Property |
 | --- |

@@ -1,5 +1,6 @@
 # MsBetweenTicks Property 
 
+**Вложено элементов:** 0  
 
 | BotManager MsBetweenTicks Property |
 | --- |

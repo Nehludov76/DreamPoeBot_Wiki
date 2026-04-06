@@ -1,5 +1,6 @@
 # RegalShard Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState StashUi CurrencyTab RegalShard Property |
 | --- |

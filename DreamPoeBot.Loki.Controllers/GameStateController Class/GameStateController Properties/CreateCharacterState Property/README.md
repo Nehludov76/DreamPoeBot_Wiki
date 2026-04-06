@@ -1,5 +1,6 @@
 # CreateCharacterState Property 
 
+**Вложено элементов:** 0  
 
 | GameStateController CreateCharacterState Property |
 | --- |

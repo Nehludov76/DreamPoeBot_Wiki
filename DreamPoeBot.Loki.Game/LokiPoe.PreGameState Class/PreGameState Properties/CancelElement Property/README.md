@@ -1,5 +1,6 @@
 # CancelElement Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe PreGameState CancelElement Property |
 | --- |

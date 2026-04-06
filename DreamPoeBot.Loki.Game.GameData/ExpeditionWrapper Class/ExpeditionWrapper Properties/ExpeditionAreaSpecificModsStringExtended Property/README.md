@@ -1,5 +1,6 @@
 # ExpeditionAreaSpecificModsStringExtended Property 
 
+**Вложено элементов:** 0  
 
 | ExpeditionWrapper ExpeditionAreaSpecificModsStringExtended Property |
 | --- |

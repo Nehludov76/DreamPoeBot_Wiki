@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.HeistContractUi.OpenAgentSelectionResult Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState HeistContractUi OpenAgentSelectionResult Enumeration |
 | --- |
@@ -30,8 +31,8 @@ public enum class OpenAgentSelectionResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| ProcessHookManagerNotEnabled | 1 |
-| UiNotOpen | 2 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | ProcessHookManagerNotEnabled | 1 |  |
+|  | UiNotOpen | 2 |  |

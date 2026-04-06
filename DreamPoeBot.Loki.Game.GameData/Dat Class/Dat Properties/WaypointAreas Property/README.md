@@ -1,5 +1,6 @@
 # WaypointAreas Property 
 
+**Вложено элементов:** 0  
 
 | Dat WaypointAreas Property |
 | --- |

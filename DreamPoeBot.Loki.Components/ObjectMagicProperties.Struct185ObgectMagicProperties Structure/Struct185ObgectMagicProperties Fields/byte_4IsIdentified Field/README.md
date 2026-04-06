@@ -1,5 +1,6 @@
 # byte_4IsIdentified Field
 
+**Вложено элементов:** 0  
 
 | ObjectMagicProperties Struct185ObgectMagicProperties byte_4IsIdentified Field |
 | --- |

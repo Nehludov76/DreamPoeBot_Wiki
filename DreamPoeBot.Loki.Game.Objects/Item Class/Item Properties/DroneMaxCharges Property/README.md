@@ -1,5 +1,6 @@
 # DroneMaxCharges Property 
 
+**Вложено элементов:** 0  
 
 | Item DroneMaxCharges Property |
 | --- |

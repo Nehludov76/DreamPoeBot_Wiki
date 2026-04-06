@@ -1,5 +1,6 @@
 # vector2_0WorldPosition Field
 
+**Вложено элементов:** 0  
 
 | Positioned Struct196 vector2_0WorldPosition Field |
 | --- |

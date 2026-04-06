@@ -1,5 +1,6 @@
 # IsInSyndicate Method (Int32, Int32)
 
+**Вложено элементов:** 0  
 
 | GridExplorer SyndicateDataClass IsInSyndicate Method (Int32, Int32) |
 | --- |

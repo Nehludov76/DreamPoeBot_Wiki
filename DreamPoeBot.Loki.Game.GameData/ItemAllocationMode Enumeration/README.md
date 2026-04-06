@@ -1,5 +1,6 @@
 # ItemAllocationMode Enumeration
 
+**Вложено элементов:** 0  
 
 | ItemAllocationMode Enumeration |
 | --- |
@@ -30,9 +31,9 @@ public enum class ItemAllocationMode
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| Unknown | -1 |
-| FreeForAll | 0 |
-| ShortAllocation | 1 |
-| PermanentAllocation | 2 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | Unknown | -1 |  |
+|  | FreeForAll | 0 |  |
+|  | ShortAllocation | 1 |  |
+|  | PermanentAllocation | 2 |  |

@@ -1,5 +1,6 @@
 # ConfirmMessageBox Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe PreGameState ConfirmMessageBox Method |
 | --- |

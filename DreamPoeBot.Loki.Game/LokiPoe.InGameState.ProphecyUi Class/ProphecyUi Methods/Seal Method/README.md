@@ -1,5 +1,6 @@
 # Seal Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ProphecyUi Seal Method |
 | --- |

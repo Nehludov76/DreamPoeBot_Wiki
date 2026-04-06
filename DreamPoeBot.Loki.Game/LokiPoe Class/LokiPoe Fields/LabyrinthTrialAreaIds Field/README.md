@@ -1,5 +1,6 @@
 # LabyrinthTrialAreaIds Field
 
+**Вложено элементов:** 0  
 
 | LokiPoe LabyrinthTrialAreaIds Field |
 | --- |

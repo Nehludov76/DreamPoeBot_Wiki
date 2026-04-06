@@ -1,5 +1,6 @@
 # OwnerWorldItem Property 
 
+**Вложено элементов:** 0  
 
 | WorldItem WorldItemLabelClass OwnerWorldItem Property |
 | --- |

@@ -1,5 +1,6 @@
 # UndoButton Property 
 
+**Вложено элементов:** 0  
 
 | ToggleExplosivePlacementElement UndoButton Property |
 | --- |

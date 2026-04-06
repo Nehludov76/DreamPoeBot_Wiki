@@ -1,5 +1,6 @@
 # ExpeditionFaction Property 
 
+**Вложено элементов:** 0  
 
 | ExpeditionWrapper ExpeditionFaction Property |
 | --- |

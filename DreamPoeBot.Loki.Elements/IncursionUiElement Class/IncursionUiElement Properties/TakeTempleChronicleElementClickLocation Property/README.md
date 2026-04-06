@@ -1,5 +1,6 @@
 # TakeTempleChronicleElementClickLocation Property 
 
+**Вложено элементов:** 0  
 
 | IncursionUiElement TakeTempleChronicleElementClickLocation Property |
 | --- |

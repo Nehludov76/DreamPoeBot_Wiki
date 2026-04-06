@@ -1,5 +1,6 @@
 # DisplayNote Property 
 
+**Вложено элементов:** 0  
 
 | Base DisplayNote Property |
 | --- |

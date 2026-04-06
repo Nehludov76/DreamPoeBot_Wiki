@@ -1,5 +1,6 @@
 # IsDailyArea Property 
 
+**Вложено элементов:** 0  
 
 | DatWorldAreaWrapper IsDailyArea Property |
 | --- |

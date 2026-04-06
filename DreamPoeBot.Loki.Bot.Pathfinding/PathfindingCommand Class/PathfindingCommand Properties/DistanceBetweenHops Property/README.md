@@ -1,5 +1,6 @@
 # DistanceBetweenHops Property 
 
+**Вложено элементов:** 0  
 
 | PathfindingCommand DistanceBetweenHops Property |
 | --- |

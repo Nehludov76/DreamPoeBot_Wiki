@@ -1,5 +1,6 @@
 # AceptButtonPosition Property 
 
+**Вложено элементов:** 0  
 
 | SellPannelElement AceptButtonPosition Property |
 | --- |

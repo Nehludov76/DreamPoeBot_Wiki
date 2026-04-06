@@ -1,5 +1,6 @@
 # CurrencyStashTabLayouts Constructor 
 
+**Вложено элементов:** 0  
 
 | CurrencyStashTabLayouts Constructor |
 | --- |

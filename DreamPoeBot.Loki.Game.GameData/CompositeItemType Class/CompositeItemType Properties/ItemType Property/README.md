@@ -1,5 +1,6 @@
 # ItemType Property 
 
+**Вложено элементов:** 0  
 
 | CompositeItemType ItemType Property |
 | --- |

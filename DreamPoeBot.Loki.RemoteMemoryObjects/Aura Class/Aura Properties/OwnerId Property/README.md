@@ -1,5 +1,6 @@
 # OwnerId Property 
 
+**Вложено элементов:** 0  
 
 | Aura OwnerId Property |
 | --- |

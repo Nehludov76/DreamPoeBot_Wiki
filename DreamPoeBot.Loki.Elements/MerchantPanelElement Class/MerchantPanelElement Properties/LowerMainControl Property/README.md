@@ -1,5 +1,6 @@
 # LowerMainControl Property 
 
+**Вложено элементов:** 0  
 
 | MerchantPanelElement LowerMainControl Property |
 | --- |

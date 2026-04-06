@@ -1,5 +1,6 @@
 # IsImprisoned Property 
 
+**Вложено элементов:** 0  
 
 | Monster IsImprisoned Property |
 | --- |

@@ -1,5 +1,6 @@
 # Load Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe LocalData Labyrinth Load Method |
 | --- |

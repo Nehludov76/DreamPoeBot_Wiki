@@ -1,5 +1,6 @@
 # HasVaalGraceBuff Property 
 
+**Вложено элементов:** 0  
 
 | Actor HasVaalGraceBuff Property |
 | --- |

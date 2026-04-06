@@ -1,5 +1,6 @@
 # sealButtonElement Property 
 
+**Вложено элементов:** 0  
 
 | ProphecyElement sealButtonElement Property |
 | --- |

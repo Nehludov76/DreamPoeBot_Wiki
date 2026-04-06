@@ -1,5 +1,6 @@
 # TriggerableBlockage Constructor 
 
+**Вложено элементов:** 0  
 
 | TriggerableBlockage Constructor |
 | --- |

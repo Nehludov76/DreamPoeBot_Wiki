@@ -1,5 +1,6 @@
 # OnGuiTick Event
 
+**Вложено элементов:** 0  
 
 | LokiPoe OnGuiTick Event |
 | --- |

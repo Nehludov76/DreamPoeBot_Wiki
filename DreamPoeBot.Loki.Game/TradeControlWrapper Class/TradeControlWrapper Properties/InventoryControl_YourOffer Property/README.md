@@ -1,5 +1,6 @@
 # InventoryControl_YourOffer Property 
 
+**Вложено элементов:** 0  
 
 | TradeControlWrapper InventoryControl_YourOffer Property |
 | --- |

@@ -1,5 +1,6 @@
 # intptr_9ActionWrapperStruct276MoveOnly Field
 
+**Вложено элементов:** 0  
 
 | Actor ActorStruct137 intptr_9ActionWrapperStruct276MoveOnly Field |
 | --- |

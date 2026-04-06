@@ -1,5 +1,6 @@
 # IsItemTransparent Property 
 
+**Вложено элементов:** 0  
 
 | Element IsItemTransparent Property |
 | --- |

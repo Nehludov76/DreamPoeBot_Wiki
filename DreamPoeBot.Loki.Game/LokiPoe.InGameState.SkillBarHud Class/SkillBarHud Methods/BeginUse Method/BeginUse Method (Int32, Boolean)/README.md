@@ -1,5 +1,6 @@
 # BeginUse Method (Int32, Boolean)
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SkillBarHud BeginUse Method (Int32, Boolean) |
 | --- |

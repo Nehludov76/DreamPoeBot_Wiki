@@ -1,5 +1,6 @@
 # FastMove Method (Boolean, Boolean, Boolean, Boolean)
 
+**Вложено элементов:** 0  
 
 | InventoryControlWrapper FastMove Method (Boolean, Boolean, Boolean, Boolean) |
 | --- |

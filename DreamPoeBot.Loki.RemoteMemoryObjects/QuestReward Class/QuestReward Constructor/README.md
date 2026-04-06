@@ -1,5 +1,6 @@
 # QuestReward Constructor 
 
+**Вложено элементов:** 0  
 
 | QuestReward Constructor |
 | --- |

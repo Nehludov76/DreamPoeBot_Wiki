@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.ChallengesUi.BestiaryPanelUi.Beast Constructor 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ChallengesUi BestiaryPanelUi Beast Constructor |
 | --- |

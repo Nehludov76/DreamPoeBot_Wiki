@@ -1,5 +1,6 @@
 # Center Property 
 
+**Вложено элементов:** 0  
 
 | GridExplorer Node Center Property |
 | --- |

@@ -1,5 +1,6 @@
 # PassiveSkill Property 
 
+**Вложено элементов:** 0  
 
 | AtlasPassiveDumpEventArgs PassiveSkill Property |
 | --- |

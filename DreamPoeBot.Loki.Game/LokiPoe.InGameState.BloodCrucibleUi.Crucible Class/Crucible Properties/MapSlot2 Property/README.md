@@ -1,5 +1,6 @@
 # MapSlot2 Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState BloodCrucibleUi Crucible MapSlot2 Property |
 | --- |

@@ -1,5 +1,6 @@
 # RightHandWeaponVisual Property 
 
+**Вложено элементов:** 0  
 
 | Actor RightHandWeaponVisual Property |
 | --- |

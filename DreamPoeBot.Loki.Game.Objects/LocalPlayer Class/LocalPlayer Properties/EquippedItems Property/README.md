@@ -1,5 +1,6 @@
 # EquippedItems Property 
 
+**Вложено элементов:** 0  
 
 | LocalPlayer EquippedItems Property |
 | --- |

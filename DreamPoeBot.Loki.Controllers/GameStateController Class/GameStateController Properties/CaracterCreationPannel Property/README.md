@@ -1,5 +1,6 @@
 # CaracterCreationPannel Property 
 
+**Вложено элементов:** 0  
 
 | GameStateController CaracterCreationPannel Property |
 | --- |

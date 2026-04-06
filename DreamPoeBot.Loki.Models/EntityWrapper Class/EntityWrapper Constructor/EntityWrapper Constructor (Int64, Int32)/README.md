@@ -1,5 +1,6 @@
 # EntityWrapper Constructor (Int64, Int32)
 
+**Вложено элементов:** 0  
 
 | EntityWrapper Constructor (Int64, Int32) |
 | --- |

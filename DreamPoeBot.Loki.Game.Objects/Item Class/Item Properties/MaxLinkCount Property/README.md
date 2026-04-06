@@ -1,5 +1,6 @@
 # MaxLinkCount Property 
 
+**Вложено элементов:** 0  
 
 | Item MaxLinkCount Property |
 | --- |

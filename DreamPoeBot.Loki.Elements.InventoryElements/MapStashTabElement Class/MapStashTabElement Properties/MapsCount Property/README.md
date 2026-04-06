@@ -1,5 +1,6 @@
 # MapsCount Property 
 
+**Вложено элементов:** 0  
 
 | MapStashTabElement MapsCount Property |
 | --- |

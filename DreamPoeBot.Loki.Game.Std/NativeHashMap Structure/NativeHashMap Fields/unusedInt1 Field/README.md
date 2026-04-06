@@ -1,5 +1,6 @@
 # unusedInt1 Field
 
+**Вложено элементов:** 0  
 
 | NativeHashMap unusedInt1 Field |
 | --- |

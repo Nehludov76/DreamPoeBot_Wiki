@@ -1,5 +1,6 @@
 # int_5CoolDownCount Field
 
+**Вложено элементов:** 0  
 
 | Actor Struct139 int_5CoolDownCount Field |
 | --- |

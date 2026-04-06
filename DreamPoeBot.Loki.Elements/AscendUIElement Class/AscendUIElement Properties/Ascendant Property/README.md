@@ -1,5 +1,6 @@
 # Ascendant Property 
 
+**Вложено элементов:** 0  
 
 | AscendUIElement Ascendant Property |
 | --- |

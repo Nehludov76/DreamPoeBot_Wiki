@@ -1,5 +1,6 @@
 # LabyrinthItem Field
 
+**Вложено элементов:** 0  
 
 | ItemClasses LabyrinthItem Field |
 | --- |

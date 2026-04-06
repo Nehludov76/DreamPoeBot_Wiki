@@ -1,5 +1,6 @@
 # AtlasSkillPanel Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements AtlasSkillPanel Property |
 | --- |

@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.SentinelSkillUi Class
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SentinelSkillUi Class |
 | --- |

@@ -1,5 +1,6 @@
 # ReadFloat Method 
 
+**Вложено элементов:** 0  
 
 | Memory ReadFloat Method |
 | --- |

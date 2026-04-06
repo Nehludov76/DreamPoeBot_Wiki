@@ -1,5 +1,6 @@
 # PassiveTreeElement.MasteryUiElemet.PassiveSkillMasteryEffectsStruct Structure
 
+**Вложено элементов:** 4  
 
 | PassiveTreeElement MasteryUiElemet PassiveSkillMasteryEffectsStruct Structure |
 | --- |
@@ -32,15 +33,19 @@ public value class PassiveSkillMasteryEffectsStruct
 The PassiveTreeElement MasteryUiElemet PassiveSkillMasteryEffectsStruct type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Equals | Indicates whether this instance and a specified object are equal. (Inherited from ValueType .) |
-| GetHashCode | Returns the hash code for this instance. (Inherited from ValueType .) |
-| GetType | Gets the Type of the current instance. (Inherited from Object .) |
-| ToString | Returns the fully qualified type name of this instance. (Inherited from ValueType .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Equals | Indicates whether this instance and a specified object are equal. (Inherited from ValueType .) |
+|  | GetHashCode | Returns the hash code for this instance. (Inherited from ValueType .) |
+|  | GetType | Gets the Type of the current instance. (Inherited from Object .) |
+|  | ToString | Returns the fully qualified type name of this instance. (Inherited from ValueType .) |
 
 
-| Name | Description |
-| --- | --- |
-| int_1Hash |
-| intptr_Id |
+|  | Name | Description |
+| --- | --- | --- |
+|  | int_1Hash |  |
+|  | intptr_Id |  |
+
+## Дочерние разделы
+- [**PassiveSkillMasteryEffectsStruct Methods**](./PassiveSkillMasteryEffectsStruct Methods/README.md)
+- [**PassiveSkillMasteryEffectsStruct Fields**](./PassiveSkillMasteryEffectsStruct Fields/README.md)

@@ -1,5 +1,6 @@
 # Ptr Property 
 
+**Вложено элементов:** 0  
 
 | FsController FileInformation Ptr Property |
 | --- |

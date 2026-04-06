@@ -1,5 +1,6 @@
 # PositionedComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation PositionedComponent Property |
 | --- |

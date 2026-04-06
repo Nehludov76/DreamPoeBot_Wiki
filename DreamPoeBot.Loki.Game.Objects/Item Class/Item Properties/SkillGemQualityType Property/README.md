@@ -1,5 +1,6 @@
 # SkillGemQualityType Property 
 
+**Вложено элементов:** 0  
 
 | Item SkillGemQualityType Property |
 | --- |

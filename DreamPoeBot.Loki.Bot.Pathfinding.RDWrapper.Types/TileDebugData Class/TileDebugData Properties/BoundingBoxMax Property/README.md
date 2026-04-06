@@ -1,5 +1,6 @@
 # BoundingBoxMax Property 
 
+**Вложено элементов:** 0  
 
 | TileDebugData BoundingBoxMax Property |
 | --- |

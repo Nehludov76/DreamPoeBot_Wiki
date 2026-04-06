@@ -1,5 +1,6 @@
 # BlightTowerElement Constructor 
 
+**Вложено элементов:** 0  
 
 | BlightTowerElement Constructor |
 | --- |

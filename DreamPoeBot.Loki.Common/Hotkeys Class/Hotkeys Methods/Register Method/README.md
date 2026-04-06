@@ -1,5 +1,6 @@
 # Register Method 
 
+**Вложено элементов:** 0  
 
 | Hotkeys Register Method |
 | --- |

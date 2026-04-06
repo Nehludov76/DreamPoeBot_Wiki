@@ -1,5 +1,6 @@
 # PreGameStatePtr Field
 
+**Вложено элементов:** 0  
 
 | GameStateController PreGameStatePtr Field |
 | --- |

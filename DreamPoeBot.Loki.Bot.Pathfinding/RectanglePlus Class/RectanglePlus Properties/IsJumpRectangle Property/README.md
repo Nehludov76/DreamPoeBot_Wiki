@@ -1,5 +1,6 @@
 # IsJumpRectangle Property 
 
+**Вложено элементов:** 0  
 
 | RectanglePlus IsJumpRectangle Property |
 | --- |

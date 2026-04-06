@@ -1,5 +1,6 @@
 # MaxPumpDurability Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo Blight MaxPumpDurability Property |
 | --- |

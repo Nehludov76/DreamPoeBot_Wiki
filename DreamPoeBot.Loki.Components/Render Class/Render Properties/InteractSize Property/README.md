@@ -1,5 +1,6 @@
 # InteractSize Property 
 
+**Вложено элементов:** 0  
 
 | Render InteractSize Property |
 | --- |

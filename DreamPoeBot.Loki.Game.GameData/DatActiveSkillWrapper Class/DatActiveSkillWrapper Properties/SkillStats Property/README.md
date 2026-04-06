@@ -1,5 +1,6 @@
 # SkillStats Property 
 
+**Вложено элементов:** 0  
 
 | DatActiveSkillWrapper SkillStats Property |
 | --- |

@@ -1,5 +1,6 @@
 # area Field
 
+**Вложено элементов:** 0  
 
 | LabyrinthTrial area Field |
 | --- |

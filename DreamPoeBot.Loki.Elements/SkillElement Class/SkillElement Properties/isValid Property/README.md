@@ -1,5 +1,6 @@
 # isValid Property 
 
+**Вложено элементов:** 0  
 
 | SkillElement isValid Property |
 | --- |

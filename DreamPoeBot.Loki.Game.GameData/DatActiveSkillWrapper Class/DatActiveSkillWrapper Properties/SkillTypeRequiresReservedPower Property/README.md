@@ -1,5 +1,6 @@
 # SkillTypeRequiresReservedPower Property 
 
+**Вложено элементов:** 0  
 
 | DatActiveSkillWrapper SkillTypeRequiresReservedPower Property |
 | --- |

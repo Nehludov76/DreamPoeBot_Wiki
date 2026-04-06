@@ -1,5 +1,6 @@
 # MercenaryObjectElement Constructor 
 
+**Вложено элементов:** 0  
 
 | MercenaryObjectElement Constructor |
 | --- |

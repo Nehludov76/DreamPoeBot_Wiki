@@ -1,5 +1,6 @@
 # int_7 Field
 
+**Вложено элементов:** 0  
 
 | DatPassiveSkillWrapper Struct131 int_7 Field |
 | --- |

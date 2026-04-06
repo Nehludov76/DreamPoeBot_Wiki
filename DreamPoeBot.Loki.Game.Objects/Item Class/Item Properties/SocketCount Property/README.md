@@ -1,5 +1,6 @@
 # SocketCount Property 
 
+**Вложено элементов:** 0  
 
 | Item SocketCount Property |
 | --- |

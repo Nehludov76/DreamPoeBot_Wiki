@@ -1,5 +1,6 @@
 # RightTabsContainerElement Property 
 
+**Вложено элементов:** 0  
 
 | TabControlWrapper RightTabsContainerElement Property |
 | --- |

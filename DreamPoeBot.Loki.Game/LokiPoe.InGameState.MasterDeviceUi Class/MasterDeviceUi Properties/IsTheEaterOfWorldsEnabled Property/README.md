@@ -1,5 +1,6 @@
 # IsTheEaterOfWorldsEnabled Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState MasterDeviceUi IsTheEaterOfWorldsEnabled Property |
 | --- |

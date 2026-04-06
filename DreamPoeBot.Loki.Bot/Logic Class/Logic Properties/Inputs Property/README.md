@@ -1,5 +1,6 @@
 # Inputs Property 
 
+**Вложено элементов:** 0  
 
 | Logic Inputs Property |
 | --- |

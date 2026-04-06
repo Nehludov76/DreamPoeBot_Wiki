@@ -1,5 +1,6 @@
 # Element Field
 
+**Вложено элементов:** 0  
 
 | MasterDeviceElement CrafingOption Element Field |
 | --- |

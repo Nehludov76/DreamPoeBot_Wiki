@@ -1,5 +1,6 @@
 # BaseDuration Property 
 
+**Вложено элементов:** 0  
 
 | SentinelDrone BaseDuration Property |
 | --- |

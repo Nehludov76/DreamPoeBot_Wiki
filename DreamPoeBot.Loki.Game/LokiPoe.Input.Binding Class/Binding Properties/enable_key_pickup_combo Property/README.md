@@ -1,5 +1,6 @@
 # enable_key_pickup_combo Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input Binding enable_key_pickup_combo Property |
 | --- |

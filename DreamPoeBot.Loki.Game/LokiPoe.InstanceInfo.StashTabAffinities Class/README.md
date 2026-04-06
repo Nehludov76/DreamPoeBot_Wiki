@@ -1,5 +1,6 @@
 # LokiPoe.InstanceInfo.StashTabAffinities Class
 
+**Вложено элементов:** 2  
 
 | LokiPoe InstanceInfo StashTabAffinities Class |
 | --- |
@@ -30,6 +31,9 @@ public ref class StashTabAffinities abstract sealed
 The LokiPoe InstanceInfo StashTabAffinities type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| IsAffinityActive | Return true if the selected StashTabAffinitiesEnum is actually active. |
+|  | Name | Description |
+| --- | --- | --- |
+|  | IsAffinityActive | Return true if the selected StashTabAffinitiesEnum is actually active. |
+
+## Дочерние разделы
+- [**StashTabAffinities Methods**](./StashTabAffinities Methods/README.md)

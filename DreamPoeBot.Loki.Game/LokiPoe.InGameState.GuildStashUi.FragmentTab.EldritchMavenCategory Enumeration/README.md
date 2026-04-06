@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.GuildStashUi.FragmentTab.EldritchMavenCategory Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState GuildStashUi FragmentTab EldritchMavenCategory Enumeration |
 | --- |
@@ -30,8 +31,8 @@ public enum class EldritchMavenCategory
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| Eldritch | 0 |
-| Maven | 1 |
-| Unknown | 2 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | Eldritch | 0 |  |
+|  | Maven | 1 |  |
+|  | Unknown | 2 |  |

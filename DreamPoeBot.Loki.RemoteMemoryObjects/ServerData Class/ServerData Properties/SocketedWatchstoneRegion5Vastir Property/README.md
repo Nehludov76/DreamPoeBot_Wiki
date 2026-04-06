@@ -1,5 +1,6 @@
 # SocketedWatchstoneRegion5Vastir Property 
 
+**Вложено элементов:** 0  
 
 | ServerData SocketedWatchstoneRegion5Vastir Property |
 | --- |

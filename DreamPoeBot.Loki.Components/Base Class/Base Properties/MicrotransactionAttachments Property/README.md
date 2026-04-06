@@ -1,5 +1,6 @@
 # MicrotransactionAttachments Property 
 
+**Вложено элементов:** 0  
 
 | Base MicrotransactionAttachments Property |
 | --- |

@@ -1,5 +1,6 @@
 # IsAlwaysHighligthEnabled Property 
 
+**Вложено элементов:** 0  
 
 | OptionsElement IsAlwaysHighligthEnabled Property |
 | --- |

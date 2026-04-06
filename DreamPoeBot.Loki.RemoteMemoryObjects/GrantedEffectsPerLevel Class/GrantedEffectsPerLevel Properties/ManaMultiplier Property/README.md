@@ -1,5 +1,6 @@
 # ManaMultiplier Property 
 
+**Вложено элементов:** 0  
 
 | GrantedEffectsPerLevel ManaMultiplier Property |
 | --- |

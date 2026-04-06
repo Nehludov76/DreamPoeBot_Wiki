@@ -1,5 +1,6 @@
 # FuelPct Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo Azmeri FuelPct Property |
 | --- |

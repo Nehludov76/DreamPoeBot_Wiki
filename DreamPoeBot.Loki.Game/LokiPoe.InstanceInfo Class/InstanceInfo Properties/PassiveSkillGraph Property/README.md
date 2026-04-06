@@ -1,5 +1,6 @@
 # PassiveSkillGraph Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo PassiveSkillGraph Property |
 | --- |

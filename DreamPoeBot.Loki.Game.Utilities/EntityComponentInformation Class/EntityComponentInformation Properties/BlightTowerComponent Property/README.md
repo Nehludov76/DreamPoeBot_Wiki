@@ -1,5 +1,6 @@
 # BlightTowerComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation BlightTowerComponent Property |
 | --- |

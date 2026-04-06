@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.StashUi.EssenceTab.Dread Class
 
+**Вложено элементов:** 4  
 
 | LokiPoe InGameState StashUi EssenceTab Dread Class |
 | --- |
@@ -32,8 +33,11 @@ public ref class Dread abstract sealed
 The LokiPoe InGameState StashUi EssenceTab Dread type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Deafening |
-| Screaming |
-| Shrieking |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Deafening |  |
+|  | Screaming |  |
+|  | Shrieking |  |
+
+## Дочерние разделы
+- [**Dread Properties**](./Dread Properties/README.md)

@@ -1,5 +1,6 @@
 # ObjectiveDescription Property 
 
+**Вложено элементов:** 0  
 
 | ZanaMissionElement ObjectiveDescription Property |
 | --- |

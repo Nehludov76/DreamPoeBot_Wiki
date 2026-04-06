@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.StashUi.EssenceTab.Corruption Class
 
+**Вложено элементов:** 2  
 
 | LokiPoe InGameState StashUi EssenceTab Corruption Class |
 | --- |
@@ -32,6 +33,9 @@ public ref class Corruption abstract sealed
 The LokiPoe InGameState StashUi EssenceTab Corruption type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Remnant |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Remnant |  |
+
+## Дочерние разделы
+- [**Corruption Properties**](./Corruption Properties/README.md)

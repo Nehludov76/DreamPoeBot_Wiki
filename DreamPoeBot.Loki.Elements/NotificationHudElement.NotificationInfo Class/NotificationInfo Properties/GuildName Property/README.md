@@ -1,5 +1,6 @@
 # GuildName Property 
 
+**Вложено элементов:** 0  
 
 | NotificationHudElement NotificationInfo GuildName Property |
 | --- |

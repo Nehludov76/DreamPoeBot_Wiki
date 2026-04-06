@@ -1,5 +1,6 @@
 # OpenNode Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState AtlasUi OpenNode Method |
 | --- |

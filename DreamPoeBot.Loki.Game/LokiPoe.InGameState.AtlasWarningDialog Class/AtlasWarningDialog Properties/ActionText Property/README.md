@@ -1,5 +1,6 @@
 # ActionText Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState AtlasWarningDialog ActionText Property |
 | --- |

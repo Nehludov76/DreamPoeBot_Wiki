@@ -1,5 +1,6 @@
 # CorruptedAreas Property 
 
+**Вложено элементов:** 0  
 
 | WorldArea CorruptedAreas Property |
 | --- |

@@ -1,5 +1,6 @@
 # Ignore Method 
 
+**Вложено элементов:** 0  
 
 | IExplorer Ignore Method |
 | --- |

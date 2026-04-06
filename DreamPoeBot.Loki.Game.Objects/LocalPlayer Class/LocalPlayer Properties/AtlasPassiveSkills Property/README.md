@@ -1,5 +1,6 @@
 # AtlasPassiveSkills Property 
 
+**Вложено элементов:** 0  
 
 | LocalPlayer AtlasPassiveSkills Property |
 | --- |

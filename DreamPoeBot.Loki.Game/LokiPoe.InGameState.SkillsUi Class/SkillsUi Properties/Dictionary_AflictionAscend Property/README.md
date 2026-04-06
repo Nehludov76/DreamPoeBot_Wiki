@@ -1,5 +1,6 @@
 # Dictionary_AflictionAscend Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SkillsUi Dictionary_AflictionAscend Property |
 | --- |

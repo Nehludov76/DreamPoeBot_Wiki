@@ -1,5 +1,6 @@
 # IsInMapRoom Property 
 
+**Вложено элементов:** 0  
 
 | LocalPlayer IsInMapRoom Property |
 | --- |

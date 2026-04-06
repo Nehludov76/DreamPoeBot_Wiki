@@ -1,5 +1,6 @@
 # AscendancyDoorRadiusOverride Property 
 
+**Вложено элементов:** 0  
 
 | ExilePather AscendancyDoorRadiusOverride Property |
 | --- |

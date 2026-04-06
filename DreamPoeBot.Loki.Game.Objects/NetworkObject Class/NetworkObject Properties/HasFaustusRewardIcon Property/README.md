@@ -1,5 +1,6 @@
 # HasFaustusRewardIcon Property 
 
+**Вложено элементов:** 0  
 
 | NetworkObject HasFaustusRewardIcon Property |
 | --- |

@@ -1,5 +1,6 @@
 # DamageMultiplier Property 
 
+**Вложено элементов:** 0  
 
 | MonsterVariety DamageMultiplier Property |
 | --- |

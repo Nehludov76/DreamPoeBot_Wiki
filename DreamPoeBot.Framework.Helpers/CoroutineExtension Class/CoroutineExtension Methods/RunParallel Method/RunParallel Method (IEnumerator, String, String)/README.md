@@ -1,5 +1,6 @@
 # RunParallel Method (IEnumerator, String, String)
 
+**Вложено элементов:** 0  
 
 | CoroutineExtension RunParallel Method (IEnumerator, String, String) |
 | --- |

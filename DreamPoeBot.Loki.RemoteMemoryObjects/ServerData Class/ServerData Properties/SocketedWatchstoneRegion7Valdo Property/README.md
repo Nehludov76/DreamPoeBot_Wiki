@@ -1,5 +1,6 @@
 # SocketedWatchstoneRegion7Valdo Property 
 
+**Вложено элементов:** 0  
 
 | ServerData SocketedWatchstoneRegion7Valdo Property |
 | --- |

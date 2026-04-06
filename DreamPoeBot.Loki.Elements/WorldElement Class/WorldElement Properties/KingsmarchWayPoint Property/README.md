@@ -1,5 +1,6 @@
 # KingsmarchWayPoint Property 
 
+**Вложено элементов:** 0  
 
 | WorldElement KingsmarchWayPoint Property |
 | --- |

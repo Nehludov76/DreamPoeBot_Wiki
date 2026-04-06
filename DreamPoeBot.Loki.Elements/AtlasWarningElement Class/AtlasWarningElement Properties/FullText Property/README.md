@@ -1,5 +1,6 @@
 # FullText Property 
 
+**Вложено элементов:** 0  
 
 | AtlasWarningElement FullText Property |
 | --- |

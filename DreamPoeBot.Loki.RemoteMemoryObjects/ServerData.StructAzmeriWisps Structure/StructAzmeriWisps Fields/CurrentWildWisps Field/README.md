@@ -1,5 +1,6 @@
 # CurrentWildWisps Field
 
+**Вложено элементов:** 0  
 
 | ServerData StructAzmeriWisps CurrentWildWisps Field |
 | --- |

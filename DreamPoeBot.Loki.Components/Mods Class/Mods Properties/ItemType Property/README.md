@@ -1,5 +1,6 @@
 # ItemType Property 
 
+**Вложено элементов:** 0  
 
 | Mods ItemType Property |
 | --- |

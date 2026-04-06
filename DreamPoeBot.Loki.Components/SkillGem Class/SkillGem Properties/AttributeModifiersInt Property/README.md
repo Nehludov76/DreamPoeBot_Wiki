@@ -1,5 +1,6 @@
 # AttributeModifiersInt Property 
 
+**Вложено элементов:** 0  
 
 | SkillGem AttributeModifiersInt Property |
 | --- |

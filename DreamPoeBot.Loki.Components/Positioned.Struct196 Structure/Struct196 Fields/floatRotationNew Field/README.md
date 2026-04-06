@@ -1,5 +1,6 @@
 # floatRotationNew Field
 
+**Вложено элементов:** 0  
 
 | Positioned Struct196 floatRotationNew Field |
 | --- |

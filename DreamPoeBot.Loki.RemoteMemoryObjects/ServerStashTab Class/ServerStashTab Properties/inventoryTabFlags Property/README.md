@@ -1,5 +1,6 @@
 # inventoryTabFlags Property 
 
+**Вложено элементов:** 0  
 
 | ServerStashTab inventoryTabFlags Property |
 | --- |

@@ -1,5 +1,6 @@
 # NumberDeployed Property 
 
+**Вложено элементов:** 0  
 
 | Skill NumberDeployed Property |
 | --- |

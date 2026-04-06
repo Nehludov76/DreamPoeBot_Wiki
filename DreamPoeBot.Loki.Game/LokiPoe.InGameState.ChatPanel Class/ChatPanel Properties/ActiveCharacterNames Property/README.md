@@ -1,5 +1,6 @@
 # ActiveCharacterNames Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ChatPanel ActiveCharacterNames Property |
 | --- |

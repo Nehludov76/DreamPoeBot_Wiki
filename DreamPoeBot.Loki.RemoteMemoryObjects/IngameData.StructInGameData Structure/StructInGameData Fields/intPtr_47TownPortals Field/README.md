@@ -1,5 +1,6 @@
 # intPtr_47TownPortals Field
 
+**Вложено элементов:** 0  
 
 | IngameData StructInGameData intPtr_47TownPortals Field |
 | --- |

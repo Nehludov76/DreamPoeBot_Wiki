@@ -1,5 +1,6 @@
 # SealCost Property 
 
+**Вложено элементов:** 0  
 
 | Prophecy SealCost Property |
 | --- |

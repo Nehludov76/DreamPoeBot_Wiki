@@ -1,5 +1,6 @@
 # IsEscapeTheFacilityVisible Property 
 
+**Вложено элементов:** 0  
 
 | HeistAlertLevelElement IsEscapeTheFacilityVisible Property |
 | --- |

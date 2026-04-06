@@ -1,5 +1,6 @@
 # EntityComponentInformation Constructor (Int64)
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation Constructor (Int64) |
 | --- |

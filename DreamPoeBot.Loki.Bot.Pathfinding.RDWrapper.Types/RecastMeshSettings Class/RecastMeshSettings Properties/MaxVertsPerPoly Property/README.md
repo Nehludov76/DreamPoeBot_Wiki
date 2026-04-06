@@ -1,5 +1,6 @@
 # MaxVertsPerPoly Property 
 
+**Вложено элементов:** 0  
 
 | RecastMeshSettings MaxVertsPerPoly Property |
 | --- |

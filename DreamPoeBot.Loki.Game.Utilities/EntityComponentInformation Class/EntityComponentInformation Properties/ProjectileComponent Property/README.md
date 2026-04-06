@@ -1,5 +1,6 @@
 # ProjectileComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation ProjectileComponent Property |
 | --- |

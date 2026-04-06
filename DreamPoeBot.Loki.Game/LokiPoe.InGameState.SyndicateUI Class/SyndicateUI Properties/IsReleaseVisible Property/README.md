@@ -1,5 +1,6 @@
 # IsReleaseVisible Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SyndicateUI IsReleaseVisible Property |
 | --- |

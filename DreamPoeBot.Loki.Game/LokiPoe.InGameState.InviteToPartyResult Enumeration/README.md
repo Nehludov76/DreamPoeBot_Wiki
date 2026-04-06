@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.InviteToPartyResult Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState InviteToPartyResult Enumeration |
 | --- |
@@ -30,10 +31,10 @@ public enum class InviteToPartyResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| ProcessHookManagerNotEnabled | 1 |
-| UiNotOpen | 2 |
-| TabNotSelected | 3 |
-| InvalidCharacterName | 4 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | ProcessHookManagerNotEnabled | 1 |  |
+|  | UiNotOpen | 2 |  |
+|  | TabNotSelected | 3 |  |
+|  | InvalidCharacterName | 4 |  |

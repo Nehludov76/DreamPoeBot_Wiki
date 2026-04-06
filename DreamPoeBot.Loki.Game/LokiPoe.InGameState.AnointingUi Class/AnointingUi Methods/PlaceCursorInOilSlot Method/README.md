@@ -1,5 +1,6 @@
 # PlaceCursorInOilSlot Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState AnointingUi PlaceCursorInOilSlot Method |
 | --- |

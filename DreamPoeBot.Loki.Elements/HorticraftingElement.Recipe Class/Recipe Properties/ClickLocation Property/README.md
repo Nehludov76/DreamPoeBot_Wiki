@@ -1,5 +1,6 @@
 # ClickLocation Property 
 
+**Вложено элементов:** 0  
 
 | HorticraftingElement Recipe ClickLocation Property |
 | --- |

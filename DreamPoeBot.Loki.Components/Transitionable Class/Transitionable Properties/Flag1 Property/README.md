@@ -1,5 +1,6 @@
 # Flag1 Property 
 
+**Вложено элементов:** 0  
 
 | Transitionable Flag1 Property |
 | --- |

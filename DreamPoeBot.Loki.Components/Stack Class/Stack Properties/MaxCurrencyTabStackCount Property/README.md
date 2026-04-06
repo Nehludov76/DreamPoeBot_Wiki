@@ -1,5 +1,6 @@
 # MaxCurrencyTabStackCount Property 
 
+**Вложено элементов:** 0  
 
 | Stack MaxCurrencyTabStackCount Property |
 | --- |

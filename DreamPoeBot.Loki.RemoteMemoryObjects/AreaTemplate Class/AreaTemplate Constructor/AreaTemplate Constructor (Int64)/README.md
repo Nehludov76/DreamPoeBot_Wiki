@@ -1,5 +1,6 @@
 # AreaTemplate Constructor (Int64)
 
+**Вложено элементов:** 0  
 
 | AreaTemplate Constructor (Int64) |
 | --- |

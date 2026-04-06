@@ -1,5 +1,6 @@
 # SelectedSecond Property 
 
+**Вложено элементов:** 0  
 
 | TimePicker SelectedSecond Property |
 | --- |

@@ -1,5 +1,6 @@
 # CoroutineUnhandledException Constructor (String, Exception)
 
+**Вложено элементов:** 0  
 
 | CoroutineUnhandledException Constructor (String, Exception) |
 | --- |

@@ -1,5 +1,6 @@
 # Negate Method 
 
+**Вложено элементов:** 0  
 
 | Vector3 Negate Method |
 | --- |

@@ -1,5 +1,6 @@
 # FinishtFrame Property 
 
+**Вложено элементов:** 0  
 
 | ReleaseFrameProfile FinishtFrame Property |
 | --- |

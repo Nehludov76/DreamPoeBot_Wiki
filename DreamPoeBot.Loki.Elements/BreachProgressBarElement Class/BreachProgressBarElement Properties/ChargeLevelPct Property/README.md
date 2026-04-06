@@ -1,5 +1,6 @@
 # ChargeLevelPct Property 
 
+**Вложено элементов:** 0  
 
 | BreachProgressBarElement ChargeLevelPct Property |
 | --- |

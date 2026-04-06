@@ -1,5 +1,6 @@
 # ClickUpgradeButton Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState StashUi FragmentTab Scarab ClickUpgradeButton Method |
 | --- |

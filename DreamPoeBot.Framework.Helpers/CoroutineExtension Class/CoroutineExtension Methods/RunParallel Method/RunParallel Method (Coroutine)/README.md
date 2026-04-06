@@ -1,5 +1,6 @@
 # RunParallel Method (Coroutine)
 
+**Вложено элементов:** 0  
 
 | CoroutineExtension RunParallel Method (Coroutine) |
 | --- |

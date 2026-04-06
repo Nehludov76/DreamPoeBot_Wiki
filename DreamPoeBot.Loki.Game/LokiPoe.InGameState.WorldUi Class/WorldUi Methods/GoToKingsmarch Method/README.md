@@ -1,5 +1,6 @@
 # GoToKingsmarch Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState WorldUi GoToKingsmarch Method |
 | --- |

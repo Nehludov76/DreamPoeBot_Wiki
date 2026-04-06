@@ -1,5 +1,6 @@
 # PlayerBelt Property 
 
+**Вложено элементов:** 0  
 
 | InventoryElement PlayerBelt Property |
 | --- |

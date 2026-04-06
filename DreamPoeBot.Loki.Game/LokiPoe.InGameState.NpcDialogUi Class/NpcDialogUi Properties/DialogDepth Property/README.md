@@ -1,5 +1,6 @@
 # DialogDepth Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState NpcDialogUi DialogDepth Property |
 | --- |

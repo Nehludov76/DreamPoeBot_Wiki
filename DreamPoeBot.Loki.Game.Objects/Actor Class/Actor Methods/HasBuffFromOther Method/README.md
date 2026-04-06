@@ -1,5 +1,6 @@
 # HasBuffFromOther Method 
 
+**Вложено элементов:** 0  
 
 | Actor HasBuffFromOther Method |
 | --- |

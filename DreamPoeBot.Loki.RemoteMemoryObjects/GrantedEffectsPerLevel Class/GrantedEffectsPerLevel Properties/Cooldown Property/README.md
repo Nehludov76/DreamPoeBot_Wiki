@@ -1,5 +1,6 @@
 # Cooldown Property 
 
+**Вложено элементов:** 0  
 
 | GrantedEffectsPerLevel Cooldown Property |
 | --- |

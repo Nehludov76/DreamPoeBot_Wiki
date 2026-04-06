@@ -1,5 +1,6 @@
 # FragmentStashTabLayouts.FragmentStashTabLayoutJson Class
 
+**Вложено элементов:** 19  
 
 | FragmentStashTabLayouts FragmentStashTabLayoutJson Class |
 | --- |
@@ -32,36 +33,41 @@ public ref class FragmentStashTabLayoutJson
 The FragmentStashTabLayouts FragmentStashTabLayoutJson type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| FragmentStashTabLayouts FragmentStashTabLayoutJson | Initializes a new instance of the FragmentStashTabLayouts FragmentStashTabLayoutJson class |
+|  | Name | Description |
+| --- | --- | --- |
+|  | FragmentStashTabLayouts FragmentStashTabLayoutJson | Initializes a new instance of the FragmentStashTabLayouts FragmentStashTabLayoutJson class |
 
 
-| Name | Description |
-| --- | --- |
-| _rid |
-| FirstSlotIndex |
-| Height |
-| HideIfEmpty |
-| Id |
-| SlotSize |
-| StoredItems |
-| Subtab |
-| Tab |
-| Unknown13 |
-| Unknown14 |
-| Unknown15 |
-| Unknown7 |
-| Width |
-| XOffset |
-| YOffset |
+|  | Name | Description |
+| --- | --- | --- |
+|  | _rid |  |
+|  | FirstSlotIndex |  |
+|  | Height |  |
+|  | HideIfEmpty |  |
+|  | Id |  |
+|  | SlotSize |  |
+|  | StoredItems |  |
+|  | Subtab |  |
+|  | Tab |  |
+|  | Unknown13 |  |
+|  | Unknown14 |  |
+|  | Unknown15 |  |
+|  | Unknown7 |  |
+|  | Width |  |
+|  | XOffset |  |
+|  | YOffset |  |
 
 
-| Name | Description |
-| --- | --- |
-| Equals | Determines whether the specified object is equal to the current object. (Inherited from Object .) |
-| Finalize | Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection. (Inherited from Object .) |
-| GetHashCode | Serves as the default hash function. (Inherited from Object .) |
-| GetType | Gets the Type of the current instance. (Inherited from Object .) |
-| MemberwiseClone | Creates a shallow copy of the current Object . (Inherited from Object .) |
-| ToString | Returns a string that represents the current object. (Inherited from Object .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Equals | Determines whether the specified object is equal to the current object. (Inherited from Object .) |
+|  | Finalize | Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection. (Inherited from Object .) |
+|  | GetHashCode | Serves as the default hash function. (Inherited from Object .) |
+|  | GetType | Gets the Type of the current instance. (Inherited from Object .) |
+|  | MemberwiseClone | Creates a shallow copy of the current Object . (Inherited from Object .) |
+|  | ToString | Returns a string that represents the current object. (Inherited from Object .) |
+
+## Дочерние разделы
+- [**FragmentStashTabLayouts.FragmentStashTabLayoutJson Constructor **](./FragmentStashTabLayouts.FragmentStashTabLayoutJson Constructor/README.md)
+- [**FragmentStashTabLayoutJson Properties**](./FragmentStashTabLayoutJson Properties/README.md)
+- [**FragmentStashTabLayoutJson Methods**](./FragmentStashTabLayoutJson Methods/README.md)

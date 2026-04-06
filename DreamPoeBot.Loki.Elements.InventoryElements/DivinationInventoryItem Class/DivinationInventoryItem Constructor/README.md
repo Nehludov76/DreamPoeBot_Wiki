@@ -1,5 +1,6 @@
 # DivinationInventoryItem Constructor 
 
+**Вложено элементов:** 0  
 
 | DivinationInventoryItem Constructor |
 | --- |

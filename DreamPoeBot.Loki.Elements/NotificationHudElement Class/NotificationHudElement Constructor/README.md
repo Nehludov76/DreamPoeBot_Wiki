@@ -1,5 +1,6 @@
 # NotificationHudElement Constructor 
 
+**Вложено элементов:** 0  
 
 | NotificationHudElement Constructor |
 | --- |

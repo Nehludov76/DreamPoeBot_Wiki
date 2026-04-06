@@ -1,5 +1,6 @@
 # AvailableInventorySquares Property 
 
+**Вложено элементов:** 0  
 
 | Inventory AvailableInventorySquares Property |
 | --- |

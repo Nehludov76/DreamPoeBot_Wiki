@@ -1,5 +1,6 @@
 # GatewayComboBox Property 
 
+**Вложено элементов:** 0  
 
 | LoginPannelElement GatewayComboBox Property |
 | --- |

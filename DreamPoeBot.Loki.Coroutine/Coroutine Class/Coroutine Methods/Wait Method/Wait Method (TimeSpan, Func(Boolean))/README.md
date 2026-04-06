@@ -1,5 +1,6 @@
 # Wait Method (TimeSpan, Func(Boolean))
 
+**Вложено элементов:** 0  
 
 | Coroutine Wait Method (TimeSpan, Func Boolean ) |
 | --- |

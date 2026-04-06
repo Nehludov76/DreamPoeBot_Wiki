@@ -1,5 +1,6 @@
 # SearchBoxElement Property 
 
+**Вложено элементов:** 0  
 
 | CurrencyExchangeElement CurrencySelectionElement SearchBoxElement Property |
 | --- |

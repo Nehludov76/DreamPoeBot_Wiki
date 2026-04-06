@@ -1,5 +1,6 @@
 # Intersects Method (BoundingBox)
 
+**Вложено элементов:** 0  
 
 | BoundingBox Intersects Method (BoundingBox) |
 | --- |

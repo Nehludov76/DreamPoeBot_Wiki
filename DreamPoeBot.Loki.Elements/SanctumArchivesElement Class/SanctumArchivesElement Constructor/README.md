@@ -1,5 +1,6 @@
 # SanctumArchivesElement Constructor 
 
+**Вложено элементов:** 0  
 
 | SanctumArchivesElement Constructor |
 | --- |

@@ -1,5 +1,6 @@
 # IsPermanentlyAllocated Property 
 
+**Вложено элементов:** 0  
 
 | WorldItem IsPermanentlyAllocated Property |
 | --- |

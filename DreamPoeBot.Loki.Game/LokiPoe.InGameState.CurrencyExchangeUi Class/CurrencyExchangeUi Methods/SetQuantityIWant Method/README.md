@@ -1,5 +1,6 @@
 # SetQuantityIWant Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState CurrencyExchangeUi SetQuantityIWant Method |
 | --- |

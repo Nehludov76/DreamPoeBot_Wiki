@@ -1,5 +1,6 @@
 # InventoryControlWrapper Constructor 
 
+**Вложено элементов:** 0  
 
 | InventoryControlWrapper Constructor |
 | --- |

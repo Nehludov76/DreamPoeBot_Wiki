@@ -1,5 +1,6 @@
 # Remove Method (Int32)
 
+**Вложено элементов:** 0  
 
 | SkillBlacklist Remove Method (Int32) |
 | --- |

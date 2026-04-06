@@ -1,5 +1,6 @@
 # PropertyChanged Event
 
+**Вложено элементов:** 0  
 
 | PremiumContentClass PropertyChanged Event |
 | --- |

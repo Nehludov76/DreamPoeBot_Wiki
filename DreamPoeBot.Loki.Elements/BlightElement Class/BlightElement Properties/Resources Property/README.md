@@ -1,5 +1,6 @@
 # Resources Property 
 
+**Вложено элементов:** 0  
 
 | BlightElement Resources Property |
 | --- |

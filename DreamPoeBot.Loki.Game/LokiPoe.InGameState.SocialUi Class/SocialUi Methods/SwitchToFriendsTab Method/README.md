@@ -1,5 +1,6 @@
 # SwitchToFriendsTab Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SocialUi SwitchToFriendsTab Method |
 | --- |

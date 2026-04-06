@@ -1,5 +1,6 @@
 # TradeControlType Enumeration
 
+**Вложено элементов:** 0  
 
 | TradeControlType Enumeration |
 | --- |
@@ -30,7 +31,7 @@ public enum class TradeControlType
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| Sell | 0 |
-| Trade | 1 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | Sell | 0 |  |
+|  | Trade | 1 |  |

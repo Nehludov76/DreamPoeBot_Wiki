@@ -1,5 +1,6 @@
 # GetInventoryControlForMetadata Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState GuildStashUi BlightTab GetInventoryControlForMetadata Method |
 | --- |

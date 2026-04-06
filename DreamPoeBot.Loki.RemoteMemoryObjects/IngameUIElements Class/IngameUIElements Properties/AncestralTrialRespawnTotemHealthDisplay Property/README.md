@@ -1,5 +1,6 @@
 # AncestralTrialRespawnTotemHealthDisplay Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements AncestralTrialRespawnTotemHealthDisplay Property |
 | --- |

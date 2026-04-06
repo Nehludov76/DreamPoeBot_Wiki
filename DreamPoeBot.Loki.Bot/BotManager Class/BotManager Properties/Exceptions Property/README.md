@@ -1,5 +1,6 @@
 # Exceptions Property 
 
+**Вложено элементов:** 0  
 
 | BotManager Exceptions Property |
 | --- |

@@ -1,5 +1,6 @@
 # MapPinsAnId Property 
 
+**Вложено элементов:** 0  
 
 | DatQuestStateWrapper MapPinsAnId Property |
 | --- |

@@ -1,5 +1,6 @@
 # InventoryControl_ApexSentinel Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState InventoryUi Sentinels InventoryControl_ApexSentinel Property |
 | --- |

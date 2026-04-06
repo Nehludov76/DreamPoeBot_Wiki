@@ -1,5 +1,6 @@
 # jewelsPassive Field
 
+**Вложено элементов:** 0  
 
 | ServerData StructServerDataExtra jewelsPassive Field |
 | --- |

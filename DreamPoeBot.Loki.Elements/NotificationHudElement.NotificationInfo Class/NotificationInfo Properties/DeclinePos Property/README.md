@@ -1,5 +1,6 @@
 # DeclinePos Property 
 
+**Вложено элементов:** 0  
 
 | NotificationHudElement NotificationInfo DeclinePos Property |
 | --- |

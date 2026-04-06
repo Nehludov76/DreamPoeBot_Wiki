@@ -1,5 +1,6 @@
 # ContractFeesElement Property 
 
+**Вложено элементов:** 0  
 
 | GrandHeistContractElement ContractFeesElement Property |
 | --- |

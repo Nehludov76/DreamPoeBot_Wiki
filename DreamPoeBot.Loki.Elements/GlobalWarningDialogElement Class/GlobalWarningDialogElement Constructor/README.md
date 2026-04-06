@@ -1,5 +1,6 @@
 # GlobalWarningDialogElement Constructor 
 
+**Вложено элементов:** 0  
 
 | GlobalWarningDialogElement Constructor |
 | --- |

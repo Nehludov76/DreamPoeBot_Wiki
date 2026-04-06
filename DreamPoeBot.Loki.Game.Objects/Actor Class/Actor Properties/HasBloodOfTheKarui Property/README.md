@@ -1,5 +1,6 @@
 # HasBloodOfTheKarui Property 
 
+**Вложено элементов:** 0  
 
 | Actor HasBloodOfTheKarui Property |
 | --- |

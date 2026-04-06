@@ -1,5 +1,6 @@
 # AflictionSpentPoints Property 
 
+**Вложено элементов:** 0  
 
 | ServerData AflictionSpentPoints Property |
 | --- |

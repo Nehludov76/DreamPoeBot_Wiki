@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.SplitStackUi Class
 
+**Вложено элементов:** 9  
 
 | LokiPoe InGameState SplitStackUi Class |
 | --- |
@@ -30,16 +31,20 @@ public ref class SplitStackUi abstract sealed
 The LokiPoe InGameState SplitStackUi type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| IsOpened | Return true if the window is displayed. |
-| RemainingQuantity | Return the remaining number (the left number). |
-| SplitQuantity | Return the split number (the right number). |
+|  | Name | Description |
+| --- | --- | --- |
+|  | IsOpened | Return true if the window is displayed. |
+|  | RemainingQuantity | Return the remaining number (the left number). |
+|  | SplitQuantity | Return the split number (the right number). |
 
 
-| Name | Description |
-| --- | --- |
-| Accept | Click the confirmation button. |
-| Cancel | Click the cancel button. |
-| DecreaseSplitQuantity | Move the slider to the left. |
-| IncreaseSplitQuantity | Move the slider to the right. |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Accept | Click the confirmation button. |
+|  | Cancel | Click the cancel button. |
+|  | DecreaseSplitQuantity | Move the slider to the left. |
+|  | IncreaseSplitQuantity | Move the slider to the right. |
+
+## Дочерние разделы
+- [**SplitStackUi Properties**](./SplitStackUi Properties/README.md)
+- [**SplitStackUi Methods**](./SplitStackUi Methods/README.md)

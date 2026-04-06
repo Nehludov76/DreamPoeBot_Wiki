@@ -1,5 +1,6 @@
 # SkillElement Properties
 
+**Вложено элементов:** 5  
 
 | SkillElement Properties |
 | --- |
@@ -10,41 +11,48 @@
 The SkillElement type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Address | (Inherited from RemoteMemoryObject .) |
-| ChildCount | (Inherited from Element .) |
-| Children | (Inherited from Element .) |
-| ControlType | (Inherited from Element .) |
-| DeltaX | (Inherited from Element .) |
-| DeltaY | (Inherited from Element .) |
-| ElementZoom | (Inherited from Element .) |
-| Game | (Inherited from RemoteMemoryObject .) |
-| GuiControlType | (Inherited from Element .) |
-| Height | (Inherited from Element .) |
-| IdLabel | (Inherited from Element .) |
-| IsAssignedKeyOrIsActive |
-| IsEnable | (Inherited from Element .) |
-| IsItemTransparent | (Inherited from Element .) |
-| isUsing |
-| isValid |
-| IsValid | (Inherited from RemoteMemoryObject .) |
-| IsVisible | (Inherited from Element .) |
-| IsVisibleLocal | (Inherited from Element .) |
-| M | (Inherited from RemoteMemoryObject .) |
-| Offsets | (Inherited from RemoteMemoryObject .) |
-| Parent | (Inherited from Element .) |
-| Root | (Inherited from Element .) |
-| Scale | (Inherited from Element .) |
-| SkillIconPath |
-| Text | (Inherited from Element .) |
-| Tooltip | (Inherited from Element .) |
-| Tooltips | (Inherited from Element .) |
-| totalUses |
-| vTable | (Inherited from Element .) |
-| Width | (Inherited from Element .) |
-| X | (Inherited from Element .) |
-| XAddress | (Inherited from Element .) |
-| Y | (Inherited from Element .) |
-| YAddress | (Inherited from Element .) |
-| zoomAddress | (Inherited from Element .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Address | (Inherited from RemoteMemoryObject .) |
+|  | ChildCount | (Inherited from Element .) |
+|  | Children | (Inherited from Element .) |
+|  | ControlType | (Inherited from Element .) |
+|  | DeltaX | (Inherited from Element .) |
+|  | DeltaY | (Inherited from Element .) |
+|  | ElementZoom | (Inherited from Element .) |
+|  | Game | (Inherited from RemoteMemoryObject .) |
+|  | GuiControlType | (Inherited from Element .) |
+|  | Height | (Inherited from Element .) |
+|  | IdLabel | (Inherited from Element .) |
+|  | IsAssignedKeyOrIsActive |  |
+|  | IsEnable | (Inherited from Element .) |
+|  | IsItemTransparent | (Inherited from Element .) |
+|  | isUsing |  |
+|  | isValid |  |
+|  | IsValid | (Inherited from RemoteMemoryObject .) |
+|  | IsVisible | (Inherited from Element .) |
+|  | IsVisibleLocal | (Inherited from Element .) |
+|  | M | (Inherited from RemoteMemoryObject .) |
+|  | Offsets | (Inherited from RemoteMemoryObject .) |
+|  | Parent | (Inherited from Element .) |
+|  | Root | (Inherited from Element .) |
+|  | Scale | (Inherited from Element .) |
+|  | SkillIconPath |  |
+|  | Text | (Inherited from Element .) |
+|  | Tooltip | (Inherited from Element .) |
+|  | Tooltips | (Inherited from Element .) |
+|  | totalUses |  |
+|  | vTable | (Inherited from Element .) |
+|  | Width | (Inherited from Element .) |
+|  | X | (Inherited from Element .) |
+|  | XAddress | (Inherited from Element .) |
+|  | Y | (Inherited from Element .) |
+|  | YAddress | (Inherited from Element .) |
+|  | zoomAddress | (Inherited from Element .) |
+
+## Дочерние разделы
+- [**IsAssignedKeyOrIsActive Property **](./IsAssignedKeyOrIsActive Property/README.md)
+- [**isUsing Property **](./isUsing Property/README.md)
+- [**isValid Property **](./isValid Property/README.md)
+- [**SkillIconPath Property **](./SkillIconPath Property/README.md)
+- [**totalUses Property **](./totalUses Property/README.md)

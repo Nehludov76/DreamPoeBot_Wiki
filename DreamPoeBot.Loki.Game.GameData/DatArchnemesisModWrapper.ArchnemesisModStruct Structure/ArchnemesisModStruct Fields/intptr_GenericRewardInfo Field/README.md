@@ -1,5 +1,6 @@
 # intptr_GenericRewardInfo Field
 
+**Вложено элементов:** 0  
 
 | DatArchnemesisModWrapper ArchnemesisModStruct intptr_GenericRewardInfo Field |
 | --- |

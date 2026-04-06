@@ -1,5 +1,6 @@
 # PartyAllocation Property 
 
+**Вложено элементов:** 0  
 
 | PartyInvite PartyAllocation Property |
 | --- |

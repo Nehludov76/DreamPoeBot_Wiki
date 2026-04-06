@@ -1,5 +1,6 @@
 # PackLeaders Property 
 
+**Вложено элементов:** 0  
 
 | LanternOfArimorElement MonsterPack PackLeaders Property |
 | --- |

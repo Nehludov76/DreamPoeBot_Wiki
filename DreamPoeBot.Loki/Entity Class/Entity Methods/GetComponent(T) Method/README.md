@@ -1,5 +1,6 @@
 # GetComponent(T) Method 
 
+**Вложено элементов:** 0  
 
 | Entity GetComponent T Method |
 | --- |

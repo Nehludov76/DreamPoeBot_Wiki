@@ -1,5 +1,6 @@
 # GetVisibleLowerTabInventory Property 
 
+**Вложено элементов:** 0  
 
 | MerchantPanelElement GetVisibleLowerTabInventory Property |
 | --- |

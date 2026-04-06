@@ -1,5 +1,6 @@
 # structAtlasDataExtra Field
 
+**Вложено элементов:** 0  
 
 | ServerData StructNewServerData structAtlasDataExtra Field |
 | --- |

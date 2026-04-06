@@ -1,5 +1,6 @@
 # ShapersExaltedOrb Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState GuildStashUi CurrencyTab ShapersExaltedOrb Property |
 | --- |

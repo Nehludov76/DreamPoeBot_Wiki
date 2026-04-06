@@ -1,5 +1,6 @@
 # totalAtlasPassivePoints Field
 
+**Вложено элементов:** 0  
 
 | ServerData StructAtlasDataExtra totalAtlasPassivePoints Field |
 | --- |

@@ -1,5 +1,6 @@
 # MaxWave Property 
 
+**Вложено элементов:** 0  
 
 | AflictionInitiator MaxWave Property |
 | --- |

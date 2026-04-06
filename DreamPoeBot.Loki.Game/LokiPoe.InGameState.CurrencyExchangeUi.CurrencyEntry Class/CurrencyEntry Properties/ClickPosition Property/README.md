@@ -1,5 +1,6 @@
 # ClickPosition Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState CurrencyExchangeUi CurrencyEntry ClickPosition Property |
 | --- |

@@ -1,5 +1,6 @@
 # HasWaypoint Property 
 
+**Вложено элементов:** 0  
 
 | AreaInstance HasWaypoint Property |
 | --- |

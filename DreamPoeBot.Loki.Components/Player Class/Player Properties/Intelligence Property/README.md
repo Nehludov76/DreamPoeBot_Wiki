@@ -1,5 +1,6 @@
 # Intelligence Property 
 
+**Вложено элементов:** 0  
 
 | Player Intelligence Property |
 | --- |

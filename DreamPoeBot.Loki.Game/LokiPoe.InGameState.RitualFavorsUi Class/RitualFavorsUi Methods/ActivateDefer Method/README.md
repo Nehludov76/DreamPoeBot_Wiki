@@ -1,5 +1,6 @@
 # ActivateDefer Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState RitualFavorsUi ActivateDefer Method |
 | --- |

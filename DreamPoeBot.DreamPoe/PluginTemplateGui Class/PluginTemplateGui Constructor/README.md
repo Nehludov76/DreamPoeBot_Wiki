@@ -1,5 +1,6 @@
 # PluginTemplateGui Constructor 
 
+**Вложено элементов:** 0  
 
 | PluginTemplateGui Constructor |
 | --- |

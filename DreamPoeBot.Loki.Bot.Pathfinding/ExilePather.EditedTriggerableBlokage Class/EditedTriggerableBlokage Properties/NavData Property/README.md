@@ -1,5 +1,6 @@
 # NavData Property 
 
+**Вложено элементов:** 0  
 
 | ExilePather EditedTriggerableBlokage NavData Property |
 | --- |

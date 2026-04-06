@@ -1,5 +1,6 @@
 # StringStatTypeGGG Field
 
+**Вложено элементов:** 0  
 
 | LokiPoe StringStatTypeGGG Field |
 | --- |

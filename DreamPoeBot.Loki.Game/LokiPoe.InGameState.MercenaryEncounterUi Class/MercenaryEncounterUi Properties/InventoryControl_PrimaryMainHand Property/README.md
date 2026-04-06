@@ -1,5 +1,6 @@
 # InventoryControl_PrimaryMainHand Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState MercenaryEncounterUi InventoryControl_PrimaryMainHand Property |
 | --- |

@@ -1,5 +1,6 @@
 # EndApplyCursor Method 
 
+**Вложено элементов:** 0  
 
 | InventoryControlWrapper EndApplyCursor Method |
 | --- |

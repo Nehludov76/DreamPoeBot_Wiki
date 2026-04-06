@@ -1,5 +1,6 @@
 # BlessingofEsh Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState StashUi FragmentTab Breach BlessingofEsh Property |
 | --- |

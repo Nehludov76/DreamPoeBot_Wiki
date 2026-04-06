@@ -1,5 +1,6 @@
 # SentinelAssembly Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements SentinelAssembly Property |
 | --- |

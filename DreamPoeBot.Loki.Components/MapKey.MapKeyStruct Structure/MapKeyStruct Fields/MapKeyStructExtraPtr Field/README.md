@@ -1,5 +1,6 @@
 # MapKeyStructExtraPtr Field
 
+**Вложено элементов:** 0  
 
 | MapKey MapKeyStruct MapKeyStructExtraPtr Field |
 | --- |

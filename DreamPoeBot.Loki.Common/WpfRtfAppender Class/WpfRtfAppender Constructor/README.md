@@ -1,5 +1,6 @@
 # WpfRtfAppender Constructor 
 
+**Вложено элементов:** 0  
 
 | WpfRtfAppender Constructor |
 | --- |

@@ -1,5 +1,6 @@
 # MoreMonsterDamage Property 
 
+**Вложено элементов:** 0  
 
 | DelveLevelScalingWrapper MoreMonsterDamage Property |
 | --- |

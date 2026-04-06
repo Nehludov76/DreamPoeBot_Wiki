@@ -1,5 +1,6 @@
 # intptr_3Name Field
 
+**Вложено элементов:** 0  
 
 | DatPassiveSkillWrapper Struct131 intptr_3Name Field |
 | --- |

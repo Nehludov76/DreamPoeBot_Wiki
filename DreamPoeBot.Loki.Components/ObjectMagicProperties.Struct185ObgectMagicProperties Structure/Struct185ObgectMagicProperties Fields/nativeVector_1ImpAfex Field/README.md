@@ -1,5 +1,6 @@
 # nativeVector_1ImpAfex Field
 
+**Вложено элементов:** 0  
 
 | ObjectMagicProperties Struct185ObgectMagicProperties nativeVector_1ImpAfex Field |
 | --- |

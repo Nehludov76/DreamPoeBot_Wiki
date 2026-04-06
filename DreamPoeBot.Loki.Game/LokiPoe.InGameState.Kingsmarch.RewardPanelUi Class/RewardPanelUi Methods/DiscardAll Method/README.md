@@ -1,5 +1,6 @@
 # DiscardAll Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState Kingsmarch RewardPanelUi DiscardAll Method |
 | --- |

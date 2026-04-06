@@ -1,5 +1,6 @@
 # RequiredIntForNextLevel Property 
 
+**Вложено элементов:** 0  
 
 | Item RequiredIntForNextLevel Property |
 | --- |

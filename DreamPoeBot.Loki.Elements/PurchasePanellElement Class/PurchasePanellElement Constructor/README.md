@@ -1,5 +1,6 @@
 # PurchasePanellElement Constructor 
 
+**Вложено элементов:** 0  
 
 | PurchasePanellElement Constructor |
 | --- |

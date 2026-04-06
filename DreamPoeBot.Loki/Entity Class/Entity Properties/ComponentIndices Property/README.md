@@ -1,5 +1,6 @@
 # ComponentIndices Property 
 
+**Вложено элементов:** 0  
 
 | Entity ComponentIndices Property |
 | --- |

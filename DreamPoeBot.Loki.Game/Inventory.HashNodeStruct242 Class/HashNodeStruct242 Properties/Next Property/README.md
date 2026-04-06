@@ -1,5 +1,6 @@
 # Next Property 
 
+**Вложено элементов:** 0  
 
 | Inventory HashNodeStruct242 Next Property |
 | --- |

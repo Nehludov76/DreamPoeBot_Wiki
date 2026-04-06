@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.ProcessNotification Delegate
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ProcessNotification Delegate |
 | --- |

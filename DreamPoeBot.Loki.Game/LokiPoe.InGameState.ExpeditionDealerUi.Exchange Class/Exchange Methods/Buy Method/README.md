@@ -1,5 +1,6 @@
 # Buy Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ExpeditionDealerUi Exchange Buy Method |
 | --- |

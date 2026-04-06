@@ -1,5 +1,6 @@
 # LimitedLifespanComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation LimitedLifespanComponent Property |
 | --- |

@@ -1,5 +1,6 @@
 # AllocationBase Field
 
+**Вложено элементов:** 0  
 
 | WinApi MEMORY_BASIC_INFORMATION64 AllocationBase Field |
 | --- |

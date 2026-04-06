@@ -1,5 +1,6 @@
 # IsLabyrinthRollerTrap Property 
 
+**Вложено элементов:** 0  
 
 | NetworkObject IsLabyrinthRollerTrap Property |
 | --- |

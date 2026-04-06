@@ -1,5 +1,6 @@
 # TextPos Property 
 
+**Вложено элементов:** 0  
 
 | TradePriceItemDialogElement TextPos Property |
 | --- |

@@ -1,5 +1,6 @@
 # AvailableSkills Property 
 
+**Вложено элементов:** 0  
 
 | Actor AvailableSkills Property |
 | --- |

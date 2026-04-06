@@ -1,5 +1,6 @@
 # SelectedCategory Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState StashUi CurrencyTab SelectedCategory Method |
 | --- |

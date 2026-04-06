@@ -1,5 +1,6 @@
 # SelectOption Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState UltimatumTrialRewardUi SelectOption Method |
 | --- |

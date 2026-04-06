@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.GuildStashUi.EssenceTab.Hysteria Class
 
+**Вложено элементов:** 2  
 
 | LokiPoe InGameState GuildStashUi EssenceTab Hysteria Class |
 | --- |
@@ -32,6 +33,9 @@ public ref class Hysteria abstract sealed
 The LokiPoe InGameState GuildStashUi EssenceTab Hysteria type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Essence |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Essence |  |
+
+## Дочерние разделы
+- [**Hysteria Properties**](./Hysteria Properties/README.md)

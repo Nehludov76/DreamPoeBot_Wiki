@@ -1,5 +1,6 @@
 # IsClicked Property 
 
+**Вложено элементов:** 0  
 
 | MavenButtonElement IsClicked Property |
 | --- |

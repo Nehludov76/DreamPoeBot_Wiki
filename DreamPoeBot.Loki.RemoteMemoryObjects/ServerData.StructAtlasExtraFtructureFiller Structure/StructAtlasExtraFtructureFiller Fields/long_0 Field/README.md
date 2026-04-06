@@ -1,5 +1,6 @@
 # long_0 Field
 
+**Вложено элементов:** 0  
 
 | ServerData StructAtlasExtraFtructureFiller long_0 Field |
 | --- |

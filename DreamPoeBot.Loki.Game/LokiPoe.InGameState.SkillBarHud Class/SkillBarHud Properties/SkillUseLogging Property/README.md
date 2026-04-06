@@ -1,5 +1,6 @@
 # SkillUseLogging Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SkillBarHud SkillUseLogging Property |
 | --- |

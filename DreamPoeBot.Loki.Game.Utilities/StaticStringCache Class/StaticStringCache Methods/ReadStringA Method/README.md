@@ -1,5 +1,6 @@
 # ReadStringA Method 
 
+**Вложено элементов:** 0  
 
 | StaticStringCache ReadStringA Method |
 | --- |

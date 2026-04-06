@@ -1,5 +1,6 @@
 # ElementClickLocation Property 
 
+**Вложено элементов:** 0  
 
 | HeistDoorElement ElementClickLocation Property |
 | --- |

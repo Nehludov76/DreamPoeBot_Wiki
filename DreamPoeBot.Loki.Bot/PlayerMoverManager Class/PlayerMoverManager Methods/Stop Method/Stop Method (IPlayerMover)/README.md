@@ -1,5 +1,6 @@
 # Stop Method (IPlayerMover)
 
+**Вложено элементов:** 0  
 
 | PlayerMoverManager Stop Method (IPlayerMover) |
 | --- |

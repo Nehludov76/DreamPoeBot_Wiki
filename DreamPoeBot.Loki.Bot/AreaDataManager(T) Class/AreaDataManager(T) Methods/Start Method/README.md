@@ -1,5 +1,6 @@
 # Start Method 
 
+**Вложено элементов:** 0  
 
 | AreaDataManager T Start Method |
 | --- |

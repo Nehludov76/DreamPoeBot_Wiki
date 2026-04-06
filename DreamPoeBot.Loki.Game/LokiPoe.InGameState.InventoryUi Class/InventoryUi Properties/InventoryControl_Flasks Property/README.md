@@ -1,5 +1,6 @@
 # InventoryControl_Flasks Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState InventoryUi InventoryControl_Flasks Property |
 | --- |

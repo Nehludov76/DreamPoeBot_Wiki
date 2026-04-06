@@ -1,5 +1,6 @@
 # IsCursedWithDespair Property 
 
+**Вложено элементов:** 0  
 
 | Actor IsCursedWithDespair Property |
 | --- |

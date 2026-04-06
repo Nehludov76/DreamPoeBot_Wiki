@@ -1,5 +1,6 @@
 # Configuration Property 
 
+**Вложено элементов:** 0  
 
 | ConfigurationSavedEventArgs Configuration Property |
 | --- |

@@ -1,5 +1,6 @@
 # ReadPointersArray Method 
 
+**Вложено элементов:** 0  
 
 | Memory ReadPointersArray Method |
 | --- |

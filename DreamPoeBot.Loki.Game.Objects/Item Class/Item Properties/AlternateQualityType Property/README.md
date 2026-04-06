@@ -1,5 +1,6 @@
 # AlternateQualityType Property 
 
+**Вложено элементов:** 0  
 
 | Item AlternateQualityType Property |
 | --- |

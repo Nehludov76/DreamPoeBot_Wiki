@@ -1,5 +1,6 @@
 # WorldDescriptionComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation WorldDescriptionComponent Property |
 | --- |

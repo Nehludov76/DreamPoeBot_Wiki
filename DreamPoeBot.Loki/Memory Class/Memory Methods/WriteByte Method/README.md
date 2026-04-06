@@ -1,5 +1,6 @@
 # WriteByte Method 
 
+**Вложено элементов:** 0  
 
 | Memory WriteByte Method |
 | --- |

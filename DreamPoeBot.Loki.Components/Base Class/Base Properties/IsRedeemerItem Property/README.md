@@ -1,5 +1,6 @@
 # IsRedeemerItem Property 
 
+**Вложено элементов:** 0  
 
 | Base IsRedeemerItem Property |
 | --- |

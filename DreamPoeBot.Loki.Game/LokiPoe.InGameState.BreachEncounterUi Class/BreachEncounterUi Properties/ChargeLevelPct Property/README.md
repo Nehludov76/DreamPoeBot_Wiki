@@ -1,5 +1,6 @@
 # ChargeLevelPct Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState BreachEncounterUi ChargeLevelPct Property |
 | --- |

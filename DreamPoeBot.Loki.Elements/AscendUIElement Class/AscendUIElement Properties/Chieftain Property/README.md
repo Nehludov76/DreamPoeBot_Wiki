@@ -1,5 +1,6 @@
 # Chieftain Property 
 
+**Вложено элементов:** 0  
 
 | AscendUIElement Chieftain Property |
 | --- |

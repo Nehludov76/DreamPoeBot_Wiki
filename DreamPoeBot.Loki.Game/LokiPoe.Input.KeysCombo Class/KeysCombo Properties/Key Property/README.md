@@ -1,5 +1,6 @@
 # Key Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input KeysCombo Key Property |
 | --- |

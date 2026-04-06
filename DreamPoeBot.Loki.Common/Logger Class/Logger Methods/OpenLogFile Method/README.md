@@ -1,5 +1,6 @@
 # OpenLogFile Method 
 
+**Вложено элементов:** 0  
 
 | Logger OpenLogFile Method |
 | --- |

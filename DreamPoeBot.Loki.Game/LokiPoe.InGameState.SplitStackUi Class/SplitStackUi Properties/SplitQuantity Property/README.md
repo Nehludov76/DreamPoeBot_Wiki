@@ -1,5 +1,6 @@
 # SplitQuantity Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SplitStackUi SplitQuantity Property |
 | --- |

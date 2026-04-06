@@ -1,5 +1,6 @@
 # nodeStructureSize Field
 
+**Вложено элементов:** 0  
 
 | Containers nodeStructureSize Field |
 | --- |

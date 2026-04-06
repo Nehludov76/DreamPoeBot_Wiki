@@ -1,5 +1,6 @@
 # PlacementGraph Property 
 
+**Вложено элементов:** 0  
 
 | InventorySlotUiElement PlacementGraph Property |
 | --- |

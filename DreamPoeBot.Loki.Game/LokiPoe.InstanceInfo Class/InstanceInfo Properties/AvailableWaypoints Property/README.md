@@ -1,5 +1,6 @@
 # AvailableWaypoints Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo AvailableWaypoints Property |
 | --- |

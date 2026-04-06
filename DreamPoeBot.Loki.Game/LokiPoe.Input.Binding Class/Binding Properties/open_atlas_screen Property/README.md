@@ -1,5 +1,6 @@
 # open_atlas_screen Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input Binding open_atlas_screen Property |
 | --- |

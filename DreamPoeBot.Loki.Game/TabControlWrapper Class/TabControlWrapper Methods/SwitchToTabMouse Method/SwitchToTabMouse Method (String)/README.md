@@ -1,5 +1,6 @@
 # SwitchToTabMouse Method (String)
 
+**Вложено элементов:** 0  
 
 | TabControlWrapper SwitchToTabMouse Method (String) |
 | --- |

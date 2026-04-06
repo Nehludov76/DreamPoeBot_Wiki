@@ -1,5 +1,6 @@
 # GuildName Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState NotificationData GuildName Property |
 | --- |

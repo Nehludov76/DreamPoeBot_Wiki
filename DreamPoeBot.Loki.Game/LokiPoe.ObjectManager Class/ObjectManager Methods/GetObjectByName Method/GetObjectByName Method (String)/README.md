@@ -1,5 +1,6 @@
 # GetObjectByName Method (String)
 
+**Вложено элементов:** 0  
 
 | LokiPoe ObjectManager GetObjectByName Method (String) |
 | --- |

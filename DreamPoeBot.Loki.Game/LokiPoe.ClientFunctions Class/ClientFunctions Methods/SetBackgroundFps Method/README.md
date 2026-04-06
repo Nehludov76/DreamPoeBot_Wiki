@@ -1,5 +1,6 @@
 # SetBackgroundFps Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe ClientFunctions SetBackgroundFps Method |
 | --- |

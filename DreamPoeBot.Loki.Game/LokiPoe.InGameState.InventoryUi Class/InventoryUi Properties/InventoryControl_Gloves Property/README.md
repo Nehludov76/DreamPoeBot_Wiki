@@ -1,5 +1,6 @@
 # InventoryControl_Gloves Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState InventoryUi InventoryControl_Gloves Property |
 | --- |

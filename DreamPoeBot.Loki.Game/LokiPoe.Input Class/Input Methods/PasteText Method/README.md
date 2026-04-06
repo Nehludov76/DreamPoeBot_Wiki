@@ -1,5 +1,6 @@
 # PasteText Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input PasteText Method |
 | --- |

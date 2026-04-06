@@ -1,5 +1,6 @@
 # ContainDescription1 Property 
 
+**Вложено элементов:** 0  
 
 | SanctumArchivesElement SanctumRoom ContainDescription1 Property |
 | --- |

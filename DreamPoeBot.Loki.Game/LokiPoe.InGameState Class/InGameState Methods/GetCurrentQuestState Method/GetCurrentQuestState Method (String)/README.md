@@ -1,5 +1,6 @@
 # GetCurrentQuestState Method (String)
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState GetCurrentQuestState Method (String) |
 | --- |

@@ -1,5 +1,6 @@
 # Reward Property 
 
+**Вложено элементов:** 0  
 
 | UltimatumTrial Reward Property |
 | --- |

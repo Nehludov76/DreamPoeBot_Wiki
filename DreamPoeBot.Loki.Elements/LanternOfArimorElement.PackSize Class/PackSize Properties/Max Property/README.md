@@ -1,5 +1,6 @@
 # Max Property 
 
+**Вложено элементов:** 0  
 
 | LanternOfArimorElement PackSize Max Property |
 | --- |

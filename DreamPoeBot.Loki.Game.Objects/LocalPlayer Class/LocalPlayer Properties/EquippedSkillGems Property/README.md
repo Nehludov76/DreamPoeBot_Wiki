@@ -1,5 +1,6 @@
 # EquippedSkillGems Property 
 
+**Вложено элементов:** 0  
 
 | LocalPlayer EquippedSkillGems Property |
 | --- |

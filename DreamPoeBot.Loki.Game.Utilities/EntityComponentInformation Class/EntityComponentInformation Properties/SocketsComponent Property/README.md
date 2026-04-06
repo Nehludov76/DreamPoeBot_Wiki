@@ -1,5 +1,6 @@
 # SocketsComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation SocketsComponent Property |
 | --- |

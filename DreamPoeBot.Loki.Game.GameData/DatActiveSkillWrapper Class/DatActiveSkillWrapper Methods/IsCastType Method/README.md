@@ -1,5 +1,6 @@
 # IsCastType Method 
 
+**Вложено элементов:** 0  
 
 | DatActiveSkillWrapper IsCastType Method |
 | --- |

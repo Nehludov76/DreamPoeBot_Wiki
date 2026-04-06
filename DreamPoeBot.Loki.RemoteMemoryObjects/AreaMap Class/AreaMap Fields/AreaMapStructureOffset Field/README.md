@@ -1,5 +1,6 @@
 # AreaMapStructureOffset Field
 
+**Вложено элементов:** 0  
 
 | AreaMap AreaMapStructureOffset Field |
 | --- |

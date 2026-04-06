@@ -1,5 +1,6 @@
 # MePtr Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe LocalData MePtr Property |
 | --- |

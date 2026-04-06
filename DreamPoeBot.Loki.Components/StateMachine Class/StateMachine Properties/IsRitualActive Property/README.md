@@ -1,5 +1,6 @@
 # IsRitualActive Property 
 
+**Вложено элементов:** 0  
 
 | StateMachine IsRitualActive Property |
 | --- |

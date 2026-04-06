@@ -1,5 +1,6 @@
 # SettingsPath Property 
 
+**Вложено элементов:** 0  
 
 | JsonSettings SettingsPath Property |
 | --- |

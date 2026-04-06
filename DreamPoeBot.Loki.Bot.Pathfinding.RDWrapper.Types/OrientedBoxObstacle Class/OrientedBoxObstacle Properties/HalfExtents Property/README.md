@@ -1,5 +1,6 @@
 # HalfExtents Property 
 
+**Вложено элементов:** 0  
 
 | OrientedBoxObstacle HalfExtents Property |
 | --- |

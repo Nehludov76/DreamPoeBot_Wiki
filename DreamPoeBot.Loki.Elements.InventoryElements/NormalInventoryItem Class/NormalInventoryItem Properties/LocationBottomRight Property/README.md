@@ -1,5 +1,6 @@
 # LocationBottomRight Property 
 
+**Вложено элементов:** 0  
 
 | NormalInventoryItem LocationBottomRight Property |
 | --- |

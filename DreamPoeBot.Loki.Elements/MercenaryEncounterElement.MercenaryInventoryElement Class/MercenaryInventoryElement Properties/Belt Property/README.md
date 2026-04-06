@@ -1,5 +1,6 @@
 # Belt Property 
 
+**Вложено элементов:** 0  
 
 | MercenaryEncounterElement MercenaryInventoryElement Belt Property |
 | --- |

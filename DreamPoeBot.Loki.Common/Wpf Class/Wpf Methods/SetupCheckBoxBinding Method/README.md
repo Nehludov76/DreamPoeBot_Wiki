@@ -1,5 +1,6 @@
 # SetupCheckBoxBinding Method 
 
+**Вложено элементов:** 0  
 
 | Wpf SetupCheckBoxBinding Method |
 | --- |

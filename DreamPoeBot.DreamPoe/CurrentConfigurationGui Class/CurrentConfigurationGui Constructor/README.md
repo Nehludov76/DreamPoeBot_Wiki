@@ -1,5 +1,6 @@
 # CurrentConfigurationGui Constructor 
 
+**Вложено элементов:** 0  
 
 | CurrentConfigurationGui Constructor |
 | --- |

@@ -1,5 +1,6 @@
 # ResAtCheckpointClickPos Property 
 
+**Вложено элементов:** 0  
 
 | ResurrectElement ResAtCheckpointClickPos Property |
 | --- |

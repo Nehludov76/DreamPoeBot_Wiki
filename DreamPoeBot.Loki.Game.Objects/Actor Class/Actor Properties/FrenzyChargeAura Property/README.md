@@ -1,5 +1,6 @@
 # FrenzyChargeAura Property 
 
+**Вложено элементов:** 0  
 
 | Actor FrenzyChargeAura Property |
 | --- |

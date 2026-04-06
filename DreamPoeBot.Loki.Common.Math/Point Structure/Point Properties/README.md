@@ -1,5 +1,6 @@
 # Point Properties
 
+**Вложено элементов:** 1  
 
 | Point Properties |
 | --- |
@@ -10,6 +11,9 @@
 The Point type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Zero |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Zero |  |
+
+## Дочерние разделы
+- [**Zero Property **](./Zero Property/README.md)

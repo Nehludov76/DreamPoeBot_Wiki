@@ -1,5 +1,6 @@
 # AddInputs Method 
 
+**Вложено элементов:** 0  
 
 | Message AddInputs Method |
 | --- |

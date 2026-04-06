@@ -1,5 +1,6 @@
 # Bargain Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SyndicateUI Bargain Method |
 | --- |

@@ -1,5 +1,6 @@
 # AttackInPlaceElement Property 
 
+**Вложено элементов:** 0  
 
 | HiddenSkillBarElement AttackInPlaceElement Property |
 | --- |

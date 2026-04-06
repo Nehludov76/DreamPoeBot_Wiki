@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.StashUi.EssenceTab.Suffering Class
 
+**Вложено элементов:** 6  
 
 | LokiPoe InGameState StashUi EssenceTab Suffering Class |
 | --- |
@@ -32,10 +33,13 @@ public ref class Suffering abstract sealed
 The LokiPoe InGameState StashUi EssenceTab Suffering type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Deafening |
-| Screaming |
-| Shrieking |
-| Wailing |
-| Weeping |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Deafening |  |
+|  | Screaming |  |
+|  | Shrieking |  |
+|  | Wailing |  |
+|  | Weeping |  |
+
+## Дочерние разделы
+- [**Suffering Properties**](./Suffering Properties/README.md)

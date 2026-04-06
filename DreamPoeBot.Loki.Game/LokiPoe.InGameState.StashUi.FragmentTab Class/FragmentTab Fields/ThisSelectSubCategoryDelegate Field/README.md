@@ -1,5 +1,6 @@
 # ThisSelectSubCategoryDelegate Field
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState StashUi FragmentTab ThisSelectSubCategoryDelegate Field |
 | --- |

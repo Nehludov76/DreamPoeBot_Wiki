@@ -1,5 +1,6 @@
 # VertexCount Property 
 
+**Вложено элементов:** 0  
 
 | TileDebugData VertexCount Property |
 | --- |

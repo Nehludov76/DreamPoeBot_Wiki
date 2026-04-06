@@ -1,5 +1,6 @@
 # SelectedCharacterClass Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe CaracterCreationState SelectedCharacterClass Property |
 | --- |

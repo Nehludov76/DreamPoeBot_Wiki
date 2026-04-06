@@ -1,5 +1,6 @@
 # SetInventorySlotUi Method 
 
+**Вложено элементов:** 0  
 
 | InventoryControlWrapper SetInventorySlotUi Method |
 | --- |

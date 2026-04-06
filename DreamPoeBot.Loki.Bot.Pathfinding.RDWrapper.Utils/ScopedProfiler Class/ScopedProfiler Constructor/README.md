@@ -1,5 +1,6 @@
 # ScopedProfiler Constructor 
 
+**Вложено элементов:** 0  
 
 | ScopedProfiler Constructor |
 | --- |

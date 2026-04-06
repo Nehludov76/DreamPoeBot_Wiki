@@ -1,5 +1,6 @@
 # PlayerMoverManager Class
 
+**Вложено элементов:** 23  
 
 | PlayerMoverManager Class |
 | --- |
@@ -32,30 +33,35 @@ public ref class PlayerMoverManager abstract sealed
 The PlayerMoverManager type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Current |
-| CurrentCommand |
-| PlayerMovers |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Current |  |
+|  | CurrentCommand |  |
+|  | PlayerMovers |  |
 
 
-| Name | Description |
-| --- | --- |
-| MoveTowards |
-| Start |
-| Start(IPlayerMover) |
-| Stop |
-| Stop(IPlayerMover) |
-| Tick |
-| Tick(IPlayerMover) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | MoveTowards |  |
+|  | Start |  |
+|  | Start(IPlayerMover) |  |
+|  | Stop |  |
+|  | Stop(IPlayerMover) |  |
+|  | Tick |  |
+|  | Tick(IPlayerMover) |  |
 
 
-| Name | Description |
-| --- | --- |
-| OnPlayerMoverChanged |
-| PostStart |
-| PostStop |
-| PostTick |
-| PreStart |
-| PreStop |
-| PreTick |
+|  | Name | Description |
+| --- | --- | --- |
+|  | OnPlayerMoverChanged |  |
+|  | PostStart |  |
+|  | PostStop |  |
+|  | PostTick |  |
+|  | PreStart |  |
+|  | PreStop |  |
+|  | PreTick |  |
+
+## Дочерние разделы
+- [**PlayerMoverManager Properties**](./PlayerMoverManager Properties/README.md)
+- [**PlayerMoverManager Methods**](./PlayerMoverManager Methods/README.md)
+- [**PlayerMoverManager Events**](./PlayerMoverManager Events/README.md)

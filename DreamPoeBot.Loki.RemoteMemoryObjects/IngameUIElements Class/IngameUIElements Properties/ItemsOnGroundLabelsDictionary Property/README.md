@@ -1,5 +1,6 @@
 # ItemsOnGroundLabelsDictionary Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements ItemsOnGroundLabelsDictionary Property |
 | --- |

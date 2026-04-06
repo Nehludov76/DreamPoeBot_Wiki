@@ -1,5 +1,6 @@
 # ModsComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation ModsComponent Property |
 | --- |

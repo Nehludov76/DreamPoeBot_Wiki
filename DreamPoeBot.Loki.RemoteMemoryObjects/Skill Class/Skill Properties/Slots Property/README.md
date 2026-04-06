@@ -1,5 +1,6 @@
 # Slots Property 
 
+**Вложено элементов:** 0  
 
 | Skill Slots Property |
 | --- |

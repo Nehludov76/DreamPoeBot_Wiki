@@ -1,5 +1,6 @@
 # IsInSanctum Method (Int32, Int32)
 
+**Вложено элементов:** 0  
 
 | GridExplorer SanctumDataClass IsInSanctum Method (Int32, Int32) |
 | --- |

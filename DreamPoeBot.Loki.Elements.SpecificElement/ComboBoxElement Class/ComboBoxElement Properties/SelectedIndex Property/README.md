@@ -1,5 +1,6 @@
 # SelectedIndex Property 
 
+**Вложено элементов:** 0  
 
 | ComboBoxElement SelectedIndex Property |
 | --- |

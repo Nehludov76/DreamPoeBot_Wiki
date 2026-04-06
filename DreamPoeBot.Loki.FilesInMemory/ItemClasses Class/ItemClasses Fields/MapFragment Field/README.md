@@ -1,5 +1,6 @@
 # MapFragment Field
 
+**Вложено элементов:** 0  
 
 | ItemClasses MapFragment Field |
 | --- |

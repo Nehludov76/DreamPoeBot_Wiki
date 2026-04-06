@@ -1,5 +1,6 @@
 # IConfigurable Interface
 
+**Вложено элементов:** 3  
 
 | IConfigurable Interface |
 | --- |
@@ -32,7 +33,10 @@ public interface class IConfigurable
 The IConfigurable type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Control |
-| Settings |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Control |  |
+|  | Settings |  |
+
+## Дочерние разделы
+- [**IConfigurable Properties**](./IConfigurable Properties/README.md)

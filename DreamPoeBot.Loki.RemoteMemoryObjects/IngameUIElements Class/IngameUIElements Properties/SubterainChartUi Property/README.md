@@ -1,5 +1,6 @@
 # SubterainChartUi Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements SubterainChartUi Property |
 | --- |

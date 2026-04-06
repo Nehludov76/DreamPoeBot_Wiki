@@ -1,5 +1,6 @@
 # Helm Property 
 
+**Вложено элементов:** 0  
 
 | Inventories Helm Property |
 | --- |

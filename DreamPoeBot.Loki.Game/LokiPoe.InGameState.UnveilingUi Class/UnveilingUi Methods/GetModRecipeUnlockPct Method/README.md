@@ -1,5 +1,6 @@
 # GetModRecipeUnlockPct Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState UnveilingUi GetModRecipeUnlockPct Method |
 | --- |

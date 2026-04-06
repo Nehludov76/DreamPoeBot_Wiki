@@ -1,5 +1,6 @@
 # LowerPageContainer Property 
 
+**Вложено элементов:** 0  
 
 | MerchantPanelElement LowerPageContainer Property |
 | --- |

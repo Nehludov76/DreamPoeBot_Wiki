@@ -1,5 +1,6 @@
 # PlayerChest Property 
 
+**Вложено элементов:** 0  
 
 | InventoryElement PlayerChest Property |
 | --- |

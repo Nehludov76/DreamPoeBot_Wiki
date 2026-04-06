@@ -1,5 +1,6 @@
 # IntPtr_IsAscendUiUnlocked Property 
 
+**Вложено элементов:** 0  
 
 | PassiveTreeElement IntPtr_IsAscendUiUnlocked Property |
 | --- |

@@ -1,5 +1,6 @@
 # PluginManager Class
 
+**Вложено элементов:** 26  
 
 | PluginManager Class |
 | --- |
@@ -32,33 +33,38 @@ public ref class PluginManager abstract sealed
 The PluginManager type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| DisabledPlugins |
-| EnabledPlugins |
-| Plugins |
+|  | Name | Description |
+| --- | --- | --- |
+|  | DisabledPlugins |  |
+|  | EnabledPlugins |  |
+|  | Plugins |  |
 
 
-| Name | Description |
-| --- | --- |
-| Disable(String) |
-| Disable(IPlugin) |
-| Enable(String) |
-| Enable(IPlugin) |
-| IsEnabled(String) |
-| IsEnabled(IPlugin) |
-| Start |
-| Stop |
-| Tick |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Disable(String) |  |
+|  | Disable(IPlugin) |  |
+|  | Enable(String) |  |
+|  | Enable(IPlugin) |  |
+|  | IsEnabled(String) |  |
+|  | IsEnabled(IPlugin) |  |
+|  | Start |  |
+|  | Stop |  |
+|  | Tick |  |
 
 
-| Name | Description |
-| --- | --- |
-| OnPluginDisabled |
-| OnPluginEnabled |
-| PostStart |
-| PostStop |
-| PostTick |
-| PreStart |
-| PreStop |
-| PreTick |
+|  | Name | Description |
+| --- | --- | --- |
+|  | OnPluginDisabled |  |
+|  | OnPluginEnabled |  |
+|  | PostStart |  |
+|  | PostStop |  |
+|  | PostTick |  |
+|  | PreStart |  |
+|  | PreStop |  |
+|  | PreTick |  |
+
+## Дочерние разделы
+- [**PluginManager Properties**](./PluginManager Properties/README.md)
+- [**PluginManager Methods**](./PluginManager Methods/README.md)
+- [**PluginManager Events**](./PluginManager Events/README.md)

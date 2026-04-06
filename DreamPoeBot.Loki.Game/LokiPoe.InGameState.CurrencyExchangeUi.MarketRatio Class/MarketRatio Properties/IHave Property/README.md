@@ -1,5 +1,6 @@
 # IHave Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState CurrencyExchangeUi MarketRatio IHave Property |
 | --- |

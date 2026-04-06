@@ -1,5 +1,6 @@
 # DeferedItemsVector Field
 
+**Вложено элементов:** 0  
 
 | ServerData StructRitualData DeferedItemsVector Field |
 | --- |

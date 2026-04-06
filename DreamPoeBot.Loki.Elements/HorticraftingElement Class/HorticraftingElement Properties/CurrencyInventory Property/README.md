@@ -1,5 +1,6 @@
 # CurrencyInventory Property 
 
+**Вложено элементов:** 0  
 
 | HorticraftingElement CurrencyInventory Property |
 | --- |

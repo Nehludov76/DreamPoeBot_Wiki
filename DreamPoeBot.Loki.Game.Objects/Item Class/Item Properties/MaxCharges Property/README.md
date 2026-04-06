@@ -1,5 +1,6 @@
 # MaxCharges Property 
 
+**Вложено элементов:** 0  
 
 | Item MaxCharges Property |
 | --- |

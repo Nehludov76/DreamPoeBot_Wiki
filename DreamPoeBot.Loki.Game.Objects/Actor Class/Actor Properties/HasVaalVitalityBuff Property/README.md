@@ -1,5 +1,6 @@
 # HasVaalVitalityBuff Property 
 
+**Вложено элементов:** 0  
 
 | Actor HasVaalVitalityBuff Property |
 | --- |

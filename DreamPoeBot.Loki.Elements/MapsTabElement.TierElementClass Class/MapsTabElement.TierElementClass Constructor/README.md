@@ -1,5 +1,6 @@
 # MapsTabElement.TierElementClass Constructor 
 
+**Вложено элементов:** 0  
 
 | MapsTabElement TierElementClass Constructor |
 | --- |

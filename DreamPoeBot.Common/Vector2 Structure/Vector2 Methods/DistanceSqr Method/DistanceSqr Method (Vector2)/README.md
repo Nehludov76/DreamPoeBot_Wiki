@@ -1,5 +1,6 @@
 # DistanceSqr Method (Vector2)
 
+**Вложено элементов:** 0  
 
 | Vector2 DistanceSqr Method (Vector2 ) |
 | --- |

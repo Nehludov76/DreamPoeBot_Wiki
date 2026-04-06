@@ -1,5 +1,6 @@
 # HeistContractUi Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements HeistContractUi Property |
 | --- |

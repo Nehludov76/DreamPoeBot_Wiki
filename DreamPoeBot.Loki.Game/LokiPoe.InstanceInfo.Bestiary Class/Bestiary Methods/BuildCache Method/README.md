@@ -1,5 +1,6 @@
 # BuildCache Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo Bestiary BuildCache Method |
 | --- |

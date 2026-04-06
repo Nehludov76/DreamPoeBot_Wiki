@@ -1,5 +1,6 @@
 # IsCurrencySelectionPanelOpen Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState CurrencyExchangeUi IsCurrencySelectionPanelOpen Property |
 | --- |

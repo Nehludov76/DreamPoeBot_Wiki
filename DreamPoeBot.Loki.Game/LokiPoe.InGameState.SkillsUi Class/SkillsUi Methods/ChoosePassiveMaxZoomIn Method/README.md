@@ -1,5 +1,6 @@
 # ChoosePassiveMaxZoomIn Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SkillsUi ChoosePassiveMaxZoomIn Method |
 | --- |

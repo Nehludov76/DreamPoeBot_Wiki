@@ -1,5 +1,6 @@
 # GetItemById Method 
 
+**Вложено элементов:** 0  
 
 | Inventory GetItemById Method |
 | --- |

@@ -1,5 +1,6 @@
 # RegisteredHotkeys Property 
 
+**Вложено элементов:** 0  
 
 | Hotkeys RegisteredHotkeys Property |
 | --- |

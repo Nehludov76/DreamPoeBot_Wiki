@@ -1,5 +1,6 @@
 # BestiaryScarab Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState StashUi FragmentTab Scarab BestiaryScarab Property |
 | --- |

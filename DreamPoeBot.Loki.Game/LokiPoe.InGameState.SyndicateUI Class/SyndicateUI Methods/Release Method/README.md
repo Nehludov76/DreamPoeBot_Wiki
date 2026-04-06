@@ -1,5 +1,6 @@
 # Release Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SyndicateUI Release Method |
 | --- |

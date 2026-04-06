@@ -1,5 +1,6 @@
 # ExperienceMultiplier Property 
 
+**Вложено элементов:** 0  
 
 | MonsterVariety ExperienceMultiplier Property |
 | --- |

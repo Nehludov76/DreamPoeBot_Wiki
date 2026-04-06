@@ -1,5 +1,6 @@
 # WriteProcessMemory Method 
 
+**Вложено элементов:** 0  
 
 | WinApi WriteProcessMemory Method |
 | --- |

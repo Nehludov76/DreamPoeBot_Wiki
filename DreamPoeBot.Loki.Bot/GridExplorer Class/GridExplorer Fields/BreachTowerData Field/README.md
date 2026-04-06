@@ -1,5 +1,6 @@
 # BreachTowerData Field
 
+**Вложено элементов:** 0  
 
 | GridExplorer BreachTowerData Field |
 | --- |

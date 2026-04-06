@@ -1,5 +1,6 @@
 # TierYellow Property 
 
+**Вложено элементов:** 0  
 
 | ZanaMissionElement TierYellow Property |
 | --- |

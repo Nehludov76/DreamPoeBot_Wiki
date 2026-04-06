@@ -1,5 +1,6 @@
 # MonsterVariety Constructor 
 
+**Вложено элементов:** 0  
 
 | MonsterVariety Constructor |
 | --- |

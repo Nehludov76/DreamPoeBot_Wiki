@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.StashUi.MapsTab.SelectTierResult Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState StashUi MapsTab SelectTierResult Enumeration |
 | --- |
@@ -30,9 +31,9 @@ public enum class SelectTierResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| InvalidTier | 1 |
-| InvalidControl | 2 |
-| TierListNotLoaded | 3 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | InvalidTier | 1 |  |
+|  | InvalidControl | 2 |  |
+|  | TierListNotLoaded | 3 |  |

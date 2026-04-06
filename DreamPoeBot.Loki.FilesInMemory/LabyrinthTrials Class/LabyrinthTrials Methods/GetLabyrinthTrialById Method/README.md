@@ -1,5 +1,6 @@
 # GetLabyrinthTrialById Method 
 
+**Вложено элементов:** 0  
 
 | LabyrinthTrials GetLabyrinthTrialById Method |
 | --- |

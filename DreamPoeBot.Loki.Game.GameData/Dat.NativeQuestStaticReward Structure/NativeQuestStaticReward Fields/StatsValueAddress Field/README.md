@@ -1,5 +1,6 @@
 # StatsValueAddress Field
 
+**Вложено элементов:** 0  
 
 | Dat NativeQuestStaticReward StatsValueAddress Field |
 | --- |

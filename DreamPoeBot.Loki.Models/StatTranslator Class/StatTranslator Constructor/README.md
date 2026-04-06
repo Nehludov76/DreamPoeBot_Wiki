@@ -1,5 +1,6 @@
 # StatTranslator Constructor 
 
+**Вложено элементов:** 0  
 
 | StatTranslator Constructor |
 | --- |

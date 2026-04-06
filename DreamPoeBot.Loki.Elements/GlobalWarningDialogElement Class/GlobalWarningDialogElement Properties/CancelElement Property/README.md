@@ -1,5 +1,6 @@
 # CancelElement Property 
 
+**Вложено элементов:** 0  
 
 | GlobalWarningDialogElement CancelElement Property |
 | --- |

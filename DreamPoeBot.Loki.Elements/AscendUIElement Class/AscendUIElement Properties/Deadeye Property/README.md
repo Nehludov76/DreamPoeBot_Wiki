@@ -1,5 +1,6 @@
 # Deadeye Property 
 
+**Вложено элементов:** 0  
 
 | AscendUIElement Deadeye Property |
 | --- |

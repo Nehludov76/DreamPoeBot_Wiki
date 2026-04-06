@@ -1,5 +1,6 @@
 # ThisLocationSelectorDelegate Field
 
+**Вложено элементов:** 0  
 
 | GridExplorer ThisLocationSelectorDelegate Field |
 | --- |

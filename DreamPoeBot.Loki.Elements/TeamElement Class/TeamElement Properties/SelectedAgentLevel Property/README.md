@@ -1,5 +1,6 @@
 # SelectedAgentLevel Property 
 
+**Вложено элементов:** 0  
 
 | TeamElement SelectedAgentLevel Property |
 | --- |

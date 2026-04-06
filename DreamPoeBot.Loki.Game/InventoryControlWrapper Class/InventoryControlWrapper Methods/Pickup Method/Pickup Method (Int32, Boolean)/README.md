@@ -1,5 +1,6 @@
 # Pickup Method (Int32, Boolean)
 
+**Вложено элементов:** 0  
 
 | InventoryControlWrapper Pickup Method (Int32, Boolean) |
 | --- |

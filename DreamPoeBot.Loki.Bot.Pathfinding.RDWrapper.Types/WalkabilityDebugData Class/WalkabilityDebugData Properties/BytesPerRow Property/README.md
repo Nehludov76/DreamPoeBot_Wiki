@@ -1,5 +1,6 @@
 # BytesPerRow Property 
 
+**Вложено элементов:** 0  
 
 | WalkabilityDebugData BytesPerRow Property |
 | --- |

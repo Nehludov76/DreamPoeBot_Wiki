@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.ConverseResult Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ConverseResult Enumeration |
 | --- |
@@ -30,12 +31,12 @@ public enum class ConverseResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| ProcessHookManagerNotEnabled | 1 |
-| DialogNotFound | 2 |
-| DialogNotVisible | 3 |
-| UiNotOpen | 4 |
-| IncorrectDialogWindowDepth | 5 |
-| ChatEntryDisabled | 6 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | ProcessHookManagerNotEnabled | 1 |  |
+|  | DialogNotFound | 2 |  |
+|  | DialogNotVisible | 3 |  |
+|  | UiNotOpen | 4 |  |
+|  | IncorrectDialogWindowDepth | 5 |  |
+|  | ChatEntryDisabled | 6 |  |

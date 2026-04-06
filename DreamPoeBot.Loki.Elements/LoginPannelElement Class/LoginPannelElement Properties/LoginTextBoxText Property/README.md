@@ -1,5 +1,6 @@
 # LoginTextBoxText Property 
 
+**Вложено элементов:** 0  
 
 | LoginPannelElement LoginTextBoxText Property |
 | --- |

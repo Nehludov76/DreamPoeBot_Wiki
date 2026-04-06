@@ -1,5 +1,6 @@
 # Util Class
 
+**Вложено элементов:** 3  
 
 | Util Class |
 | --- |
@@ -32,7 +33,10 @@ public ref class Util abstract sealed
 The Util type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| CalculateMD5Hash |
-| RandomWindowTitle |
+|  | Name | Description |
+| --- | --- | --- |
+|  | CalculateMD5Hash |  |
+|  | RandomWindowTitle |  |
+
+## Дочерние разделы
+- [**Util Methods**](./Util Methods/README.md)

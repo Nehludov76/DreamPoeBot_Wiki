@@ -1,5 +1,6 @@
 # BodyElement Property 
 
+**Вложено элементов:** 0  
 
 | GlobalWarningDialogElement BodyElement Property |
 | --- |

@@ -1,5 +1,6 @@
 # GetPointAt Method 
 
+**Вложено элементов:** 0  
 
 | MathEx GetPointAt Method |
 | --- |

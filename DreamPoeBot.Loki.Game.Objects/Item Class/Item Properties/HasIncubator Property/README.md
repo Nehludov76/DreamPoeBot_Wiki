@@ -1,5 +1,6 @@
 # HasIncubator Property 
 
+**Вложено элементов:** 0  
 
 | Item HasIncubator Property |
 | --- |

@@ -1,5 +1,6 @@
 # CreateCircle Method 
 
+**Вложено элементов:** 0  
 
 | pObstacle CreateCircle Method |
 | --- |

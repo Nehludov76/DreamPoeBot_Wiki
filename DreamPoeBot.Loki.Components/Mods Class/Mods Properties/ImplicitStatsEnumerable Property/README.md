@@ -1,5 +1,6 @@
 # ImplicitStatsEnumerable Property 
 
+**Вложено элементов:** 0  
 
 | Mods ImplicitStatsEnumerable Property |
 | --- |

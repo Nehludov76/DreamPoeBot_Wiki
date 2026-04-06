@@ -1,5 +1,6 @@
 # StackableCurrency Field
 
+**Вложено элементов:** 0  
 
 | ItemClasses StackableCurrency Field |
 | --- |

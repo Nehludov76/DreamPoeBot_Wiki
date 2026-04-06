@@ -1,5 +1,6 @@
 # intPtr_PauseFlag1 Field
 
+**Вложено элементов:** 0  
 
 | IngameData StructInGameData intPtr_PauseFlag1 Field |
 | --- |

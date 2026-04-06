@@ -1,5 +1,6 @@
 # MaximumAttackDistance Property 
 
+**Вложено элементов:** 0  
 
 | MonsterVariety MaximumAttackDistance Property |
 | --- |

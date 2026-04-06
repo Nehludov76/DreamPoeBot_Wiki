@@ -1,5 +1,6 @@
 # Resume Method 
 
+**Вложено элементов:** 0  
 
 | Coroutine Resume Method |
 | --- |

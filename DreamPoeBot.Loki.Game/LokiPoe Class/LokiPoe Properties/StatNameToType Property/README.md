@@ -1,5 +1,6 @@
 # StatNameToType Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe StatNameToType Property |
 | --- |

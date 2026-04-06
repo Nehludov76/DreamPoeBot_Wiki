@@ -1,5 +1,6 @@
 # PricePerUnit Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ExpeditionDealerUi Exchange PricePerUnit Property |
 | --- |

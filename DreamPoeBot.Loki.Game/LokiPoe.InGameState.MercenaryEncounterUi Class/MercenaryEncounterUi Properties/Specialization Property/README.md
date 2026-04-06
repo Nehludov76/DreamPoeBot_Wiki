@@ -1,5 +1,6 @@
 # Specialization Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState MercenaryEncounterUi Specialization Property |
 | --- |

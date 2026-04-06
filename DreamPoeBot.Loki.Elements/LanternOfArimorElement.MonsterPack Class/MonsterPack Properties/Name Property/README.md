@@ -1,5 +1,6 @@
 # Name Property 
 
+**Вложено элементов:** 0  
 
 | LanternOfArimorElement MonsterPack Name Property |
 | --- |

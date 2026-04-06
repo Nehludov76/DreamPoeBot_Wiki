@@ -1,5 +1,6 @@
 # HasNpcFloatingIcon Property 
 
+**Вложено элементов:** 0  
 
 | NetworkObject HasNpcFloatingIcon Property |
 | --- |

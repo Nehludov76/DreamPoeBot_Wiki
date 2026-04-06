@@ -1,5 +1,6 @@
 # PlayerClass Field
 
+**Вложено элементов:** 0  
 
 | ServerData StructServerDataExtra PlayerClass Field |
 | --- |

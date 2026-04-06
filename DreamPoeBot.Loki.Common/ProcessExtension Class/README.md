@@ -1,5 +1,6 @@
 # ProcessExtension Class
 
+**Вложено элементов:** 3  
 
 | ProcessExtension Class |
 | --- |
@@ -32,7 +33,10 @@ public static class ProcessExtension
 The ProcessExtension type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Resume |
-| Suspend |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Resume |  |
+|  | Suspend |  |
+
+## Дочерние разделы
+- [**ProcessExtension Methods**](./ProcessExtension Methods/README.md)

@@ -1,5 +1,6 @@
 # byte_IsBestiaryActive Field
 
+**Вложено элементов:** 0  
 
 | ServerData StructNewServerData byte_IsBestiaryActive Field |
 | --- |

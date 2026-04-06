@@ -1,5 +1,6 @@
 # SocketColors Property 
 
+**Вложено элементов:** 0  
 
 | Sockets SocketColors Property |
 | --- |

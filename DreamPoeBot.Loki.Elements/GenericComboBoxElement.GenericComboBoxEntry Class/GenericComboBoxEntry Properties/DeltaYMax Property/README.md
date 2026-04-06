@@ -1,5 +1,6 @@
 # DeltaYMax Property 
 
+**Вложено элементов:** 0  
 
 | GenericComboBoxElement GenericComboBoxEntry DeltaYMax Property |
 | --- |

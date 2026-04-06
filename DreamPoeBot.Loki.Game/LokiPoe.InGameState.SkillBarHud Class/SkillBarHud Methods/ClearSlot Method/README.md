@@ -1,5 +1,6 @@
 # ClearSlot Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SkillBarHud ClearSlot Method |
 | --- |

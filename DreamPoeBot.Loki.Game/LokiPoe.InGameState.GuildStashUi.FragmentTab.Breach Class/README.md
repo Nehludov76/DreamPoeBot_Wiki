@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.GuildStashUi.FragmentTab.Breach Class
 
+**Вложено элементов:** 36  
 
 | LokiPoe InGameState GuildStashUi FragmentTab Breach Class |
 | --- |
@@ -32,40 +33,43 @@ public ref class Breach abstract sealed
 The LokiPoe InGameState GuildStashUi FragmentTab Breach type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| BlessingofChayula |
-| BlessingofEsh |
-| BlessingofTul |
-| BlessingofUulNetol |
-| BlessingofXoph |
-| ChayulasBreachstone |
-| ChayulasChargedBreachstone |
-| ChayulasEnrichedBreachstone |
-| ChayulasFlawlessBreachstone |
-| ChayulasPureBreachstone |
-| ChayulasSplitter |
-| EshsBreachstone |
-| EshsChargedBreachstone |
-| EshsEnrichedBreachstone |
-| EshsFlawlessBreachstone |
-| EshsPureBreachstone |
-| SplinterofEsh |
-| SplinterofTul |
-| SplinterofUulNetol |
-| TulsBreachstone |
-| TulsChargedBreachstone |
-| TulsEnrichedBreachstone |
-| TulsFlawlessBreachstone |
-| TulsPureBreachstone |
-| UulNetolsBreachstone |
-| UulNetolsChargedBreachstone |
-| UulNetolsEnrichedBreachstone |
-| UulNetolsFlawlessBreachstone |
-| UulNetolsPureBreachstone |
-| XophsBreachstone |
-| XophsChargedBreachstone |
-| XophsEnrichedBreachstone |
-| XophsFlawlessBreachstone |
-| XophsPureBreachstone |
-| XophsSplitter |
+|  | Name | Description |
+| --- | --- | --- |
+|  | BlessingofChayula |  |
+|  | BlessingofEsh |  |
+|  | BlessingofTul |  |
+|  | BlessingofUulNetol |  |
+|  | BlessingofXoph |  |
+|  | ChayulasBreachstone |  |
+|  | ChayulasChargedBreachstone |  |
+|  | ChayulasEnrichedBreachstone |  |
+|  | ChayulasFlawlessBreachstone |  |
+|  | ChayulasPureBreachstone |  |
+|  | ChayulasSplitter |  |
+|  | EshsBreachstone |  |
+|  | EshsChargedBreachstone |  |
+|  | EshsEnrichedBreachstone |  |
+|  | EshsFlawlessBreachstone |  |
+|  | EshsPureBreachstone |  |
+|  | SplinterofEsh |  |
+|  | SplinterofTul |  |
+|  | SplinterofUulNetol |  |
+|  | TulsBreachstone |  |
+|  | TulsChargedBreachstone |  |
+|  | TulsEnrichedBreachstone |  |
+|  | TulsFlawlessBreachstone |  |
+|  | TulsPureBreachstone |  |
+|  | UulNetolsBreachstone |  |
+|  | UulNetolsChargedBreachstone |  |
+|  | UulNetolsEnrichedBreachstone |  |
+|  | UulNetolsFlawlessBreachstone |  |
+|  | UulNetolsPureBreachstone |  |
+|  | XophsBreachstone |  |
+|  | XophsChargedBreachstone |  |
+|  | XophsEnrichedBreachstone |  |
+|  | XophsFlawlessBreachstone |  |
+|  | XophsPureBreachstone |  |
+|  | XophsSplitter |  |
+
+## Дочерние разделы
+- [**Breach Properties**](./Breach Properties/README.md)

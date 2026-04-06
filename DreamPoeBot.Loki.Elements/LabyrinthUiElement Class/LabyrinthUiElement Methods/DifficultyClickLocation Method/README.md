@@ -1,5 +1,6 @@
 # DifficultyClickLocation Method 
 
+**Вложено элементов:** 0  
 
 | LabyrinthUiElement DifficultyClickLocation Method |
 | --- |

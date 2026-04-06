@@ -1,5 +1,6 @@
 # MemoryLineLenght Field
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo Atlas MemoryLineStruct MemoryLineLenght Field |
 | --- |

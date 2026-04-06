@@ -1,5 +1,6 @@
 # UseItem Method (Int32, Boolean)
 
+**Вложено элементов:** 0  
 
 | InventoryControlWrapper UseItem Method (Int32, Boolean) |
 | --- |

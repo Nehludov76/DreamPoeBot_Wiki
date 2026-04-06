@@ -1,5 +1,6 @@
 # TotalSkills Property 
 
+**Вложено элементов:** 0  
 
 | SkillBarElement TotalSkills Property |
 | --- |

@@ -1,5 +1,6 @@
 # MathHepler Class
 
+**Вложено элементов:** 9  
 
 | MathHepler Class |
 | --- |
@@ -32,15 +33,19 @@ public static class MathHepler
 The MathHepler type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Randomizer |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Randomizer |  |
 
 
-| Name | Description |
-| --- | --- |
-| GetPolarCoordinates |
-| GetRandomWord |
-| Max |
-| Translate(Vector2, Single, Single) |
-| Translate(Vector3, Single, Single, Single) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | GetPolarCoordinates |  |
+|  | GetRandomWord |  |
+|  | Max |  |
+|  | Translate(Vector2, Single, Single) |  |
+|  | Translate(Vector3, Single, Single, Single) |  |
+
+## Дочерние разделы
+- [**MathHepler Properties**](./MathHepler Properties/README.md)
+- [**MathHepler Methods**](./MathHepler Methods/README.md)

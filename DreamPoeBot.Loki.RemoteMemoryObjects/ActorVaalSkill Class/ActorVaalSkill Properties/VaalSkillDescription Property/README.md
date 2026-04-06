@@ -1,5 +1,6 @@
 # VaalSkillDescription Property 
 
+**Вложено элементов:** 0  
 
 | ActorVaalSkill VaalSkillDescription Property |
 | --- |

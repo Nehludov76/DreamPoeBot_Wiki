@@ -1,5 +1,6 @@
 # Name Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState DelveUi DelveTools DelveToolUpgradeOption Name Property |
 | --- |

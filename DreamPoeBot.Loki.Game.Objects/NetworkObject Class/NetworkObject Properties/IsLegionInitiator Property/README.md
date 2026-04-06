@@ -1,5 +1,6 @@
 # IsLegionInitiator Property 
 
+**Вложено элементов:** 0  
 
 | NetworkObject IsLegionInitiator Property |
 | --- |

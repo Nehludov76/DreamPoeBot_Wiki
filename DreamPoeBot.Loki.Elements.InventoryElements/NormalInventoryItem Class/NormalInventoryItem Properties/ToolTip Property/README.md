@@ -1,5 +1,6 @@
 # ToolTip Property 
 
+**Вложено элементов:** 0  
 
 | NormalInventoryItem ToolTip Property |
 | --- |

@@ -1,5 +1,6 @@
 # HasEssenceTabOverride Property 
 
+**Вложено элементов:** 0  
 
 | InventoryControlWrapper HasEssenceTabOverride Property |
 | --- |

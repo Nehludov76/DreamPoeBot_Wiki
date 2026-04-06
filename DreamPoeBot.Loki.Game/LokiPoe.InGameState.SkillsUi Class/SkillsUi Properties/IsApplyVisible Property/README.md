@@ -1,5 +1,6 @@
 # IsApplyVisible Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SkillsUi IsApplyVisible Property |
 | --- |

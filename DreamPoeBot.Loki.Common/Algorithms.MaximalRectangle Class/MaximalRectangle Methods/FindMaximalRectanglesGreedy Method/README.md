@@ -1,5 +1,6 @@
 # FindMaximalRectanglesGreedy Method 
 
+**Вложено элементов:** 0  
 
 | Algorithms MaximalRectangle FindMaximalRectanglesGreedy Method |
 | --- |

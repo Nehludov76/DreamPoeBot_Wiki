@@ -1,5 +1,6 @@
 # AmazonLink Property 
 
+**Вложено элементов:** 0  
 
 | DatActiveSkillWrapper AmazonLink Property |
 | --- |

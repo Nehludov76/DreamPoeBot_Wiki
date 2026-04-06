@@ -1,5 +1,6 @@
 # StatsDat.StatType Enumeration
 
+**Вложено элементов:** 0  
 
 | StatsDat StatType Enumeration |
 | --- |
@@ -30,10 +31,10 @@ public enum class StatType
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| Percents | 1 |
-| Value2 | 2 |
-| IntValue | 3 |
-| Boolean | 4 |
-| Precents5 | 5 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | Percents | 1 |  |
+|  | Value2 | 2 |  |
+|  | IntValue | 3 |  |
+|  | Boolean | 4 |  |
+|  | Precents5 | 5 |  |

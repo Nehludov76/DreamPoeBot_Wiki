@@ -1,5 +1,6 @@
 # LifeFlask Field
 
+**Вложено элементов:** 0  
 
 | ItemClasses LifeFlask Field |
 | --- |

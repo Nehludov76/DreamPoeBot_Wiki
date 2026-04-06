@@ -1,5 +1,6 @@
 # SpellCost Method 
 
+**Вложено элементов:** 0  
 
 | Skill SpellCost Method |
 | --- |

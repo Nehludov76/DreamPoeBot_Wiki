@@ -1,5 +1,6 @@
 # NpcComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation NpcComponent Property |
 | --- |

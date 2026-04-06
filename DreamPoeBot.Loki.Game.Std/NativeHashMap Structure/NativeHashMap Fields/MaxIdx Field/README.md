@@ -1,5 +1,6 @@
 # MaxIdx Field
 
+**Вложено элементов:** 0  
 
 | NativeHashMap MaxIdx Field |
 | --- |

@@ -1,5 +1,6 @@
 # WMin Property 
 
+**Вложено элементов:** 0  
 
 | Pathfinder WMin Property |
 | --- |

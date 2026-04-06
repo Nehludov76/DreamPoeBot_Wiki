@@ -1,5 +1,6 @@
 # LocationTopLeft Property 
 
+**Вложено элементов:** 0  
 
 | NormalInventoryItem LocationTopLeft Property |
 | --- |

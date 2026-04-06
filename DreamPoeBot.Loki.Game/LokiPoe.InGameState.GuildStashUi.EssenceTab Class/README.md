@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.GuildStashUi.EssenceTab Class
 
+**Вложено элементов:** 12  
 
 | LokiPoe InGameState GuildStashUi EssenceTab Class |
 | --- |
@@ -32,19 +33,23 @@ public ref class EssenceTab abstract sealed
 The LokiPoe InGameState GuildStashUi EssenceTab type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| All |
-| CraftingSlot |
-| GenericSlot1 |
-| GenericSlot2 |
-| GenericSlot3 |
-| IsUpgradeEnabled | Return true if the Upgrade state is enabled. |
-| NonEssences |
-| OnlyEssences |
+|  | Name | Description |
+| --- | --- | --- |
+|  | All |  |
+|  | CraftingSlot |  |
+|  | GenericSlot1 |  |
+|  | GenericSlot2 |  |
+|  | GenericSlot3 |  |
+|  | IsUpgradeEnabled | Return true if the Upgrade state is enabled. |
+|  | NonEssences |  |
+|  | OnlyEssences |  |
 
 
-| Name | Description |
-| --- | --- |
-| ClickUpgradeButton | Click the Uprage button. |
-| GetInventoryControlForMetadata |
+|  | Name | Description |
+| --- | --- | --- |
+|  | ClickUpgradeButton | Click the Uprage button. |
+|  | GetInventoryControlForMetadata |  |
+
+## Дочерние разделы
+- [**EssenceTab Properties**](./EssenceTab Properties/README.md)
+- [**EssenceTab Methods**](./EssenceTab Methods/README.md)

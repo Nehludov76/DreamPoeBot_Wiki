@@ -1,5 +1,6 @@
 # Translate Method 
 
+**Вложено элементов:** 0  
 
 | BaseItemTypes Translate Method |
 | --- |

@@ -1,5 +1,6 @@
 # ForEach(T) Method (IEnumerable(T), Action(T))
 
+**Вложено элементов:** 0  
 
 | LinqHelper ForEach T Method (IEnumerable T , Action T ) |
 | --- |

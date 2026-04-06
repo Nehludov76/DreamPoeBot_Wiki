@@ -1,5 +1,6 @@
 # GetEnumerator Method 
 
+**Вложено элементов:** 0  
 
 | WaitFunction GetEnumerator Method |
 | --- |

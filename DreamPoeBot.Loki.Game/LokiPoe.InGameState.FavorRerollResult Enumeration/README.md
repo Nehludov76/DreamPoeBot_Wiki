@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.FavorRerollResult Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState FavorRerollResult Enumeration |
 | --- |
@@ -30,11 +31,11 @@ public enum class FavorRerollResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| ProcessHookManagerNotEnabled | 1 |
-| UiNotOpen | 2 |
-| NotEnabled | 3 |
-| NotVisible | 4 |
-| Failed | 5 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | ProcessHookManagerNotEnabled | 1 |  |
+|  | UiNotOpen | 2 |  |
+|  | NotEnabled | 3 |  |
+|  | NotVisible | 4 |  |
+|  | Failed | 5 |  |

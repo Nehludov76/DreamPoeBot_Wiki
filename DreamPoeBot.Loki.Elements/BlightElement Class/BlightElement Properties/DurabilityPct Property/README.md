@@ -1,5 +1,6 @@
 # DurabilityPct Property 
 
+**Вложено элементов:** 0  
 
 | BlightElement DurabilityPct Property |
 | --- |

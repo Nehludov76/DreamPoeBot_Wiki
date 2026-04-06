@@ -1,5 +1,6 @@
 # Data Property 
 
+**Вложено элементов:** 0  
 
 | BestiaryCapturedMonsterMod Data Property |
 | --- |

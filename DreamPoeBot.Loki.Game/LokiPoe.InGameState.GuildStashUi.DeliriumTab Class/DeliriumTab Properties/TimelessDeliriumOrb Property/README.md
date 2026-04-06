@@ -1,5 +1,6 @@
 # TimelessDeliriumOrb Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState GuildStashUi DeliriumTab TimelessDeliriumOrb Property |
 | --- |

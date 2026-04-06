@@ -1,5 +1,6 @@
 # MyOffertElement Property 
 
+**Вложено элементов:** 0  
 
 | TradeUiElement MyOffertElement Property |
 | --- |

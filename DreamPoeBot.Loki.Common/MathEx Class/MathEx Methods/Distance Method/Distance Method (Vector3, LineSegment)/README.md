@@ -1,5 +1,6 @@
 # Distance Method (Vector3, LineSegment)
 
+**Вложено элементов:** 0  
 
 | MathEx Distance Method (Vector3 , LineSegment ) |
 | --- |

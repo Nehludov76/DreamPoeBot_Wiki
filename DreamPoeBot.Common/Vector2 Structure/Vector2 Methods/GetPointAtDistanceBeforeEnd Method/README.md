@@ -1,5 +1,6 @@
 # GetPointAtDistanceBeforeEnd Method 
 
+**Вложено элементов:** 0  
 
 | Vector2 GetPointAtDistanceBeforeEnd Method |
 | --- |

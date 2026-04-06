@@ -1,5 +1,6 @@
 # AddObstacle Method 
 
+**Вложено элементов:** 0  
 
 | Pathfinder AddObstacle Method |
 | --- |

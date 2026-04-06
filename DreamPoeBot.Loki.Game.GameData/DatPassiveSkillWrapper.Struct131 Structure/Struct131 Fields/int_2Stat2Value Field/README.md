@@ -1,5 +1,6 @@
 # int_2Stat2Value Field
 
+**Вложено элементов:** 0  
 
 | DatPassiveSkillWrapper Struct131 int_2Stat2Value Field |
 | --- |

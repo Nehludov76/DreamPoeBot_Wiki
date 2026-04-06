@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.StashUi.EssenceTab.Misery Class
 
+**Вложено элементов:** 4  
 
 | LokiPoe InGameState StashUi EssenceTab Misery Class |
 | --- |
@@ -32,8 +33,11 @@ public ref class Misery abstract sealed
 The LokiPoe InGameState StashUi EssenceTab Misery type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Deafening |
-| Screaming |
-| Shrieking |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Deafening |  |
+|  | Screaming |  |
+|  | Shrieking |  |
+
+## Дочерние разделы
+- [**Misery Properties**](./Misery Properties/README.md)

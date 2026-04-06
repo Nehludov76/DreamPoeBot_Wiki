@@ -1,5 +1,6 @@
 # Context Property 
 
+**Вложено элементов:** 0  
 
 | StopReasonData Context Property |
 | --- |

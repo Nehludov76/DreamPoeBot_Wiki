@@ -1,5 +1,6 @@
 # List_0 Field
 
+**Вложено элементов:** 0  
 
 | TabControlWrapper Struct111 List_0 Field |
 | --- |

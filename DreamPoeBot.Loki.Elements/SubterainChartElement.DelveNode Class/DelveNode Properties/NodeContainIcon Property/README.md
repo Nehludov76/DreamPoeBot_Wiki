@@ -1,5 +1,6 @@
 # NodeContainIcon Property 
 
+**Вложено элементов:** 0  
 
 | SubterainChartElement DelveNode NodeContainIcon Property |
 | --- |

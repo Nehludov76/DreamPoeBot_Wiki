@@ -1,5 +1,6 @@
 # intptr_9ActionWrapperStruct276 Field
 
+**Вложено элементов:** 0  
 
 | Actor ActorStruct137 intptr_9ActionWrapperStruct276 Field |
 | --- |

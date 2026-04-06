@@ -1,5 +1,6 @@
 # CanPickUp Property 
 
+**Вложено элементов:** 0  
 
 | ItemsOnGroundLabelElement CanPickUp Property |
 | --- |

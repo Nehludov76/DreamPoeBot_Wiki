@@ -1,5 +1,6 @@
 # GetPassiveInfo Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SkillsUi GetPassiveInfo Method |
 | --- |

@@ -1,5 +1,6 @@
 # Wailing Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState StashUi EssenceTab Loathing Wailing Property |
 | --- |

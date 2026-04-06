@@ -1,5 +1,6 @@
 # IsRefundPassivesVisible Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState AtlasSkillsUi IsRefundPassivesVisible Property |
 | --- |

@@ -1,5 +1,6 @@
 # QuestStateText Property 
 
+**Вложено элементов:** 0  
 
 | DatQuestStateWrapper QuestStateText Property |
 | --- |

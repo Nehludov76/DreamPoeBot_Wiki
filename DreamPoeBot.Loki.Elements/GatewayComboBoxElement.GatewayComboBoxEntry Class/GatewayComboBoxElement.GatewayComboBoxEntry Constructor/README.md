@@ -1,5 +1,6 @@
 # GatewayComboBoxElement.GatewayComboBoxEntry Constructor 
 
+**Вложено элементов:** 0  
 
 | GatewayComboBoxElement GatewayComboBoxEntry Constructor |
 | --- |

@@ -1,5 +1,6 @@
 # offsets Field
 
+**Вложено элементов:** 0  
 
 | Memory offsets Field |
 | --- |

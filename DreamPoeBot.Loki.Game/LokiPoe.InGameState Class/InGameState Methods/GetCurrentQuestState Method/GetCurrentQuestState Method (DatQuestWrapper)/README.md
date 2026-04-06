@@ -1,5 +1,6 @@
 # GetCurrentQuestState Method (DatQuestWrapper)
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState GetCurrentQuestState Method (DatQuestWrapper) |
 | --- |

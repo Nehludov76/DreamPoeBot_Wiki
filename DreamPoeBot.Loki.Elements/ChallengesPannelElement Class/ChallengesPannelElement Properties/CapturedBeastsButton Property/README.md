@@ -1,5 +1,6 @@
 # CapturedBeastsButton Property 
 
+**Вложено элементов:** 0  
 
 | ChallengesPannelElement CapturedBeastsButton Property |
 | --- |

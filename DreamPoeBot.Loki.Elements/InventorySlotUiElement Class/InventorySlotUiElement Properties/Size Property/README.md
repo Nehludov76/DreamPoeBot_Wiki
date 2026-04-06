@@ -1,5 +1,6 @@
 # Size Property 
 
+**Вложено элементов:** 0  
 
 | InventorySlotUiElement Size Property |
 | --- |

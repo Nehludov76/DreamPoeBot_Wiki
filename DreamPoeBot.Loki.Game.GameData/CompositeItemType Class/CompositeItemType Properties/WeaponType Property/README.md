@@ -1,5 +1,6 @@
 # WeaponType Property 
 
+**Вложено элементов:** 0  
 
 | CompositeItemType WeaponType Property |
 | --- |

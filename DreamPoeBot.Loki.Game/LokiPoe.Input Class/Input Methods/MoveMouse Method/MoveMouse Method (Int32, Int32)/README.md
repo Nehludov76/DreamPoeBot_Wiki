@@ -1,5 +1,6 @@
 # MoveMouse Method (Int32, Int32)
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input MoveMouse Method (Int32, Int32) |
 | --- |

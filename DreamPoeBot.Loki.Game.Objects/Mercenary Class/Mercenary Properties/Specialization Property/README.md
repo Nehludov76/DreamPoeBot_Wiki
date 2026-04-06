@@ -1,5 +1,6 @@
 # Specialization Property 
 
+**Вложено элементов:** 0  
 
 | Mercenary Specialization Property |
 | --- |

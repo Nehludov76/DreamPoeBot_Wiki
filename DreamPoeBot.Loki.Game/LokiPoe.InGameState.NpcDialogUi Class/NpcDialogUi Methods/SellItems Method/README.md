@@ -1,5 +1,6 @@
 # SellItems Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState NpcDialogUi SellItems Method |
 | --- |

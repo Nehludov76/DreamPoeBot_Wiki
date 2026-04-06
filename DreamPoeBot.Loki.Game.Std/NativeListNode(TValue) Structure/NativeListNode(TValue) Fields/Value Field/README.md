@@ -1,5 +1,6 @@
 # Value Field
 
+**Вложено элементов:** 0  
 
 | NativeListNode TValue Value Field |
 | --- |

@@ -1,5 +1,6 @@
 # StdMapIntLongWhile Method 
 
+**Вложено элементов:** 0  
 
 | Containers StdMapIntLongWhile Method |
 | --- |

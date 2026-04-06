@@ -1,5 +1,6 @@
 # IsPremiumGem Property 
 
+**Вложено элементов:** 0  
 
 | StashTabInfo IsPremiumGem Property |
 | --- |

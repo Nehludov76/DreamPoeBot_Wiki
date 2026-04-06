@@ -1,5 +1,6 @@
 # InfoBrush Property 
 
+**Вложено элементов:** 0  
 
 | WpfRtfAppender InfoBrush Property |
 | --- |

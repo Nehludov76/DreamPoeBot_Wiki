@@ -1,5 +1,6 @@
 # CreateTranslation Method (Vector3, Matrix)
 
+**Вложено элементов:** 0  
 
 | Matrix CreateTranslation Method (Vector3 , Matrix ) |
 | --- |

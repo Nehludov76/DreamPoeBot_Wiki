@@ -1,5 +1,6 @@
 # SpentAflictionPoints Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo SpentAflictionPoints Property |
 | --- |

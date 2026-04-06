@@ -1,5 +1,6 @@
 # Metadata Property 
 
+**Вложено элементов:** 0  
 
 | MinimapIcon Metadata Property |
 | --- |

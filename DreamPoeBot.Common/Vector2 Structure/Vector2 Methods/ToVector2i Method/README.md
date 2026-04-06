@@ -1,5 +1,6 @@
 # ToVector2i Method 
 
+**Вложено элементов:** 0  
 
 | Vector2 ToVector2i Method |
 | --- |

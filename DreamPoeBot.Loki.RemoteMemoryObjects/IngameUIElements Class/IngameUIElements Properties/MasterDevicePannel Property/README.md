@@ -1,5 +1,6 @@
 # MasterDevicePannel Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements MasterDevicePannel Property |
 | --- |

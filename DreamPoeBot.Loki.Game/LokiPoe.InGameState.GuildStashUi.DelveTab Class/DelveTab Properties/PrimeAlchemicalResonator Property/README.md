@@ -1,5 +1,6 @@
 # PrimeAlchemicalResonator Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState GuildStashUi DelveTab PrimeAlchemicalResonator Property |
 | --- |

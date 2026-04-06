@@ -1,5 +1,6 @@
 # IsCrusaderItem Property 
 
+**Вложено элементов:** 0  
 
 | Base IsCrusaderItem Property |
 | --- |

@@ -1,5 +1,6 @@
 # ClientWindowInfo Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe ClientWindowInfo Property |
 | --- |

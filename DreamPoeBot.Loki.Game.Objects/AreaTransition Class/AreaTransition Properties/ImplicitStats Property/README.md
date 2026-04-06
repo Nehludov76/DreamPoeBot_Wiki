@@ -1,5 +1,6 @@
 # ImplicitStats Property 
 
+**Вложено элементов:** 0  
 
 | AreaTransition ImplicitStats Property |
 | --- |

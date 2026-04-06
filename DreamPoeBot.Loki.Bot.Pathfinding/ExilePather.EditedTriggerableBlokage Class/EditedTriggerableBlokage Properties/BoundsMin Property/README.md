@@ -1,5 +1,6 @@
 # BoundsMin Property 
 
+**Вложено элементов:** 0  
 
 | ExilePather EditedTriggerableBlokage BoundsMin Property |
 | --- |

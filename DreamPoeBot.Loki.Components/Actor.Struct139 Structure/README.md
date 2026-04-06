@@ -1,5 +1,6 @@
 # Actor.Struct139 Structure
 
+**Вложено элементов:** 5  
 
 | Actor Struct139 Structure |
 | --- |
@@ -32,16 +33,20 @@ public value class Struct139
 The Actor Struct139 type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Equals | Indicates whether this instance and a specified object are equal. (Inherited from ValueType .) |
-| GetHashCode | Returns the hash code for this instance. (Inherited from ValueType .) |
-| GetType | Gets the Type of the current instance. (Inherited from Object .) |
-| ToString | Returns the fully qualified type name of this instance. (Inherited from ValueType .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Equals | Indicates whether this instance and a specified object are equal. (Inherited from ValueType .) |
+|  | GetHashCode | Returns the hash code for this instance. (Inherited from ValueType .) |
+|  | GetType | Gets the Type of the current instance. (Inherited from Object .) |
+|  | ToString | Returns the fully qualified type name of this instance. (Inherited from ValueType .) |
 
 
-| Name | Description |
-| --- | --- |
-| Index |
-| int_5CoolDownCount |
-| nativeVector_0 |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Index |  |
+|  | int_5CoolDownCount |  |
+|  | nativeVector_0 |  |
+
+## Дочерние разделы
+- [**Struct139 Methods**](./Struct139 Methods/README.md)
+- [**Struct139 Fields**](./Struct139 Fields/README.md)

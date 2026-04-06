@@ -1,5 +1,6 @@
 # Equals Method (MemoryObject)
 
+**Вложено элементов:** 0  
 
 | MemoryObject Equals Method (MemoryObject) |
 | --- |

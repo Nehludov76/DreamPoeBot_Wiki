@@ -1,5 +1,6 @@
 # UarmonyGaugeDisplay Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements UarmonyGaugeDisplay Property |
 | --- |

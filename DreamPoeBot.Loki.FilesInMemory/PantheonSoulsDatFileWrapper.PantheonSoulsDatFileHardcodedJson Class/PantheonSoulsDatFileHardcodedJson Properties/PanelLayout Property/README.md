@@ -1,5 +1,6 @@
 # PanelLayout Property 
 
+**Вложено элементов:** 0  
 
 | PantheonSoulsDatFileWrapper PantheonSoulsDatFileHardcodedJson PanelLayout Property |
 | --- |

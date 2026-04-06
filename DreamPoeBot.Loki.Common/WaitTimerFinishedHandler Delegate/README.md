@@ -1,5 +1,6 @@
 # WaitTimerFinishedHandler Delegate
 
+**Вложено элементов:** 0  
 
 | WaitTimerFinishedHandler Delegate |
 | --- |

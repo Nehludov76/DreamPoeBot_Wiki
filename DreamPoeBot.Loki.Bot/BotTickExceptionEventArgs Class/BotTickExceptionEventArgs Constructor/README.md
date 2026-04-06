@@ -1,5 +1,6 @@
 # BotTickExceptionEventArgs Constructor 
 
+**Вложено элементов:** 0  
 
 | BotTickExceptionEventArgs Constructor |
 | --- |

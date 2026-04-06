@@ -1,5 +1,6 @@
 # Text Property 
 
+**Вложено элементов:** 0  
 
 | DiagnosticElement Text Property |
 | --- |

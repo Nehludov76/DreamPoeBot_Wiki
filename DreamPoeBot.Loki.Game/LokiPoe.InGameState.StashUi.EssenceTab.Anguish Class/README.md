@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.StashUi.EssenceTab.Anguish Class
 
+**Вложено элементов:** 5  
 
 | LokiPoe InGameState StashUi EssenceTab Anguish Class |
 | --- |
@@ -32,9 +33,12 @@ public ref class Anguish abstract sealed
 The LokiPoe InGameState StashUi EssenceTab Anguish type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Deafening |
-| Screaming |
-| Shrieking |
-| Wailing |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Deafening |  |
+|  | Screaming |  |
+|  | Shrieking |  |
+|  | Wailing |  |
+
+## Дочерние разделы
+- [**Anguish Properties**](./Anguish Properties/README.md)

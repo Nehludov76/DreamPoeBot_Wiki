@@ -1,5 +1,6 @@
 # InventoryControl_Graft Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState InventoryUi InventoryControl_Graft Property |
 | --- |

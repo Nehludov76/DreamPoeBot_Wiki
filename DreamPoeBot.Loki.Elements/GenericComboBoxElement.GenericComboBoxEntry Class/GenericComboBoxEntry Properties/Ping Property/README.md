@@ -1,5 +1,6 @@
 # Ping Property 
 
+**Вложено элементов:** 0  
 
 | GenericComboBoxElement GenericComboBoxEntry Ping Property |
 | --- |

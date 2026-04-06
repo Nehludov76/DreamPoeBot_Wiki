@@ -1,5 +1,6 @@
 # LucentFossil Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState StashUi DelveTab LucentFossil Property |
 | --- |

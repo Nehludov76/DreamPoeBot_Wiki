@@ -1,5 +1,6 @@
 # Contains Method (BoundingBox)
 
+**Вложено элементов:** 0  
 
 | BoundingBox Contains Method (BoundingBox) |
 | --- |

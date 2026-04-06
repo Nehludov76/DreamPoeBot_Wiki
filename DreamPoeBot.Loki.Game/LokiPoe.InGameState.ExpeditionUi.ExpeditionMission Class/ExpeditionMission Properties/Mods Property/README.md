@@ -1,5 +1,6 @@
 # Mods Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ExpeditionUi ExpeditionMission Mods Property |
 | --- |

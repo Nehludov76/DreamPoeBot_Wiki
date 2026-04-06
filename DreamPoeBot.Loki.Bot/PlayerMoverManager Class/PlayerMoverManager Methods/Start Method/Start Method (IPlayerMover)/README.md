@@ -1,5 +1,6 @@
 # Start Method (IPlayerMover)
 
+**Вложено элементов:** 0  
 
 | PlayerMoverManager Start Method (IPlayerMover) |
 | --- |

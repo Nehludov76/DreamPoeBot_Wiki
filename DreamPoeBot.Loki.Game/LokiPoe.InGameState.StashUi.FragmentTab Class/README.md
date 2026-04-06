@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.StashUi.FragmentTab Class
 
+**Вложено элементов:** 14  
 
 | LokiPoe InGameState StashUi FragmentTab Class |
 | --- |
@@ -32,24 +33,29 @@ public ref class FragmentTab abstract sealed
 The LokiPoe InGameState StashUi FragmentTab type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| All |
-| AllBetrayal |
-| AllBreach |
-| AllGeneral |
-| AllItems | Return all items in the Fragment inventory (items in all category) |
-| AllScarab |
+|  | Name | Description |
+| --- | --- | --- |
+|  | All |  |
+|  | AllBetrayal |  |
+|  | AllBreach |  |
+|  | AllGeneral |  |
+|  | AllItems | Return all items in the Fragment inventory (items in all category) |
+|  | AllScarab |  |
 
 
-| Name | Description |
-| --- | --- |
-| GetByMetadata |
-| GetByName |
-| GetInventoryControlForMetadata |
+|  | Name | Description |
+| --- | --- | --- |
+|  | GetByMetadata |  |
+|  | GetByName |  |
+|  | GetInventoryControlForMetadata |  |
 
 
-| Name | Description |
-| --- | --- |
-| ThisSelectCategoryDelegate |
-| ThisSelectSubCategoryDelegate |
+|  | Name | Description |
+| --- | --- | --- |
+|  | ThisSelectCategoryDelegate |  |
+|  | ThisSelectSubCategoryDelegate |  |
+
+## Дочерние разделы
+- [**FragmentTab Properties**](./FragmentTab Properties/README.md)
+- [**FragmentTab Methods**](./FragmentTab Methods/README.md)
+- [**FragmentTab Fields**](./FragmentTab Fields/README.md)

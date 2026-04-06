@@ -1,5 +1,6 @@
 # TranslateFromMetadata Method 
 
+**Вложено элементов:** 0  
 
 | MonsterVarieties TranslateFromMetadata Method |
 | --- |

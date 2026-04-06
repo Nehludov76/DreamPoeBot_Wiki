@@ -1,5 +1,6 @@
 # TiersList Property 
 
+**Вложено элементов:** 0  
 
 | MapsTabElement TiersList Property |
 | --- |

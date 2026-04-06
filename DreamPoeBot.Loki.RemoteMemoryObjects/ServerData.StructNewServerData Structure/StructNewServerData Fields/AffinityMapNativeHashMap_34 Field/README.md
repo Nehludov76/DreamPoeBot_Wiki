@@ -1,5 +1,6 @@
 # AffinityMapNativeHashMap_34 Field
 
+**Вложено элементов:** 0  
 
 | ServerData StructNewServerData AffinityMapNativeHashMap_34 Field |
 | --- |

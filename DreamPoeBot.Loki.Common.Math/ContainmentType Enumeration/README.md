@@ -1,5 +1,6 @@
 # ContainmentType Enumeration
 
+**Вложено элементов:** 0  
 
 | ContainmentType Enumeration |
 | --- |
@@ -30,8 +31,8 @@ public enum class ContainmentType
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| Disjoint | 0 |
-| Contains | 1 |
-| Intersects | 2 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | Disjoint | 0 |  |
+|  | Contains | 1 |  |
+|  | Intersects | 2 |  |

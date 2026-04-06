@@ -1,5 +1,6 @@
 # IsBeginEnabled Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ArchnemesisEncounterUi IsBeginEnabled Property |
 | --- |

@@ -1,5 +1,6 @@
 # BroadcastMessage Method 
 
+**Вложено элементов:** 0  
 
 | Utility BroadcastMessage Method |
 | --- |

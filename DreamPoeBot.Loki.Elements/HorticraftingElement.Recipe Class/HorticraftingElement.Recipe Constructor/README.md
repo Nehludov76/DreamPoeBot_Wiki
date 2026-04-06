@@ -1,5 +1,6 @@
 # HorticraftingElement.Recipe Constructor 
 
+**Вложено элементов:** 0  
 
 | HorticraftingElement Recipe Constructor |
 | --- |

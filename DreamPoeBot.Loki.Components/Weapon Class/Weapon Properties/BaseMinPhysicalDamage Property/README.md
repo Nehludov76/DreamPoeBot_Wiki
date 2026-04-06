@@ -1,5 +1,6 @@
 # BaseMinPhysicalDamage Property 
 
+**Вложено элементов:** 0  
 
 | Weapon BaseMinPhysicalDamage Property |
 | --- |

@@ -1,5 +1,6 @@
 # SigilsDisplayUi Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements SigilsDisplayUi Property |
 | --- |

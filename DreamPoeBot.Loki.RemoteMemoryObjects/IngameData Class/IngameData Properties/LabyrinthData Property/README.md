@@ -1,5 +1,6 @@
 # LabyrinthData Property 
 
+**Вложено элементов:** 0  
 
 | IngameData LabyrinthData Property |
 | --- |

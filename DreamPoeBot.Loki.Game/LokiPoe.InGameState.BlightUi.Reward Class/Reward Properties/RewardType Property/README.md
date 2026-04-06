@@ -1,5 +1,6 @@
 # RewardType Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState BlightUi Reward RewardType Property |
 | --- |

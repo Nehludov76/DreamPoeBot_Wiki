@@ -1,5 +1,6 @@
 # SelectedCategory Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState HeistLockerUi SelectedCategory Property |
 | --- |

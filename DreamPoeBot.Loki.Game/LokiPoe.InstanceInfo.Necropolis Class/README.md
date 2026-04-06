@@ -1,5 +1,6 @@
 # LokiPoe.InstanceInfo.Necropolis Class
 
+**Вложено элементов:** 2  
 
 | LokiPoe InstanceInfo Necropolis Class |
 | --- |
@@ -30,6 +31,9 @@ public ref class Necropolis abstract sealed
 The LokiPoe InstanceInfo Necropolis type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| CollectedCorpse |
+|  | Name | Description |
+| --- | --- | --- |
+|  | CollectedCorpse |  |
+
+## Дочерние разделы
+- [**Necropolis Properties**](./Necropolis Properties/README.md)

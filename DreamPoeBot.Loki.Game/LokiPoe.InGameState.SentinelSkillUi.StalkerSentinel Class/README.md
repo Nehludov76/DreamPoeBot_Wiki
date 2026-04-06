@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.SentinelSkillUi.StalkerSentinel Class
 
+**Вложено элементов:** 5  
 
 | LokiPoe InGameState SentinelSkillUi StalkerSentinel Class |
 | --- |
@@ -32,12 +33,16 @@ public ref class StalkerSentinel abstract sealed
 The LokiPoe InGameState SentinelSkillUi StalkerSentinel type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| CanUse | Return true if this Sentinel can be activated. |
-| IsActive | Return true if this Sentinel is currently activated. |
+|  | Name | Description |
+| --- | --- | --- |
+|  | CanUse | Return true if this Sentinel can be activated. |
+|  | IsActive | Return true if this Sentinel is currently activated. |
 
 
-| Name | Description |
-| --- | --- |
-| Activate | Activate this Sentinel. |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Activate | Activate this Sentinel. |
+
+## Дочерние разделы
+- [**StalkerSentinel Properties**](./StalkerSentinel Properties/README.md)
+- [**StalkerSentinel Methods**](./StalkerSentinel Methods/README.md)

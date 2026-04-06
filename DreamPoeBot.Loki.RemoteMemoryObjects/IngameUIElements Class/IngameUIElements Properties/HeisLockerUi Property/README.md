@@ -1,5 +1,6 @@
 # HeisLockerUi Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements HeisLockerUi Property |
 | --- |

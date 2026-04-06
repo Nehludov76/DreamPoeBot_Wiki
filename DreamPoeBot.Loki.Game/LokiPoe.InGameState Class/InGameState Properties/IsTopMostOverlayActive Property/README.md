@@ -1,5 +1,6 @@
 # IsTopMostOverlayActive Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState IsTopMostOverlayActive Property |
 | --- |

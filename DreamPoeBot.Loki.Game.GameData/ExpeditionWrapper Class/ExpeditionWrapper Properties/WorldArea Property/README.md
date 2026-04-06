@@ -1,5 +1,6 @@
 # WorldArea Property 
 
+**Вложено элементов:** 0  
 
 | ExpeditionWrapper WorldArea Property |
 | --- |

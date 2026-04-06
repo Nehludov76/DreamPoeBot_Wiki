@@ -1,5 +1,6 @@
 # EndPoint Property 
 
+**Вложено элементов:** 0  
 
 | PathfindingCommand EndPoint Property |
 | --- |

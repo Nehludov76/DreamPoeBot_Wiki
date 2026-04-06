@@ -1,5 +1,6 @@
 # LokiPoe.InstanceInfo.Archnemesis.ArchnemesisMods Constructor 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo Archnemesis ArchnemesisMods Constructor |
 | --- |

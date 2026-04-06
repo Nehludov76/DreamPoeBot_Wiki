@@ -1,5 +1,6 @@
 # nativeVector_0Effects Field
 
+**Вложено элементов:** 0  
 
 | Actor ActorStruct137 nativeVector_0Effects Field |
 | --- |

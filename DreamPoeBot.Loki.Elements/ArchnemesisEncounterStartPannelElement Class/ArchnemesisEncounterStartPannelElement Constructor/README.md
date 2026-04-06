@@ -1,5 +1,6 @@
 # ArchnemesisEncounterStartPannelElement Constructor 
 
+**Вложено элементов:** 0  
 
 | ArchnemesisEncounterStartPannelElement Constructor |
 | --- |

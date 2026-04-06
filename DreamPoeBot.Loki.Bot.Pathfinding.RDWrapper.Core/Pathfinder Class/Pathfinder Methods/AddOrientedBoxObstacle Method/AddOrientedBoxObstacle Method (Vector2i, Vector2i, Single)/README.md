@@ -1,5 +1,6 @@
 # AddOrientedBoxObstacle Method (Vector2i, Vector2i, Single)
 
+**Вложено элементов:** 0  
 
 | Pathfinder AddOrientedBoxObstacle Method (Vector2i, Vector2i, Single) |
 | --- |

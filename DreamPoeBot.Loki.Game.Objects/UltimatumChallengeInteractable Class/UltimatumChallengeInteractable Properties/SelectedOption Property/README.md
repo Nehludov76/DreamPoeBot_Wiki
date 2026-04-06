@@ -1,5 +1,6 @@
 # SelectedOption Property 
 
+**Вложено элементов:** 0  
 
 | UltimatumChallengeInteractable SelectedOption Property |
 | --- |

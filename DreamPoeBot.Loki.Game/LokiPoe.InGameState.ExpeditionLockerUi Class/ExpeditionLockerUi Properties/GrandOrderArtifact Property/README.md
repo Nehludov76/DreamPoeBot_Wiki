@@ -1,5 +1,6 @@
 # GrandOrderArtifact Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ExpeditionLockerUi GrandOrderArtifact Property |
 | --- |

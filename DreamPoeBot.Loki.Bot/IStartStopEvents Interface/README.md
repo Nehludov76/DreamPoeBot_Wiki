@@ -1,5 +1,6 @@
 # IStartStopEvents Interface
 
+**Вложено элементов:** 3  
 
 | IStartStopEvents Interface |
 | --- |
@@ -32,7 +33,10 @@ public interface class IStartStopEvents
 The IStartStopEvents type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Start |
-| Stop |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Start |  |
+|  | Stop |  |
+
+## Дочерние разделы
+- [**IStartStopEvents Methods**](./IStartStopEvents Methods/README.md)

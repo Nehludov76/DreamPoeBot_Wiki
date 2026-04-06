@@ -1,5 +1,6 @@
 # CurrentReward Property 
 
+**Вложено элементов:** 0  
 
 | UltimatumRewardUiElement CurrentReward Property |
 | --- |

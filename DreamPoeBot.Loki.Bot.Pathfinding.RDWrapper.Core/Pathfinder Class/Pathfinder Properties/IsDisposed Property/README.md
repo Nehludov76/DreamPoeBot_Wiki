@@ -1,5 +1,6 @@
 # IsDisposed Property 
 
+**Вложено элементов:** 0  
 
 | Pathfinder IsDisposed Property |
 | --- |

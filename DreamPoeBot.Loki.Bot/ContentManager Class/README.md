@@ -1,5 +1,6 @@
 # ContentManager Class
 
+**Вложено элементов:** 2  
 
 | ContentManager Class |
 | --- |
@@ -32,6 +33,9 @@ public ref class ContentManager abstract sealed
 The ContentManager type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Contents |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Contents |  |
+
+## Дочерние разделы
+- [**ContentManager Properties**](./ContentManager Properties/README.md)

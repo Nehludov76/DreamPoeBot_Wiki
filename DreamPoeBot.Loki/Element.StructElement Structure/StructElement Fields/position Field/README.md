@@ -1,5 +1,6 @@
 # position Field
 
+**Вложено элементов:** 0  
 
 | Element StructElement position Field |
 | --- |

@@ -1,5 +1,6 @@
 # AddBoxObstacle Method (Vector2i, Vector2i)
 
+**Вложено элементов:** 0  
 
 | Pathfinder AddBoxObstacle Method (Vector2i, Vector2i) |
 | --- |

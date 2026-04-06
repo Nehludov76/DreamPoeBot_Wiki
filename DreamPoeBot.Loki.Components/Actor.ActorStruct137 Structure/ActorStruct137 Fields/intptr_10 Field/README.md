@@ -1,5 +1,6 @@
 # intptr_10 Field
 
+**Вложено элементов:** 0  
 
 | Actor ActorStruct137 intptr_10 Field |
 | --- |

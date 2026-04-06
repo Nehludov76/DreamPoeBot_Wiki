@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.StashUi.UniqueCollectionTab Class
 
+**Вложено элементов:** 2  
 
 | LokiPoe InGameState StashUi UniqueCollectionTab Class |
 | --- |
@@ -32,6 +33,9 @@ public ref class UniqueCollectionTab abstract sealed
 The LokiPoe InGameState StashUi UniqueCollectionTab type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| GetInventoryControlForMetadata |
+|  | Name | Description |
+| --- | --- | --- |
+|  | GetInventoryControlForMetadata |  |
+
+## Дочерние разделы
+- [**UniqueCollectionTab Methods**](./UniqueCollectionTab Methods/README.md)

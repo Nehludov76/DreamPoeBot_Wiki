@@ -1,5 +1,6 @@
 # ForEach(TKey, TValue) Method (IEnumerable(KeyValuePair(TKey, TValue)), Action(TKey, TValue))
 
+**Вложено элементов:** 0  
 
 | LinqHelper ForEach TKey , TValue Method (IEnumerable KeyValuePair TKey , TValue , Action TKey , TValue ) |
 | --- |

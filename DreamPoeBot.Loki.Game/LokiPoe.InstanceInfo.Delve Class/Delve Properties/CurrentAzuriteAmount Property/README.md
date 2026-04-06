@@ -1,5 +1,6 @@
 # CurrentAzuriteAmount Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo Delve CurrentAzuriteAmount Property |
 | --- |

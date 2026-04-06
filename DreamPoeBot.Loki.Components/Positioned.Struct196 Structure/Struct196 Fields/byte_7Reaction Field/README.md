@@ -1,5 +1,6 @@
 # byte_7Reaction Field
 
+**Вложено элементов:** 0  
 
 | Positioned Struct196 byte_7Reaction Field |
 | --- |

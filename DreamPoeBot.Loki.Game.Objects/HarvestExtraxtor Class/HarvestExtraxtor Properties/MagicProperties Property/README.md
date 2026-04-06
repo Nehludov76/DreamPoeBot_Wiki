@@ -1,5 +1,6 @@
 # MagicProperties Property 
 
+**Вложено элементов:** 0  
 
 | HarvestExtraxtor MagicProperties Property |
 | --- |

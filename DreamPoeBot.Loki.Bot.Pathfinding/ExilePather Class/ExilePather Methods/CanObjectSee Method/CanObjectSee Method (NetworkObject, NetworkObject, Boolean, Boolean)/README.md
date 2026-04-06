@@ -1,5 +1,6 @@
 # CanObjectSee Method (NetworkObject, NetworkObject, Boolean, Boolean)
 
+**Вложено элементов:** 0  
 
 | ExilePather CanObjectSee Method (NetworkObject, NetworkObject, Boolean, Boolean) |
 | --- |

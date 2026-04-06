@@ -1,5 +1,6 @@
 # IsCombatArea Property 
 
+**Вложено элементов:** 0  
 
 | DatWorldAreaWrapper IsCombatArea Property |
 | --- |

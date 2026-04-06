@@ -1,5 +1,6 @@
 # ExceptionCount Property 
 
+**Вложено элементов:** 0  
 
 | BotManager ExceptionCount Property |
 | --- |

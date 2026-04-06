@@ -1,5 +1,6 @@
 # BaseEmpowerments Property 
 
+**Вложено элементов:** 0  
 
 | SentinelDrone BaseEmpowerments Property |
 | --- |

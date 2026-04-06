@@ -1,5 +1,6 @@
 # EssenceInventoryItem Constructor 
 
+**Вложено элементов:** 0  
 
 | EssenceInventoryItem Constructor |
 | --- |

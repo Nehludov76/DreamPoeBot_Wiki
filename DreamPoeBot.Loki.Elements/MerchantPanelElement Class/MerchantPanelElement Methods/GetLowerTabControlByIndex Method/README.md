@@ -1,5 +1,6 @@
 # GetLowerTabControlByIndex Method 
 
+**Вложено элементов:** 0  
 
 | MerchantPanelElement GetLowerTabControlByIndex Method |
 | --- |

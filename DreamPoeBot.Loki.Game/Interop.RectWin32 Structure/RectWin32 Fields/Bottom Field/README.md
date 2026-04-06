@@ -1,5 +1,6 @@
 # Bottom Field
 
+**Вложено элементов:** 0  
 
 | Interop RectWin32 Bottom Field |
 | --- |

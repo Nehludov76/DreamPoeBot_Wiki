@@ -1,5 +1,6 @@
 # Goodbye Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState NpcDialogUi Goodbye Method |
 | --- |

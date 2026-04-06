@@ -1,5 +1,6 @@
 # NormalWorldAreas Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe LocalData LabyrinthRoom NormalWorldAreas Property |
 | --- |

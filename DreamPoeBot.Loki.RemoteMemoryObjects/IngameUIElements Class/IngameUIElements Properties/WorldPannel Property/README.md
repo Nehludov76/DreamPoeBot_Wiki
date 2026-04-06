@@ -1,5 +1,6 @@
 # WorldPannel Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements WorldPannel Property |
 | --- |

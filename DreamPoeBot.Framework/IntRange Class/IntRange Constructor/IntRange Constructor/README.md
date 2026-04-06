@@ -1,5 +1,6 @@
 # IntRange Constructor 
 
+**Вложено элементов:** 0  
 
 | IntRange Constructor |
 | --- |

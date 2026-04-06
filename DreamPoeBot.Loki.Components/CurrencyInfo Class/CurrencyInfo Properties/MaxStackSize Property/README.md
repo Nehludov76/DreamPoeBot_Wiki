@@ -1,5 +1,6 @@
 # MaxStackSize Property 
 
+**Вложено элементов:** 0  
 
 | CurrencyInfo MaxStackSize Property |
 | --- |

@@ -1,5 +1,6 @@
 # SocketColor Property 
 
+**Вложено элементов:** 0  
 
 | SkillGem SocketColor Property |
 | --- |

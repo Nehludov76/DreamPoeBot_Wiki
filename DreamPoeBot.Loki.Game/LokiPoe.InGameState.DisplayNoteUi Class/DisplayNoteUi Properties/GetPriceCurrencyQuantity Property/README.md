@@ -1,5 +1,6 @@
 # GetPriceCurrencyQuantity Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState DisplayNoteUi GetPriceCurrencyQuantity Property |
 | --- |

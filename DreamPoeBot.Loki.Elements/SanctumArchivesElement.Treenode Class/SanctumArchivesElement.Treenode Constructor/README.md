@@ -1,5 +1,6 @@
 # SanctumArchivesElement.Treenode Constructor 
 
+**Вложено элементов:** 0  
 
 | SanctumArchivesElement Treenode Constructor |
 | --- |

@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.MercenaryOptionsUi.MercenaryOption Constructor 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState MercenaryOptionsUi MercenaryOption Constructor |
 | --- |

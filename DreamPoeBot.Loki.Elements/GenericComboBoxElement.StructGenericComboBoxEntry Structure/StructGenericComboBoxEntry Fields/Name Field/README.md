@@ -1,5 +1,6 @@
 # Name Field
 
+**Вложено элементов:** 0  
 
 | GenericComboBoxElement StructGenericComboBoxEntry Name Field |
 | --- |

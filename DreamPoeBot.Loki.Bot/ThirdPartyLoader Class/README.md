@@ -1,5 +1,6 @@
 # ThirdPartyLoader Class
 
+**Вложено элементов:** 14  
 
 | ThirdPartyLoader Class |
 | --- |
@@ -32,21 +33,25 @@ public ref class ThirdPartyLoader abstract sealed
 The ThirdPartyLoader type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| CleanupPaths |
-| CompileErrors |
-| CompileExceptions |
-| Instances |
-| LoadErrors |
-| PluginFolderPath |
-| ProfileConfigPath |
-| RootPath |
-| ThirdPartyPath |
+|  | Name | Description |
+| --- | --- | --- |
+|  | CleanupPaths |  |
+|  | CompileErrors |  |
+|  | CompileExceptions |  |
+|  | Instances |  |
+|  | LoadErrors |  |
+|  | PluginFolderPath |  |
+|  | ProfileConfigPath |  |
+|  | RootPath |  |
+|  | ThirdPartyPath |  |
 
 
-| Name | Description |
-| --- | --- |
-| Deserialize T |
-| GetInstance |
-| RedirectAssembly |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Deserialize T |  |
+|  | GetInstance |  |
+|  | RedirectAssembly |  |
+
+## Дочерние разделы
+- [**ThirdPartyLoader Properties**](./ThirdPartyLoader Properties/README.md)
+- [**ThirdPartyLoader Methods**](./ThirdPartyLoader Methods/README.md)

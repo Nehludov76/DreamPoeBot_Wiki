@@ -1,5 +1,6 @@
 # GenericComboBoxElement.StructGenericComboBoxEntry Structure
 
+**Вложено элементов:** 8  
 
 | GenericComboBoxElement StructGenericComboBoxEntry Structure |
 | --- |
@@ -32,19 +33,23 @@ public value class StructGenericComboBoxEntry
 The GenericComboBoxElement StructGenericComboBoxEntry type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Equals | Indicates whether this instance and a specified object are equal. (Inherited from ValueType .) |
-| GetHashCode | Returns the hash code for this instance. (Inherited from ValueType .) |
-| GetType | Gets the Type of the current instance. (Inherited from Object .) |
-| ToString | Returns the fully qualified type name of this instance. (Inherited from ValueType .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Equals | Indicates whether this instance and a specified object are equal. (Inherited from ValueType .) |
+|  | GetHashCode | Returns the hash code for this instance. (Inherited from ValueType .) |
+|  | GetType | Gets the Type of the current instance. (Inherited from Object .) |
+|  | ToString | Returns the fully qualified type name of this instance. (Inherited from ValueType .) |
 
 
-| Name | Description |
-| --- | --- |
-| cellW |
-| deltaYMax |
-| deltaYMin |
-| IsVisible |
-| Name |
-| Ping |
+|  | Name | Description |
+| --- | --- | --- |
+|  | cellW |  |
+|  | deltaYMax |  |
+|  | deltaYMin |  |
+|  | IsVisible |  |
+|  | Name |  |
+|  | Ping |  |
+
+## Дочерние разделы
+- [**StructGenericComboBoxEntry Methods**](./StructGenericComboBoxEntry Methods/README.md)
+- [**StructGenericComboBoxEntry Fields**](./StructGenericComboBoxEntry Fields/README.md)

@@ -1,5 +1,6 @@
 # LokiPoe.InstanceInfo.Atlas.MemoryLineStruct Structure
 
+**Вложено элементов:** 7  
 
 | LokiPoe InstanceInfo Atlas MemoryLineStruct Structure |
 | --- |
@@ -32,18 +33,22 @@ public value class MemoryLineStruct
 The LokiPoe InstanceInfo Atlas MemoryLineStruct type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Equals | Indicates whether this instance and a specified object are equal. (Inherited from ValueType .) |
-| GetHashCode | Returns the hash code for this instance. (Inherited from ValueType .) |
-| GetType | Gets the Type of the current instance. (Inherited from Object .) |
-| ToString | Returns the fully qualified type name of this instance. (Inherited from ValueType .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Equals | Indicates whether this instance and a specified object are equal. (Inherited from ValueType .) |
+|  | GetHashCode | Returns the hash code for this instance. (Inherited from ValueType .) |
+|  | GetType | Gets the Type of the current instance. (Inherited from Object .) |
+|  | ToString | Returns the fully qualified type name of this instance. (Inherited from ValueType .) |
 
 
-| Name | Description |
-| --- | --- |
-| AreaDats |
-| CompletedMemories |
-| MemoryLineLenght |
-| MemoryLineTypeData |
-| MemoryLineTypeFile |
+|  | Name | Description |
+| --- | --- | --- |
+|  | AreaDats |  |
+|  | CompletedMemories |  |
+|  | MemoryLineLenght |  |
+|  | MemoryLineTypeData |  |
+|  | MemoryLineTypeFile |  |
+
+## Дочерние разделы
+- [**MemoryLineStruct Methods**](./MemoryLineStruct Methods/README.md)
+- [**MemoryLineStruct Fields**](./MemoryLineStruct Fields/README.md)

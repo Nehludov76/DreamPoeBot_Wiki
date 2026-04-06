@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.GuildStashUi.EssenceTab.Fear Class
 
+**Вложено элементов:** 7  
 
 | LokiPoe InGameState GuildStashUi EssenceTab Fear Class |
 | --- |
@@ -32,11 +33,14 @@ public ref class Fear abstract sealed
 The LokiPoe InGameState GuildStashUi EssenceTab Fear type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Deafening |
-| Muttering |
-| Screaming |
-| Shrieking |
-| Wailing |
-| Weeping |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Deafening |  |
+|  | Muttering |  |
+|  | Screaming |  |
+|  | Shrieking |  |
+|  | Wailing |  |
+|  | Weeping |  |
+
+## Дочерние разделы
+- [**Fear Properties**](./Fear Properties/README.md)

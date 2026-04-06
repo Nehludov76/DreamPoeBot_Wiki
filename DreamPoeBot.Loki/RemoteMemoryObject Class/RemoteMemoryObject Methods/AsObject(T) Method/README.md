@@ -1,5 +1,6 @@
 # AsObject(T) Method 
 
+**Вложено элементов:** 0  
 
 | RemoteMemoryObject AsObject T Method |
 | --- |

@@ -1,5 +1,6 @@
 # byte_0CurrentAreaLevel Field
 
+**Вложено элементов:** 0  
 
 | IngameData StructInGameData byte_0CurrentAreaLevel Field |
 | --- |

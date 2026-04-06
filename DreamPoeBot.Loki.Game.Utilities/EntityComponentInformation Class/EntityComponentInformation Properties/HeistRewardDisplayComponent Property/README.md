@@ -1,5 +1,6 @@
 # HeistRewardDisplayComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation HeistRewardDisplayComponent Property |
 | --- |

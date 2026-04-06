@@ -1,5 +1,6 @@
 # UnequipSkillGemResult Enumeration
 
+**Вложено элементов:** 0  
 
 | UnequipSkillGemResult Enumeration |
 | --- |
@@ -30,12 +31,12 @@ public enum class UnequipSkillGemResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| ProcessHookManagerNotEnabled | 1 |
-| CursorFull | 2 |
-| ItemNotFound | 3 |
-| InvalidSocketIndex | 4 |
-| NoSkillGem | 5 |
-| Unsupported | 6 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | ProcessHookManagerNotEnabled | 1 |  |
+|  | CursorFull | 2 |  |
+|  | ItemNotFound | 3 |  |
+|  | InvalidSocketIndex | 4 |  |
+|  | NoSkillGem | 5 |  |
+|  | Unsupported | 6 |  |

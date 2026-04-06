@@ -1,5 +1,6 @@
 # SlotClickLocation Method 
 
+**Вложено элементов:** 0  
 
 | InventorySlotUiElement SlotClickLocation Method |
 | --- |

@@ -1,5 +1,6 @@
 # ScrollBarButtonUp Property 
 
+**Вложено элементов:** 0  
 
 | BeastCraftingUiElement ScrollBarButtonUp Property |
 | --- |

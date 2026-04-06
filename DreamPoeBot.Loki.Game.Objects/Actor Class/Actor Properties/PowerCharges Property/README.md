@@ -1,5 +1,6 @@
 # PowerCharges Property 
 
+**Вложено элементов:** 0  
 
 | Actor PowerCharges Property |
 | --- |

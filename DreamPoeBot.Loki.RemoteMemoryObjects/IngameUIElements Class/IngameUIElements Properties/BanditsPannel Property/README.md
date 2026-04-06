@@ -1,5 +1,6 @@
 # BanditsPannel Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements BanditsPannel Property |
 | --- |

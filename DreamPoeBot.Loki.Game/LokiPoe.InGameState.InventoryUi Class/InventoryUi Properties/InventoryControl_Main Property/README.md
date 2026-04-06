@@ -1,5 +1,6 @@
 # InventoryControl_Main Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState InventoryUi InventoryControl_Main Property |
 | --- |

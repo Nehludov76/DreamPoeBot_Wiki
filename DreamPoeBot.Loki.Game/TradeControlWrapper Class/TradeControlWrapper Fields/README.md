@@ -1,5 +1,6 @@
 # TradeControlWrapper Fields
 
+**Вложено элементов:** 0  
 
 | TradeControlWrapper Fields |
 | --- |
@@ -10,6 +11,6 @@
 The TradeControlWrapper type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| NeedUpdate | (Inherited from RemoteMemoryObject .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | NeedUpdate | (Inherited from RemoteMemoryObject .) |

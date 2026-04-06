@@ -1,5 +1,6 @@
 # EnchantmentsEnumerable Property 
 
+**Вложено элементов:** 0  
 
 | Mods EnchantmentsEnumerable Property |
 | --- |

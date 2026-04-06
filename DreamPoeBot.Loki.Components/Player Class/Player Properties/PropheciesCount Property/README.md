@@ -1,5 +1,6 @@
 # PropheciesCount Property 
 
+**Вложено элементов:** 0  
 
 | Player PropheciesCount Property |
 | --- |

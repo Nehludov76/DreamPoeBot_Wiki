@@ -1,5 +1,6 @@
 # IsTheMavenInvitationVisible Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState AtlasUi MapDevice Influence IsTheMavenInvitationVisible Property |
 | --- |

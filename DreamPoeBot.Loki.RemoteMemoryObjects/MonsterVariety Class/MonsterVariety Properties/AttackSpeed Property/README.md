@@ -1,5 +1,6 @@
 # AttackSpeed Property 
 
+**Вложено элементов:** 0  
 
 | MonsterVariety AttackSpeed Property |
 | --- |

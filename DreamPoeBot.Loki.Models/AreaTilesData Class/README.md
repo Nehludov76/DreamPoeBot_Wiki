@@ -1,5 +1,6 @@
 # AreaTilesData Class
 
+**Вложено элементов:** 8  
 
 | AreaTilesData Class |
 | --- |
@@ -32,25 +33,30 @@ public ref class AreaTilesData
 The AreaTilesData type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| AreaTilesData | Initializes a new instance of the AreaTilesData class |
+|  | Name | Description |
+| --- | --- | --- |
+|  | AreaTilesData | Initializes a new instance of the AreaTilesData class |
 
 
-| Name | Description |
-| --- | --- |
-| Byte |
-| IsWalkable |
-| Point |
-| X |
-| Y |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Byte |  |
+|  | IsWalkable |  |
+|  | Point |  |
+|  | X |  |
+|  | Y |  |
 
 
-| Name | Description |
-| --- | --- |
-| Equals | Determines whether the specified object is equal to the current object. (Inherited from Object .) |
-| Finalize | Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection. (Inherited from Object .) |
-| GetHashCode | Serves as the default hash function. (Inherited from Object .) |
-| GetType | Gets the Type of the current instance. (Inherited from Object .) |
-| MemberwiseClone | Creates a shallow copy of the current Object . (Inherited from Object .) |
-| ToString | Returns a string that represents the current object. (Inherited from Object .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Equals | Determines whether the specified object is equal to the current object. (Inherited from Object .) |
+|  | Finalize | Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection. (Inherited from Object .) |
+|  | GetHashCode | Serves as the default hash function. (Inherited from Object .) |
+|  | GetType | Gets the Type of the current instance. (Inherited from Object .) |
+|  | MemberwiseClone | Creates a shallow copy of the current Object . (Inherited from Object .) |
+|  | ToString | Returns a string that represents the current object. (Inherited from Object .) |
+
+## Дочерние разделы
+- [**AreaTilesData Constructor **](./AreaTilesData Constructor/README.md)
+- [**AreaTilesData Properties**](./AreaTilesData Properties/README.md)
+- [**AreaTilesData Methods**](./AreaTilesData Methods/README.md)

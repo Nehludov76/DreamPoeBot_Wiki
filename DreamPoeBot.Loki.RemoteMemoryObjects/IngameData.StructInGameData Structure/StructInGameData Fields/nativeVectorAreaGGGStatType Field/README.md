@@ -1,5 +1,6 @@
 # nativeVectorAreaGGGStatType Field
 
+**Вложено элементов:** 0  
 
 | IngameData StructInGameData nativeVectorAreaGGGStatType Field |
 | --- |

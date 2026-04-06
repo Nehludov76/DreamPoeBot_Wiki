@@ -1,5 +1,6 @@
 # WindowMinLevel Property 
 
+**Вложено элементов:** 0  
 
 | CustomLogger WindowMinLevel Property |
 | --- |

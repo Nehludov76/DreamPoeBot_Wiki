@@ -1,5 +1,6 @@
 # IsCursedWithWarlordsMark Property 
 
+**Вложено элементов:** 0  
 
 | Actor IsCursedWithWarlordsMark Property |
 | --- |

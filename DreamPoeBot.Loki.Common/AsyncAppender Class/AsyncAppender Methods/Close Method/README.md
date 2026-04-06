@@ -1,5 +1,6 @@
 # Close Method 
 
+**Вложено элементов:** 0  
 
 | AsyncAppender Close Method |
 | --- |

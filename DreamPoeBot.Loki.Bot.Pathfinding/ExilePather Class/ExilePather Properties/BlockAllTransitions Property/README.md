@@ -1,5 +1,6 @@
 # BlockAllTransitions Property 
 
+**Вложено элементов:** 0  
 
 | ExilePather BlockAllTransitions Property |
 | --- |

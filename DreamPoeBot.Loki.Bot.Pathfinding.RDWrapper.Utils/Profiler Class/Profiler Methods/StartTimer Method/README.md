@@ -1,5 +1,6 @@
 # StartTimer Method 
 
+**Вложено элементов:** 0  
 
 | Profiler StartTimer Method |
 | --- |

@@ -1,5 +1,6 @@
 # TgtDetail Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe TerrainDataEntry TgtDetail Property |
 | --- |

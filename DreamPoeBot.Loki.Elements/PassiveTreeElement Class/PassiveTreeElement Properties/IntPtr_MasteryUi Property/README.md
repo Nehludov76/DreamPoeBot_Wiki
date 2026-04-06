@@ -1,5 +1,6 @@
 # IntPtr_MasteryUi Property 
 
+**Вложено элементов:** 0  
 
 | PassiveTreeElement IntPtr_MasteryUi Property |
 | --- |

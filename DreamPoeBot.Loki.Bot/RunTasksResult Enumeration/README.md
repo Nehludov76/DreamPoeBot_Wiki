@@ -1,5 +1,6 @@
 # RunTasksResult Enumeration
 
+**Вложено элементов:** 0  
 
 | RunTasksResult Enumeration |
 | --- |
@@ -30,7 +31,7 @@ public enum class RunTasksResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| NoTasksRan | 0 |
-| TasksRan | 1 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | NoTasksRan | 0 |  |
+|  | TasksRan | 1 |  |

@@ -1,5 +1,6 @@
 # TypeRequiresMarshal Field
 
+**Вложено элементов:** 0  
 
 | MarshalCache T TypeRequiresMarshal Field |
 | --- |

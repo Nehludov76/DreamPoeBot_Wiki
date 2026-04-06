@@ -1,5 +1,6 @@
 # IntptrToStructNativeStringWCustom Method 
 
+**Вложено элементов:** 0  
 
 | Memory IntptrToStructNativeStringWCustom Method |
 | --- |

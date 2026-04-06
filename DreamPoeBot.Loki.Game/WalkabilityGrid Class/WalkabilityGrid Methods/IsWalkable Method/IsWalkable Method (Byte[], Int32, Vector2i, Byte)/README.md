@@ -1,5 +1,6 @@
 # IsWalkable Method (Byte[], Int32, Vector2i, Byte)
 
+**Вложено элементов:** 0  
 
 | WalkabilityGrid IsWalkable Method ( Byte , Int32, Vector2i, Byte) |
 | --- |

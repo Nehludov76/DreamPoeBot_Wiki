@@ -1,5 +1,6 @@
 # AppliesToCurrentAreaByLevel Property 
 
+**Вложено элементов:** 0  
 
 | Item AppliesToCurrentAreaByLevel Property |
 | --- |

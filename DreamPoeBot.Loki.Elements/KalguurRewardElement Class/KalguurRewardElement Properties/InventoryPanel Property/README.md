@@ -1,5 +1,6 @@
 # InventoryPanel Property 
 
+**Вложено элементов:** 0  
 
 | KalguurRewardElement InventoryPanel Property |
 | --- |

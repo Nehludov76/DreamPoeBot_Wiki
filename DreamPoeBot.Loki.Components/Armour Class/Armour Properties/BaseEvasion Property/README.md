@@ -1,5 +1,6 @@
 # BaseEvasion Property 
 
+**Вложено элементов:** 0  
 
 | Armour BaseEvasion Property |
 | --- |

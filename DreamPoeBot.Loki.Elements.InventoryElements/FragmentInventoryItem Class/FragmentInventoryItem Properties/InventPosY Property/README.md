@@ -1,5 +1,6 @@
 # InventPosY Property 
 
+**Вложено элементов:** 0  
 
 | FragmentInventoryItem InventPosY Property |
 | --- |

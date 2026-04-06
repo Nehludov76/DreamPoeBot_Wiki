@@ -1,5 +1,6 @@
 # PlayerClass Property 
 
+**Вложено элементов:** 0  
 
 | ServerData PlayerClass Property |
 | --- |

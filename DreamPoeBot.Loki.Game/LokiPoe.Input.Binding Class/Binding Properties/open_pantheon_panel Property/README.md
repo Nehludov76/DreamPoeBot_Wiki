@@ -1,5 +1,6 @@
 # open_pantheon_panel Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input Binding open_pantheon_panel Property |
 | --- |

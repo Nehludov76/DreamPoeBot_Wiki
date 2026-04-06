@@ -1,5 +1,6 @@
 # LesserBrokenCircleArtifact Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ExpeditionLockerUi LesserBrokenCircleArtifact Property |
 | --- |

@@ -1,5 +1,6 @@
 # _bots Field
 
+**Вложено элементов:** 0  
 
 | BotManager _bots Field |
 | --- |

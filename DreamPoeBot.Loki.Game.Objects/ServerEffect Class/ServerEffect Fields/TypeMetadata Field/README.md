@@ -1,5 +1,6 @@
 # TypeMetadata Field
 
+**Вложено элементов:** 0  
 
 | ServerEffect TypeMetadata Field |
 | --- |

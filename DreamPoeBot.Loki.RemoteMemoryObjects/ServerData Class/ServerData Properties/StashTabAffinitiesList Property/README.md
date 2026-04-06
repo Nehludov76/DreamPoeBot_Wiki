@@ -1,5 +1,6 @@
 # StashTabAffinitiesList Property 
 
+**Вложено элементов:** 0  
 
 | ServerData StashTabAffinitiesList Property |
 | --- |

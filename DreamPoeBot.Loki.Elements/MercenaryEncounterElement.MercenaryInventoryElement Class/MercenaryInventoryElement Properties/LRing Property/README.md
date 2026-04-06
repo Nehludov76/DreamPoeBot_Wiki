@@ -1,5 +1,6 @@
 # LRing Property 
 
+**Вложено элементов:** 0  
 
 | MercenaryEncounterElement MercenaryInventoryElement LRing Property |
 | --- |

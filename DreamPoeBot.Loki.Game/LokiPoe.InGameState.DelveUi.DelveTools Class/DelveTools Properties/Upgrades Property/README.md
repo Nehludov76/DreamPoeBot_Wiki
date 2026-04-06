@@ -1,5 +1,6 @@
 # Upgrades Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState DelveUi DelveTools Upgrades Property |
 | --- |

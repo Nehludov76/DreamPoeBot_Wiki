@@ -1,5 +1,6 @@
 # ToString Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe LocalData LabyrinthRoom ToString Method |
 | --- |

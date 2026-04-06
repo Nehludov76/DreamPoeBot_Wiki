@@ -1,5 +1,6 @@
 # DelveElement Property 
 
+**Вложено элементов:** 0  
 
 | ChallengesPannelElement DelveElement Property |
 | --- |

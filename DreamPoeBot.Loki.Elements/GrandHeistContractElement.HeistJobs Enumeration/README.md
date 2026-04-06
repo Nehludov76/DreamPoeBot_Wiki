@@ -1,5 +1,6 @@
 # GrandHeistContractElement.HeistJobs Enumeration
 
+**Вложено элементов:** 0  
 
 | GrandHeistContractElement HeistJobs Enumeration |
 | --- |
@@ -30,15 +31,15 @@ public enum class HeistJobs
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| Lockpicking | 0 |
-| BruteForce | 1 |
-| Perception | 2 |
-| Demolition | 3 |
-| CounterThaumaturge | 4 |
-| TrapDisarmament | 5 |
-| Agility | 6 |
-| Deception | 7 |
-| Engineering | 8 |
-| None | 9 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | Lockpicking | 0 |  |
+|  | BruteForce | 1 |  |
+|  | Perception | 2 |  |
+|  | Demolition | 3 |  |
+|  | CounterThaumaturge | 4 |  |
+|  | TrapDisarmament | 5 |  |
+|  | Agility | 6 |  |
+|  | Deception | 7 |  |
+|  | Engineering | 8 |  |
+|  | None | 9 |  |

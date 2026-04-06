@@ -1,5 +1,6 @@
 # LanternOfArimorElement.NecropolisLanternOption Constructor 
 
+**Вложено элементов:** 0  
 
 | LanternOfArimorElement NecropolisLanternOption Constructor |
 | --- |

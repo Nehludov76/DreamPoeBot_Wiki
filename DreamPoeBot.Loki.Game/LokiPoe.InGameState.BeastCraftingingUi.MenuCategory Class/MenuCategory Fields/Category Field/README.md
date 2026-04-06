@@ -1,5 +1,6 @@
 # Category Field
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState BeastCraftingingUi MenuCategory Category Field |
 | --- |

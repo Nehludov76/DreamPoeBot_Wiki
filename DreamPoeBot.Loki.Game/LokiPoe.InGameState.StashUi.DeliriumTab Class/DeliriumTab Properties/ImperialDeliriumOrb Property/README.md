@@ -1,5 +1,6 @@
 # ImperialDeliriumOrb Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState StashUi DeliriumTab ImperialDeliriumOrb Property |
 | --- |

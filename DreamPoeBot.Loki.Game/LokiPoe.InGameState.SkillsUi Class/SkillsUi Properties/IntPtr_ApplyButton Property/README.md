@@ -1,5 +1,6 @@
 # IntPtr_ApplyButton Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SkillsUi IntPtr_ApplyButton Property |
 | --- |

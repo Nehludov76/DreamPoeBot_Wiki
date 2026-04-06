@@ -1,5 +1,6 @@
 # FullEntityList Field
 
+**Вложено элементов:** 0  
 
 | IngameData StructInGameData FullEntityList Field |
 | --- |

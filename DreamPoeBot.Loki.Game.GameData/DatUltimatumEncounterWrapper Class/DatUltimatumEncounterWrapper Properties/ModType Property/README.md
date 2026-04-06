@@ -1,5 +1,6 @@
 # ModType Property 
 
+**Вложено элементов:** 0  
 
 | DatUltimatumEncounterWrapper ModType Property |
 | --- |

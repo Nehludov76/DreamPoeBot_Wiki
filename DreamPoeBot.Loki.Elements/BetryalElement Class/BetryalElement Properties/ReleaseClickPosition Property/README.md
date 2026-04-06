@@ -1,5 +1,6 @@
 # ReleaseClickPosition Property 
 
+**Вложено элементов:** 0  
 
 | BetryalElement ReleaseClickPosition Property |
 | --- |

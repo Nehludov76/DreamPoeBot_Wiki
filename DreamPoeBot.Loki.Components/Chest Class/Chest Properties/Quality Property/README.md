@@ -1,5 +1,6 @@
 # Quality Property 
 
+**Вложено элементов:** 0  
 
 | Chest Quality Property |
 | --- |

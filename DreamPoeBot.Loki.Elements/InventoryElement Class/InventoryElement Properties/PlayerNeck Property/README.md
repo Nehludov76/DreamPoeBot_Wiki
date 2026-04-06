@@ -1,5 +1,6 @@
 # PlayerNeck Property 
 
+**Вложено элементов:** 0  
 
 | InventoryElement PlayerNeck Property |
 | --- |

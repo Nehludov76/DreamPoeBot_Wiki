@@ -1,5 +1,6 @@
 # PantheonMajor Property 
 
+**Вложено элементов:** 0  
 
 | Player PantheonMajor Property |
 | --- |

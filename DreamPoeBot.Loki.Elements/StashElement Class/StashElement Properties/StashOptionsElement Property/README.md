@@ -1,5 +1,6 @@
 # StashOptionsElement Property 
 
+**Вложено элементов:** 0  
 
 | StashElement StashOptionsElement Property |
 | --- |

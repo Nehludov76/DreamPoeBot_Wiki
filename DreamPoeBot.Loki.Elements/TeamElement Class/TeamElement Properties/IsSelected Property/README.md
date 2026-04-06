@@ -1,5 +1,6 @@
 # IsSelected Property 
 
+**Вложено элементов:** 0  
 
 | TeamElement IsSelected Property |
 | --- |

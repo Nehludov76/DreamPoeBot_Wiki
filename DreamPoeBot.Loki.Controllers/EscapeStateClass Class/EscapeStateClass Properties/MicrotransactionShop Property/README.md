@@ -1,5 +1,6 @@
 # MicrotransactionShop Property 
 
+**Вложено элементов:** 0  
 
 | EscapeStateClass MicrotransactionShop Property |
 | --- |

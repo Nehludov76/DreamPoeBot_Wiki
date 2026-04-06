@@ -1,5 +1,6 @@
 # GemQualityType Property 
 
+**Вложено элементов:** 0  
 
 | SkillGem GemQualityType Property |
 | --- |

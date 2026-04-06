@@ -1,5 +1,6 @@
 # InverseLerp Method 
 
+**Вложено элементов:** 0  
 
 | MathEx InverseLerp Method |
 | --- |

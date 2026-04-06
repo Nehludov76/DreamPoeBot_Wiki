@@ -1,5 +1,6 @@
 # ChoosePassive Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState AtlasSkillsUi ChoosePassive Method |
 | --- |

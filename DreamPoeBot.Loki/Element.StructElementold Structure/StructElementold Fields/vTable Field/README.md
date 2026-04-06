@@ -1,5 +1,6 @@
 # vTable Field
 
+**Вложено элементов:** 0  
 
 | Element StructElementold vTable Field |
 | --- |

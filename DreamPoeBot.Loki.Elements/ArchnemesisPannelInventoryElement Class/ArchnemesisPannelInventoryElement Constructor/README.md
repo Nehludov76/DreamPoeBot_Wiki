@@ -1,5 +1,6 @@
 # ArchnemesisPannelInventoryElement Constructor 
 
+**Вложено элементов:** 0  
 
 | ArchnemesisPannelInventoryElement Constructor |
 | --- |

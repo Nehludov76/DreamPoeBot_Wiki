@@ -1,5 +1,6 @@
 # IsShocked Property 
 
+**Вложено элементов:** 0  
 
 | Actor IsShocked Property |
 | --- |

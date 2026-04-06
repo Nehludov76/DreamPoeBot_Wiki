@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.SelectZanaMissionMapResult Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SelectZanaMissionMapResult Enumeration |
 | --- |
@@ -30,11 +31,11 @@ public enum class SelectZanaMissionMapResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| ProcessHookManagerNotEnabled | 0 |
-| SelectedItemIsnull | 1 |
-| UiNotOpen | 2 |
-| UnableToFindeSelectedMap | 3 |
-| SelectionFailed | 4 |
-| None | 5 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | ProcessHookManagerNotEnabled | 0 |  |
+|  | SelectedItemIsnull | 1 |  |
+|  | UiNotOpen | 2 |  |
+|  | UnableToFindeSelectedMap | 3 |  |
+|  | SelectionFailed | 4 |  |
+|  | None | 5 |  |

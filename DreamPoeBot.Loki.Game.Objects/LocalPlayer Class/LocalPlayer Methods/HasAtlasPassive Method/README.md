@@ -1,5 +1,6 @@
 # HasAtlasPassive Method 
 
+**Вложено элементов:** 0  
 
 | LocalPlayer HasAtlasPassive Method |
 | --- |

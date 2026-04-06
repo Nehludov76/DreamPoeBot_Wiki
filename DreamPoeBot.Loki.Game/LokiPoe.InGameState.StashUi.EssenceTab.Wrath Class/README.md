@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.StashUi.EssenceTab.Wrath Class
 
+**Вложено элементов:** 6  
 
 | LokiPoe InGameState StashUi EssenceTab Wrath Class |
 | --- |
@@ -32,10 +33,13 @@ public ref class Wrath abstract sealed
 The LokiPoe InGameState StashUi EssenceTab Wrath type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Deafening |
-| Screaming |
-| Shrieking |
-| Wailing |
-| Weeping |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Deafening |  |
+|  | Screaming |  |
+|  | Shrieking |  |
+|  | Wailing |  |
+|  | Weeping |  |
+
+## Дочерние разделы
+- [**Wrath Properties**](./Wrath Properties/README.md)

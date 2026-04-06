@@ -1,5 +1,6 @@
 # IsAbilityCooldownActive Property 
 
+**Вложено элементов:** 0  
 
 | Actor IsAbilityCooldownActive Property |
 | --- |

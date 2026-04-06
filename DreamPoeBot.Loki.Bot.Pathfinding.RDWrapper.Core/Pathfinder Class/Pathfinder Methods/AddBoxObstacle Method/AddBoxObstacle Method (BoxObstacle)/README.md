@@ -1,5 +1,6 @@
 # AddBoxObstacle Method (BoxObstacle)
 
+**Вложено элементов:** 0  
 
 | Pathfinder AddBoxObstacle Method (BoxObstacle) |
 | --- |

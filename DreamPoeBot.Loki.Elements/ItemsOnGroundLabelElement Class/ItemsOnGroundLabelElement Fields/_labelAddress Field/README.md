@@ -1,5 +1,6 @@
 # _labelAddress Field
 
+**Вложено элементов:** 0  
 
 | ItemsOnGroundLabelElement _labelAddress Field |
 | --- |

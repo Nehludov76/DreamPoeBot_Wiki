@@ -1,5 +1,6 @@
 # UIRoot Property 
 
+**Вложено элементов:** 0  
 
 | IngameState UIRoot Property |
 | --- |

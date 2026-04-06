@@ -1,5 +1,6 @@
 # ActualPoints Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState BloodCrucibleUi Skills HellscapeSkillSlot ActualPoints Property |
 | --- |

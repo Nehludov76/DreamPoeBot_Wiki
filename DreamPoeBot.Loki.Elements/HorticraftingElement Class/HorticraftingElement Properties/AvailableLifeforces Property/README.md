@@ -1,5 +1,6 @@
 # AvailableLifeforces Property 
 
+**Вложено элементов:** 0  
 
 | HorticraftingElement AvailableLifeforces Property |
 | --- |

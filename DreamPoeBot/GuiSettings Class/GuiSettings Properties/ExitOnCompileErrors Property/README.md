@@ -1,5 +1,6 @@
 # ExitOnCompileErrors Property 
 
+**Вложено элементов:** 0  
 
 | GuiSettings ExitOnCompileErrors Property |
 | --- |

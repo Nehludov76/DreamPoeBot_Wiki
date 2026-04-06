@@ -1,5 +1,6 @@
 # SkipTutorialButton Property 
 
+**Вложено элементов:** 0  
 
 | HudUIElement SkipTutorialButton Property |
 | --- |

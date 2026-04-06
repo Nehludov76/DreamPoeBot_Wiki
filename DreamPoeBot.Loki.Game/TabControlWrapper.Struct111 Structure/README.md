@@ -1,5 +1,6 @@
 # TabControlWrapper.Struct111 Structure
 
+**Вложено элементов:** 7  
 
 | TabControlWrapper Struct111 Structure |
 | --- |
@@ -32,18 +33,22 @@ public value class Struct111
 The TabControlWrapper Struct111 type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Equals | Indicates whether this instance and a specified object are equal. (Inherited from ValueType .) |
-| GetHashCode | Returns the hash code for this instance. (Inherited from ValueType .) |
-| GetType | Gets the Type of the current instance. (Inherited from Object .) |
-| ToString | Returns the fully qualified type name of this instance. (Inherited from ValueType .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Equals | Indicates whether this instance and a specified object are equal. (Inherited from ValueType .) |
+|  | GetHashCode | Returns the hash code for this instance. (Inherited from ValueType .) |
+|  | GetType | Gets the Type of the current instance. (Inherited from Object .) |
+|  | ToString | Returns the fully qualified type name of this instance. (Inherited from ValueType .) |
 
 
-| Name | Description |
-| --- | --- |
-| byte_0 |
-| byte_4 |
-| CurrentTabIndex |
-| int_1 |
-| List_0 |
+|  | Name | Description |
+| --- | --- | --- |
+|  | byte_0 |  |
+|  | byte_4 |  |
+|  | CurrentTabIndex |  |
+|  | int_1 |  |
+|  | List_0 |  |
+
+## Дочерние разделы
+- [**Struct111 Methods**](./Struct111 Methods/README.md)
+- [**Struct111 Fields**](./Struct111 Fields/README.md)

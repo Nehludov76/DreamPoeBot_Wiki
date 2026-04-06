@@ -1,5 +1,6 @@
 # Vector_BestiaryIngredients Field
 
+**Вложено элементов:** 0  
 
 | ServerData StructNewServerData Vector_BestiaryIngredients Field |
 | --- |

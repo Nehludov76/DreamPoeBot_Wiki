@@ -1,5 +1,6 @@
 # SlotGroup Property 
 
+**Вложено элементов:** 0  
 
 | CurrencyStashTabLayouts CurrencyStashTabLayoutJson SlotGroup Property |
 | --- |

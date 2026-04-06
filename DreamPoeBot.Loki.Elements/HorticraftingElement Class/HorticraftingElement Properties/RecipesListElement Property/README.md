@@ -1,5 +1,6 @@
 # RecipesListElement Property 
 
+**Вложено элементов:** 0  
 
 | HorticraftingElement RecipesListElement Property |
 | --- |

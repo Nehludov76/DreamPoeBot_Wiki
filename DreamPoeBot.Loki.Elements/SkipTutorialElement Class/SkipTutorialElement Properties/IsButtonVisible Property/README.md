@@ -1,5 +1,6 @@
 # IsButtonVisible Property 
 
+**Вложено элементов:** 0  
 
 | SkipTutorialElement IsButtonVisible Property |
 | --- |

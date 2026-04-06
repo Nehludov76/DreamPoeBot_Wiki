@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.NotificationType Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState NotificationType Enumeration |
 | --- |
@@ -30,15 +31,15 @@ public enum class NotificationType
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| Trade | 0 |
-| Party | 1 |
-| Friend | 2 |
-| Guild | 3 |
-| Info | 4 |
-| SoloPvP | 5 |
-| PartyPvP | 6 |
-| FriendOnline | 7 |
-| FriendOffline | 8 |
-| Unknown | 9 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | Trade | 0 |  |
+|  | Party | 1 |  |
+|  | Friend | 2 |  |
+|  | Guild | 3 |  |
+|  | Info | 4 |  |
+|  | SoloPvP | 5 |  |
+|  | PartyPvP | 6 |  |
+|  | FriendOnline | 7 |  |
+|  | FriendOffline | 8 |  |
+|  | Unknown | 9 |  |

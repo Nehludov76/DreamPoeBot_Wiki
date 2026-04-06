@@ -1,5 +1,6 @@
 # Logic Method 
 
+**Вложено элементов:** 0  
 
 | ILogicProvider Logic Method |
 | --- |

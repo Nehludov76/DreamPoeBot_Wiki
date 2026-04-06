@@ -1,5 +1,6 @@
 # TierString Property 
 
+**Вложено элементов:** 0  
 
 | DatModsWrapper TierString Property |
 | --- |

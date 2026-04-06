@@ -1,5 +1,6 @@
 # SetWindowText Method 
 
+**Вложено элементов:** 0  
 
 | Interop SetWindowText Method |
 | --- |

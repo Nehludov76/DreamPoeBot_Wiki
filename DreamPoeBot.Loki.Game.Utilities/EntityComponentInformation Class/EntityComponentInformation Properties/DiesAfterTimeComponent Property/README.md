@@ -1,5 +1,6 @@
 # DiesAfterTimeComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation DiesAfterTimeComponent Property |
 | --- |

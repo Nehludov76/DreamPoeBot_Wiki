@@ -1,5 +1,6 @@
 # InstanceManager Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements InstanceManager Property |
 | --- |

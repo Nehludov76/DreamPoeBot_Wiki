@@ -1,5 +1,6 @@
 # SkipTutorialPannel Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements SkipTutorialPannel Property |
 | --- |

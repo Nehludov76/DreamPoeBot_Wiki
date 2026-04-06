@@ -1,5 +1,6 @@
 # Bosses Property 
 
+**Вложено элементов:** 0  
 
 | DatWorldAreaWrapper Bosses Property |
 | --- |

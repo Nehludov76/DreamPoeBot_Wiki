@@ -1,5 +1,6 @@
 # ForbiddenSanctumWayPoint Property 
 
+**Вложено элементов:** 0  
 
 | WorldElement ForbiddenSanctumWayPoint Property |
 | --- |

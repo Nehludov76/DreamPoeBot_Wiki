@@ -1,5 +1,6 @@
 # text Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe UiDumpData text Property |
 | --- |

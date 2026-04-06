@@ -1,5 +1,6 @@
 # ForebodingDeliriumOrb Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState GuildStashUi DeliriumTab ForebodingDeliriumOrb Property |
 | --- |

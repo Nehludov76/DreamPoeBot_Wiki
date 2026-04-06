@@ -1,5 +1,6 @@
 # ToggleExplosivePlacementElement Fields
 
+**Вложено элементов:** 0  
 
 | ToggleExplosivePlacementElement Fields |
 | --- |
@@ -10,6 +11,6 @@
 The ToggleExplosivePlacementElement type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| NeedUpdate | (Inherited from RemoteMemoryObject .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | NeedUpdate | (Inherited from RemoteMemoryObject .) |

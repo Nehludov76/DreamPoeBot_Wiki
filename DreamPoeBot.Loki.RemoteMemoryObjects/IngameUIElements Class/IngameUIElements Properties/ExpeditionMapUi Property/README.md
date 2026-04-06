@@ -1,5 +1,6 @@
 # ExpeditionMapUi Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements ExpeditionMapUi Property |
 | --- |

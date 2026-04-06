@@ -1,5 +1,6 @@
 # Description Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState MercenaryEncounterUi MercenarySkill Description Property |
 | --- |

@@ -1,5 +1,6 @@
 # SocketList Property 
 
+**Вложено элементов:** 0  
 
 | Sockets SocketList Property |
 | --- |

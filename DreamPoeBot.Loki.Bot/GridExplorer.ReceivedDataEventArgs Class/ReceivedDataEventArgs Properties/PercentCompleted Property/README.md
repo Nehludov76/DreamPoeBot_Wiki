@@ -1,5 +1,6 @@
 # PercentCompleted Property 
 
+**Вложено элементов:** 0  
 
 | GridExplorer ReceivedDataEventArgs PercentCompleted Property |
 | --- |

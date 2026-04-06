@@ -1,5 +1,6 @@
 # StayTime Field
 
+**Вложено элементов:** 0  
 
 | Pathfinding PathfindingComponentOffsets StayTime Field |
 | --- |

@@ -1,5 +1,6 @@
 # Cardinal Method (Vector3, Vector3, Vector3, Vector3, Single, Single, Single, Vector3)
 
+**Вложено элементов:** 0  
 
 | Vector3 Cardinal Method (Vector3 , Vector3 , Vector3 , Vector3 , Single, Single, Single, Vector3 ) |
 | --- |

@@ -1,5 +1,6 @@
 # OpenDisplayNoteResult Enumeration
 
+**Вложено элементов:** 0  
 
 | OpenDisplayNoteResult Enumeration |
 | --- |
@@ -30,10 +31,10 @@ public enum class OpenDisplayNoteResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| ProcessHookManagerNotEnabled | 1 |
-| ItemNotFound | 2 |
-| CursorFull | 3 |
-| Unsupported | 4 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | ProcessHookManagerNotEnabled | 1 |  |
+|  | ItemNotFound | 2 |  |
+|  | CursorFull | 3 |  |
+|  | Unsupported | 4 |  |

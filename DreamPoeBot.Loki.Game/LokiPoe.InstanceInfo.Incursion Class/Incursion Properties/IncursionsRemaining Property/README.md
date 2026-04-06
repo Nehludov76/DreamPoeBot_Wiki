@@ -1,5 +1,6 @@
 # IncursionsRemaining Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo Incursion IncursionsRemaining Property |
 | --- |

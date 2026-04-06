@@ -1,5 +1,6 @@
 # Value Field
 
+**Вложено элементов:** 0  
 
 | Memory ListDoublePointerIntNode Value Field |
 | --- |

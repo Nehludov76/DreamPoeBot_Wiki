@@ -1,5 +1,6 @@
 # IsEnabled Property 
 
+**Вложено элементов:** 0  
 
 | DivinationStashTabLayouts DivinationStashTabLayoutHardcoded IsEnabled Property |
 | --- |

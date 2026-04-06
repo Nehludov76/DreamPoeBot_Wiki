@@ -1,5 +1,6 @@
 # OpenTempleOfAtzoat Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState TempleOfAtzoatlUi OpenTempleOfAtzoat Method |
 | --- |

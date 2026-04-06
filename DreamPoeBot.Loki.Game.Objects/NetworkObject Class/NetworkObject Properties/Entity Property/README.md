@@ -1,5 +1,6 @@
 # Entity Property 
 
+**Вложено элементов:** 0  
 
 | NetworkObject Entity Property |
 | --- |

@@ -1,5 +1,6 @@
 # WalkableClimb Property 
 
+**Вложено элементов:** 0  
 
 | RecastMeshSettings WalkableClimb Property |
 | --- |

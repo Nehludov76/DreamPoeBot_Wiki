@@ -1,5 +1,6 @@
 # AcceptTermOfUse Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe PreGameState AcceptTermOfUse Method |
 | --- |

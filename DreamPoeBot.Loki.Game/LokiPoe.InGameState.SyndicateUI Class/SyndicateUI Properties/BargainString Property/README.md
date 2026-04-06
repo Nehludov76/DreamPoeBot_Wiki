@@ -1,5 +1,6 @@
 # BargainString Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SyndicateUI BargainString Property |
 | --- |

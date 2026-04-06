@@ -1,5 +1,6 @@
 # HasMetadataFlags Method 
 
+**Вложено элементов:** 0  
 
 | Item HasMetadataFlags Method |
 | --- |

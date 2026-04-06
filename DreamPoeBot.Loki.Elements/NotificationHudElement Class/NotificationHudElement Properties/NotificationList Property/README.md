@@ -1,5 +1,6 @@
 # NotificationList Property 
 
+**Вложено элементов:** 0  
 
 | NotificationHudElement NotificationList Property |
 | --- |

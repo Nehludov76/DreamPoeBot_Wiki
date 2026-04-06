@@ -1,5 +1,6 @@
 # ActualResolve Property 
 
+**Вложено элементов:** 0  
 
 | SanctumArchivesElement ActualResolve Property |
 | --- |

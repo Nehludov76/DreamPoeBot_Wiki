@@ -1,5 +1,6 @@
 # TransitionType Property 
 
+**Вложено элементов:** 0  
 
 | AreaTransition TransitionType Property |
 | --- |

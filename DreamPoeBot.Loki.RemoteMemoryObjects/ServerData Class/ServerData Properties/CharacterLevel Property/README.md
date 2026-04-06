@@ -1,5 +1,6 @@
 # CharacterLevel Property 
 
+**Вложено элементов:** 0  
 
 | ServerData CharacterLevel Property |
 | --- |

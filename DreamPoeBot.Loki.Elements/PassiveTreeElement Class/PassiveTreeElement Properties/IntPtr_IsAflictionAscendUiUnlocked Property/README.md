@@ -1,5 +1,6 @@
 # IntPtr_IsAflictionAscendUiUnlocked Property 
 
+**Вложено элементов:** 0  
 
 | PassiveTreeElement IntPtr_IsAflictionAscendUiUnlocked Property |
 | --- |

@@ -1,5 +1,6 @@
 # ReturnToMine Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState DelveSubterrainChartUi ReturnToMine Method |
 | --- |

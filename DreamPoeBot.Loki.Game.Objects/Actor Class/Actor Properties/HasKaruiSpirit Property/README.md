@@ -1,5 +1,6 @@
 # HasKaruiSpirit Property 
 
+**Вложено элементов:** 0  
 
 | Actor HasKaruiSpirit Property |
 | --- |

@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.MetamorphUi.CraftReward Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState MetamorphUi CraftReward Enumeration |
 | --- |
@@ -30,17 +31,17 @@ public enum class CraftReward
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| Currency | 0 |
-| Armours | 1 |
-| Weapons | 2 |
-| Jewellery | 3 |
-| AbyssalJewels | 4 |
-| Catalysts | 5 |
-| DivinationCards | 6 |
-| Shards | 7 |
-| Essences | 8 |
-| BlightMap | 9 |
-| LegionSplinter | 10 |
-| Unique | 11 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | Currency | 0 |  |
+|  | Armours | 1 |  |
+|  | Weapons | 2 |  |
+|  | Jewellery | 3 |  |
+|  | AbyssalJewels | 4 |  |
+|  | Catalysts | 5 |  |
+|  | DivinationCards | 6 |  |
+|  | Shards | 7 |  |
+|  | Essences | 8 |  |
+|  | BlightMap | 9 |  |
+|  | LegionSplinter | 10 |  |
+|  | Unique | 11 |  |

@@ -1,5 +1,6 @@
 # ClosestMaster Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe ObjectManager ClosestMaster Property |
 | --- |

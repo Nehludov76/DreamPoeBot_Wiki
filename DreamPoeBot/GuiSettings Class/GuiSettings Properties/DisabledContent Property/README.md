@@ -1,5 +1,6 @@
 # DisabledContent Property 
 
+**Вложено элементов:** 0  
 
 | GuiSettings DisabledContent Property |
 | --- |

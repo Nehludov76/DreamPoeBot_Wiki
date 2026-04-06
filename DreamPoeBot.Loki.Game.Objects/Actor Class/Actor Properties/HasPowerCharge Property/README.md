@@ -1,5 +1,6 @@
 # HasPowerCharge Property 
 
+**Вложено элементов:** 0  
 
 | Actor HasPowerCharge Property |
 | --- |

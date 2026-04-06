@@ -1,5 +1,6 @@
 # DatPassiveSkillMasteryEffectsWrapper Constructor (Int64)
 
+**Вложено элементов:** 0  
 
 | DatPassiveSkillMasteryEffectsWrapper Constructor (Int64) |
 | --- |

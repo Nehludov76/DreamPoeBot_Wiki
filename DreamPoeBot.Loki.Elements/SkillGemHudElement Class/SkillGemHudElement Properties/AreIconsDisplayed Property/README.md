@@ -1,5 +1,6 @@
 # AreIconsDisplayed Property 
 
+**Вложено элементов:** 0  
 
 | SkillGemHudElement AreIconsDisplayed Property |
 | --- |

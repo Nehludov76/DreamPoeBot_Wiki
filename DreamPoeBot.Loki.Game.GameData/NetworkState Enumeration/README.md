@@ -1,5 +1,6 @@
 # NetworkState Enumeration
 
+**Вложено элементов:** 0  
 
 | NetworkState Enumeration |
 | --- |
@@ -30,9 +31,9 @@ public enum class NetworkState
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| Disconnected | 1 |
-| Connecting | 2 |
-| Connected | 3 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | Disconnected | 1 |  |
+|  | Connecting | 2 |  |
+|  | Connected | 3 |  |

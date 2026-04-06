@@ -1,5 +1,6 @@
 # ClickToNextPosition Field
 
+**Вложено элементов:** 0  
 
 | Pathfinding PathfindingComponentOffsets ClickToNextPosition Field |
 | --- |

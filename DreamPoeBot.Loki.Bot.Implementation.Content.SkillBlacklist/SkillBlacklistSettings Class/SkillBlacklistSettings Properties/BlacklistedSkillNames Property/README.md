@@ -1,5 +1,6 @@
 # BlacklistedSkillNames Property 
 
+**Вложено элементов:** 0  
 
 | SkillBlacklistSettings BlacklistedSkillNames Property |
 | --- |

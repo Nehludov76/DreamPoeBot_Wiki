@@ -1,5 +1,6 @@
 # IsMessageBoxActive Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe PreGameState IsMessageBoxActive Property |
 | --- |

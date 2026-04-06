@@ -1,5 +1,6 @@
 # _19 Property 
 
+**Вложено элементов:** 0  
 
 | TriggerableBlockage _19 Property |
 | --- |

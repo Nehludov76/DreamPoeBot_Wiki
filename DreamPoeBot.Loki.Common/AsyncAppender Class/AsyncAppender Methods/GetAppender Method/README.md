@@ -1,5 +1,6 @@
 # GetAppender Method 
 
+**Вложено элементов:** 0  
 
 | AsyncAppender GetAppender Method |
 | --- |

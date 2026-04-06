@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.OpenContextMenuResult Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState OpenContextMenuResult Enumeration |
 | --- |
@@ -30,10 +31,10 @@ public enum class OpenContextMenuResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| ProcessHookManagerNotEnabled | 1 |
-| UiNotOpen | 2 |
-| WindowBlocking | 3 |
-| NotFound | 4 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | ProcessHookManagerNotEnabled | 1 |  |
+|  | UiNotOpen | 2 |  |
+|  | WindowBlocking | 3 |  |
+|  | NotFound | 4 |  |

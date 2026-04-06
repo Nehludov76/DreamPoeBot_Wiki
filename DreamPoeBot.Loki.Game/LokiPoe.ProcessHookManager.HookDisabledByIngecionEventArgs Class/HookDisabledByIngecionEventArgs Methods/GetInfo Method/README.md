@@ -1,5 +1,6 @@
 # GetInfo Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe ProcessHookManager HookDisabledByIngecionEventArgs GetInfo Method |
 | --- |

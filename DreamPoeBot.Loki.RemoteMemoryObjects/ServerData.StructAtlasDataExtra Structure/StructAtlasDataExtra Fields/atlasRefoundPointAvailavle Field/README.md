@@ -1,5 +1,6 @@
 # atlasRefoundPointAvailavle Field
 
+**Вложено элементов:** 0  
 
 | ServerData StructAtlasDataExtra atlasRefoundPointAvailavle Field |
 | --- |

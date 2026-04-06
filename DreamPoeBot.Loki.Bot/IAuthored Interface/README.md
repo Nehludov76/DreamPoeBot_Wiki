@@ -1,5 +1,6 @@
 # IAuthored Interface
 
+**Вложено элементов:** 5  
 
 | IAuthored Interface |
 | --- |
@@ -32,9 +33,12 @@ public interface class IAuthored
 The IAuthored type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Author |
-| Description |
-| Name |
-| Version |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Author |  |
+|  | Description |  |
+|  | Name |  |
+|  | Version |  |
+
+## Дочерние разделы
+- [**IAuthored Properties**](./IAuthored Properties/README.md)

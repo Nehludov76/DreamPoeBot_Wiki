@@ -1,5 +1,6 @@
 # Misc Class
 
+**Вложено элементов:** 3  
 
 | Misc Class |
 | --- |
@@ -32,7 +33,10 @@ public ref class Misc abstract sealed
 The Misc type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| GetRandomSelectedProfile |
-| SetRandomSelectedProfile |
+|  | Name | Description |
+| --- | --- | --- |
+|  | GetRandomSelectedProfile |  |
+|  | SetRandomSelectedProfile |  |
+
+## Дочерние разделы
+- [**Misc Methods**](./Misc Methods/README.md)

@@ -1,5 +1,6 @@
 # IsInGameState Property 
 
+**Вложено элементов:** 0  
 
 | GameStateController IsInGameState Property |
 | --- |

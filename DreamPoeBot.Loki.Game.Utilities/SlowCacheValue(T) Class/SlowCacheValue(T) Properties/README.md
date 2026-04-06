@@ -1,5 +1,6 @@
 # SlowCacheValue(T) Properties
 
+**Вложено элементов:** 0  
 
 | SlowCacheValue T Properties |
 | --- |
@@ -10,6 +11,6 @@
 The SlowCacheValue T generic type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Value | (Inherited from PerCachedValue T .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Value | (Inherited from PerCachedValue T .) |

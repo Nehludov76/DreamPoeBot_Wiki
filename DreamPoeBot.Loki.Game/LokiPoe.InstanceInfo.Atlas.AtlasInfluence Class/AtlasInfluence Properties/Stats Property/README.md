@@ -1,5 +1,6 @@
 # Stats Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo Atlas AtlasInfluence Stats Property |
 | --- |

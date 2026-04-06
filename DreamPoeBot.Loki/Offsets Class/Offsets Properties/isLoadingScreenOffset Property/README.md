@@ -1,5 +1,6 @@
 # isLoadingScreenOffset Property 
 
+**Вложено элементов:** 0  
 
 | Offsets isLoadingScreenOffset Property |
 | --- |

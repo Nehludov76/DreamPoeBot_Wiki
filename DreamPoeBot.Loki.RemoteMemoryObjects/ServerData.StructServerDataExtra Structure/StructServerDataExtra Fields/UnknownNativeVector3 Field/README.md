@@ -1,5 +1,6 @@
 # UnknownNativeVector3 Field
 
+**Вложено элементов:** 0  
 
 | ServerData StructServerDataExtra UnknownNativeVector3 Field |
 | --- |

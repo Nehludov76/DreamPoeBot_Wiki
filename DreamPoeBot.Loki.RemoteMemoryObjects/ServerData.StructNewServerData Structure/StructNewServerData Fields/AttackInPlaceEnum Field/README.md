@@ -1,5 +1,6 @@
 # AttackInPlaceEnum Field
 
+**Вложено элементов:** 0  
 
 | ServerData StructNewServerData AttackInPlaceEnum Field |
 | --- |

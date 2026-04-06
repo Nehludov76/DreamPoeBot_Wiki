@@ -1,5 +1,6 @@
 # ClearObstacles Method 
 
+**Вложено элементов:** 0  
 
 | Pathfinder ClearObstacles Method |
 | --- |
@@ -30,4 +31,4 @@ public : void ClearObstacles ()
 
 | Exception | Condition |
 | --- | --- |
-| ObjectDisposedException |
+| ObjectDisposedException |  |

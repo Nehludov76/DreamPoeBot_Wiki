@@ -1,5 +1,6 @@
 # LowestSynthY Field
 
+**Вложено элементов:** 0  
 
 | GridExplorer IncursionDataClass LowestSynthY Field |
 | --- |

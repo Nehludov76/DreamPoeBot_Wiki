@@ -1,5 +1,6 @@
 # intptr_ModsDat Field
 
+**Вложено элементов:** 0  
 
 | DatArchnemesisModWrapper ArchnemesisModStruct intptr_ModsDat Field |
 | --- |

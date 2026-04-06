@@ -1,5 +1,6 @@
 # IsTheMavenInvitationEnabled Property 
 
+**Вложено элементов:** 0  
 
 | MasterDeviceElement IsTheMavenInvitationEnabled Property |
 | --- |

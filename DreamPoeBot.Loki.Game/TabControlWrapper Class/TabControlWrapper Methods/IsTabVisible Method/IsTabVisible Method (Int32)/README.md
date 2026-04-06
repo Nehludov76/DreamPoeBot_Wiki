@@ -1,5 +1,6 @@
 # IsTabVisible Method (Int32)
 
+**Вложено элементов:** 0  
 
 | TabControlWrapper IsTabVisible Method (Int32) |
 | --- |

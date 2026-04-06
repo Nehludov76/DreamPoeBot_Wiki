@@ -1,5 +1,6 @@
 # MaxElementalDamage Property 
 
+**Вложено элементов:** 0  
 
 | Item MaxElementalDamage Property |
 | --- |

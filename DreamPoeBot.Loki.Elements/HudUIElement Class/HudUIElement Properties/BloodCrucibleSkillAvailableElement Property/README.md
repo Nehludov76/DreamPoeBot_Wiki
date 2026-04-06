@@ -1,5 +1,6 @@
 # BloodCrucibleSkillAvailableElement Property 
 
+**Вложено элементов:** 0  
 
 | HudUIElement BloodCrucibleSkillAvailableElement Property |
 | --- |

@@ -1,5 +1,6 @@
 # IsRequested Property 
 
+**Вложено элементов:** 0  
 
 | Inventory IsRequested Property |
 | --- |

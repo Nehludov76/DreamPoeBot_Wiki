@@ -1,5 +1,6 @@
 # PurchasePanell Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements PurchasePanell Property |
 | --- |

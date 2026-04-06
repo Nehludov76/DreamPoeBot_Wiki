@@ -1,5 +1,6 @@
 # IsVisible Field
 
+**Вложено элементов:** 0  
 
 | GenericComboBoxElement StructGenericComboBoxEntry IsVisible Field |
 | --- |

@@ -1,5 +1,6 @@
 # IsItemTransparent Method 
 
+**Вложено элементов:** 0  
 
 | InventoryControlWrapper IsItemTransparent Method |
 | --- |

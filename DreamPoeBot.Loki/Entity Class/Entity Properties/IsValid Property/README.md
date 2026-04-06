@@ -1,5 +1,6 @@
 # IsValid Property 
 
+**Вложено элементов:** 0  
 
 | Entity IsValid Property |
 | --- |

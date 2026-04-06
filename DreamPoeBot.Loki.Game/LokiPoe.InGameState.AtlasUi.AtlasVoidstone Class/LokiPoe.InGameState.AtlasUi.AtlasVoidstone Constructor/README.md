@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.AtlasUi.AtlasVoidstone Constructor 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState AtlasUi AtlasVoidstone Constructor |
 | --- |

@@ -1,5 +1,6 @@
 # Equals Method (NativeStringA)
 
+**Вложено элементов:** 0  
 
 | NativeStringA Equals Method (NativeStringA) |
 | --- |

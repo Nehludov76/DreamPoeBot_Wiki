@@ -1,5 +1,6 @@
 # CraftButton Property 
 
+**Вложено элементов:** 0  
 
 | BeastCraftingUiElement CraftButton Property |
 | --- |

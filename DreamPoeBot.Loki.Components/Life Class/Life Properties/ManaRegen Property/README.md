@@ -1,5 +1,6 @@
 # ManaRegen Property 
 
+**Вложено элементов:** 0  
 
 | Life ManaRegen Property |
 | --- |

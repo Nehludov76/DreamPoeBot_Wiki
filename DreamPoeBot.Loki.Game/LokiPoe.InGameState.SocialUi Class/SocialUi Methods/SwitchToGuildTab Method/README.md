@@ -1,5 +1,6 @@
 # SwitchToGuildTab Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SocialUi SwitchToGuildTab Method |
 | --- |

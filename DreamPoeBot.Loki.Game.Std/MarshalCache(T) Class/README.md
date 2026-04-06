@@ -1,5 +1,6 @@
 # MarshalCache(T) Class
 
+**Вложено элементов:** 6  
 
 | MarshalCache T Class |
 | --- |
@@ -34,10 +35,13 @@ generic < typename T> public ref class MarshalCache abstract sealed
 The MarshalCache T type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| GetUnsafePtr |
-| RealType | The real, underlying type. |
-| Size | The size of the Type |
-| TypeCode | The type code |
-| TypeRequiresMarshal | True if this type requires the Marshaler to map variables. (No direct pointer dereferencing) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | GetUnsafePtr |  |
+|  | RealType | The real, underlying type. |
+|  | Size | The size of the Type |
+|  | TypeCode | The type code |
+|  | TypeRequiresMarshal | True if this type requires the Marshaler to map variables. (No direct pointer dereferencing) |
+
+## Дочерние разделы
+- [**MarshalCache(T) Fields**](./MarshalCache(T) Fields/README.md)

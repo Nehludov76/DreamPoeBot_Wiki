@@ -1,5 +1,6 @@
 # Parts Property 
 
+**Вложено элементов:** 0  
 
 | WorldElement Parts Property |
 | --- |

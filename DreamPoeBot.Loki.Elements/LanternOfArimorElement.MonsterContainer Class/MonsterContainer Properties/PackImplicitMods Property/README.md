@@ -1,5 +1,6 @@
 # PackImplicitMods Property 
 
+**Вложено элементов:** 0  
 
 | LanternOfArimorElement MonsterContainer PackImplicitMods Property |
 | --- |

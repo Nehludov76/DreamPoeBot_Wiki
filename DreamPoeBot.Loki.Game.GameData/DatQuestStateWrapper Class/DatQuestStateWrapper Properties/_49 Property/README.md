@@ -1,5 +1,6 @@
 # _49 Property 
 
+**Вложено элементов:** 0  
 
 | DatQuestStateWrapper _49 Property |
 | --- |

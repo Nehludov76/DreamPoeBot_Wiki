@@ -1,5 +1,6 @@
 # SearchElementText Property 
 
+**Вложено элементов:** 0  
 
 | CraftingBenchElement SearchElementText Property |
 | --- |

@@ -1,5 +1,6 @@
 # SizeInNavCells Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe TerrainData SizeInNavCells Property |
 | --- |

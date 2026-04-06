@@ -1,5 +1,6 @@
 # JumpableRects Property 
 
+**Вложено элементов:** 0  
 
 | NewTrisClass JumpableRects Property |
 | --- |

@@ -1,5 +1,6 @@
 # WorldArea2 Property 
 
+**Вложено элементов:** 0  
 
 | DatHideoutWrapper WorldArea2 Property |
 | --- |

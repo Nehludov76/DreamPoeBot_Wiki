@@ -1,5 +1,6 @@
 # Ascend Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState AscendancyUi Ascend Method |
 | --- |

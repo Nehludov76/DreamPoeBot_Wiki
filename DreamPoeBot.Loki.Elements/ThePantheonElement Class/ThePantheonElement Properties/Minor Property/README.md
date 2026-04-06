@@ -1,5 +1,6 @@
 # Minor Property 
 
+**Вложено элементов:** 0  
 
 | ThePantheonElement Minor Property |
 | --- |

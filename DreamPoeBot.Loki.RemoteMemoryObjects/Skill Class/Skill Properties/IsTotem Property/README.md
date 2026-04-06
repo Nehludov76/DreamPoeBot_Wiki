@@ -1,5 +1,6 @@
 # IsTotem Property 
 
+**Вложено элементов:** 0  
 
 | Skill IsTotem Property |
 | --- |

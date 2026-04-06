@@ -1,5 +1,6 @@
 # MaxTotemCount Property 
 
+**Вложено элементов:** 0  
 
 | Actor MaxTotemCount Property |
 | --- |

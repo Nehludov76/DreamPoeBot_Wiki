@@ -1,5 +1,6 @@
 # AttributeModifiersDex Property 
 
+**Вложено элементов:** 0  
 
 | SkillGem AttributeModifiersDex Property |
 | --- |

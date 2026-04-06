@@ -1,5 +1,6 @@
 # Rarity Property 
 
+**Вложено элементов:** 0  
 
 | Dat DatQuestRewardWrapper Rarity Property |
 | --- |

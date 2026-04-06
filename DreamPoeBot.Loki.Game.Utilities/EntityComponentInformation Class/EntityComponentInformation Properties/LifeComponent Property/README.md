@@ -1,5 +1,6 @@
 # LifeComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation LifeComponent Property |
 | --- |

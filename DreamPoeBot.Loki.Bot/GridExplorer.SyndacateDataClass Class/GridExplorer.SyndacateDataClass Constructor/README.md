@@ -1,5 +1,6 @@
 # GridExplorer.SyndacateDataClass Constructor 
 
+**Вложено элементов:** 0  
 
 | GridExplorer SyndacateDataClass Constructor |
 | --- |

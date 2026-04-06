@@ -1,5 +1,6 @@
 # IsFriendly Property 
 
+**Вложено элементов:** 0  
 
 | NetworkObject IsFriendly Property |
 | --- |

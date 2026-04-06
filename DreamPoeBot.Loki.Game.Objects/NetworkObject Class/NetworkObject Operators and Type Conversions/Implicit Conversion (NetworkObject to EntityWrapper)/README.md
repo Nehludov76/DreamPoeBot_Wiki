@@ -1,5 +1,6 @@
 # Implicit Conversion (NetworkObject to EntityWrapper)
 
+**Вложено элементов:** 0  
 
 | NetworkObject Conversion (NetworkObject to EntityWrapper) |
 | --- |

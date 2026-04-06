@@ -1,5 +1,6 @@
 # CrucibleAffixes Property 
 
+**Вложено элементов:** 0  
 
 | Mods CrucibleAffixes Property |
 | --- |

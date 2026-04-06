@@ -1,5 +1,6 @@
 # QueryMaxNodes Property 
 
+**Вложено элементов:** 0  
 
 | Pathfinder QueryMaxNodes Property |
 | --- |

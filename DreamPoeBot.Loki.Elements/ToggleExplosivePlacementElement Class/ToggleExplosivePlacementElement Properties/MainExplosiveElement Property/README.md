@@ -1,5 +1,6 @@
 # MainExplosiveElement Property 
 
+**Вложено элементов:** 0  
 
 | ToggleExplosivePlacementElement MainExplosiveElement Property |
 | --- |

@@ -1,5 +1,6 @@
 # WriteVector2 Method 
 
+**Вложено элементов:** 0  
 
 | Memory WriteVector2 Method |
 | --- |

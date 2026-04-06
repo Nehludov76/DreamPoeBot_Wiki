@@ -1,5 +1,6 @@
 # CraftingMod Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo Necropolis NecropolisCollectedCorpse CraftingMod Property |
 | --- |

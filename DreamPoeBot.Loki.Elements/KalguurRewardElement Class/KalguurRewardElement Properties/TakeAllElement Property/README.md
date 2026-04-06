@@ -1,5 +1,6 @@
 # TakeAllElement Property 
 
+**Вложено элементов:** 0  
 
 | KalguurRewardElement TakeAllElement Property |
 | --- |

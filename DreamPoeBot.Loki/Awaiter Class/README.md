@@ -1,5 +1,6 @@
 # Awaiter Class
 
+**Вложено элементов:** 2  
 
 | Awaiter Class |
 | --- |
@@ -32,6 +33,9 @@ public ref class Awaiter abstract sealed
 The Awaiter type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Await |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Await |  |
+
+## Дочерние разделы
+- [**Awaiter Methods**](./Awaiter Methods/README.md)

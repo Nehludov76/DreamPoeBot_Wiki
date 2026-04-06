@@ -1,5 +1,6 @@
 # Style Field
 
+**Вложено элементов:** 0  
 
 | Interop WindowInfoWin32 Style Field |
 | --- |

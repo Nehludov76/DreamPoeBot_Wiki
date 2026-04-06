@@ -1,5 +1,6 @@
 # Append Method (LoggingEvent)
 
+**Вложено элементов:** 0  
 
 | WpfRtfAppender Append Method (LoggingEvent) |
 | --- |

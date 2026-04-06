@@ -1,5 +1,6 @@
 # HighestSynthX Field
 
+**Вложено элементов:** 0  
 
 | GridExplorer SacredGroveDataClass HighestSynthX Field |
 | --- |

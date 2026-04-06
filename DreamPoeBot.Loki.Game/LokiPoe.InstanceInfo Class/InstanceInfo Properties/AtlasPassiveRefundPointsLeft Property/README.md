@@ -1,5 +1,6 @@
 # AtlasPassiveRefundPointsLeft Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo AtlasPassiveRefundPointsLeft Property |
 | --- |

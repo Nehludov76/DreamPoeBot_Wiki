@@ -1,5 +1,6 @@
 # IntRatio Property 
 
+**Вложено элементов:** 0  
 
 | DatSkillGemWrapper IntRatio Property |
 | --- |

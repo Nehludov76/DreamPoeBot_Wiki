@@ -1,5 +1,6 @@
 # Xposition Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState MetamorphUi Ingredient Xposition Property |
 | --- |

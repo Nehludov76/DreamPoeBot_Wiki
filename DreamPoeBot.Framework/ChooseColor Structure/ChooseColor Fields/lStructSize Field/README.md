@@ -1,5 +1,6 @@
 # lStructSize Field
 
+**Вложено элементов:** 0  
 
 | ChooseColor lStructSize Field |
 | --- |

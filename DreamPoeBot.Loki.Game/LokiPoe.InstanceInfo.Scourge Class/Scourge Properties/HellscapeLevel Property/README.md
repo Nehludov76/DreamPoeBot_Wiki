@@ -1,5 +1,6 @@
 # HellscapeLevel Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo Scourge HellscapeLevel Property |
 | --- |

@@ -1,5 +1,6 @@
 # genericRewardCount Field
 
+**Вложено элементов:** 0  
 
 | DatArchnemesisModWrapper ArchnemesisModStruct genericRewardCount Field |
 | --- |

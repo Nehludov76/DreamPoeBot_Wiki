@@ -1,5 +1,6 @@
 # ReadObjectAt(T) Method 
 
+**Вложено элементов:** 0  
 
 | RemoteMemoryObject ReadObjectAt T Method |
 | --- |

@@ -1,5 +1,6 @@
 # Equals Method (BoundingBox)
 
+**Вложено элементов:** 0  
 
 | BoundingBox Equals Method (BoundingBox) |
 | --- |

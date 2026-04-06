@@ -1,5 +1,6 @@
 # HasFrenzyCharge Property 
 
+**Вложено элементов:** 0  
 
 | Actor HasFrenzyCharge Property |
 | --- |

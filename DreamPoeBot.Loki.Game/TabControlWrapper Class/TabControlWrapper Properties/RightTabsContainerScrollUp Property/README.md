@@ -1,5 +1,6 @@
 # RightTabsContainerScrollUp Property 
 
+**Вложено элементов:** 0  
 
 | TabControlWrapper RightTabsContainerScrollUp Property |
 | --- |

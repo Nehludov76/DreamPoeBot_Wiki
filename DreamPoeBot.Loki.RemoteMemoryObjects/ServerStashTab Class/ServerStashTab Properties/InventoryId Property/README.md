@@ -1,5 +1,6 @@
 # InventoryId Property 
 
+**Вложено элементов:** 0  
 
 | ServerStashTab InventoryId Property |
 | --- |

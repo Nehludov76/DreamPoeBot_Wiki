@@ -1,5 +1,6 @@
 # LabyrinthRoom.LabyrinthSecret Constructor 
 
+**Вложено элементов:** 0  
 
 | LabyrinthRoom LabyrinthSecret Constructor |
 | --- |

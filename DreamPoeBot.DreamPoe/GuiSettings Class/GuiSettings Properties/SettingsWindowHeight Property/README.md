@@ -1,5 +1,6 @@
 # SettingsWindowHeight Property 
 
+**Вложено элементов:** 0  
 
 | GuiSettings SettingsWindowHeight Property |
 | --- |

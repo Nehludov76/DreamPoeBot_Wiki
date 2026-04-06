@@ -1,5 +1,6 @@
 # close_panels_combo Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input Binding close_panels_combo Property |
 | --- |

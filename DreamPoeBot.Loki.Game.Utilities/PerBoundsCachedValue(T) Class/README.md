@@ -1,5 +1,6 @@
 # PerBoundsCachedValue(T) Class
 
+**Вложено элементов:** 5  
 
 | PerBoundsCachedValue T Class |
 | --- |
@@ -34,28 +35,34 @@ generic < typename T> public ref class PerBoundsCachedValue : public PerCachedVa
 The PerBoundsCachedValue T type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| PerBoundsCachedValue T | Initializes a new instance of the PerBoundsCachedValue T class |
+|  | Name | Description |
+| --- | --- | --- |
+|  | PerBoundsCachedValue T | Initializes a new instance of the PerBoundsCachedValue T class |
 
 
-| Name | Description |
-| --- | --- |
-| Value | (Inherited from PerCachedValue T .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Value | (Inherited from PerCachedValue T .) |
 
 
-| Name | Description |
-| --- | --- |
-| Equals | Determines whether the specified object is equal to the current object. (Inherited from Object .) |
-| Finalize | Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection. (Inherited from Object .) |
-| GetHashCode | Serves as the default hash function. (Inherited from Object .) |
-| GetType | Gets the Type of the current instance. (Inherited from Object .) |
-| MemberwiseClone | Creates a shallow copy of the current Object . (Inherited from Object .) |
-| RequestCacheFlush | (Inherited from PerCachedValue T .) |
-| ShouldUpdateCache | (Overrides PerCachedValue T ShouldUpdateCache(Boolean) .) |
-| ToString | Returns a string that represents the current object. (Inherited from Object .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Equals | Determines whether the specified object is equal to the current object. (Inherited from Object .) |
+|  | Finalize | Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection. (Inherited from Object .) |
+|  | GetHashCode | Serves as the default hash function. (Inherited from Object .) |
+|  | GetType | Gets the Type of the current instance. (Inherited from Object .) |
+|  | MemberwiseClone | Creates a shallow copy of the current Object . (Inherited from Object .) |
+|  | RequestCacheFlush | (Inherited from PerCachedValue T .) |
+|  | ShouldUpdateCache | (Overrides PerCachedValue T ShouldUpdateCache(Boolean) .) |
+|  | ToString | Returns a string that represents the current object. (Inherited from Object .) |
 
 
-| Name | Description |
-| --- | --- |
-| OnCacheUpdate | (Inherited from PerCachedValue T .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | OnCacheUpdate | (Inherited from PerCachedValue T .) |
+
+## Дочерние разделы
+- [**PerBoundsCachedValue(T) Constructor **](./PerBoundsCachedValue(T) Constructor/README.md)
+- [**PerBoundsCachedValue(T) Properties**](./PerBoundsCachedValue(T) Properties/README.md)
+- [**PerBoundsCachedValue(T) Methods**](./PerBoundsCachedValue(T) Methods/README.md)
+- [**PerBoundsCachedValue(T) Events**](./PerBoundsCachedValue(T) Events/README.md)

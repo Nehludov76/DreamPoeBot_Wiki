@@ -1,5 +1,6 @@
 # Quantity Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ExpeditionDealerUi ExpeditionAvailableCurrency Quantity Property |
 | --- |

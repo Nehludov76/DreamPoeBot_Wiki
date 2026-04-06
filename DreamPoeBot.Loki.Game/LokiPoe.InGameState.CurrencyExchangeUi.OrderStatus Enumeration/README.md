@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.CurrencyExchangeUi.OrderStatus Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState CurrencyExchangeUi OrderStatus Enumeration |
 | --- |
@@ -30,9 +31,9 @@ public enum class OrderStatus
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| Listed | 0 |
-| Completed | 1 |
-| Cancelled | 2 |
-| Unknown | 3 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | Listed | 0 |  |
+|  | Completed | 1 |  |
+|  | Cancelled | 2 |  |
+|  | Unknown | 3 |  |

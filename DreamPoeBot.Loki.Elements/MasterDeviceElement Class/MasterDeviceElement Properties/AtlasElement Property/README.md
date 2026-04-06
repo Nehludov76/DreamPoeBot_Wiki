@@ -1,5 +1,6 @@
 # AtlasElement Property 
 
+**Вложено элементов:** 0  
 
 | MasterDeviceElement AtlasElement Property |
 | --- |

@@ -1,5 +1,6 @@
 # PriceTypeDropdown Property 
 
+**Вложено элементов:** 0  
 
 | DisplayNoteElement PriceTypeDropdown Property |
 | --- |

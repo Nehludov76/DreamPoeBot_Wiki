@@ -1,5 +1,6 @@
 # text Property 
 
+**Вложено элементов:** 0  
 
 | ShowRitualRewardElement text Property |
 | --- |

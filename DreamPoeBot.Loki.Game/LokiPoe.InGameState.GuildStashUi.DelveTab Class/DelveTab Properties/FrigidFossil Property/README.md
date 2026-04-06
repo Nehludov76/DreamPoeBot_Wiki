@@ -1,5 +1,6 @@
 # FrigidFossil Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState GuildStashUi DelveTab FrigidFossil Property |
 | --- |

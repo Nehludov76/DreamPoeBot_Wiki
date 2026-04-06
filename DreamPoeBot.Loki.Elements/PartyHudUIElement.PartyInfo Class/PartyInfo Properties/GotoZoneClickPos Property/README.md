@@ -1,5 +1,6 @@
 # GotoZoneClickPos Property 
 
+**Вложено элементов:** 0  
 
 | PartyHudUIElement PartyInfo GotoZoneClickPos Property |
 | --- |

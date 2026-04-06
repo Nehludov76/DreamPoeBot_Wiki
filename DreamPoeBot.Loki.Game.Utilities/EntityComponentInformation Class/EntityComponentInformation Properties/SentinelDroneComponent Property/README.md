@@ -1,5 +1,6 @@
 # SentinelDroneComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation SentinelDroneComponent Property |
 | --- |

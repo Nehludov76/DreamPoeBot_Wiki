@@ -1,5 +1,6 @@
 # ObscuredDeliriumOrb Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState GuildStashUi DeliriumTab ObscuredDeliriumOrb Property |
 | --- |

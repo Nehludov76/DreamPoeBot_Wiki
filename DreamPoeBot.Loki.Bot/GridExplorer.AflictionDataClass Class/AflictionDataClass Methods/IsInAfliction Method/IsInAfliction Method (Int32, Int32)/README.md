@@ -1,5 +1,6 @@
 # IsInAfliction Method (Int32, Int32)
 
+**Вложено элементов:** 0  
 
 | GridExplorer AflictionDataClass IsInAfliction Method (Int32, Int32) |
 | --- |

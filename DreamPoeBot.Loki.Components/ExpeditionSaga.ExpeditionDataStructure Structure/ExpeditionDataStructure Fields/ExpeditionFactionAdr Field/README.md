@@ -1,5 +1,6 @@
 # ExpeditionFactionAdr Field
 
+**Вложено элементов:** 0  
 
 | ExpeditionSaga ExpeditionDataStructure ExpeditionFactionAdr Field |
 | --- |

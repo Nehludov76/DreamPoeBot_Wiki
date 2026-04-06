@@ -1,5 +1,6 @@
 # TriggerableBlockageComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation TriggerableBlockageComponent Property |
 | --- |

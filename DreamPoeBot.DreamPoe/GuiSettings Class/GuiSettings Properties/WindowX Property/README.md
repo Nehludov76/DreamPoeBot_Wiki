@@ -1,5 +1,6 @@
 # WindowX Property 
 
+**Вложено элементов:** 0  
 
 | GuiSettings WindowX Property |
 | --- |

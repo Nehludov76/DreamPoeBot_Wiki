@@ -1,5 +1,6 @@
 # SanctumArchives2 Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements SanctumArchives2 Property |
 | --- |

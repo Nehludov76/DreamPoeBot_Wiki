@@ -1,5 +1,6 @@
 # dnd Method (String, Boolean)
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ChatPanel Commands dnd Method (String, Boolean) |
 | --- |

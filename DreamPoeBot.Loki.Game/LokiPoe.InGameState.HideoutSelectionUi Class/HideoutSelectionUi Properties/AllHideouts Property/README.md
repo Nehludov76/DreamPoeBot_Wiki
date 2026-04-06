@@ -1,5 +1,6 @@
 # AllHideouts Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState HideoutSelectionUi AllHideouts Property |
 | --- |

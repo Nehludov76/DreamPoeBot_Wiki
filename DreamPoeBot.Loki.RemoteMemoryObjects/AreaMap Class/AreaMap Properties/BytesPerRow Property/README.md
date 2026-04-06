@@ -1,5 +1,6 @@
 # BytesPerRow Property 
 
+**Вложено элементов:** 0  
 
 | AreaMap BytesPerRow Property |
 | --- |

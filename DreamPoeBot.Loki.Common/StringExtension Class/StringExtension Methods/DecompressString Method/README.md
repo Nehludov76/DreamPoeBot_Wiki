@@ -1,5 +1,6 @@
 # DecompressString Method 
 
+**Вложено элементов:** 0  
 
 | StringExtension DecompressString Method |
 | --- |

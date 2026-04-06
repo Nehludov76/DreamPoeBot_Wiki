@@ -1,5 +1,6 @@
 # AddWpfListener Method 
 
+**Вложено элементов:** 0  
 
 | Logger AddWpfListener Method |
 | --- |

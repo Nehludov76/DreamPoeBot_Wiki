@@ -1,5 +1,6 @@
 # QuestStateData Field
 
+**Вложено элементов:** 0  
 
 | QuestFlagsWrapper QuestFlagsWrapperStructure QuestStateData Field |
 | --- |

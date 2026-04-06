@@ -1,5 +1,6 @@
 # LightRadius Property 
 
+**Вложено элементов:** 0  
 
 | DelveLevelScalingWrapper LightRadius Property |
 | --- |

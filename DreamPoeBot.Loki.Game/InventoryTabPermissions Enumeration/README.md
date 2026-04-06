@@ -1,5 +1,6 @@
 # InventoryTabPermissions Enumeration
 
+**Вложено элементов:** 0  
 
 | InventoryTabPermissions Enumeration |
 | --- |
@@ -30,9 +31,9 @@
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| View | 1 |
-| Add | 2 |
-| Remove | 4 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | View | 1 |  |
+|  | Add | 2 |  |
+|  | Remove | 4 |  |

@@ -1,5 +1,6 @@
 # Name Property 
 
+**Вложено элементов:** 0  
 
 | DatBuffDefinitionWrapper Name Property |
 | --- |

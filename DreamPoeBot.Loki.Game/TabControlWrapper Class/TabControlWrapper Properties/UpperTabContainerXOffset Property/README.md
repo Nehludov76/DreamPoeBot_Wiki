@@ -1,5 +1,6 @@
 # UpperTabContainerXOffset Property 
 
+**Вложено элементов:** 0  
 
 | TabControlWrapper UpperTabContainerXOffset Property |
 | --- |

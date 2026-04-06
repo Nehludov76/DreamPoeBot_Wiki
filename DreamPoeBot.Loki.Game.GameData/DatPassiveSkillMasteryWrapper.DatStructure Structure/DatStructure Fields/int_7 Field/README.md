@@ -1,5 +1,6 @@
 # int_7 Field
 
+**Вложено элементов:** 0  
 
 | DatPassiveSkillMasteryWrapper DatStructure int_7 Field |
 | --- |

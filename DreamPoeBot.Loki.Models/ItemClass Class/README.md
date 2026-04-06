@@ -1,5 +1,6 @@
 # ItemClass Class
 
+**Вложено элементов:** 5  
 
 | ItemClass Class |
 | --- |
@@ -32,22 +33,27 @@ public ref class ItemClass
 The ItemClass type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| ItemClass | Initializes a new instance of the ItemClass class |
+|  | Name | Description |
+| --- | --- | --- |
+|  | ItemClass | Initializes a new instance of the ItemClass class |
 
 
-| Name | Description |
-| --- | --- |
-| ClassCategory |
-| ClassName |
+|  | Name | Description |
+| --- | --- | --- |
+|  | ClassCategory |  |
+|  | ClassName |  |
 
 
-| Name | Description |
-| --- | --- |
-| Equals | Determines whether the specified object is equal to the current object. (Inherited from Object .) |
-| Finalize | Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection. (Inherited from Object .) |
-| GetHashCode | Serves as the default hash function. (Inherited from Object .) |
-| GetType | Gets the Type of the current instance. (Inherited from Object .) |
-| MemberwiseClone | Creates a shallow copy of the current Object . (Inherited from Object .) |
-| ToString | Returns a string that represents the current object. (Inherited from Object .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Equals | Determines whether the specified object is equal to the current object. (Inherited from Object .) |
+|  | Finalize | Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection. (Inherited from Object .) |
+|  | GetHashCode | Serves as the default hash function. (Inherited from Object .) |
+|  | GetType | Gets the Type of the current instance. (Inherited from Object .) |
+|  | MemberwiseClone | Creates a shallow copy of the current Object . (Inherited from Object .) |
+|  | ToString | Returns a string that represents the current object. (Inherited from Object .) |
+
+## Дочерние разделы
+- [**ItemClass Constructor **](./ItemClass Constructor/README.md)
+- [**ItemClass Properties**](./ItemClass Properties/README.md)
+- [**ItemClass Methods**](./ItemClass Methods/README.md)

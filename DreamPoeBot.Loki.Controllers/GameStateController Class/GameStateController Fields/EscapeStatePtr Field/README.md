@@ -1,5 +1,6 @@
 # EscapeStatePtr Field
 
+**Вложено элементов:** 0  
 
 | GameStateController EscapeStatePtr Field |
 | --- |

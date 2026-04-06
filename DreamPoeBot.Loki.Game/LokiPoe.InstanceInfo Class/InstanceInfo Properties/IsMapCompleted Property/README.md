@@ -1,5 +1,6 @@
 # IsMapCompleted Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo IsMapCompleted Property |
 | --- |

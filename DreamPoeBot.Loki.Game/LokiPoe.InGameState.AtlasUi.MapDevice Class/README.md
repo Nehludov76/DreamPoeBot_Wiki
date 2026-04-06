@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.AtlasUi.MapDevice Class
 
+**Вложено элементов:** 8  
 
 | LokiPoe InGameState AtlasUi MapDevice Class |
 | --- |
@@ -30,15 +31,19 @@ public ref class MapDevice abstract sealed
 The LokiPoe InGameState AtlasUi MapDevice type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| InventoryControl | return a InventoryControlWrapper that let you interact with the Map Device slots. |
-| IsFiveSlotDevice | Return true if this Map Device is a 5 slots map device. |
-| IsOpened | Return true if the Atlas Map Device is visible. |
-| IsSixSlotDevice | Return true if this Map Device is a 6 slots map device. |
-| Title | The title of the Map Device, that reflect the selected atlas node. |
+|  | Name | Description |
+| --- | --- | --- |
+|  | InventoryControl | return a InventoryControlWrapper that let you interact with the Map Device slots. |
+|  | IsFiveSlotDevice | Return true if this Map Device is a 5 slots map device. |
+|  | IsOpened | Return true if the Atlas Map Device is visible. |
+|  | IsSixSlotDevice | Return true if this Map Device is a 6 slots map device. |
+|  | Title | The title of the Map Device, that reflect the selected atlas node. |
 
 
-| Name | Description |
-| --- | --- |
-| Activate | Click the Activate button. |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Activate | Click the Activate button. |
+
+## Дочерние разделы
+- [**MapDevice Properties**](./MapDevice Properties/README.md)
+- [**MapDevice Methods**](./MapDevice Methods/README.md)

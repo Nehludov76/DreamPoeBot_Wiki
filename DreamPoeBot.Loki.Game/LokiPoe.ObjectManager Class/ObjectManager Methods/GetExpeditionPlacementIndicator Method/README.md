@@ -1,5 +1,6 @@
 # GetExpeditionPlacementIndicator Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe ObjectManager GetExpeditionPlacementIndicator Method |
 | --- |

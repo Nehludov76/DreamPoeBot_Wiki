@@ -1,5 +1,6 @@
 # ProphecyList Property 
 
+**Вложено элементов:** 0  
 
 | ProphecyUiElement ProphecyList Property |
 | --- |

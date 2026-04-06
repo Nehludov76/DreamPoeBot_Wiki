@@ -1,5 +1,6 @@
 # UltimatumRewardUiElement Constructor 
 
+**Вложено элементов:** 0  
 
 | UltimatumRewardUiElement Constructor |
 | --- |

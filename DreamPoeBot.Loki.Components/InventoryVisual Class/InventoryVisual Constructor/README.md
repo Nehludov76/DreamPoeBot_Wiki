@@ -1,5 +1,6 @@
 # InventoryVisual Constructor 
 
+**Вложено элементов:** 0  
 
 | InventoryVisual Constructor |
 | --- |

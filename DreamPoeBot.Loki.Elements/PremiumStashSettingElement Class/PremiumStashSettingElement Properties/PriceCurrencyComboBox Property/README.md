@@ -1,5 +1,6 @@
 # PriceCurrencyComboBox Property 
 
+**Вложено элементов:** 0  
 
 | PremiumStashSettingElement PriceCurrencyComboBox Property |
 | --- |

@@ -1,5 +1,6 @@
 # Raycast Method (Vector2i, Vector2i, Vector2i, Boolean, Boolean)
 
+**Вложено элементов:** 0  
 
 | ExilePather Raycast Method (Vector2i, Vector2i, Vector2i , Boolean, Boolean) |
 | --- |

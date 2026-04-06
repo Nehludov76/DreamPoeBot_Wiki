@@ -1,5 +1,6 @@
 # Equals Method (Object)
 
+**Вложено элементов:** 0  
 
 | Vector2i Equals Method (Object) |
 | --- |

@@ -1,5 +1,6 @@
 # ApplyCursorResult Enumeration
 
+**Вложено элементов:** 0  
 
 | ApplyCursorResult Enumeration |
 | --- |
@@ -30,11 +31,11 @@ public enum class ApplyCursorResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| ProcessHookManagerNotEnabled | 1 |
-| NoItemToApply | 2 |
-| ItemNotFound | 3 |
-| UnsupportedItem | 4 |
-| Unsupported | 5 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | ProcessHookManagerNotEnabled | 1 |  |
+|  | NoItemToApply | 2 |  |
+|  | ItemNotFound | 3 |  |
+|  | UnsupportedItem | 4 |  |
+|  | Unsupported | 5 |  |

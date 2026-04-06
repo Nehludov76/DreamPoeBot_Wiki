@@ -1,5 +1,6 @@
 # DiagnosticData Field
 
+**Вложено элементов:** 0  
 
 | IngameState DiagnosticData Field |
 | --- |

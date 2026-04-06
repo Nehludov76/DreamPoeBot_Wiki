@@ -1,5 +1,6 @@
 # IsRunning Property 
 
+**Вложено элементов:** 0  
 
 | BotManager IsRunning Property |
 | --- |

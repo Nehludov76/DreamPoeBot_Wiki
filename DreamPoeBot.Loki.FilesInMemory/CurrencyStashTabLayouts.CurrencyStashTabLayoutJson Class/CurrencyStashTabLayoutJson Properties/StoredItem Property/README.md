@@ -1,5 +1,6 @@
 # StoredItem Property 
 
+**Вложено элементов:** 0  
 
 | CurrencyStashTabLayouts CurrencyStashTabLayoutJson StoredItem Property |
 | --- |

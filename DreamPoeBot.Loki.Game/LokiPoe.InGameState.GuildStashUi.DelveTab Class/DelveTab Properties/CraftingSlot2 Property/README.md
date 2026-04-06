@@ -1,5 +1,6 @@
 # CraftingSlot2 Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState GuildStashUi DelveTab CraftingSlot2 Property |
 | --- |

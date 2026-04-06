@@ -1,5 +1,6 @@
 # TakeReward Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState UltimatumTrialRewardUi TakeReward Method |
 | --- |

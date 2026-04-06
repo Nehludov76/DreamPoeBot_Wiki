@@ -1,5 +1,6 @@
 # AscendencySkillPointsAvailable Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo AscendencySkillPointsAvailable Property |
 | --- |

@@ -1,5 +1,6 @@
 # PlayerTrinket Property 
 
+**Вложено элементов:** 0  
 
 | InventoryElement PlayerTrinket Property |
 | --- |

@@ -1,5 +1,6 @@
 # AllUnlockedPantheonGodsInfo Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo AllUnlockedPantheonGodsInfo Property |
 | --- |

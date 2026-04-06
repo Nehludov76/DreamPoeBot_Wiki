@@ -1,5 +1,6 @@
 # GuildStashTabsVector Property 
 
+**Вложено элементов:** 0  
 
 | ServerData GuildStashTabsVector Property |
 | --- |

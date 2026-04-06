@@ -1,5 +1,6 @@
 # Shrieking Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState GuildStashUi EssenceTab Anguish Shrieking Property |
 | --- |

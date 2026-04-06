@@ -1,5 +1,6 @@
 # IsEnabled Method (String)
 
+**Вложено элементов:** 0  
 
 | PluginManager IsEnabled Method (String) |
 | --- |

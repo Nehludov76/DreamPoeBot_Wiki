@@ -1,5 +1,6 @@
 # TradeButtonClickPosition Property 
 
+**Вложено элементов:** 0  
 
 | CardTradeElement TradeButtonClickPosition Property |
 | --- |

@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.StashUi.EssenceTab.Doubt Class
 
+**Вложено элементов:** 6  
 
 | LokiPoe InGameState StashUi EssenceTab Doubt Class |
 | --- |
@@ -32,10 +33,13 @@ public ref class Doubt abstract sealed
 The LokiPoe InGameState StashUi EssenceTab Doubt type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Deafening |
-| Screaming |
-| Shrieking |
-| Wailing |
-| Weeping |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Deafening |  |
+|  | Screaming |  |
+|  | Shrieking |  |
+|  | Wailing |  |
+|  | Weeping |  |
+
+## Дочерние разделы
+- [**Doubt Properties**](./Doubt Properties/README.md)

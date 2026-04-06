@@ -1,5 +1,6 @@
 # InclusionCalcuation Event
 
+**Вложено элементов:** 0  
 
 | Targeting InclusionCalcuation Event |
 | --- |

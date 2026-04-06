@@ -1,5 +1,6 @@
 # slotsize Field
 
+**Вложено элементов:** 0  
 
 | InventorySlotUiElement slotsize Field |
 | --- |

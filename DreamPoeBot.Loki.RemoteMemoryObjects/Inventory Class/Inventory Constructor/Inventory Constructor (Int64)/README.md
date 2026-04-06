@@ -1,5 +1,6 @@
 # Inventory Constructor (Int64)
 
+**Вложено элементов:** 0  
 
 | Inventory Constructor (Int64) |
 | --- |

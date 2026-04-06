@@ -1,5 +1,6 @@
 # ChatBox Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements ChatBox Property |
 | --- |

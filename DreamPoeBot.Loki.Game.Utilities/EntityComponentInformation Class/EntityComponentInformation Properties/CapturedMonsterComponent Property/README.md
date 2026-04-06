@@ -1,5 +1,6 @@
 # CapturedMonsterComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation CapturedMonsterComponent Property |
 | --- |

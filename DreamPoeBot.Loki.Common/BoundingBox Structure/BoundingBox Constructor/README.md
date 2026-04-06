@@ -1,5 +1,6 @@
 # BoundingBox Constructor 
 
+**Вложено элементов:** 0  
 
 | BoundingBox Constructor |
 | --- |

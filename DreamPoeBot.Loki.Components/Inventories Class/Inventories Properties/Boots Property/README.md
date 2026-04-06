@@ -1,5 +1,6 @@
 # Boots Property 
 
+**Вложено элементов:** 0  
 
 | Inventories Boots Property |
 | --- |

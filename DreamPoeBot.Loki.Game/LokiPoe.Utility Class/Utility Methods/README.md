@@ -1,5 +1,6 @@
 # Utility Methods
 
+**Вложено элементов:** 1  
 
 | Utility Methods |
 | --- |
@@ -10,6 +11,9 @@
 The LokiPoe Utility type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| MousePosToScreenPosAbsoluteDebug | Returm the real position of a given point. Used for debugging purpose to move the real cursor on te game window. |
+|  | Name | Description |
+| --- | --- | --- |
+|  | MousePosToScreenPosAbsoluteDebug | Returm the real position of a given point. Used for debugging purpose to move the real cursor on te game window. |
+
+## Дочерние разделы
+- [**MousePosToScreenPosAbsoluteDebug Method **](./MousePosToScreenPosAbsoluteDebug Method/README.md)

@@ -1,5 +1,6 @@
 # IsSkipAllTutorialsButtonShowing Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState IsSkipAllTutorialsButtonShowing Property |
 | --- |

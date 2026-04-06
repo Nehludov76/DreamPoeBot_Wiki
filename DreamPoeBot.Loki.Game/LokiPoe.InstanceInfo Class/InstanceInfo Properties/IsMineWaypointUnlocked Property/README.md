@@ -1,5 +1,6 @@
 # IsMineWaypointUnlocked Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo IsMineWaypointUnlocked Property |
 | --- |

@@ -1,5 +1,6 @@
 # PartyDescription Property 
 
+**Вложено элементов:** 0  
 
 | PartyInvite PartyDescription Property |
 | --- |

@@ -1,5 +1,6 @@
 # OneHandMace Field
 
+**Вложено элементов:** 0  
 
 | ItemClasses OneHandMace Field |
 | --- |

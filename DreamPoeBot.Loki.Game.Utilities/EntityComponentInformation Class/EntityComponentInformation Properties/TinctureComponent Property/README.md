@@ -1,5 +1,6 @@
 # TinctureComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation TinctureComponent Property |
 | --- |

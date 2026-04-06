@@ -1,5 +1,6 @@
 # WindowControl Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState WindowControl Property |
 | --- |

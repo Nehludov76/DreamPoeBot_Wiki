@@ -1,5 +1,6 @@
 # Hermite Method (Vector3, Vector3, Vector3, Vector3, Single)
 
+**Вложено элементов:** 0  
 
 | Vector3 Hermite Method (Vector3, Vector3, Vector3, Vector3, Single) |
 | --- |

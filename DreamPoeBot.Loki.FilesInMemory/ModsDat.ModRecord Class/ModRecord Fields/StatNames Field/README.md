@@ -1,5 +1,6 @@
 # StatNames Field
 
+**Вложено элементов:** 0  
 
 | ModsDat ModRecord StatNames Field |
 | --- |

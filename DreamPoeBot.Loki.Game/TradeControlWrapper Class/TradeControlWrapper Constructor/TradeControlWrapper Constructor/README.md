@@ -1,5 +1,6 @@
 # TradeControlWrapper Constructor 
 
+**Вложено элементов:** 0  
 
 | TradeControlWrapper Constructor |
 | --- |

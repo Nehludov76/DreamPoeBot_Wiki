@@ -1,5 +1,6 @@
 # WasInThisPosition Field
 
+**Вложено элементов:** 0  
 
 | Pathfinding PathfindingComponentOffsets WasInThisPosition Field |
 | --- |

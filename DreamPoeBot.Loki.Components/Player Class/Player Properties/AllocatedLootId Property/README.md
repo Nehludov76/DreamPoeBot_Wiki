@@ -1,5 +1,6 @@
 # AllocatedLootId Property 
 
+**Вложено элементов:** 0  
 
 | Player AllocatedLootId Property |
 | --- |

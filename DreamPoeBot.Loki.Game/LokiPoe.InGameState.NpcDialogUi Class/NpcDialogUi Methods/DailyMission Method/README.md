@@ -1,5 +1,6 @@
 # DailyMission Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState NpcDialogUi DailyMission Method |
 | --- |

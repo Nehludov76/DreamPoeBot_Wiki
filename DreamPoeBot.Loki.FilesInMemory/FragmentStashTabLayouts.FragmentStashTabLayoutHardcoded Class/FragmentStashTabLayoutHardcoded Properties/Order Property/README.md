@@ -1,5 +1,6 @@
 # Order Property 
 
+**Вложено элементов:** 0  
 
 | FragmentStashTabLayouts FragmentStashTabLayoutHardcoded Order Property |
 | --- |

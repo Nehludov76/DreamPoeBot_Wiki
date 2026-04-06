@@ -1,5 +1,6 @@
 # SearchTextBoxElement Property 
 
+**Вложено элементов:** 0  
 
 | BestiaryUiElement SearchTextBoxElement Property |
 | --- |

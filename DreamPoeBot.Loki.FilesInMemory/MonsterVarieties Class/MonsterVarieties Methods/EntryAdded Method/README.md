@@ -1,5 +1,6 @@
 # EntryAdded Method 
 
+**Вложено элементов:** 0  
 
 | MonsterVarieties EntryAdded Method |
 | --- |

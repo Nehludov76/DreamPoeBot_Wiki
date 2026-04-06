@@ -1,5 +1,6 @@
 # AtlasNodeDat.AtlasNodeRecord Constructor 
 
+**Вложено элементов:** 0  
 
 | AtlasNodeDat AtlasNodeRecord Constructor |
 | --- |

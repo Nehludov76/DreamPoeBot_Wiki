@@ -1,5 +1,6 @@
 # ManaPercent Property 
 
+**Вложено элементов:** 0  
 
 | Life ManaPercent Property |
 | --- |

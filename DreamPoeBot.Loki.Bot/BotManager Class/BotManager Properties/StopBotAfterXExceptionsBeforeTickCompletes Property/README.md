@@ -1,5 +1,6 @@
 # StopBotAfterXExceptionsBeforeTickCompletes Property 
 
+**Вложено элементов:** 0  
 
 | BotManager StopBotAfterXExceptionsBeforeTickCompletes Property |
 | --- |

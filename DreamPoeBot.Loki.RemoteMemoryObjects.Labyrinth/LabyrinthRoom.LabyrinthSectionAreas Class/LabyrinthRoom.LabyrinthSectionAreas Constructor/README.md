@@ -1,5 +1,6 @@
 # LabyrinthRoom.LabyrinthSectionAreas Constructor 
 
+**Вложено элементов:** 0  
 
 | LabyrinthRoom LabyrinthSectionAreas Constructor |
 | --- |

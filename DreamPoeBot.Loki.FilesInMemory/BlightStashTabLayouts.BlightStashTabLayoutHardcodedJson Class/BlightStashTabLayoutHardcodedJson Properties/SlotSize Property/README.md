@@ -1,5 +1,6 @@
 # SlotSize Property 
 
+**Вложено элементов:** 0  
 
 | BlightStashTabLayouts BlightStashTabLayoutHardcodedJson SlotSize Property |
 | --- |

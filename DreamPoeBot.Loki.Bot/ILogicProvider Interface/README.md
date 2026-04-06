@@ -1,5 +1,6 @@
 # ILogicProvider Interface
 
+**Вложено элементов:** 2  
 
 | ILogicProvider Interface |
 | --- |
@@ -32,6 +33,9 @@ public interface class ILogicProvider
 The ILogicProvider type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Logic |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Logic |  |
+
+## Дочерние разделы
+- [**ILogicProvider Methods**](./ILogicProvider Methods/README.md)

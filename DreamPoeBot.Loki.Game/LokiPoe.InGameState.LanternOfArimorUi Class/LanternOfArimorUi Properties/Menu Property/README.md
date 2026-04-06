@@ -1,5 +1,6 @@
 # Menu Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState LanternOfArimorUi Menu Property |
 | --- |

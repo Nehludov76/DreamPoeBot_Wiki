@@ -1,5 +1,6 @@
 # CanUse Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SentinelSkillUi PandemoniumSentinel CanUse Property |
 | --- |

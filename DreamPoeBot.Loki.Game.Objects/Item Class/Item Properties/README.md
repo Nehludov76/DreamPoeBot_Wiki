@@ -1,5 +1,6 @@
 # Item Properties
 
+**Вложено элементов:** 155  
 
 | Item Properties |
 | --- |
@@ -10,164 +11,321 @@
 The Item type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| AbsorbedCorruption |
-| Address | (Inherited from RemoteMemoryObject .) |
-| Affixes |
-| AlternateQualityType |
-| AlternateQualityTypeValue |
-| AppliesToCurrentAreaByLevel |
-| ArmorValue |
-| AttacksPerSecond |
-| BaseArmor |
-| BaseAttacksPerSecond |
-| BaseCritialStrikeChance |
-| BaseEnergyShield |
-| BaseEvasion |
-| BaseItemType |
-| BaseMaxPhysicalDamage |
-| BaseMinPhysicalDamage |
-| BaseRequiredLevel |
-| BaseWeaponType |
-| CanUse |
-| ChargesPerUse |
-| ChargesPerUseBase |
-| Class |
-| Components |
-| CompositeType |
-| CritialStrikeChance |
-| CurrentAction |
-| CurrentCharges |
-| DisplayNote |
-| DroneCurrentCharges |
-| DroneMaxCharges |
-| EnergyShieldValue |
-| EvasionValue |
-| Expeditions |
-| ExplicitAffixes |
-| ExplicitStats |
-| FitsEquipRequirements |
-| Flags |
-| FullName |
-| Game | (Inherited from RemoteMemoryObject .) |
-| GemTypes |
-| HasCurrentAction |
-| HasFullStack |
-| HasIncubator |
-| HasInventoryLocation |
-| HasMicrotransitionAttachment |
-| HasSkillGemsEquipped |
-| HealthRecover |
-| HealthRecoveredPerSecond |
-| HighestImplicitValue |
-| Id |
-| ImplicitAffixes |
-| ImplicitStats |
-| InventoryId |
-| IsChromatic |
-| IsContraband |
-| IsCorrupted |
-| IsCrusaderItem |
-| IsDead |
-| IsElderItem |
-| IsFractured |
-| IsHostile |
-| IsHunterItem |
-| IsIdentified |
-| IsInstantRecovery |
-| IsMirrored |
-| IsRedeemerItem |
-| IsRelic |
-| IsShaperItem |
-| IsSpecialMapKey | Return true if this is a specia key map. Refer to keys for:Valdo Map, Vaal Temple Map, Shaper Guardian Map, Nightmare Map. |
-| IsStackable |
-| IsSynthesized |
-| IsUsable |
-| IsValid | 0x65004D = "Me"(4 bytes) from word Metadata |
-| IsVeiled |
-| IsWarlordItem |
-| ItemLevel |
-| ItemType |
-| LinkedSocketColors |
-| LocalId |
-| LocalStats |
-| LocationBottomRight |
-| LocationTopLeft |
-| M | (Inherited from RemoteMemoryObject .) |
-| ManaRecover |
-| ManaRecoveredPerSecond |
-| MapArea |
-| MapItemQuantity |
-| MapItemRarity |
-| MapLevel |
-| MapMonsterPackSize |
-| MapRawItemQuantity |
-| MapRawItemRarity |
-| MapRegion |
-| MapSeries |
-| MapTier |
-| MaxChaosDamage |
-| MaxCharges |
-| MaxChargesModifier |
-| MaxColdDamage |
-| MaxCurrencyTabStackCount |
-| MaxDamage |
-| MaxDps |
-| MaxElementalDamage |
-| MaxFireDamage |
-| MaxLightningDamage |
-| MaxLinkCount |
-| MaxMonsterLevel |
-| MaxPhysicalDamage |
-| MaxQuality |
-| MaxStackCount |
-| Metadata |
-| MinChaosDamage |
-| MinColdDamage |
-| MinDamage |
-| MinDps |
-| MinElementalDamage |
-| MinFireDamage |
-| MinLightningDamage |
-| MinMonsterLevel |
-| MinMonsterLevelPrefix |
-| MinMonsterLevelSuffix |
-| MinPhysicalDamage |
-| Name |
-| Offsets | (Inherited from RemoteMemoryObject .) |
-| PositionedComp |
-| Quality |
-| Rarity |
-| RecoveryTime |
-| RenderArt |
-| RequiredDex |
-| RequiredDexForNextLevel |
-| RequiredInt |
-| RequiredIntForNextLevel |
-| RequiredLevel |
-| RequiredLevelForNextLevel |
-| RequiredStr |
-| RequiredStrForNextLevel |
-| ScourgedTier |
-| SentinelDroneEmpowerments |
-| SentinelDroneEmpowers |
-| SentinelDroneMaxDuration |
-| Size |
-| Skill |
-| SkillGemLevel |
-| SkillGemQualityType |
-| SkillSocketIndex | Return the Socket Index where this skill gem is socketed in the Item sockets. PLS NOTE! This only work for Skill Gems, it do not work for Support gems. Go get the Index of a support gem, or in general to get a more satisfaing result, use public int GetSocketIndexOfGem(Item gem). |
-| SocketColor |
-| SocketColors |
-| SocketCount |
-| SocketedDisplayString |
-| SocketedGems |
-| SocketedSkillGemsByLinks |
-| SocketLinks |
-| StackCount |
-| Stats |
-| Tags |
-| UiElement |
-| WorldItemId |
-| WorldItemPosition |
+|  | Name | Description |
+| --- | --- | --- |
+|  | AbsorbedCorruption |  |
+|  | Address | (Inherited from RemoteMemoryObject .) |
+|  | Affixes |  |
+|  | AlternateQualityType |  |
+|  | AlternateQualityTypeValue |  |
+|  | AppliesToCurrentAreaByLevel |  |
+|  | ArmorValue |  |
+|  | AttacksPerSecond |  |
+|  | BaseArmor |  |
+|  | BaseAttacksPerSecond |  |
+|  | BaseCritialStrikeChance |  |
+|  | BaseEnergyShield |  |
+|  | BaseEvasion |  |
+|  | BaseItemType |  |
+|  | BaseMaxPhysicalDamage |  |
+|  | BaseMinPhysicalDamage |  |
+|  | BaseRequiredLevel |  |
+|  | BaseWeaponType |  |
+|  | CanUse |  |
+|  | ChargesPerUse |  |
+|  | ChargesPerUseBase |  |
+|  | Class |  |
+|  | Components |  |
+|  | CompositeType |  |
+|  | CritialStrikeChance |  |
+|  | CurrentAction |  |
+|  | CurrentCharges |  |
+|  | DisplayNote |  |
+|  | DroneCurrentCharges |  |
+|  | DroneMaxCharges |  |
+|  | EnergyShieldValue |  |
+|  | EvasionValue |  |
+|  | Expeditions |  |
+|  | ExplicitAffixes |  |
+|  | ExplicitStats |  |
+|  | FitsEquipRequirements |  |
+|  | Flags |  |
+|  | FullName |  |
+|  | Game | (Inherited from RemoteMemoryObject .) |
+|  | GemTypes |  |
+|  | HasCurrentAction |  |
+|  | HasFullStack |  |
+|  | HasIncubator |  |
+|  | HasInventoryLocation |  |
+|  | HasMicrotransitionAttachment |  |
+|  | HasSkillGemsEquipped |  |
+|  | HealthRecover |  |
+|  | HealthRecoveredPerSecond |  |
+|  | HighestImplicitValue |  |
+|  | Id |  |
+|  | ImplicitAffixes |  |
+|  | ImplicitStats |  |
+|  | InventoryId |  |
+|  | IsChromatic |  |
+|  | IsContraband |  |
+|  | IsCorrupted |  |
+|  | IsCrusaderItem |  |
+|  | IsDead |  |
+|  | IsElderItem |  |
+|  | IsFractured |  |
+|  | IsHostile |  |
+|  | IsHunterItem |  |
+|  | IsIdentified |  |
+|  | IsInstantRecovery |  |
+|  | IsMirrored |  |
+|  | IsRedeemerItem |  |
+|  | IsRelic |  |
+|  | IsShaperItem |  |
+|  | IsSpecialMapKey | Return true if this is a specia key map. Refer to keys for:Valdo Map, Vaal Temple Map, Shaper Guardian Map, Nightmare Map. |
+|  | IsStackable |  |
+|  | IsSynthesized |  |
+|  | IsUsable |  |
+|  | IsValid | 0x65004D = "Me"(4 bytes) from word Metadata |
+|  | IsVeiled |  |
+|  | IsWarlordItem |  |
+|  | ItemLevel |  |
+|  | ItemType |  |
+|  | LinkedSocketColors |  |
+|  | LocalId |  |
+|  | LocalStats |  |
+|  | LocationBottomRight |  |
+|  | LocationTopLeft |  |
+|  | M | (Inherited from RemoteMemoryObject .) |
+|  | ManaRecover |  |
+|  | ManaRecoveredPerSecond |  |
+|  | MapArea |  |
+|  | MapItemQuantity |  |
+|  | MapItemRarity |  |
+|  | MapLevel |  |
+|  | MapMonsterPackSize |  |
+|  | MapRawItemQuantity |  |
+|  | MapRawItemRarity |  |
+|  | MapRegion |  |
+|  | MapSeries |  |
+|  | MapTier |  |
+|  | MaxChaosDamage |  |
+|  | MaxCharges |  |
+|  | MaxChargesModifier |  |
+|  | MaxColdDamage |  |
+|  | MaxCurrencyTabStackCount |  |
+|  | MaxDamage |  |
+|  | MaxDps |  |
+|  | MaxElementalDamage |  |
+|  | MaxFireDamage |  |
+|  | MaxLightningDamage |  |
+|  | MaxLinkCount |  |
+|  | MaxMonsterLevel |  |
+|  | MaxPhysicalDamage |  |
+|  | MaxQuality |  |
+|  | MaxStackCount |  |
+|  | Metadata |  |
+|  | MinChaosDamage |  |
+|  | MinColdDamage |  |
+|  | MinDamage |  |
+|  | MinDps |  |
+|  | MinElementalDamage |  |
+|  | MinFireDamage |  |
+|  | MinLightningDamage |  |
+|  | MinMonsterLevel |  |
+|  | MinMonsterLevelPrefix |  |
+|  | MinMonsterLevelSuffix |  |
+|  | MinPhysicalDamage |  |
+|  | Name |  |
+|  | Offsets | (Inherited from RemoteMemoryObject .) |
+|  | PositionedComp |  |
+|  | Quality |  |
+|  | Rarity |  |
+|  | RecoveryTime |  |
+|  | RenderArt |  |
+|  | RequiredDex |  |
+|  | RequiredDexForNextLevel |  |
+|  | RequiredInt |  |
+|  | RequiredIntForNextLevel |  |
+|  | RequiredLevel |  |
+|  | RequiredLevelForNextLevel |  |
+|  | RequiredStr |  |
+|  | RequiredStrForNextLevel |  |
+|  | ScourgedTier |  |
+|  | SentinelDroneEmpowerments |  |
+|  | SentinelDroneEmpowers |  |
+|  | SentinelDroneMaxDuration |  |
+|  | Size |  |
+|  | Skill |  |
+|  | SkillGemLevel |  |
+|  | SkillGemQualityType |  |
+|  | SkillSocketIndex | Return the Socket Index where this skill gem is socketed in the Item sockets. PLS NOTE! This only work for Skill Gems, it do not work for Support gems. Go get the Index of a support gem, or in general to get a more satisfaing result, use public int GetSocketIndexOfGem(Item gem). |
+|  | SocketColor |  |
+|  | SocketColors |  |
+|  | SocketCount |  |
+|  | SocketedDisplayString |  |
+|  | SocketedGems |  |
+|  | SocketedSkillGemsByLinks |  |
+|  | SocketLinks |  |
+|  | StackCount |  |
+|  | Stats |  |
+|  | Tags |  |
+|  | UiElement |  |
+|  | WorldItemId |  |
+|  | WorldItemPosition |  |
+
+## Дочерние разделы
+- [**AbsorbedCorruption Property **](./AbsorbedCorruption Property/README.md)
+- [**Affixes Property **](./Affixes Property/README.md)
+- [**AlternateQualityType Property **](./AlternateQualityType Property/README.md)
+- [**AlternateQualityTypeValue Property **](./AlternateQualityTypeValue Property/README.md)
+- [**AppliesToCurrentAreaByLevel Property **](./AppliesToCurrentAreaByLevel Property/README.md)
+- [**ArmorValue Property **](./ArmorValue Property/README.md)
+- [**AttacksPerSecond Property **](./AttacksPerSecond Property/README.md)
+- [**BaseArmor Property **](./BaseArmor Property/README.md)
+- [**BaseAttacksPerSecond Property **](./BaseAttacksPerSecond Property/README.md)
+- [**BaseCritialStrikeChance Property **](./BaseCritialStrikeChance Property/README.md)
+- [**BaseEnergyShield Property **](./BaseEnergyShield Property/README.md)
+- [**BaseEvasion Property **](./BaseEvasion Property/README.md)
+- [**BaseItemType Property **](./BaseItemType Property/README.md)
+- [**BaseMaxPhysicalDamage Property **](./BaseMaxPhysicalDamage Property/README.md)
+- [**BaseMinPhysicalDamage Property **](./BaseMinPhysicalDamage Property/README.md)
+- [**BaseRequiredLevel Property **](./BaseRequiredLevel Property/README.md)
+- [**BaseWeaponType Property **](./BaseWeaponType Property/README.md)
+- [**CanUse Property **](./CanUse Property/README.md)
+- [**ChargesPerUse Property **](./ChargesPerUse Property/README.md)
+- [**ChargesPerUseBase Property **](./ChargesPerUseBase Property/README.md)
+- [**Class Property **](./Class Property/README.md)
+- [**Components Property **](./Components Property/README.md)
+- [**CompositeType Property **](./CompositeType Property/README.md)
+- [**CritialStrikeChance Property **](./CritialStrikeChance Property/README.md)
+- [**CurrentAction Property **](./CurrentAction Property/README.md)
+- [**CurrentCharges Property **](./CurrentCharges Property/README.md)
+- [**DisplayNote Property **](./DisplayNote Property/README.md)
+- [**DroneCurrentCharges Property **](./DroneCurrentCharges Property/README.md)
+- [**DroneMaxCharges Property **](./DroneMaxCharges Property/README.md)
+- [**EnergyShieldValue Property **](./EnergyShieldValue Property/README.md)
+- [**EvasionValue Property **](./EvasionValue Property/README.md)
+- [**Expeditions Property **](./Expeditions Property/README.md)
+- [**ExplicitAffixes Property **](./ExplicitAffixes Property/README.md)
+- [**ExplicitStats Property **](./ExplicitStats Property/README.md)
+- [**FitsEquipRequirements Property **](./FitsEquipRequirements Property/README.md)
+- [**Flags Property **](./Flags Property/README.md)
+- [**FullName Property **](./FullName Property/README.md)
+- [**GemTypes Property **](./GemTypes Property/README.md)
+- [**HasCurrentAction Property **](./HasCurrentAction Property/README.md)
+- [**HasFullStack Property **](./HasFullStack Property/README.md)
+- [**HasIncubator Property **](./HasIncubator Property/README.md)
+- [**HasInventoryLocation Property **](./HasInventoryLocation Property/README.md)
+- [**HasMicrotransitionAttachment Property **](./HasMicrotransitionAttachment Property/README.md)
+- [**HasSkillGemsEquipped Property **](./HasSkillGemsEquipped Property/README.md)
+- [**HealthRecover Property **](./HealthRecover Property/README.md)
+- [**HealthRecoveredPerSecond Property **](./HealthRecoveredPerSecond Property/README.md)
+- [**HighestImplicitValue Property **](./HighestImplicitValue Property/README.md)
+- [**Id Property **](./Id Property/README.md)
+- [**ImplicitAffixes Property **](./ImplicitAffixes Property/README.md)
+- [**ImplicitStats Property **](./ImplicitStats Property/README.md)
+- [**InventoryId Property **](./InventoryId Property/README.md)
+- [**IsChromatic Property **](./IsChromatic Property/README.md)
+- [**IsContraband Property **](./IsContraband Property/README.md)
+- [**IsCorrupted Property **](./IsCorrupted Property/README.md)
+- [**IsCrusaderItem Property **](./IsCrusaderItem Property/README.md)
+- [**IsDead Property **](./IsDead Property/README.md)
+- [**IsElderItem Property **](./IsElderItem Property/README.md)
+- [**IsFractured Property **](./IsFractured Property/README.md)
+- [**IsHostile Property **](./IsHostile Property/README.md)
+- [**IsHunterItem Property **](./IsHunterItem Property/README.md)
+- [**IsIdentified Property **](./IsIdentified Property/README.md)
+- [**IsInstantRecovery Property **](./IsInstantRecovery Property/README.md)
+- [**IsMirrored Property **](./IsMirrored Property/README.md)
+- [**IsRedeemerItem Property **](./IsRedeemerItem Property/README.md)
+- [**IsRelic Property **](./IsRelic Property/README.md)
+- [**IsShaperItem Property **](./IsShaperItem Property/README.md)
+- [**IsSpecialMapKey Property **](./IsSpecialMapKey Property/README.md)
+- [**IsStackable Property **](./IsStackable Property/README.md)
+- [**IsSynthesized Property **](./IsSynthesized Property/README.md)
+- [**IsUsable Property **](./IsUsable Property/README.md)
+- [**IsValid Property **](./IsValid Property/README.md)
+- [**IsVeiled Property **](./IsVeiled Property/README.md)
+- [**IsWarlordItem Property **](./IsWarlordItem Property/README.md)
+- [**ItemLevel Property **](./ItemLevel Property/README.md)
+- [**ItemType Property **](./ItemType Property/README.md)
+- [**LinkedSocketColors Property **](./LinkedSocketColors Property/README.md)
+- [**LocalId Property **](./LocalId Property/README.md)
+- [**LocalStats Property **](./LocalStats Property/README.md)
+- [**LocationBottomRight Property **](./LocationBottomRight Property/README.md)
+- [**LocationTopLeft Property **](./LocationTopLeft Property/README.md)
+- [**ManaRecover Property **](./ManaRecover Property/README.md)
+- [**ManaRecoveredPerSecond Property **](./ManaRecoveredPerSecond Property/README.md)
+- [**MapArea Property **](./MapArea Property/README.md)
+- [**MapItemQuantity Property **](./MapItemQuantity Property/README.md)
+- [**MapItemRarity Property **](./MapItemRarity Property/README.md)
+- [**MapLevel Property **](./MapLevel Property/README.md)
+- [**MapMonsterPackSize Property **](./MapMonsterPackSize Property/README.md)
+- [**MapRawItemQuantity Property **](./MapRawItemQuantity Property/README.md)
+- [**MapRawItemRarity Property **](./MapRawItemRarity Property/README.md)
+- [**MapRegion Property **](./MapRegion Property/README.md)
+- [**MapSeries Property **](./MapSeries Property/README.md)
+- [**MapTier Property **](./MapTier Property/README.md)
+- [**MaxChaosDamage Property **](./MaxChaosDamage Property/README.md)
+- [**MaxCharges Property **](./MaxCharges Property/README.md)
+- [**MaxChargesModifier Property **](./MaxChargesModifier Property/README.md)
+- [**MaxColdDamage Property **](./MaxColdDamage Property/README.md)
+- [**MaxCurrencyTabStackCount Property **](./MaxCurrencyTabStackCount Property/README.md)
+- [**MaxDamage Property **](./MaxDamage Property/README.md)
+- [**MaxDps Property **](./MaxDps Property/README.md)
+- [**MaxElementalDamage Property **](./MaxElementalDamage Property/README.md)
+- [**MaxFireDamage Property **](./MaxFireDamage Property/README.md)
+- [**MaxLightningDamage Property **](./MaxLightningDamage Property/README.md)
+- [**MaxLinkCount Property **](./MaxLinkCount Property/README.md)
+- [**MaxMonsterLevel Property **](./MaxMonsterLevel Property/README.md)
+- [**MaxPhysicalDamage Property **](./MaxPhysicalDamage Property/README.md)
+- [**MaxQuality Property **](./MaxQuality Property/README.md)
+- [**MaxStackCount Property **](./MaxStackCount Property/README.md)
+- [**Metadata Property **](./Metadata Property/README.md)
+- [**MinChaosDamage Property **](./MinChaosDamage Property/README.md)
+- [**MinColdDamage Property **](./MinColdDamage Property/README.md)
+- [**MinDamage Property **](./MinDamage Property/README.md)
+- [**MinDps Property **](./MinDps Property/README.md)
+- [**MinElementalDamage Property **](./MinElementalDamage Property/README.md)
+- [**MinFireDamage Property **](./MinFireDamage Property/README.md)
+- [**MinLightningDamage Property **](./MinLightningDamage Property/README.md)
+- [**MinMonsterLevel Property **](./MinMonsterLevel Property/README.md)
+- [**MinMonsterLevelPrefix Property **](./MinMonsterLevelPrefix Property/README.md)
+- [**MinMonsterLevelSuffix Property **](./MinMonsterLevelSuffix Property/README.md)
+- [**MinPhysicalDamage Property **](./MinPhysicalDamage Property/README.md)
+- [**Name Property **](./Name Property/README.md)
+- [**PositionedComp Property **](./PositionedComp Property/README.md)
+- [**Quality Property **](./Quality Property/README.md)
+- [**Rarity Property **](./Rarity Property/README.md)
+- [**RecoveryTime Property **](./RecoveryTime Property/README.md)
+- [**RenderArt Property **](./RenderArt Property/README.md)
+- [**RequiredDex Property **](./RequiredDex Property/README.md)
+- [**RequiredDexForNextLevel Property **](./RequiredDexForNextLevel Property/README.md)
+- [**RequiredInt Property **](./RequiredInt Property/README.md)
+- [**RequiredIntForNextLevel Property **](./RequiredIntForNextLevel Property/README.md)
+- [**RequiredLevel Property **](./RequiredLevel Property/README.md)
+- [**RequiredLevelForNextLevel Property **](./RequiredLevelForNextLevel Property/README.md)
+- [**RequiredStr Property **](./RequiredStr Property/README.md)
+- [**RequiredStrForNextLevel Property **](./RequiredStrForNextLevel Property/README.md)
+- [**ScourgedTier Property **](./ScourgedTier Property/README.md)
+- [**SentinelDroneEmpowerments Property **](./SentinelDroneEmpowerments Property/README.md)
+- [**SentinelDroneEmpowers Property **](./SentinelDroneEmpowers Property/README.md)
+- [**SentinelDroneMaxDuration Property **](./SentinelDroneMaxDuration Property/README.md)
+- [**Size Property **](./Size Property/README.md)
+- [**Skill Property **](./Skill Property/README.md)
+- [**SkillGemLevel Property **](./SkillGemLevel Property/README.md)
+- [**SkillGemQualityType Property **](./SkillGemQualityType Property/README.md)
+- [**SkillSocketIndex Property **](./SkillSocketIndex Property/README.md)
+- [**SocketColor Property **](./SocketColor Property/README.md)
+- [**SocketColors Property **](./SocketColors Property/README.md)
+- [**SocketCount Property **](./SocketCount Property/README.md)
+- [**SocketedDisplayString Property **](./SocketedDisplayString Property/README.md)
+- [**SocketedGems Property **](./SocketedGems Property/README.md)
+- [**SocketedSkillGemsByLinks Property **](./SocketedSkillGemsByLinks Property/README.md)
+- [**SocketLinks Property **](./SocketLinks Property/README.md)
+- [**StackCount Property **](./StackCount Property/README.md)
+- [**Stats Property **](./Stats Property/README.md)
+- [**Tags Property **](./Tags Property/README.md)
+- [**UiElement Property **](./UiElement Property/README.md)
+- [**WorldItemId Property **](./WorldItemId Property/README.md)
+- [**WorldItemPosition Property **](./WorldItemPosition Property/README.md)

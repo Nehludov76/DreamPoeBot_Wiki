@@ -1,5 +1,6 @@
 # JewelsPassiveSkillIds Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo JewelsPassiveSkillIds Property |
 | --- |

@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.StashUi.EssenceTab.Envy Class
 
+**Вложено элементов:** 4  
 
 | LokiPoe InGameState StashUi EssenceTab Envy Class |
 | --- |
@@ -32,8 +33,11 @@ public ref class Envy abstract sealed
 The LokiPoe InGameState StashUi EssenceTab Envy type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Deafening |
-| Screaming |
-| Shrieking |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Deafening |  |
+|  | Screaming |  |
+|  | Shrieking |  |
+
+## Дочерние разделы
+- [**Envy Properties**](./Envy Properties/README.md)

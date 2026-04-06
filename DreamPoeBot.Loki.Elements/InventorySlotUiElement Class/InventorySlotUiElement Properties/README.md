@@ -1,5 +1,6 @@
 # InventorySlotUiElement Properties
 
+**Вложено элементов:** 7  
 
 | InventorySlotUiElement Properties |
 | --- |
@@ -10,43 +11,52 @@
 The InventorySlotUiElement type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Address | (Inherited from RemoteMemoryObject .) |
-| ChildCount | (Inherited from Element .) |
-| Children | (Inherited from Element .) |
-| ControlType | (Inherited from Element .) |
-| DeltaX | (Inherited from Element .) |
-| DeltaY | (Inherited from Element .) |
-| DictionaryIdElements |
-| ElementZoom | (Inherited from Element .) |
-| Game | (Inherited from RemoteMemoryObject .) |
-| GuiControlType | (Inherited from Element .) |
-| Height | (Inherited from Element .) |
-| IdLabel | (Inherited from Element .) |
-| IsEnable | (Inherited from Element .) |
-| IsItemTransparent | (Inherited from Element .) |
-| IsValid | (Inherited from RemoteMemoryObject .) |
-| IsVisible | (Inherited from Element .) |
-| IsVisibleLocal | (Inherited from Element .) |
-| ItemsCount |
-| LocationTopLeft |
-| M | (Inherited from RemoteMemoryObject .) |
-| Offsets | (Inherited from RemoteMemoryObject .) |
-| Parent | (Inherited from Element .) |
-| PlacementGraph |
-| RewardLocationTopLeft |
-| Root | (Inherited from Element .) |
-| Scale | (Inherited from Element .) |
-| Size |
-| SocketDictionary |
-| Text | (Inherited from Element .) |
-| Tooltip | (Inherited from Element .) |
-| Tooltips | (Inherited from Element .) |
-| vTable | (Inherited from Element .) |
-| Width | (Inherited from Element .) |
-| X | (Inherited from Element .) |
-| XAddress | (Inherited from Element .) |
-| Y | (Inherited from Element .) |
-| YAddress | (Inherited from Element .) |
-| zoomAddress | (Inherited from Element .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Address | (Inherited from RemoteMemoryObject .) |
+|  | ChildCount | (Inherited from Element .) |
+|  | Children | (Inherited from Element .) |
+|  | ControlType | (Inherited from Element .) |
+|  | DeltaX | (Inherited from Element .) |
+|  | DeltaY | (Inherited from Element .) |
+|  | DictionaryIdElements |  |
+|  | ElementZoom | (Inherited from Element .) |
+|  | Game | (Inherited from RemoteMemoryObject .) |
+|  | GuiControlType | (Inherited from Element .) |
+|  | Height | (Inherited from Element .) |
+|  | IdLabel | (Inherited from Element .) |
+|  | IsEnable | (Inherited from Element .) |
+|  | IsItemTransparent | (Inherited from Element .) |
+|  | IsValid | (Inherited from RemoteMemoryObject .) |
+|  | IsVisible | (Inherited from Element .) |
+|  | IsVisibleLocal | (Inherited from Element .) |
+|  | ItemsCount |  |
+|  | LocationTopLeft |  |
+|  | M | (Inherited from RemoteMemoryObject .) |
+|  | Offsets | (Inherited from RemoteMemoryObject .) |
+|  | Parent | (Inherited from Element .) |
+|  | PlacementGraph |  |
+|  | RewardLocationTopLeft |  |
+|  | Root | (Inherited from Element .) |
+|  | Scale | (Inherited from Element .) |
+|  | Size |  |
+|  | SocketDictionary |  |
+|  | Text | (Inherited from Element .) |
+|  | Tooltip | (Inherited from Element .) |
+|  | Tooltips | (Inherited from Element .) |
+|  | vTable | (Inherited from Element .) |
+|  | Width | (Inherited from Element .) |
+|  | X | (Inherited from Element .) |
+|  | XAddress | (Inherited from Element .) |
+|  | Y | (Inherited from Element .) |
+|  | YAddress | (Inherited from Element .) |
+|  | zoomAddress | (Inherited from Element .) |
+
+## Дочерние разделы
+- [**DictionaryIdElements Property **](./DictionaryIdElements Property/README.md)
+- [**ItemsCount Property **](./ItemsCount Property/README.md)
+- [**LocationTopLeft Property **](./LocationTopLeft Property/README.md)
+- [**PlacementGraph Property **](./PlacementGraph Property/README.md)
+- [**RewardLocationTopLeft Property **](./RewardLocationTopLeft Property/README.md)
+- [**Size Property **](./Size Property/README.md)
+- [**SocketDictionary Property **](./SocketDictionary Property/README.md)

@@ -1,5 +1,6 @@
 # UpdatePointer Method 
 
+**Вложено элементов:** 0  
 
 | RemoteMemoryObject UpdatePointer Method |
 | --- |

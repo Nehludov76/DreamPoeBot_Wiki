@@ -1,5 +1,6 @@
 # PotentAlchemicalResonator Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState GuildStashUi DelveTab PotentAlchemicalResonator Property |
 | --- |

@@ -1,5 +1,6 @@
 # Contains Method (Vector3, ContainmentType)
 
+**Вложено элементов:** 0  
 
 | BoundingBox Contains Method (Vector3 , ContainmentType ) |
 | --- |

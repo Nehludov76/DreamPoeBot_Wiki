@@ -1,5 +1,6 @@
 # MoveMouseToScreenPos Method (Vector2i)
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input MoveMouseToScreenPos Method (Vector2i) |
 | --- |

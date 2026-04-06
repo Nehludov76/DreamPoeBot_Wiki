@@ -1,5 +1,6 @@
 # CancelMessageBox Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe PreGameState CancelMessageBox Method |
 | --- |

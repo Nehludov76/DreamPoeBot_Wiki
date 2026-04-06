@@ -1,5 +1,6 @@
 # SetPassword Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe LoginState SetPassword Method |
 | --- |

@@ -1,5 +1,6 @@
 # CorpseUsable Property 
 
+**Вложено элементов:** 0  
 
 | Monster CorpseUsable Property |
 | --- |

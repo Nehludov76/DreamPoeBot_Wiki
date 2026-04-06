@@ -1,5 +1,6 @@
 # use_stalker_sentinel_combo Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input Binding use_stalker_sentinel_combo Property |
 | --- |

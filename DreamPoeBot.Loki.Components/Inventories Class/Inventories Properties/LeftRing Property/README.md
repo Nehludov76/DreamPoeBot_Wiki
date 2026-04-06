@@ -1,5 +1,6 @@
 # LeftRing Property 
 
+**Вложено элементов:** 0  
 
 | Inventories LeftRing Property |
 | --- |

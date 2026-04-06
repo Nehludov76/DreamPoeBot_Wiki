@@ -1,5 +1,6 @@
 # Test17 Property 
 
+**Вложено элементов:** 0  
 
 | InventoryElement Test17 Property |
 | --- |

@@ -1,5 +1,6 @@
 # AreaName Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ExpeditionUi ExpeditionMission AreaName Property |
 | --- |

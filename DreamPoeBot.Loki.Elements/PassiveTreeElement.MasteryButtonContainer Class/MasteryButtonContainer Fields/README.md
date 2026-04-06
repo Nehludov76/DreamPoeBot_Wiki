@@ -1,5 +1,6 @@
 # MasteryButtonContainer Fields
 
+**Вложено элементов:** 0  
 
 | MasteryButtonContainer Fields |
 | --- |
@@ -10,6 +11,6 @@
 The PassiveTreeElement MasteryButtonContainer type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| NeedUpdate | (Inherited from RemoteMemoryObject .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | NeedUpdate | (Inherited from RemoteMemoryObject .) |

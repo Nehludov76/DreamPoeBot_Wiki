@@ -1,5 +1,6 @@
 # TabFlags Property 
 
+**Вложено элементов:** 0  
 
 | StashTabInfo TabFlags Property |
 | --- |

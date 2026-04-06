@@ -1,5 +1,6 @@
 # HelpPannel Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements HelpPannel Property |
 | --- |

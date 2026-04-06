@@ -1,5 +1,6 @@
 # GridExplorer.ReceivedDataEventArgs Constructor 
 
+**Вложено элементов:** 0  
 
 | GridExplorer ReceivedDataEventArgs Constructor |
 | --- |

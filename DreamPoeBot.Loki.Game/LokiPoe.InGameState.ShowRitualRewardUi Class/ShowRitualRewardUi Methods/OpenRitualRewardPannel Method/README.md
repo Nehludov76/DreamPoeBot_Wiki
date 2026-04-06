@@ -1,5 +1,6 @@
 # OpenRitualRewardPannel Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ShowRitualRewardUi OpenRitualRewardPannel Method |
 | --- |

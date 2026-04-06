@@ -1,5 +1,6 @@
 # open_atlas_screen_combo Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input Binding open_atlas_screen_combo Property |
 | --- |

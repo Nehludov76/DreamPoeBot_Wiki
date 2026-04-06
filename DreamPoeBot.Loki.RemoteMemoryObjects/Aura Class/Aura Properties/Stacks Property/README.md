@@ -1,5 +1,6 @@
 # Stacks Property 
 
+**Вложено элементов:** 0  
 
 | Aura Stacks Property |
 | --- |

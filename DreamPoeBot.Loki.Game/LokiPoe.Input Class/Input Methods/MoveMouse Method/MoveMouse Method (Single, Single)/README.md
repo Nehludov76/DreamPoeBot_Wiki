@@ -1,5 +1,6 @@
 # MoveMouse Method (Single, Single)
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input MoveMouse Method (Single, Single) |
 | --- |

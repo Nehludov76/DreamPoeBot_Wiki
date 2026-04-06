@@ -1,5 +1,6 @@
 # IsBetrayVisible Property 
 
+**Вложено элементов:** 0  
 
 | BetryalElement IsBetrayVisible Property |
 | --- |

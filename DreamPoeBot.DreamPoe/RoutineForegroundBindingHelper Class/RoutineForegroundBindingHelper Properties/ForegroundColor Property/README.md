@@ -1,5 +1,6 @@
 # ForegroundColor Property 
 
+**Вложено элементов:** 0  
 
 | RoutineForegroundBindingHelper ForegroundColor Property |
 | --- |

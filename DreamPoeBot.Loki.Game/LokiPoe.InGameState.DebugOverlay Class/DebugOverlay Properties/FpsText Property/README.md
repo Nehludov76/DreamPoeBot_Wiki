@@ -1,5 +1,6 @@
 # FpsText Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState DebugOverlay FpsText Property |
 | --- |

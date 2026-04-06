@@ -1,5 +1,6 @@
 # InventoryId Property 
 
+**Вложено элементов:** 0  
 
 | Item InventoryId Property |
 | --- |

@@ -1,5 +1,6 @@
 # HideUi Method 
 
+**Вложено элементов:** 0  
 
 | AflictionInitiator HideUi Method |
 | --- |

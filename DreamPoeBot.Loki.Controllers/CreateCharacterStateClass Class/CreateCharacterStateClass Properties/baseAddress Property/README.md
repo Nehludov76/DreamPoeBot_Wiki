@@ -1,5 +1,6 @@
 # baseAddress Property 
 
+**Вложено элементов:** 0  
 
 | CreateCharacterStateClass baseAddress Property |
 | --- |

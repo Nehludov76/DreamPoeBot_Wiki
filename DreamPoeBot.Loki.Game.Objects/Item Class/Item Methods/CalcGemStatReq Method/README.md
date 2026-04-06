@@ -1,5 +1,6 @@
 # CalcGemStatReq Method 
 
+**Вложено элементов:** 0  
 
 | Item CalcGemStatReq Method |
 | --- |

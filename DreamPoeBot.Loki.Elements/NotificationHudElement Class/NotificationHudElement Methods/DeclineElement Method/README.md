@@ -1,5 +1,6 @@
 # DeclineElement Method 
 
+**Вложено элементов:** 0  
 
 | NotificationHudElement DeclineElement Method |
 | --- |

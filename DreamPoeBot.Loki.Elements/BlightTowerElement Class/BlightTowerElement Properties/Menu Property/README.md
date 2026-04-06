@@ -1,5 +1,6 @@
 # Menu Property 
 
+**Вложено элементов:** 0  
 
 | BlightTowerElement Menu Property |
 | --- |

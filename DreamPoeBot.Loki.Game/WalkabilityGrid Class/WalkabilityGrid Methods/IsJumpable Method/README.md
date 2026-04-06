@@ -1,5 +1,6 @@
 # IsJumpable Method 
 
+**Вложено элементов:** 0  
 
 | WalkabilityGrid IsJumpable Method |
 | --- |

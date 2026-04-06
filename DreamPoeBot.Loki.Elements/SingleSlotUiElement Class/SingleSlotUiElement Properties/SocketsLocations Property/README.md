@@ -1,5 +1,6 @@
 # SocketsLocations Property 
 
+**Вложено элементов:** 0  
 
 | SingleSlotUiElement SocketsLocations Property |
 | --- |

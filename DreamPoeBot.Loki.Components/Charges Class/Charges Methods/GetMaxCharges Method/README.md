@@ -1,5 +1,6 @@
 # GetMaxCharges Method 
 
+**Вложено элементов:** 0  
 
 | Charges GetMaxCharges Method |
 | --- |

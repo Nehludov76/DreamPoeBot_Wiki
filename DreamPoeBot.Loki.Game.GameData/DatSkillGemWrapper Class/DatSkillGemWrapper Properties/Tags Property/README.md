@@ -1,5 +1,6 @@
 # Tags Property 
 
+**Вложено элементов:** 0  
 
 | DatSkillGemWrapper Tags Property |
 | --- |

@@ -1,5 +1,6 @@
 # MonsterVarietiesDict Property 
 
+**Вложено элементов:** 0  
 
 | Dat Runtime MonsterVarietiesDict Property |
 | --- |

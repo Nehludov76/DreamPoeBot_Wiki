@@ -1,5 +1,6 @@
 # BaseMsCooldown Property 
 
+**Вложено элементов:** 0  
 
 | Tincture BaseMsCooldown Property |
 | --- |

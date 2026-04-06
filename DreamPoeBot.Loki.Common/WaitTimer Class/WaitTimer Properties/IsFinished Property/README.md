@@ -1,5 +1,6 @@
 # IsFinished Property 
 
+**Вложено элементов:** 0  
 
 | WaitTimer IsFinished Property |
 | --- |

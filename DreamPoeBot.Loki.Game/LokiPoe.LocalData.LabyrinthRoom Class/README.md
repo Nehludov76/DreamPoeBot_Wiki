@@ -1,5 +1,6 @@
 # LokiPoe.LocalData.LabyrinthRoom Class
 
+**Вложено элементов:** 13  
 
 | LokiPoe LocalData LabyrinthRoom Class |
 | --- |
@@ -30,25 +31,29 @@ public ref class LabyrinthRoom
 The LokiPoe LocalData LabyrinthRoom type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Connections |
-| CruelWorldAreas |
-| EndGameWorldAreas |
-| Id |
-| MercilessWorldAreas |
-| NormalWorldAreas |
-| Overrides |
-| RoomId |
-| Secret1 |
-| Secret2 |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Connections |  |
+|  | CruelWorldAreas |  |
+|  | EndGameWorldAreas |  |
+|  | Id |  |
+|  | MercilessWorldAreas |  |
+|  | NormalWorldAreas |  |
+|  | Overrides |  |
+|  | RoomId |  |
+|  | Secret1 |  |
+|  | Secret2 |  |
 
 
-| Name | Description |
-| --- | --- |
-| Equals | Determines whether the specified object is equal to the current object. (Inherited from Object .) |
-| Finalize | Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection. (Inherited from Object .) |
-| GetHashCode | Serves as the default hash function. (Inherited from Object .) |
-| GetType | Gets the Type of the current instance. (Inherited from Object .) |
-| MemberwiseClone | Creates a shallow copy of the current Object . (Inherited from Object .) |
-| ToString | (Overrides Object ToString .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Equals | Determines whether the specified object is equal to the current object. (Inherited from Object .) |
+|  | Finalize | Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection. (Inherited from Object .) |
+|  | GetHashCode | Serves as the default hash function. (Inherited from Object .) |
+|  | GetType | Gets the Type of the current instance. (Inherited from Object .) |
+|  | MemberwiseClone | Creates a shallow copy of the current Object . (Inherited from Object .) |
+|  | ToString | (Overrides Object ToString .) |
+
+## Дочерние разделы
+- [**LabyrinthRoom Properties**](./LabyrinthRoom Properties/README.md)
+- [**LabyrinthRoom Methods**](./LabyrinthRoom Methods/README.md)

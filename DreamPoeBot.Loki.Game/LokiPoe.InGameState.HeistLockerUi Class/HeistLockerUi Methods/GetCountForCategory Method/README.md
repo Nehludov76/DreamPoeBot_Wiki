@@ -1,5 +1,6 @@
 # GetCountForCategory Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState HeistLockerUi GetCountForCategory Method |
 | --- |

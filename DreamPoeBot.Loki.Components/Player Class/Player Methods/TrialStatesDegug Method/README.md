@@ -1,5 +1,6 @@
 # TrialStatesDegug Method 
 
+**Вложено элементов:** 0  
 
 | Player TrialStatesDegug Method |
 | --- |

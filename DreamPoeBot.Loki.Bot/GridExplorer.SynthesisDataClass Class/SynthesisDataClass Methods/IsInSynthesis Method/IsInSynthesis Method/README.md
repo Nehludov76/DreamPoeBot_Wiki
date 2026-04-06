@@ -1,5 +1,6 @@
 # IsInSynthesis Method 
 
+**Вложено элементов:** 0  
 
 | GridExplorer SynthesisDataClass IsInSynthesis Method |
 | --- |

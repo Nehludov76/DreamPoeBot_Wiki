@@ -1,5 +1,6 @@
 # StdInt_LongHashMap(TKey, TValue) Method 
 
+**Вложено элементов:** 0  
 
 | Containers StdInt_LongHashMap TKey , TValue Method |
 | --- |

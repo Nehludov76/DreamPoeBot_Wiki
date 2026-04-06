@@ -1,5 +1,6 @@
 # IsLabyrinthArea Property 
 
+**Вложено элементов:** 0  
 
 | WorldArea IsLabyrinthArea Property |
 | --- |

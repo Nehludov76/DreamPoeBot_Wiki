@@ -1,5 +1,6 @@
 # IsConfirmLabelVisible Property 
 
+**Вложено элементов:** 0  
 
 | TradeControlWrapper IsConfirmLabelVisible Property |
 | --- |

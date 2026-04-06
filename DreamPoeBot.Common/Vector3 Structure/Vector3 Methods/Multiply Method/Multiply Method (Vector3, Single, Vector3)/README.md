@@ -1,5 +1,6 @@
 # Multiply Method (Vector3, Single, Vector3)
 
+**Вложено элементов:** 0  
 
 | Vector3 Multiply Method (Vector3 , Single, Vector3 ) |
 | --- |

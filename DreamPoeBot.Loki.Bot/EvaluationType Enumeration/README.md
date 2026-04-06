@@ -1,5 +1,6 @@
 # EvaluationType Enumeration
 
+**Вложено элементов:** 0  
 
 | EvaluationType Enumeration |
 | --- |
@@ -30,13 +31,13 @@ public enum class EvaluationType
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| PickUp | 1 |
-| Save | 2 |
-| Sell | 3 |
-| Buy | 4 |
-| Id | 5 |
-| ExcludeFromChaosRecipe | 6 |
-| Corrupt | 7 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | PickUp | 1 |  |
+|  | Save | 2 |  |
+|  | Sell | 3 |  |
+|  | Buy | 4 |  |
+|  | Id | 5 |  |
+|  | ExcludeFromChaosRecipe | 6 |  |
+|  | Corrupt | 7 |  |

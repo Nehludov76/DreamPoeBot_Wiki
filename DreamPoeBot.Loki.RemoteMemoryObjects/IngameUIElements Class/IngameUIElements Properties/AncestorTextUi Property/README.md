@@ -1,5 +1,6 @@
 # AncestorTextUi Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements AncestorTextUi Property |
 | --- |

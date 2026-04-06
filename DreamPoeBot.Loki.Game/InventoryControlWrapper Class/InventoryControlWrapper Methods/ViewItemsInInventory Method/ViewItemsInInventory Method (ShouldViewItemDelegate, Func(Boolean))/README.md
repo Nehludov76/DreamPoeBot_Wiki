@@ -1,5 +1,6 @@
 # ViewItemsInInventory Method (ShouldViewItemDelegate, Func(Boolean))
 
+**Вложено элементов:** 0  
 
 | InventoryControlWrapper ViewItemsInInventory Method (ShouldViewItemDelegate, Func Boolean ) |
 | --- |

@@ -1,5 +1,6 @@
 # IsHideoutArea Property 
 
+**Вложено элементов:** 0  
 
 | DatWorldAreaWrapper IsHideoutArea Property |
 | --- |

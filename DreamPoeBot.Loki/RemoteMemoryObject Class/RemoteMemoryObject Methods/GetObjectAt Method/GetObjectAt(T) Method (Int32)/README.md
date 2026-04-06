@@ -1,5 +1,6 @@
 # GetObjectAt(T) Method (Int32)
 
+**Вложено элементов:** 0  
 
 | RemoteMemoryObject GetObjectAt T Method (Int32) |
 | --- |

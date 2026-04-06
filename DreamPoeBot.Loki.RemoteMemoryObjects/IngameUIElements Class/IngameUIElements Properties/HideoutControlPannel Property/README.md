@@ -1,5 +1,6 @@
 # HideoutControlPannel Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements HideoutControlPannel Property |
 | --- |

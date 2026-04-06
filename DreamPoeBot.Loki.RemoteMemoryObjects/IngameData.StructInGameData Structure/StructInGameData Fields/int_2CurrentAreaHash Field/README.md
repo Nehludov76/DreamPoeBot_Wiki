@@ -1,5 +1,6 @@
 # int_2CurrentAreaHash Field
 
+**Вложено элементов:** 0  
 
 | IngameData StructInGameData int_2CurrentAreaHash Field |
 | --- |

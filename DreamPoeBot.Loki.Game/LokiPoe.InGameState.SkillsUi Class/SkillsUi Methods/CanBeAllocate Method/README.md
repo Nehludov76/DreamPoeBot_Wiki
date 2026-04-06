@@ -1,5 +1,6 @@
 # CanBeAllocate Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SkillsUi CanBeAllocate Method |
 | --- |

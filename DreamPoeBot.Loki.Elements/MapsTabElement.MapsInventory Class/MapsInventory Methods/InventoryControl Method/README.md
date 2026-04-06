@@ -1,5 +1,6 @@
 # InventoryControl Method 
 
+**Вложено элементов:** 0  
 
 | MapsTabElement MapsInventory InventoryControl Method |
 | --- |

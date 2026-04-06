@@ -1,5 +1,6 @@
 # Sphere Constructor 
 
+**Вложено элементов:** 0  
 
 | Sphere Constructor |
 | --- |

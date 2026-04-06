@@ -1,5 +1,6 @@
 # IsConfirmUnveilButtonVisible Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState UnveilingUi IsConfirmUnveilButtonVisible Property |
 | --- |

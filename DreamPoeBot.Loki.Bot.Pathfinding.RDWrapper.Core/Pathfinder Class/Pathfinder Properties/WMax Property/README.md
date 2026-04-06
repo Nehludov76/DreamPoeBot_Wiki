@@ -1,5 +1,6 @@
 # WMax Property 
 
+**Вложено элементов:** 0  
 
 | Pathfinder WMax Property |
 | --- |

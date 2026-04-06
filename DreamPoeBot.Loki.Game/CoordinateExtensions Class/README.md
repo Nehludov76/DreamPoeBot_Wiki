@@ -1,5 +1,6 @@
 # CoordinateExtensions Class
 
+**Вложено элементов:** 13  
 
 | CoordinateExtensions Class |
 | --- |
@@ -32,18 +33,22 @@ public static class CoordinateExtensions
 The CoordinateExtensions type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| MapToWorld(Vector2) |
-| MapToWorld(Vector2i) |
-| MapToWorld3(Vector2, Boolean) |
-| MapToWorld3(Vector2i, Boolean) |
-| World3ToMap |
-| World3ToWorld |
-| WorldToMap |
-| WorldToWorld3 |
+|  | Name | Description |
+| --- | --- | --- |
+|  | MapToWorld(Vector2) |  |
+|  | MapToWorld(Vector2i) |  |
+|  | MapToWorld3(Vector2, Boolean) |  |
+|  | MapToWorld3(Vector2i, Boolean) |  |
+|  | World3ToMap |  |
+|  | World3ToWorld |  |
+|  | WorldToMap |  |
+|  | WorldToWorld3 |  |
 
 
-| Name | Description |
-| --- | --- |
-| PositionScalar |
+|  | Name | Description |
+| --- | --- | --- |
+|  | PositionScalar |  |
+
+## Дочерние разделы
+- [**CoordinateExtensions Methods**](./CoordinateExtensions Methods/README.md)
+- [**CoordinateExtensions Fields**](./CoordinateExtensions Fields/README.md)

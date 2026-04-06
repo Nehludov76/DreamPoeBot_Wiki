@@ -1,5 +1,6 @@
 # IsPremiumBlight Property 
 
+**Вложено элементов:** 0  
 
 | StashTabInfo IsPremiumBlight Property |
 | --- |

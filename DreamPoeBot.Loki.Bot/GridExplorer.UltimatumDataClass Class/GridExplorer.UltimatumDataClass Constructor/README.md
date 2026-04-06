@@ -1,5 +1,6 @@
 # GridExplorer.UltimatumDataClass Constructor 
 
+**Вложено элементов:** 0  
 
 | GridExplorer UltimatumDataClass Constructor |
 | --- |

@@ -1,5 +1,6 @@
 # HiddenSkillBarElement Fields
 
+**Вложено элементов:** 0  
 
 | HiddenSkillBarElement Fields |
 | --- |
@@ -10,6 +11,6 @@
 The HiddenSkillBarElement type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| NeedUpdate | (Inherited from RemoteMemoryObject .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | NeedUpdate | (Inherited from RemoteMemoryObject .) |

@@ -1,5 +1,6 @@
 # TownPortals Property 
 
+**Вложено элементов:** 0  
 
 | IngameData TownPortals Property |
 | --- |

@@ -1,5 +1,6 @@
 # RitualRemaining Property 
 
+**Вложено элементов:** 0  
 
 | ShowRitualRewardElement RitualRemaining Property |
 | --- |

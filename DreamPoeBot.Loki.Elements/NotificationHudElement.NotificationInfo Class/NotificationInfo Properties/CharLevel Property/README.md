@@ -1,5 +1,6 @@
 # CharLevel Property 
 
+**Вложено элементов:** 0  
 
 | NotificationHudElement NotificationInfo CharLevel Property |
 | --- |

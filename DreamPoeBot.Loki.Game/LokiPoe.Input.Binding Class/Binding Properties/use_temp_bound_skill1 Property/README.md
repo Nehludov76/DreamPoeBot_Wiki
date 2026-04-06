@@ -1,5 +1,6 @@
 # use_temp_bound_skill1 Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input Binding use_temp_bound_skill1 Property |
 | --- |

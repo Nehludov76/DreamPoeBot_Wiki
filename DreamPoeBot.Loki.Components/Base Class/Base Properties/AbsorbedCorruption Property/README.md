@@ -1,5 +1,6 @@
 # AbsorbedCorruption Property 
 
+**Вложено элементов:** 0  
 
 | Base AbsorbedCorruption Property |
 | --- |

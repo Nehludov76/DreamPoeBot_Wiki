@@ -1,5 +1,6 @@
 # SupportsText Property 
 
+**Вложено элементов:** 0  
 
 | DatSkillGemWrapper SupportsText Property |
 | --- |

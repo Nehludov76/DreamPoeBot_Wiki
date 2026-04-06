@@ -1,5 +1,6 @@
 # ChargesComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation ChargesComponent Property |
 | --- |

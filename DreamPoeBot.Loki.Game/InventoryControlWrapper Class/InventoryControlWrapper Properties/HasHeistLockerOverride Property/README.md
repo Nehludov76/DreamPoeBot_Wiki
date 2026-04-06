@@ -1,5 +1,6 @@
 # HasHeistLockerOverride Property 
 
+**Вложено элементов:** 0  
 
 | InventoryControlWrapper HasHeistLockerOverride Property |
 | --- |

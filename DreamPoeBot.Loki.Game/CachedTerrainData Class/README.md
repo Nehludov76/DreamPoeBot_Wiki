@@ -1,5 +1,6 @@
 # CachedTerrainData Class
 
+**Вложено элементов:** 14  
 
 | CachedTerrainData Class |
 | --- |
@@ -32,34 +33,40 @@ public ref class CachedTerrainData
 The CachedTerrainData type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| CachedTerrainData | Initializes a new instance of the CachedTerrainData class |
+|  | Name | Description |
+| --- | --- | --- |
+|  | CachedTerrainData | Initializes a new instance of the CachedTerrainData class |
 
 
-| Name | Description |
-| --- | --- |
-| AreaHash |
-| AreaId |
-| BPR |
-| Cols |
-| Data |
-| FlyData |
-| JumpMask |
-| Rows |
-| Value |
+|  | Name | Description |
+| --- | --- | --- |
+|  | AreaHash |  |
+|  | AreaId |  |
+|  | BPR |  |
+|  | Cols |  |
+|  | Data |  |
+|  | FlyData |  |
+|  | JumpMask |  |
+|  | Rows |  |
+|  | Value |  |
 
 
-| Name | Description |
-| --- | --- |
-| Equals | Determines whether the specified object is equal to the current object. (Inherited from Object .) |
-| Finalize | Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection. (Inherited from Object .) |
-| GetHashCode | Serves as the default hash function. (Inherited from Object .) |
-| GetType | Gets the Type of the current instance. (Inherited from Object .) |
-| MemberwiseClone | Creates a shallow copy of the current Object . (Inherited from Object .) |
-| ToString | Returns a string that represents the current object. (Inherited from Object .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Equals | Determines whether the specified object is equal to the current object. (Inherited from Object .) |
+|  | Finalize | Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection. (Inherited from Object .) |
+|  | GetHashCode | Serves as the default hash function. (Inherited from Object .) |
+|  | GetType | Gets the Type of the current instance. (Inherited from Object .) |
+|  | MemberwiseClone | Creates a shallow copy of the current Object . (Inherited from Object .) |
+|  | ToString | Returns a string that represents the current object. (Inherited from Object .) |
 
 
-| Name | Description |
-| --- | --- |
-| TileSize |
+|  | Name | Description |
+| --- | --- | --- |
+|  | TileSize |  |
+
+## Дочерние разделы
+- [**CachedTerrainData Constructor **](./CachedTerrainData Constructor/README.md)
+- [**CachedTerrainData Properties**](./CachedTerrainData Properties/README.md)
+- [**CachedTerrainData Methods**](./CachedTerrainData Methods/README.md)
+- [**CachedTerrainData Fields**](./CachedTerrainData Fields/README.md)

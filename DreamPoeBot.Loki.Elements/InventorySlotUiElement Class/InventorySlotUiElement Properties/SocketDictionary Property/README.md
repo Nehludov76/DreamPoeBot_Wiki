@@ -1,5 +1,6 @@
 # SocketDictionary Property 
 
+**Вложено элементов:** 0  
 
 | InventorySlotUiElement SocketDictionary Property |
 | --- |

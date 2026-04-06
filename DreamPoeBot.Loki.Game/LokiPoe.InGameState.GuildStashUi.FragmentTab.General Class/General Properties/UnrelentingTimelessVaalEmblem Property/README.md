@@ -1,5 +1,6 @@
 # UnrelentingTimelessVaalEmblem Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState GuildStashUi FragmentTab General UnrelentingTimelessVaalEmblem Property |
 | --- |

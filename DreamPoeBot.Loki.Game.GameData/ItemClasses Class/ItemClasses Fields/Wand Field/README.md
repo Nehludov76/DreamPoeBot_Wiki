@@ -1,5 +1,6 @@
 # Wand Field
 
+**Вложено элементов:** 0  
 
 | ItemClasses Wand Field |
 | --- |

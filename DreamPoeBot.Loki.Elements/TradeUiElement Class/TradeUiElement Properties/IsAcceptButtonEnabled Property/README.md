@@ -1,5 +1,6 @@
 # IsAcceptButtonEnabled Property 
 
+**Вложено элементов:** 0  
 
 | TradeUiElement IsAcceptButtonEnabled Property |
 | --- |

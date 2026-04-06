@@ -1,5 +1,6 @@
 # Bits Property 
 
+**Вложено элементов:** 0  
 
 | OSInfo Bits Property |
 | --- |

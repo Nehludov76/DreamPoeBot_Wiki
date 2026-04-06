@@ -1,5 +1,6 @@
 # AtlasPassiveRefundPointsLeft Property 
 
+**Вложено элементов:** 0  
 
 | ServerData AtlasPassiveRefundPointsLeft Property |
 | --- |

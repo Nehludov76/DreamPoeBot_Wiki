@@ -1,5 +1,6 @@
 # EmbersoftheAllflameButtonElement Property 
 
+**Вложено элементов:** 0  
 
 | LanternOfArimorElement EmbersoftheAllflameButtonElement Property |
 | --- |

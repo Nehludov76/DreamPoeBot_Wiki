@@ -1,5 +1,6 @@
 # Value Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo Necropolis NecropolisCollectedCorpse NecropolisCraftingMod Value Property |
 | --- |

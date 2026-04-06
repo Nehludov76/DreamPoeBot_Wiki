@@ -1,5 +1,6 @@
 # RitualFavorElement Constructor 
 
+**Вложено элементов:** 0  
 
 | RitualFavorElement Constructor |
 | --- |

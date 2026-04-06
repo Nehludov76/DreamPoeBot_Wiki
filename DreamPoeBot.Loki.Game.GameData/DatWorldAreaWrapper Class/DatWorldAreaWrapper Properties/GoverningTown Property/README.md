@@ -1,5 +1,6 @@
 # GoverningTown Property 
 
+**Вложено элементов:** 0  
 
 | DatWorldAreaWrapper GoverningTown Property |
 | --- |

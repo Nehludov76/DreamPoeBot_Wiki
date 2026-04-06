@@ -1,5 +1,6 @@
 # IsDenArea Property 
 
+**Вложено элементов:** 0  
 
 | DatWorldAreaWrapper IsDenArea Property |
 | --- |

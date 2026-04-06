@@ -1,5 +1,6 @@
 # Wait Method 
 
+**Вложено элементов:** 0  
 
 | Coroutine Wait Method |
 | --- |

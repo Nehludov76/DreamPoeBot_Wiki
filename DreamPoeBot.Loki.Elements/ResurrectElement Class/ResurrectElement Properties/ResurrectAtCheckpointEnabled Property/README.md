@@ -1,5 +1,6 @@
 # ResurrectAtCheckpointEnabled Property 
 
+**Вложено элементов:** 0  
 
 | ResurrectElement ResurrectAtCheckpointEnabled Property |
 | --- |

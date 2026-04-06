@@ -1,5 +1,6 @@
 # HUDRight Property 
 
+**Вложено элементов:** 0  
 
 | HudUIElement HUDRight Property |
 | --- |

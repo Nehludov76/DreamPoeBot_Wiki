@@ -1,5 +1,6 @@
 # Flags Property 
 
+**Вложено элементов:** 0  
 
 | Item Flags Property |
 | --- |

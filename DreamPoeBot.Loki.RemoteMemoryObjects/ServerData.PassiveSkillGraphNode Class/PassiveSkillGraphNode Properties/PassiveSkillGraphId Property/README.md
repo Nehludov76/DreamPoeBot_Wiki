@@ -1,5 +1,6 @@
 # PassiveSkillGraphId Property 
 
+**Вложено элементов:** 0  
 
 | ServerData PassiveSkillGraphNode PassiveSkillGraphId Property |
 | --- |

@@ -1,5 +1,6 @@
 # IsUIVisible Property 
 
+**Вложено элементов:** 0  
 
 | NecropolisCorpse IsUIVisible Property |
 | --- |

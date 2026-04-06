@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.AnointResult Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState AnointResult Enumeration |
 | --- |
@@ -30,9 +31,9 @@ public enum class AnointResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| ProcessHookManagerNotEnabled | 1 |
-| InvalidNumberOfOils | 2 |
-| ButtonIsDisabled | 3 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | ProcessHookManagerNotEnabled | 1 |  |
+|  | InvalidNumberOfOils | 2 |  |
+|  | ButtonIsDisabled | 3 |  |

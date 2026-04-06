@@ -1,5 +1,6 @@
 # NewTrisClass Constructor 
 
+**Вложено элементов:** 0  
 
 | NewTrisClass Constructor |
 | --- |

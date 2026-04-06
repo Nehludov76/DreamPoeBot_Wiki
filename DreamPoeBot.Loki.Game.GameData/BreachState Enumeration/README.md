@@ -1,5 +1,6 @@
 # BreachState Enumeration
 
+**Вложено элементов:** 0  
 
 | BreachState Enumeration |
 | --- |
@@ -30,8 +31,8 @@ public enum class BreachState
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| Inactive | 0 |
-| Expanding | 1 |
-| Contracting | 2 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | Inactive | 0 |  |
+|  | Expanding | 1 |  |
+|  | Contracting | 2 |  |

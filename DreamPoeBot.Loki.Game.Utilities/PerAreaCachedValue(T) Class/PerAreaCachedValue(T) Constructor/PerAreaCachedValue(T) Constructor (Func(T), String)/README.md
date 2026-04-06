@@ -1,5 +1,6 @@
 # PerAreaCachedValue(T) Constructor (Func(T), String)
 
+**Вложено элементов:** 0  
 
 | PerAreaCachedValue T Constructor (Func T , String) |
 | --- |

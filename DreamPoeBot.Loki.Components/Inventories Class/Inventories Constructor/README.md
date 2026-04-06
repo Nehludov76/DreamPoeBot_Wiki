@@ -1,5 +1,6 @@
 # Inventories Constructor 
 
+**Вложено элементов:** 0  
 
 | Inventories Constructor |
 | --- |

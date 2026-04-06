@@ -1,5 +1,6 @@
 # MonsterVarieties2 Property 
 
+**Вложено элементов:** 0  
 
 | Dat Runtime MonsterVarieties2 Property |
 | --- |

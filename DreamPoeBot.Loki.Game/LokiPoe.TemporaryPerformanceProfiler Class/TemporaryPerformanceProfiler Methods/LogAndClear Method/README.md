@@ -1,5 +1,6 @@
 # LogAndClear Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe TemporaryPerformanceProfiler LogAndClear Method |
 | --- |

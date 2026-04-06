@@ -1,5 +1,6 @@
 # FullName Property 
 
+**Вложено элементов:** 0  
 
 | BestiaryCapturedMonster FullName Property |
 | --- |

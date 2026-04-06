@@ -1,5 +1,6 @@
 # EncounterTypeType Property 
 
+**Вложено элементов:** 0  
 
 | DatUltimatumEncounterWrapper EncounterTypeType Property |
 | --- |

@@ -1,5 +1,6 @@
 # AlertLevelPct Property 
 
+**Вложено элементов:** 0  
 
 | HeistAlertLevelElement AlertLevelPct Property |
 | --- |

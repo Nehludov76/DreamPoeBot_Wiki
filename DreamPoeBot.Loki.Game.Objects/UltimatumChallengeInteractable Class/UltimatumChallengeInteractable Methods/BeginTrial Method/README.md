@@ -1,5 +1,6 @@
 # BeginTrial Method 
 
+**Вложено элементов:** 0  
 
 | UltimatumChallengeInteractable BeginTrial Method |
 | --- |

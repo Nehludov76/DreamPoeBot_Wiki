@@ -1,5 +1,6 @@
 # PremiumStashSettingUi Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements PremiumStashSettingUi Property |
 | --- |

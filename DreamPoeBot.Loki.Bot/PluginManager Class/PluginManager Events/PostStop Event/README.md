@@ -1,5 +1,6 @@
 # PostStop Event
 
+**Вложено элементов:** 0  
 
 | PluginManager PostStop Event |
 | --- |

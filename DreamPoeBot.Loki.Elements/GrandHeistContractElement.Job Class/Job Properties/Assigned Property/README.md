@@ -1,5 +1,6 @@
 # Assigned Property 
 
+**Вложено элементов:** 0  
 
 | GrandHeistContractElement Job Assigned Property |
 | --- |

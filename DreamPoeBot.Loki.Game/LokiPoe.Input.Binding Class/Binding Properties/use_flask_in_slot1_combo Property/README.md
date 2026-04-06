@@ -1,5 +1,6 @@
 # use_flask_in_slot1_combo Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input Binding use_flask_in_slot1_combo Property |
 | --- |

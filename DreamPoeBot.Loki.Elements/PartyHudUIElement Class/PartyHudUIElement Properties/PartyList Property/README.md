@@ -1,5 +1,6 @@
 # PartyList Property 
 
+**Вложено элементов:** 0  
 
 | PartyHudUIElement PartyList Property |
 | --- |

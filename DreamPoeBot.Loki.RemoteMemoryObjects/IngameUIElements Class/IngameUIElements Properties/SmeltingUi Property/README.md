@@ -1,5 +1,6 @@
 # SmeltingUi Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements SmeltingUi Property |
 | --- |

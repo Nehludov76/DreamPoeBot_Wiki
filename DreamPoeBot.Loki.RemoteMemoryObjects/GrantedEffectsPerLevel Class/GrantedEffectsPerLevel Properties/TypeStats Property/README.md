@@ -1,5 +1,6 @@
 # TypeStats Property 
 
+**Вложено элементов:** 0  
 
 | GrantedEffectsPerLevel TypeStats Property |
 | --- |

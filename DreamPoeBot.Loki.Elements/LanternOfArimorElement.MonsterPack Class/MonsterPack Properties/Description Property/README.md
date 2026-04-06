@@ -1,5 +1,6 @@
 # Description Property 
 
+**Вложено элементов:** 0  
 
 | LanternOfArimorElement MonsterPack Description Property |
 | --- |

@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.HeistContractUi.Agent Constructor 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState HeistContractUi Agent Constructor |
 | --- |

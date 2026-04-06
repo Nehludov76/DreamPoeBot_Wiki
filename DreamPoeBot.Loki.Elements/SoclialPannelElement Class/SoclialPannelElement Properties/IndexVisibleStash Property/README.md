@@ -1,5 +1,6 @@
 # IndexVisibleStash Property 
 
+**Вложено элементов:** 0  
 
 | SoclialPannelElement IndexVisibleStash Property |
 | --- |

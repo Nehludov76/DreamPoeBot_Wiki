@@ -1,5 +1,6 @@
 # CurrentWildWisps Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo Azmeri CurrentWildWisps Property |
 | --- |

@@ -1,5 +1,6 @@
 # InitialInputEventDelayMs Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input InitialInputEventDelayMs Property |
 | --- |

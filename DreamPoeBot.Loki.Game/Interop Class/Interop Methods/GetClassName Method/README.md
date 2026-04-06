@@ -1,5 +1,6 @@
 # GetClassName Method 
 
+**Вложено элементов:** 0  
 
 | Interop GetClassName Method |
 | --- |

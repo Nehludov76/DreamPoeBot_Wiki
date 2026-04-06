@@ -1,5 +1,6 @@
 # CrucibleEnumerable Property 
 
+**Вложено элементов:** 0  
 
 | Mods CrucibleEnumerable Property |
 | --- |

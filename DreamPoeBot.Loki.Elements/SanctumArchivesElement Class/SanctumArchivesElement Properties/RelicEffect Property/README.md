@@ -1,5 +1,6 @@
 # RelicEffect Property 
 
+**Вложено элементов:** 0  
 
 | SanctumArchivesElement RelicEffect Property |
 | --- |

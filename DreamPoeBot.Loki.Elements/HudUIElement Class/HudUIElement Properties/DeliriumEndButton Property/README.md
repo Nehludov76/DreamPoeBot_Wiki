@@ -1,5 +1,6 @@
 # DeliriumEndButton Property 
 
+**Вложено элементов:** 0  
 
 | HudUIElement DeliriumEndButton Property |
 | --- |

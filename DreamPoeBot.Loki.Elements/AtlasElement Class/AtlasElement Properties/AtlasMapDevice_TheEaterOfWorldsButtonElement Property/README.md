@@ -1,5 +1,6 @@
 # AtlasMapDevice_TheEaterOfWorldsButtonElement Property 
 
+**Вложено элементов:** 0  
 
 | AtlasElement AtlasMapDevice_TheEaterOfWorldsButtonElement Property |
 | --- |

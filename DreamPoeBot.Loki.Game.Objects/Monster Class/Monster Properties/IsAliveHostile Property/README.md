@@ -1,5 +1,6 @@
 # IsAliveHostile Property 
 
+**Вложено элементов:** 0  
 
 | Monster IsAliveHostile Property |
 | --- |

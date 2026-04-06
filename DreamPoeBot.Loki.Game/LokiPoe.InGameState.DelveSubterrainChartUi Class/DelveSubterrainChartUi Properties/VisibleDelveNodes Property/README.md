@@ -1,5 +1,6 @@
 # VisibleDelveNodes Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState DelveSubterrainChartUi VisibleDelveNodes Property |
 | --- |

@@ -1,5 +1,6 @@
 # AcceptLocation Property 
 
+**Вложено элементов:** 0  
 
 | SplitStackUiElement AcceptLocation Property |
 | --- |

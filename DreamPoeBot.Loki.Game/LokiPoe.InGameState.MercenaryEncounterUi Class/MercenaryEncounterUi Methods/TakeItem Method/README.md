@@ -1,5 +1,6 @@
 # TakeItem Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState MercenaryEncounterUi TakeItem Method |
 | --- |

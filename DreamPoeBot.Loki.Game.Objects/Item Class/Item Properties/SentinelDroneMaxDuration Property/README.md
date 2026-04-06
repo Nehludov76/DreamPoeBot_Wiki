@@ -1,5 +1,6 @@
 # SentinelDroneMaxDuration Property 
 
+**Вложено элементов:** 0  
 
 | Item SentinelDroneMaxDuration Property |
 | --- |

@@ -1,5 +1,6 @@
 # Connections Property 
 
+**Вложено элементов:** 0  
 
 | WorldArea Connections Property |
 | --- |

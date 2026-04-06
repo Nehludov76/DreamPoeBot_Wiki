@@ -1,5 +1,6 @@
 # CraftingBenchElement.Recipe.Price Constructor 
 
+**Вложено элементов:** 0  
 
 | CraftingBenchElement Recipe Price Constructor |
 | --- |

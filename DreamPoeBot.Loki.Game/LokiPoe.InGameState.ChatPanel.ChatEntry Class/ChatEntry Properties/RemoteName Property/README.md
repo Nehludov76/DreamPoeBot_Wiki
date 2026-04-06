@@ -1,5 +1,6 @@
 # RemoteName Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ChatPanel ChatEntry RemoteName Property |
 | --- |

@@ -1,5 +1,6 @@
 # StaskSize Property 
 
+**Вложено элементов:** 0  
 
 | NormalInventoryItem StaskSize Property |
 | --- |

@@ -1,5 +1,6 @@
 # MaxUses Property 
 
+**Вложено элементов:** 0  
 
 | Skill MaxUses Property |
 | --- |

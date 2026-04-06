@@ -1,5 +1,6 @@
 # StartPoint Property 
 
+**Вложено элементов:** 0  
 
 | PathfindingCommand StartPoint Property |
 | --- |

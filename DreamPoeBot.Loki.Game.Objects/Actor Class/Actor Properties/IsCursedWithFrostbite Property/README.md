@@ -1,5 +1,6 @@
 # IsCursedWithFrostbite Property 
 
+**Вложено элементов:** 0  
 
 | Actor IsCursedWithFrostbite Property |
 | --- |

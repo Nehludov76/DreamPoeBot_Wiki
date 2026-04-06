@@ -1,5 +1,6 @@
 # OnPasteTextFailed Event
 
+**Вложено элементов:** 0  
 
 | LokiPoe OnPasteTextFailed Event |
 | --- |

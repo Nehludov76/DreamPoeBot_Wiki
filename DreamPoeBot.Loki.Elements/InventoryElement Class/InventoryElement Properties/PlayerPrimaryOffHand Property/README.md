@@ -1,5 +1,6 @@
 # PlayerPrimaryOffHand Property 
 
+**Вложено элементов:** 0  
 
 | InventoryElement PlayerPrimaryOffHand Property |
 | --- |

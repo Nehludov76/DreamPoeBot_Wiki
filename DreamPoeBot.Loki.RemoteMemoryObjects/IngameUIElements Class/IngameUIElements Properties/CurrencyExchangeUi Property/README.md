@@ -1,5 +1,6 @@
 # CurrencyExchangeUi Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements CurrencyExchangeUi Property |
 | --- |

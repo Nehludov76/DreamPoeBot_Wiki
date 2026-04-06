@@ -1,5 +1,6 @@
 # IsLabelVisible Property 
 
+**Вложено элементов:** 0  
 
 | WorldItem WorldItemLabelClass IsLabelVisible Property |
 | --- |

@@ -1,5 +1,6 @@
 # GetForward Method 
 
+**Вложено элементов:** 0  
 
 | Matrix GetForward Method |
 | --- |

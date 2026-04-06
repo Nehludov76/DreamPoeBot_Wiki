@@ -1,5 +1,6 @@
 # LokiPoe.InstanceInfo.Atlas.Conqueror Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo Atlas Conqueror Enumeration |
 | --- |
@@ -30,11 +31,11 @@ public enum class Conqueror
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| Crusader | 1 |
-| Hunter | 2 |
-| Warlord | 3 |
-| Redeemer | 4 |
-| Awakener | 5 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | Crusader | 1 |  |
+|  | Hunter | 2 |  |
+|  | Warlord | 3 |  |
+|  | Redeemer | 4 |  |
+|  | Awakener | 5 |  |

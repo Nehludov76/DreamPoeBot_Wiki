@@ -1,5 +1,6 @@
 # Explorer.GetExplorerDelegate Delegate
 
+**Вложено элементов:** 0  
 
 | Explorer GetExplorerDelegate Delegate |
 | --- |

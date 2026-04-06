@@ -1,5 +1,6 @@
 # IsEnabled Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState MercenaryOptionsUi MercenaryOption IsEnabled Property |
 | --- |

@@ -1,5 +1,6 @@
 # AreaId Property 
 
+**Вложено элементов:** 0  
 
 | CachedTerrainData AreaId Property |
 | --- |

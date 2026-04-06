@@ -1,5 +1,6 @@
 # MergeStack Method (Boolean)
 
+**Вложено элементов:** 0  
 
 | InventoryControlWrapper MergeStack Method (Boolean) |
 | --- |

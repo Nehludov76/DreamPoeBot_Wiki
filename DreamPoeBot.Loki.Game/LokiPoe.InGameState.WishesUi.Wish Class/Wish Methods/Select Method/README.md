@@ -1,5 +1,6 @@
 # Select Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState WishesUi Wish Select Method |
 | --- |

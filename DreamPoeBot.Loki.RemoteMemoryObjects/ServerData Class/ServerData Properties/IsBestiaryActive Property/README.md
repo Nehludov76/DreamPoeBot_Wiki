@@ -1,5 +1,6 @@
 # IsBestiaryActive Property 
 
+**Вложено элементов:** 0  
 
 | ServerData IsBestiaryActive Property |
 | --- |

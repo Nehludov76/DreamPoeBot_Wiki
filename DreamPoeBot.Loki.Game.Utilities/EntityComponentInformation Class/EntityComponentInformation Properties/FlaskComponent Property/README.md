@@ -1,5 +1,6 @@
 # FlaskComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation FlaskComponent Property |
 | --- |

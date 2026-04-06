@@ -1,5 +1,6 @@
 # MinMonsterLevelSuffix Property 
 
+**Вложено элементов:** 0  
 
 | Item MinMonsterLevelSuffix Property |
 | --- |

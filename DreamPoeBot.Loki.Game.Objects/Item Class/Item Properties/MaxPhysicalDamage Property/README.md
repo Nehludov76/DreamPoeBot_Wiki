@@ -1,5 +1,6 @@
 # MaxPhysicalDamage Property 
 
+**Вложено элементов:** 0  
 
 | Item MaxPhysicalDamage Property |
 | --- |

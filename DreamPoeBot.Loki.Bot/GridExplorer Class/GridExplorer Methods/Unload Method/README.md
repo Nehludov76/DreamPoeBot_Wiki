@@ -1,5 +1,6 @@
 # Unload Method 
 
+**Вложено элементов:** 0  
 
 | GridExplorer Unload Method |
 | --- |

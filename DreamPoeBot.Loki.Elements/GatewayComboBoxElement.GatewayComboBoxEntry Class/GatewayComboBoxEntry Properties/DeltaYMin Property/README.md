@@ -1,5 +1,6 @@
 # DeltaYMin Property 
 
+**Вложено элементов:** 0  
 
 | GatewayComboBoxElement GatewayComboBoxEntry DeltaYMin Property |
 | --- |

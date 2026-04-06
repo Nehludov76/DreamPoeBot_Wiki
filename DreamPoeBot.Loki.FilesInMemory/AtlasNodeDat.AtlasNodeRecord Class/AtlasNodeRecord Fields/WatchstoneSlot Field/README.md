@@ -1,5 +1,6 @@
 # WatchstoneSlot Field
 
+**Вложено элементов:** 0  
 
 | AtlasNodeDat AtlasNodeRecord WatchstoneSlot Field |
 | --- |

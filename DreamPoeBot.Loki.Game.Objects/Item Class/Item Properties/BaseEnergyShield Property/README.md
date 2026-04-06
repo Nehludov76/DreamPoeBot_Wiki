@@ -1,5 +1,6 @@
 # BaseEnergyShield Property 
 
+**Вложено элементов:** 0  
 
 | Item BaseEnergyShield Property |
 | --- |

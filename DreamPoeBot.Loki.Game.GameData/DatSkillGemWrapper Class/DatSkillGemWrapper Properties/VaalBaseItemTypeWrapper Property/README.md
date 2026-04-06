@@ -1,5 +1,6 @@
 # VaalBaseItemTypeWrapper Property 
 
+**Вложено элементов:** 0  
 
 | DatSkillGemWrapper VaalBaseItemTypeWrapper Property |
 | --- |

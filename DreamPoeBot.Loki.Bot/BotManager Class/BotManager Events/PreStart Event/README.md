@@ -1,5 +1,6 @@
 # PreStart Event
 
+**Вложено элементов:** 0  
 
 | BotManager PreStart Event |
 | --- |

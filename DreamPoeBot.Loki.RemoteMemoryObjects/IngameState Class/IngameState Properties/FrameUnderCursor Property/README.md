@@ -1,5 +1,6 @@
 # FrameUnderCursor Property 
 
+**Вложено элементов:** 0  
 
 | IngameState FrameUnderCursor Property |
 | --- |

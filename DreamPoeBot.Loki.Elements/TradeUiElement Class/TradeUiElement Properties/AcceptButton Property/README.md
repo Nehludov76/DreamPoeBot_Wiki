@@ -1,5 +1,6 @@
 # AcceptButton Property 
 
+**Вложено элементов:** 0  
 
 | TradeUiElement AcceptButton Property |
 | --- |

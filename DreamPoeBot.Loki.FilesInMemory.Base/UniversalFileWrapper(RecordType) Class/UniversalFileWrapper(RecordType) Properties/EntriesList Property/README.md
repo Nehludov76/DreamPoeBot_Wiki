@@ -1,5 +1,6 @@
 # EntriesList Property 
 
+**Вложено элементов:** 0  
 
 | UniversalFileWrapper RecordType EntriesList Property |
 | --- |

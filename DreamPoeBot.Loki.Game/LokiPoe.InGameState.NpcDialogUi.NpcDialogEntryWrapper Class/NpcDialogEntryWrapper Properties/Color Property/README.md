@@ -1,5 +1,6 @@
 # Color Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState NpcDialogUi NpcDialogEntryWrapper Color Property |
 | --- |

@@ -1,5 +1,6 @@
 # InterrogateClickPosition Property 
 
+**Вложено элементов:** 0  
 
 | BetryalElement InterrogateClickPosition Property |
 | --- |

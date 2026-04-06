@@ -1,5 +1,6 @@
 # IsLoaded Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState BeastCraftingingUi IsLoaded Property |
 | --- |

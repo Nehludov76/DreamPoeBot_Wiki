@@ -1,5 +1,6 @@
 # GetInventoryControlForName Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState GuildStashUi DivinationTab GetInventoryControlForName Method |
 | --- |

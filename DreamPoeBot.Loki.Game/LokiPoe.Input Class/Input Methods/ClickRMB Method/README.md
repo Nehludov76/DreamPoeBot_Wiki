@@ -1,5 +1,6 @@
 # ClickRMB Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input ClickRMB Method |
 | --- |

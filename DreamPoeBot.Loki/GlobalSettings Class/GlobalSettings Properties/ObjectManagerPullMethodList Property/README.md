@@ -1,5 +1,6 @@
 # ObjectManagerPullMethodList Property 
 
+**Вложено элементов:** 0  
 
 | GlobalSettings ObjectManagerPullMethodList Property |
 | --- |

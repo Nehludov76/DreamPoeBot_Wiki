@@ -1,5 +1,6 @@
 # HeistAllyEquipmentUi Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements HeistAllyEquipmentUi Property |
 | --- |

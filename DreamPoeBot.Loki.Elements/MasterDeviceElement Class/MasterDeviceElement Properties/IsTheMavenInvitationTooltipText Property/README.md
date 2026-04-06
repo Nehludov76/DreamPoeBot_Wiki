@@ -1,5 +1,6 @@
 # IsTheMavenInvitationTooltipText Property 
 
+**Вложено элементов:** 0  
 
 | MasterDeviceElement IsTheMavenInvitationTooltipText Property |
 | --- |

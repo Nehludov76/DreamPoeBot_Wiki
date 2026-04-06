@@ -1,5 +1,6 @@
 # CanAffordItem Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ExpeditionDealerUi Exchange CanAffordItem Property |
 | --- |

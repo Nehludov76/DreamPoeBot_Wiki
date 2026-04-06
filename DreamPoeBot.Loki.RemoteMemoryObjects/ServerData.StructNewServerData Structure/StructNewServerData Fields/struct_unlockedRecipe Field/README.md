@@ -1,5 +1,6 @@
 # struct_unlockedRecipe Field
 
+**Вложено элементов:** 0  
 
 | ServerData StructNewServerData struct_unlockedRecipe Field |
 | --- |

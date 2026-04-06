@@ -1,5 +1,6 @@
 # DescriptionText Property 
 
+**Вложено элементов:** 0  
 
 | Base DescriptionText Property |
 | --- |

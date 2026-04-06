@@ -1,5 +1,6 @@
 # ResetQuantity Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState CurrencyExchangeUi ResetQuantity Method |
 | --- |

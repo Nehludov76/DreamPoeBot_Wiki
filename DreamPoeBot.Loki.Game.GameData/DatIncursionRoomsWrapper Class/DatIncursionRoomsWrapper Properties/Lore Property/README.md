@@ -1,5 +1,6 @@
 # Lore Property 
 
+**Вложено элементов:** 0  
 
 | DatIncursionRoomsWrapper Lore Property |
 | --- |

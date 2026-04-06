@@ -1,5 +1,6 @@
 # IsPublicPartiesTabSelected Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SocialUi IsPublicPartiesTabSelected Property |
 | --- |

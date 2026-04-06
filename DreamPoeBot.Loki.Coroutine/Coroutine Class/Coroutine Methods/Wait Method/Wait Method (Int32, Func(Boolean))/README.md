@@ -1,5 +1,6 @@
 # Wait Method (Int32, Func(Boolean))
 
+**Вложено элементов:** 0  
 
 | Coroutine Wait Method (Int32, Func Boolean ) |
 | --- |

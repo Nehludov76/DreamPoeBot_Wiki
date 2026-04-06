@@ -1,5 +1,6 @@
 # Cost Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState DelveUi DelveTools DelveToolUpgradeOption Cost Property |
 | --- |

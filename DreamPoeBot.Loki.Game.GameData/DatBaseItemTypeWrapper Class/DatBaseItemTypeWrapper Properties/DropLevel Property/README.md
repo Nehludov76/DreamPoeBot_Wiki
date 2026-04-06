@@ -1,5 +1,6 @@
 # DropLevel Property 
 
+**Вложено элементов:** 0  
 
 | DatBaseItemTypeWrapper DropLevel Property |
 | --- |

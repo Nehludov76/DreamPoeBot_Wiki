@@ -1,5 +1,6 @@
 # InventoryControl_SecondaryMainHand Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState InventoryUi InventoryControl_SecondaryMainHand Property |
 | --- |

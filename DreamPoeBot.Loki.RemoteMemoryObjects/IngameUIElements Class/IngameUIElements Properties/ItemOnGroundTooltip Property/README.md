@@ -1,5 +1,6 @@
 # ItemOnGroundTooltip Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements ItemOnGroundTooltip Property |
 | --- |

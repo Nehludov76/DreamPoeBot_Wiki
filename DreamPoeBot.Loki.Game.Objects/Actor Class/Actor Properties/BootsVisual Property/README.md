@@ -1,5 +1,6 @@
 # BootsVisual Property 
 
+**Вложено элементов:** 0  
 
 | Actor BootsVisual Property |
 | --- |

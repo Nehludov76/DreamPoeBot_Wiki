@@ -1,5 +1,6 @@
 # MagneticComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation MagneticComponent Property |
 | --- |

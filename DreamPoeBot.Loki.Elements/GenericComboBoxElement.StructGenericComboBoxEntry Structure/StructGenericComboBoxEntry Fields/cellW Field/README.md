@@ -1,5 +1,6 @@
 # cellW Field
 
+**Вложено элементов:** 0  
 
 | GenericComboBoxElement StructGenericComboBoxEntry cellW Field |
 | --- |

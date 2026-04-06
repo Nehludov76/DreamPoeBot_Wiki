@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.CursorItemModes Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState CursorItemModes Enumeration |
 | --- |
@@ -30,14 +31,14 @@ public enum class CursorItemModes
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| PhysicalMove | 1 |
-| VirtualUse | 2 |
-| VirtualMove | 3 |
-| InGameInteraction | 5 |
-| EssenceUpgrade | 7 |
-| OilUpgrade | 8 |
-| ScarabUpgrade | 9 |
-| NecropolisModMove | 13 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | PhysicalMove | 1 |  |
+|  | VirtualUse | 2 |  |
+|  | VirtualMove | 3 |  |
+|  | InGameInteraction | 5 |  |
+|  | EssenceUpgrade | 7 |  |
+|  | OilUpgrade | 8 |  |
+|  | ScarabUpgrade | 9 |  |
+|  | NecropolisModMove | 13 |  |

@@ -1,5 +1,6 @@
 # Sockets.Struct212 Structure
 
+**Вложено элементов:** 5  
 
 | Sockets Struct212 Structure |
 | --- |
@@ -32,16 +33,20 @@ public value class Struct212
 The Sockets Struct212 type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Equals | Indicates whether this instance and a specified object are equal. (Inherited from ValueType .) |
-| GetHashCode | Returns the hash code for this instance. (Inherited from ValueType .) |
-| GetType | Gets the Type of the current instance. (Inherited from Object .) |
-| ToString | Returns the fully qualified type name of this instance. (Inherited from ValueType .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Equals | Indicates whether this instance and a specified object are equal. (Inherited from ValueType .) |
+|  | GetHashCode | Returns the hash code for this instance. (Inherited from ValueType .) |
+|  | GetType | Gets the Type of the current instance. (Inherited from Object .) |
+|  | ToString | Returns the fully qualified type name of this instance. (Inherited from ValueType .) |
 
 
-| Name | Description |
-| --- | --- |
-| nativeVector_SocketLinks |
-| struct213_Colors |
-| struct214_Gems |
+|  | Name | Description |
+| --- | --- | --- |
+|  | nativeVector_SocketLinks |  |
+|  | struct213_Colors |  |
+|  | struct214_Gems |  |
+
+## Дочерние разделы
+- [**Struct212 Methods**](./Struct212 Methods/README.md)
+- [**Struct212 Fields**](./Struct212 Fields/README.md)

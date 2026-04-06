@@ -1,5 +1,6 @@
 # CornerCount Field
 
+**Вложено элементов:** 0  
 
 | BoundingBox CornerCount Field |
 | --- |

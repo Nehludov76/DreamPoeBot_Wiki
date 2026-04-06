@@ -1,5 +1,6 @@
 # IsAffinityActive Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo StashTabAffinities IsAffinityActive Method |
 | --- |

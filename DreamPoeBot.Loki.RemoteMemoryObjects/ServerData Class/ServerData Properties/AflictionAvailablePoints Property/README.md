@@ -1,5 +1,6 @@
 # AflictionAvailablePoints Property 
 
+**Вложено элементов:** 0  
 
 | ServerData AflictionAvailablePoints Property |
 | --- |

@@ -1,5 +1,6 @@
 # Plugins Property 
 
+**Вложено элементов:** 0  
 
 | PluginManager Plugins Property |
 | --- |

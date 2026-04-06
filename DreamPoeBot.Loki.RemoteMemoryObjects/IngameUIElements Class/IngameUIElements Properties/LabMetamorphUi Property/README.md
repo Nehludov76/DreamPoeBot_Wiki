@@ -1,5 +1,6 @@
 # LabMetamorphUi Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements LabMetamorphUi Property |
 | --- |

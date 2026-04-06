@@ -1,5 +1,6 @@
 # MapInvetoryElement Property 
 
+**Вложено элементов:** 0  
 
 | Inventory MapInvetoryElement Property |
 | --- |

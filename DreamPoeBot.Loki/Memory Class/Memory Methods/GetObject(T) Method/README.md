@@ -1,5 +1,6 @@
 # GetObject(T) Method 
 
+**Вложено элементов:** 0  
 
 | Memory GetObject T Method |
 | --- |

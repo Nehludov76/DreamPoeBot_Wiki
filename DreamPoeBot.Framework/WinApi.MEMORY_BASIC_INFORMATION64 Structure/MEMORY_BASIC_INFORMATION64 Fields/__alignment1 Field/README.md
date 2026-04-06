@@ -1,5 +1,6 @@
 # __alignment1 Field
 
+**Вложено элементов:** 0  
 
 | WinApi MEMORY_BASIC_INFORMATION64 __alignment1 Field |
 | --- |

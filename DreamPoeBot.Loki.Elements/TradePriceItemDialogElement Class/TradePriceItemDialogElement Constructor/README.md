@@ -1,5 +1,6 @@
 # TradePriceItemDialogElement Constructor 
 
+**Вложено элементов:** 0  
 
 | TradePriceItemDialogElement Constructor |
 | --- |

@@ -1,5 +1,6 @@
 # PosY Property 
 
+**Вложено элементов:** 0  
 
 | CurrencyStashTabLayouts CurrencyStashTabLayout PosY Property |
 | --- |

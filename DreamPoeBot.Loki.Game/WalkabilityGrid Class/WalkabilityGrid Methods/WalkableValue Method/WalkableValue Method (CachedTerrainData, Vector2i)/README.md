@@ -1,5 +1,6 @@
 # WalkableValue Method (CachedTerrainData, Vector2i)
 
+**Вложено элементов:** 0  
 
 | WalkabilityGrid WalkableValue Method (CachedTerrainData, Vector2i) |
 | --- |

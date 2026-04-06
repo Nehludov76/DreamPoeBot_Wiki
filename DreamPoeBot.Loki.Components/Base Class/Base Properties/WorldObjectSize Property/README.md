@@ -1,5 +1,6 @@
 # WorldObjectSize Property 
 
+**Вложено элементов:** 0  
 
 | Base WorldObjectSize Property |
 | --- |

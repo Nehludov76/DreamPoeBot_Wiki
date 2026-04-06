@@ -1,5 +1,6 @@
 # PerFrameLecker Fields
 
+**Вложено элементов:** 1  
 
 | PerFrameLecker Fields |
 | --- |
@@ -10,6 +11,9 @@
 The PerFrameLecker type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| PreviousFrameCount |
+|  | Name | Description |
+| --- | --- | --- |
+|  | PreviousFrameCount |  |
+
+## Дочерние разделы
+- [**PreviousFrameCount Field**](./PreviousFrameCount Field/README.md)

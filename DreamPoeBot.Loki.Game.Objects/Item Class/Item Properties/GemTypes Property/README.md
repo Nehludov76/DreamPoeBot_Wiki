@@ -1,5 +1,6 @@
 # GemTypes Property 
 
+**Вложено элементов:** 0  
 
 | Item GemTypes Property |
 | --- |

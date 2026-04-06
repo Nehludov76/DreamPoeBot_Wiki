@@ -1,5 +1,6 @@
 # DarknessResistanceModificator Property 
 
+**Вложено элементов:** 0  
 
 | SubterainChartElement DelveNode DarknessResistanceModificator Property |
 | --- |

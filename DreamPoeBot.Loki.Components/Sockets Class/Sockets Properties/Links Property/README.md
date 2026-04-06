@@ -1,5 +1,6 @@
 # Links Property 
 
+**Вложено элементов:** 0  
 
 | Sockets Links Property |
 | --- |

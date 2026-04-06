@@ -1,5 +1,6 @@
 # CurrencyComboBox Property 
 
+**Вложено элементов:** 0  
 
 | TradePriceItemDialogElement CurrencyComboBox Property |
 | --- |

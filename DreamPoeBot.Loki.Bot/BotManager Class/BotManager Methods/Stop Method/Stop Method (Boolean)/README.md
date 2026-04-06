@@ -1,5 +1,6 @@
 # Stop Method (Boolean)
 
+**Вложено элементов:** 0  
 
 | BotManager Stop Method (Boolean) |
 | --- |

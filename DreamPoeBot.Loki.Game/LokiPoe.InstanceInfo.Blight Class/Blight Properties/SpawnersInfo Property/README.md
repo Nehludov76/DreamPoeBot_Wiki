@@ -1,5 +1,6 @@
 # SpawnersInfo Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo Blight SpawnersInfo Property |
 | --- |

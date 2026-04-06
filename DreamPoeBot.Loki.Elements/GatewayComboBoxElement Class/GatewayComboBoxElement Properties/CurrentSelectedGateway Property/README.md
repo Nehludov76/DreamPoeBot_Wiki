@@ -1,5 +1,6 @@
 # CurrentSelectedGateway Property 
 
+**Вложено элементов:** 0  
 
 | GatewayComboBoxElement CurrentSelectedGateway Property |
 | --- |

@@ -1,5 +1,6 @@
 # ItemOld Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState CursorItemOverlay ItemOld Property |
 | --- |

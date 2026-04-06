@@ -1,5 +1,6 @@
 # PreviousPtr Field
 
+**Вложено элементов:** 0  
 
 | Memory ListDoublePointerIntNode PreviousPtr Field |
 | --- |

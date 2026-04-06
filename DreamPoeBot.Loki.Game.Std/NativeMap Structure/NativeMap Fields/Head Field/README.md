@@ -1,5 +1,6 @@
 # Head Field
 
+**Вложено элементов:** 0  
 
 | NativeMap Head Field |
 | --- |

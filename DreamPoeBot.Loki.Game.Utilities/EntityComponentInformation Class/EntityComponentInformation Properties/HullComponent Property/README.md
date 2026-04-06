@@ -1,5 +1,6 @@
 # HullComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation HullComponent Property |
 | --- |

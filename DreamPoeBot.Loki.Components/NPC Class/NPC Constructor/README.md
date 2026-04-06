@@ -1,5 +1,6 @@
 # NPC Constructor 
 
+**Вложено элементов:** 0  
 
 | NPC Constructor |
 | --- |

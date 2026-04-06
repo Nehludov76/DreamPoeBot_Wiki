@@ -1,5 +1,6 @@
 # highlight Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input Binding highlight Property |
 | --- |

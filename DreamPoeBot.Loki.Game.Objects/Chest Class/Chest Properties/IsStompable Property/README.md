@@ -1,5 +1,6 @@
 # IsStompable Property 
 
+**Вложено элементов:** 0  
 
 | Chest IsStompable Property |
 | --- |

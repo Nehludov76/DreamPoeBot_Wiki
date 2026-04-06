@@ -1,5 +1,6 @@
 # GetTabIndexByName Method 
 
+**Вложено элементов:** 0  
 
 | TabControlWrapper GetTabIndexByName Method |
 | --- |

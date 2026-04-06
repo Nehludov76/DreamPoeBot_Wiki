@@ -1,5 +1,6 @@
 # BaseMaxPhysicalDamage Property 
 
+**Вложено элементов:** 0  
 
 | Item BaseMaxPhysicalDamage Property |
 | --- |

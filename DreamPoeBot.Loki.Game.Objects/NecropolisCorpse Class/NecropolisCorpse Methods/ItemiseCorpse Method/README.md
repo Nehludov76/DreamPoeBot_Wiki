@@ -1,5 +1,6 @@
 # ItemiseCorpse Method 
 
+**Вложено элементов:** 0  
 
 | NecropolisCorpse ItemiseCorpse Method |
 | --- |

@@ -1,5 +1,6 @@
 # LogoutToCharacterSelection Method (Int32)
 
+**Вложено элементов:** 0  
 
 | LokiPoe EscapeState LogoutToCharacterSelection Method (Int32) |
 | --- |

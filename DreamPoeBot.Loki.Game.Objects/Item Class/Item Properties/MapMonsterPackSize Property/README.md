@@ -1,5 +1,6 @@
 # MapMonsterPackSize Property 
 
+**Вложено элементов:** 0  
 
 | Item MapMonsterPackSize Property |
 | --- |

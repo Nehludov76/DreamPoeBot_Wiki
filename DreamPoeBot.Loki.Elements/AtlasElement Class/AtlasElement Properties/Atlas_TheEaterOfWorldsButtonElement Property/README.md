@@ -1,5 +1,6 @@
 # Atlas_TheEaterOfWorldsButtonElement Property 
 
+**Вложено элементов:** 0  
 
 | AtlasElement Atlas_TheEaterOfWorldsButtonElement Property |
 | --- |

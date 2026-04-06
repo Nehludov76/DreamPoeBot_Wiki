@@ -1,5 +1,6 @@
 # IsUnveilButtonVisible Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState UnveilingUi IsUnveilButtonVisible Property |
 | --- |

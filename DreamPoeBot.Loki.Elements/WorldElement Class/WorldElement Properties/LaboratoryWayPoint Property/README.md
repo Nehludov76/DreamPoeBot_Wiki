@@ -1,5 +1,6 @@
 # LaboratoryWayPoint Property 
 
+**Вложено элементов:** 0  
 
 | WorldElement LaboratoryWayPoint Property |
 | --- |

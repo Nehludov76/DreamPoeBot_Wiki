@@ -1,5 +1,6 @@
 # IBase Interface
 
+**Вложено элементов:** 3  
 
 | IBase Interface |
 | --- |
@@ -32,7 +33,10 @@ public interface class IBase
 The IBase type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Deinitialize |
-| Initialize |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Deinitialize |  |
+|  | Initialize |  |
+
+## Дочерние разделы
+- [**IBase Methods**](./IBase Methods/README.md)

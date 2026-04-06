@@ -1,5 +1,6 @@
 # OffHand Property 
 
+**Вложено элементов:** 0  
 
 | MercenaryEncounterElement MercenaryInventoryElement OffHand Property |
 | --- |

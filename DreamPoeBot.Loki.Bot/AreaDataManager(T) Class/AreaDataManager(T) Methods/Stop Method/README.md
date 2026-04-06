@@ -1,5 +1,6 @@
 # Stop Method 
 
+**Вложено элементов:** 0  
 
 | AreaDataManager T Stop Method |
 | --- |

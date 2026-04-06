@@ -1,5 +1,6 @@
 # PassiveTreeElement.AscendencyUi Constructor 
 
+**Вложено элементов:** 0  
 
 | PassiveTreeElement AscendencyUi Constructor |
 | --- |

@@ -1,5 +1,6 @@
 # CurrentSouls Property 
 
+**Вложено элементов:** 0  
 
 | Skill CurrentSouls Property |
 | --- |

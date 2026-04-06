@@ -1,5 +1,6 @@
 # StopAndPrint Method 
 
+**Вложено элементов:** 0  
 
 | PerformanceTimer StopAndPrint Method |
 | --- |

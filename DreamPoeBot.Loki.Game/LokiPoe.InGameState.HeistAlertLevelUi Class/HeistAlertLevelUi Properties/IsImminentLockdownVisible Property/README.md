@@ -1,5 +1,6 @@
 # IsImminentLockdownVisible Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState HeistAlertLevelUi IsImminentLockdownVisible Property |
 | --- |

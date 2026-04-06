@@ -1,5 +1,6 @@
 # PathfindingComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation PathfindingComponent Property |
 | --- |

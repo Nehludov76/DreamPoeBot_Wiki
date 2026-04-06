@@ -1,5 +1,6 @@
 # StructRitualData Field
 
+**Вложено элементов:** 0  
 
 | ServerData StructRitualMain StructRitualData Field |
 | --- |

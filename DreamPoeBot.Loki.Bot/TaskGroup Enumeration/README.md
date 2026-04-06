@@ -1,5 +1,6 @@
 # TaskGroup Enumeration
 
+**Вложено элементов:** 0  
 
 | TaskGroup Enumeration |
 | --- |
@@ -30,8 +31,8 @@ public enum class TaskGroup
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| All | 0 |
-| Enabled | 1 |
-| Disabled | 2 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | All | 0 |  |
+|  | Enabled | 1 |  |
+|  | Disabled | 2 |  |

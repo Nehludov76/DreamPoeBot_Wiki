@@ -1,5 +1,6 @@
 # SetupTextBoxBinding Method 
 
+**Вложено элементов:** 0  
 
 | Wpf SetupTextBoxBinding Method |
 | --- |

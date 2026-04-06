@@ -1,5 +1,6 @@
 # GetData Property 
 
+**Вложено элементов:** 0  
 
 | IngameState GetData Property |
 | --- |

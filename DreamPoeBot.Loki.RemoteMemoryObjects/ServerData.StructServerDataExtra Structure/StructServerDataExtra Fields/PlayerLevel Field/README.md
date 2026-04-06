@@ -1,5 +1,6 @@
 # PlayerLevel Field
 
+**Вложено элементов:** 0  
 
 | ServerData StructServerDataExtra PlayerLevel Field |
 | --- |

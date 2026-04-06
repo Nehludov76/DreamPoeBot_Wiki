@@ -1,5 +1,6 @@
 # CurrVaalSouls Property 
 
+**Вложено элементов:** 0  
 
 | ActorVaalSkill CurrVaalSouls Property |
 | --- |

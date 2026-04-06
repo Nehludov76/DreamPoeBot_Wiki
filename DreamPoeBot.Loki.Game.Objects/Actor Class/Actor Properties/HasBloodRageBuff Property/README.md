@@ -1,5 +1,6 @@
 # HasBloodRageBuff Property 
 
+**Вложено элементов:** 0  
 
 | Actor HasBloodRageBuff Property |
 | --- |

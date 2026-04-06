@@ -1,5 +1,6 @@
 # HasBoneOffering Property 
 
+**Вложено элементов:** 0  
 
 | Actor HasBoneOffering Property |
 | --- |

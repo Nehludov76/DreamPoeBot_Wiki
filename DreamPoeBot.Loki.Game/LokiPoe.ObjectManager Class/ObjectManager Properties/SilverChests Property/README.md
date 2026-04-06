@@ -1,5 +1,6 @@
 # SilverChests Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe ObjectManager SilverChests Property |
 | --- |

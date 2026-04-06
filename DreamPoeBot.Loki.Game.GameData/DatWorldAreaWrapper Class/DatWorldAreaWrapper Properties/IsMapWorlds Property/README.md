@@ -1,5 +1,6 @@
 # IsMapWorlds Property 
 
+**Вложено элементов:** 0  
 
 | DatWorldAreaWrapper IsMapWorlds Property |
 | --- |

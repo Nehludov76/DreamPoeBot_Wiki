@@ -1,5 +1,6 @@
 # struct214_Gems Field
 
+**Вложено элементов:** 0  
 
 | Sockets Struct212 struct214_Gems Field |
 | --- |

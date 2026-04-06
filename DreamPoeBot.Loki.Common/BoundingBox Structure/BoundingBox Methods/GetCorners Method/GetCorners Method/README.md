@@ -1,5 +1,6 @@
 # GetCorners Method 
 
+**Вложено элементов:** 0  
 
 | BoundingBox GetCorners Method |
 | --- |

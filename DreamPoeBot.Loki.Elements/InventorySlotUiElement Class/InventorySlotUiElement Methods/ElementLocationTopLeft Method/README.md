@@ -1,5 +1,6 @@
 # ElementLocationTopLeft Method 
 
+**Вложено элементов:** 0  
 
 | InventorySlotUiElement ElementLocationTopLeft Method |
 | --- |

@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.PassiveAllocationActionError Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState PassiveAllocationActionError Enumeration |
 | --- |
@@ -30,12 +31,12 @@ public enum class PassiveAllocationActionError
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| ProcessHookManagerNotEnabled | 1 |
-| UiNotOpen | 2 |
-| NoOperation | 3 |
-| AllocatingPassives | 4 |
-| RefundingPassives | 5 |
-| NoRefundsToUse | 6 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | ProcessHookManagerNotEnabled | 1 |  |
+|  | UiNotOpen | 2 |  |
+|  | NoOperation | 3 |  |
+|  | AllocatingPassives | 4 |  |
+|  | RefundingPassives | 5 |  |
+|  | NoRefundsToUse | 6 |  |

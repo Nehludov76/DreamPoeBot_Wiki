@@ -1,5 +1,6 @@
 # WriteFloat Method 
 
+**Вложено элементов:** 0  
 
 | Memory WriteFloat Method |
 | --- |

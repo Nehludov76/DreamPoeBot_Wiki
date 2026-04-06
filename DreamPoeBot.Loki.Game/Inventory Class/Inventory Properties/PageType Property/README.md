@@ -1,5 +1,6 @@
 # PageType Property 
 
+**Вложено элементов:** 0  
 
 | Inventory PageType Property |
 | --- |

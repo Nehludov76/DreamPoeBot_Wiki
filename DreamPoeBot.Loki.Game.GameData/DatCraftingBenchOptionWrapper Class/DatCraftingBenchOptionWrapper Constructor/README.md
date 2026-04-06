@@ -1,5 +1,6 @@
 # DatCraftingBenchOptionWrapper Constructor 
 
+**Вложено элементов:** 0  
 
 | DatCraftingBenchOptionWrapper Constructor |
 | --- |

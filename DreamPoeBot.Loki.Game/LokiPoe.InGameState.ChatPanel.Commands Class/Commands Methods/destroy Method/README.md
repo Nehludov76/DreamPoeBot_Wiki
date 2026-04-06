@@ -1,5 +1,6 @@
 # destroy Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ChatPanel Commands destroy Method |
 | --- |

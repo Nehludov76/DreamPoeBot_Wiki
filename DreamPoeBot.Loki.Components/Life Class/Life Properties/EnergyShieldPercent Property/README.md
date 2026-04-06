@@ -1,5 +1,6 @@
 # EnergyShieldPercent Property 
 
+**Вложено элементов:** 0  
 
 | Life EnergyShieldPercent Property |
 | --- |

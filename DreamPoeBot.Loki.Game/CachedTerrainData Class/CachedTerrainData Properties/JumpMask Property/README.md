@@ -1,5 +1,6 @@
 # JumpMask Property 
 
+**Вложено элементов:** 0  
 
 | CachedTerrainData JumpMask Property |
 | --- |

@@ -1,5 +1,6 @@
 # byte_pat Field
 
+**Вложено элементов:** 0  
 
 | ServerData StructNewServerData byte_pat Field |
 | --- |

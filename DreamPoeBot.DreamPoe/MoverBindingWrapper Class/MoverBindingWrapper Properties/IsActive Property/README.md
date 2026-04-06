@@ -1,5 +1,6 @@
 # IsActive Property 
 
+**Вложено элементов:** 0  
 
 | MoverBindingWrapper IsActive Property |
 | --- |

@@ -1,5 +1,6 @@
 # Mode Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState CursorItemOverlay Mode Property |
 | --- |

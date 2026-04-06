@@ -1,5 +1,6 @@
 # CanBeCrafted Property 
 
+**Вложено элементов:** 0  
 
 | CraftingBenchElement Recipe CanBeCrafted Property |
 | --- |

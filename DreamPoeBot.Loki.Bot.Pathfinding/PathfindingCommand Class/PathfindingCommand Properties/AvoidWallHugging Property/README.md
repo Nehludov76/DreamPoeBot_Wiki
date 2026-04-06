@@ -1,5 +1,6 @@
 # AvoidWallHugging Property 
 
+**Вложено элементов:** 0  
 
 | PathfindingCommand AvoidWallHugging Property |
 | --- |

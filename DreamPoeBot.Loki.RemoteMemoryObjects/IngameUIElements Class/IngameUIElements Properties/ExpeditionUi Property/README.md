@@ -1,5 +1,6 @@
 # ExpeditionUi Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements ExpeditionUi Property |
 | --- |

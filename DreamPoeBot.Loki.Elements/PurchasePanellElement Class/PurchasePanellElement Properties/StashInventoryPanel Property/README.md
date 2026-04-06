@@ -1,5 +1,6 @@
 # StashInventoryPanel Property 
 
+**Вложено элементов:** 0  
 
 | PurchasePanellElement StashInventoryPanel Property |
 | --- |

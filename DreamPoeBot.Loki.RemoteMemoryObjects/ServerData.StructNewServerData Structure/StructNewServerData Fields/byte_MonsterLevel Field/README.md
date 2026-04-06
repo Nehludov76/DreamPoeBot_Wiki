@@ -1,5 +1,6 @@
 # byte_MonsterLevel Field
 
+**Вложено элементов:** 0  
 
 | ServerData StructNewServerData byte_MonsterLevel Field |
 | --- |

@@ -1,5 +1,6 @@
 # Slot5Inventory Property 
 
+**Вложено элементов:** 0  
 
 | MasterDeviceElement Slot5Inventory Property |
 | --- |

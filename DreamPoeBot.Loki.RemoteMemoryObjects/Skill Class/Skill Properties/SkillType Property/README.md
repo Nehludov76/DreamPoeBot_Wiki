@@ -1,5 +1,6 @@
 # SkillType Property 
 
+**Вложено элементов:** 0  
 
 | Skill SkillType Property |
 | --- |

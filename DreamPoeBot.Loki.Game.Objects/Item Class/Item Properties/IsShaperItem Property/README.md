@@ -1,5 +1,6 @@
 # IsShaperItem Property 
 
+**Вложено элементов:** 0  
 
 | Item IsShaperItem Property |
 | --- |

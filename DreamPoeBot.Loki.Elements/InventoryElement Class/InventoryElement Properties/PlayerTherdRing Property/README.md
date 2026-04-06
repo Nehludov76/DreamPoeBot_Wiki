@@ -1,5 +1,6 @@
 # PlayerTherdRing Property 
 
+**Вложено элементов:** 0  
 
 | InventoryElement PlayerTherdRing Property |
 | --- |

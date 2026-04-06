@@ -1,5 +1,6 @@
 # IsSelectCharacterStateActive Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe StateManager IsSelectCharacterStateActive Property |
 | --- |

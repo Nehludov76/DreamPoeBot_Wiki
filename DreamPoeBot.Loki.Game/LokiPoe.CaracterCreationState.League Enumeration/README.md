@@ -1,5 +1,6 @@
 # LokiPoe.CaracterCreationState.League Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe CaracterCreationState League Enumeration |
 | --- |
@@ -28,8 +29,8 @@ public enum class League
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| Standard | 0 |
-| League | 1 |
-| HardcoreLeague | 2 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | Standard | 0 |  |
+|  | League | 1 |  |
+|  | HardcoreLeague | 2 |  |

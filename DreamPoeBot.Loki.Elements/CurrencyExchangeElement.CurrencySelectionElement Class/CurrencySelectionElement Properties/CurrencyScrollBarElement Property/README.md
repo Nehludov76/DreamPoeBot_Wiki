@@ -1,5 +1,6 @@
 # CurrencyScrollBarElement Property 
 
+**Вложено элементов:** 0  
 
 | CurrencyExchangeElement CurrencySelectionElement CurrencyScrollBarElement Property |
 | --- |

@@ -1,5 +1,6 @@
 # BuildComponentIndices Property 
 
+**Вложено элементов:** 0  
 
 | Entity BuildComponentIndices Property |
 | --- |

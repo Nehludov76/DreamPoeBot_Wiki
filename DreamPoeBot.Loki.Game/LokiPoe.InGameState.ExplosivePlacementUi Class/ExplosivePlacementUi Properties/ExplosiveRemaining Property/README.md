@@ -1,5 +1,6 @@
 # ExplosiveRemaining Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ExplosivePlacementUi ExplosiveRemaining Property |
 | --- |

@@ -1,5 +1,6 @@
 # RitualFavorUi Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements RitualFavorUi Property |
 | --- |

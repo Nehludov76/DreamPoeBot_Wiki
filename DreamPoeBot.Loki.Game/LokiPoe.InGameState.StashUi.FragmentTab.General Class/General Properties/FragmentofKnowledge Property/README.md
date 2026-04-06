@@ -1,5 +1,6 @@
 # FragmentofKnowledge Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState StashUi FragmentTab General FragmentofKnowledge Property |
 | --- |

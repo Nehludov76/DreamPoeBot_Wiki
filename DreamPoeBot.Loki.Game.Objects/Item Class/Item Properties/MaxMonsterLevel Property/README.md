@@ -1,5 +1,6 @@
 # MaxMonsterLevel Property 
 
+**Вложено элементов:** 0  
 
 | Item MaxMonsterLevel Property |
 | --- |

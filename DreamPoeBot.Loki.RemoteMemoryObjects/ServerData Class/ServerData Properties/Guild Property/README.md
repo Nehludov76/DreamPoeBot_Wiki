@@ -1,5 +1,6 @@
 # Guild Property 
 
+**Вложено элементов:** 0  
 
 | ServerData Guild Property |
 | --- |

@@ -1,5 +1,6 @@
 # MinMonsterLevel Property 
 
+**Вложено элементов:** 0  
 
 | Item MinMonsterLevel Property |
 | --- |

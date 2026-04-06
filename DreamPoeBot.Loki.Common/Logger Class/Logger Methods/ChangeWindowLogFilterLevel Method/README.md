@@ -1,5 +1,6 @@
 # ChangeWindowLogFilterLevel Method 
 
+**Вложено элементов:** 0  
 
 | Logger ChangeWindowLogFilterLevel Method |
 | --- |

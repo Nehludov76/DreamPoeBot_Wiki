@@ -1,5 +1,6 @@
 # RevealedWings Property 
 
+**Вложено элементов:** 0  
 
 | HeistBlueprint RevealedWings Property |
 | --- |

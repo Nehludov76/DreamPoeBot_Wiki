@@ -1,5 +1,6 @@
 # IsAbyssCrackSpawner Property 
 
+**Вложено элементов:** 0  
 
 | NetworkObject IsAbyssCrackSpawner Property |
 | --- |

@@ -1,5 +1,6 @@
 # ExpeditionAreaDatFile Field
 
+**Вложено элементов:** 0  
 
 | ExpeditionSaga ExpeditionDataStructure ExpeditionAreaDatFile Field |
 | --- |

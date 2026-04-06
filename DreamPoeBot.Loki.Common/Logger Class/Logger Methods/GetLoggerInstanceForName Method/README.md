@@ -1,5 +1,6 @@
 # GetLoggerInstanceForName Method 
 
+**Вложено элементов:** 0  
 
 | Logger GetLoggerInstanceForName Method |
 | --- |

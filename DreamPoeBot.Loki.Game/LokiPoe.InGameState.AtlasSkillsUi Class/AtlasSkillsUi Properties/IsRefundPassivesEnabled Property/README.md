@@ -1,5 +1,6 @@
 # IsRefundPassivesEnabled Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState AtlasSkillsUi IsRefundPassivesEnabled Property |
 | --- |

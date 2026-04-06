@@ -1,5 +1,6 @@
 # BPR Property 
 
+**Вложено элементов:** 0  
 
 | CachedTerrainData BPR Property |
 | --- |

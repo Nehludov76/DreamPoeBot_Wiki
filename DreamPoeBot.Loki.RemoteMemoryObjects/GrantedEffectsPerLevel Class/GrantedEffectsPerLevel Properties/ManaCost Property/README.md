@@ -1,5 +1,6 @@
 # ManaCost Property 
 
+**Вложено элементов:** 0  
 
 | GrantedEffectsPerLevel ManaCost Property |
 | --- |

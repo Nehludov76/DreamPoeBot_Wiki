@@ -1,5 +1,6 @@
 # WaitTime Property 
 
+**Вложено элементов:** 0  
 
 | WaitTimer WaitTime Property |
 | --- |

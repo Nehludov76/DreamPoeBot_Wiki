@@ -1,5 +1,6 @@
 # GetSocketIndexForSkilGem Method 
 
+**Вложено элементов:** 0  
 
 | Item GetSocketIndexForSkilGem Method |
 | --- |

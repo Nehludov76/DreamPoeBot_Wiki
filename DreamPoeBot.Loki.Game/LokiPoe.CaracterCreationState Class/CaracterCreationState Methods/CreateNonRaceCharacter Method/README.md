@@ -1,5 +1,6 @@
 # CreateNonRaceCharacter Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe CaracterCreationState CreateNonRaceCharacter Method |
 | --- |

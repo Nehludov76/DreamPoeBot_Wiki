@@ -1,5 +1,6 @@
 # SkillGemWrapper Property 
 
+**Вложено элементов:** 0  
 
 | GrantedEffectsPerLevel SkillGemWrapper Property |
 | --- |

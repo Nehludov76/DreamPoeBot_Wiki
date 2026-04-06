@@ -1,5 +1,6 @@
 # UnlockedRecipes Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo Bestiary UnlockedRecipes Property |
 | --- |

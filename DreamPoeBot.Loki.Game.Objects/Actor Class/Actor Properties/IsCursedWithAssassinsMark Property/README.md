@@ -1,5 +1,6 @@
 # IsCursedWithAssassinsMark Property 
 
+**Вложено элементов:** 0  
 
 | Actor IsCursedWithAssassinsMark Property |
 | --- |

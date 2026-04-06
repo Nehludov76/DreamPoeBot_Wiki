@@ -1,5 +1,6 @@
 # OnObstacleUpdate Event
 
+**Вложено элементов:** 0  
 
 | ExilePather OnObstacleUpdate Event |
 | --- |

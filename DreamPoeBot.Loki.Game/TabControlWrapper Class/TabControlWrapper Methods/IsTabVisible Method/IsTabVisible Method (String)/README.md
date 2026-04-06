@@ -1,5 +1,6 @@
 # IsTabVisible Method (String)
 
+**Вложено элементов:** 0  
 
 | TabControlWrapper IsTabVisible Method (String) |
 | --- |

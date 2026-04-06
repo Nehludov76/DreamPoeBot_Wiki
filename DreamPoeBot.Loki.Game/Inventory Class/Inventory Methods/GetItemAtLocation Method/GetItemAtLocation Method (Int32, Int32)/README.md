@@ -1,5 +1,6 @@
 # GetItemAtLocation Method (Int32, Int32)
 
+**Вложено элементов:** 0  
 
 | Inventory GetItemAtLocation Method (Int32, Int32) |
 | --- |

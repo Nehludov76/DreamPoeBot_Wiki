@@ -1,5 +1,6 @@
 # ReadStructsArray(T) Method 
 
+**Вложено элементов:** 0  
 
 | Memory ReadStructsArray T Method |
 | --- |

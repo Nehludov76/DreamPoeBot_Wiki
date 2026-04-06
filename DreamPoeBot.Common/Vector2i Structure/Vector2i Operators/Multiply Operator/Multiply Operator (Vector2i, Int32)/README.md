@@ -1,5 +1,6 @@
 # Multiply Operator (Vector2i, Int32)
 
+**Вложено элементов:** 0  
 
 | Vector2i Multiply Operator (Vector2i, Int32) |
 | --- |

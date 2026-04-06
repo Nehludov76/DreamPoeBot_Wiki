@@ -1,5 +1,6 @@
 # CapturedBeastElement Property 
 
+**Вложено элементов:** 0  
 
 | BestiaryUiElement CapturedBeastElement Property |
 | --- |

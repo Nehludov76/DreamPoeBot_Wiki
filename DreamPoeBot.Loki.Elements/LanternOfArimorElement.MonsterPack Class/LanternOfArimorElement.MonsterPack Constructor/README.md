@@ -1,5 +1,6 @@
 # LanternOfArimorElement.MonsterPack Constructor 
 
+**Вложено элементов:** 0  
 
 | LanternOfArimorElement MonsterPack Constructor |
 | --- |

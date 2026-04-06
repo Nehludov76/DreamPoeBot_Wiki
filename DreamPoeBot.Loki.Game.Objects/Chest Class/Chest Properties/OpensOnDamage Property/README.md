@@ -1,5 +1,6 @@
 # OpensOnDamage Property 
 
+**Вложено элементов:** 0  
 
 | Chest OpensOnDamage Property |
 | --- |

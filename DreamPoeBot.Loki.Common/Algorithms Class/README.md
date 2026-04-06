@@ -1,5 +1,6 @@
 # Algorithms Class
 
+**Вложено элементов:** 0  
 
 | Algorithms Class |
 | --- |

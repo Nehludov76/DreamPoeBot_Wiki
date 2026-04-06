@@ -1,5 +1,6 @@
 # InGame Property 
 
+**Вложено элементов:** 0  
 
 | IngameState InGame Property |
 | --- |

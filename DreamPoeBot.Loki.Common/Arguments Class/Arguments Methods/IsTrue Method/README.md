@@ -1,5 +1,6 @@
 # IsTrue Method 
 
+**Вложено элементов:** 0  
 
 | Arguments IsTrue Method |
 | --- |

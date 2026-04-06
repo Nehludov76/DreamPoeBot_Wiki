@@ -1,5 +1,6 @@
 # VisibleStashInventory Property 
 
+**Вложено элементов:** 0  
 
 | ExpeditionDealerElement VisibleStashInventory Property |
 | --- |

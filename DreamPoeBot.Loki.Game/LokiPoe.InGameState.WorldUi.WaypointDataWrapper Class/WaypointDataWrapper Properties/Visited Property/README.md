@@ -1,5 +1,6 @@
 # Visited Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState WorldUi WaypointDataWrapper Visited Property |
 | --- |

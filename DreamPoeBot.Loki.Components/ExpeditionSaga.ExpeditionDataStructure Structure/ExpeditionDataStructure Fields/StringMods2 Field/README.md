@@ -1,5 +1,6 @@
 # StringMods2 Field
 
+**Вложено элементов:** 0  
 
 | ExpeditionSaga ExpeditionDataStructure StringMods2 Field |
 | --- |

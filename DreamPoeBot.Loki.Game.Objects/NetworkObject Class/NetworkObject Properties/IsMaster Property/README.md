@@ -1,5 +1,6 @@
 # IsMaster Property 
 
+**Вложено элементов:** 0  
 
 | NetworkObject IsMaster Property |
 | --- |

@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.GuildStashUi.CurrencyTab.CurrencyCategory Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState GuildStashUi CurrencyTab CurrencyCategory Enumeration |
 | --- |
@@ -30,8 +31,8 @@ public enum class CurrencyCategory
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| General | 0 |
-| Influence | 1 |
-| Unknown | 2 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | General | 0 |  |
+|  | Influence | 1 |  |
+|  | Unknown | 2 |  |

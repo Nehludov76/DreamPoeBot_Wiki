@@ -1,5 +1,6 @@
 # SetSearchFilterText Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState HorticraftingBenchPannelUi SetSearchFilterText Method |
 | --- |

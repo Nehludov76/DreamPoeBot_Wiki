@@ -1,5 +1,6 @@
 # StageStates Property 
 
+**Вложено элементов:** 0  
 
 | StateMachine StageStates Property |
 | --- |

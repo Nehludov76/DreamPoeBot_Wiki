@@ -1,5 +1,6 @@
 # ElevatedSextant Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState StashUi CurrencyTab ElevatedSextant Property |
 | --- |

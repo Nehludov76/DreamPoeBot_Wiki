@@ -1,5 +1,6 @@
 # WorldArea1 Property 
 
+**Вложено элементов:** 0  
 
 | HideoutWrapper WorldArea1 Property |
 | --- |

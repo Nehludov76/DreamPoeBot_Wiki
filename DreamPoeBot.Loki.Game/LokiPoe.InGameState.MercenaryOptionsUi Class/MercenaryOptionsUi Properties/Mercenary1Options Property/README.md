@@ -1,5 +1,6 @@
 # Mercenary1Options Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState MercenaryOptionsUi Mercenary1Options Property |
 | --- |

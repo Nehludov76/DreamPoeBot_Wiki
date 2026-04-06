@@ -1,5 +1,6 @@
 # CastingSpell Property 
 
+**Вложено элементов:** 0  
 
 | Skill CastingSpell Property |
 | --- |

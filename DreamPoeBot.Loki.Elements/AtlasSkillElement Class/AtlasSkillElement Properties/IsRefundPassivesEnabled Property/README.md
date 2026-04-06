@@ -1,5 +1,6 @@
 # IsRefundPassivesEnabled Property 
 
+**Вложено элементов:** 0  
 
 | AtlasSkillElement IsRefundPassivesEnabled Property |
 | --- |

@@ -1,5 +1,6 @@
 # Subtab Property 
 
+**Вложено элементов:** 0  
 
 | FragmentStashTabLayouts FragmentStashTabLayoutJson Subtab Property |
 | --- |

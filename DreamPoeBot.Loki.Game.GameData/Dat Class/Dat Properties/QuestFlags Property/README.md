@@ -1,5 +1,6 @@
 # QuestFlags Property 
 
+**Вложено элементов:** 0  
 
 | Dat QuestFlags Property |
 | --- |

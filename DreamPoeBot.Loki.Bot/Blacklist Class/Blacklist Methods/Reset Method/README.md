@@ -1,5 +1,6 @@
 # Reset Method 
 
+**Вложено элементов:** 0  
 
 | Blacklist Reset Method |
 | --- |

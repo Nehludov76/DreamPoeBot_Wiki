@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.HideoutEditorUi.ImportLayoutError Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState HideoutEditorUi ImportLayoutError Enumeration |
 | --- |
@@ -30,7 +31,7 @@ public enum class ImportLayoutError
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| UiNotOpen | 1 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | UiNotOpen | 1 |  |

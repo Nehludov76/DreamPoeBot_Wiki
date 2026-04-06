@@ -1,5 +1,6 @@
 # RealmRestartingMessage Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe PreGameState RealmRestartingMessage Property |
 | --- |

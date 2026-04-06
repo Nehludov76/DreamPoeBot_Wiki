@@ -1,5 +1,6 @@
 # ProphecyUiElement Fields
 
+**Вложено элементов:** 0  
 
 | ProphecyUiElement Fields |
 | --- |
@@ -10,6 +11,6 @@
 The ProphecyUiElement type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| NeedUpdate | (Inherited from RemoteMemoryObject .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | NeedUpdate | (Inherited from RemoteMemoryObject .) |

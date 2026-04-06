@@ -1,5 +1,6 @@
 # BetrayClickPosition Property 
 
+**Вложено элементов:** 0  
 
 | BetryalElement BetrayClickPosition Property |
 | --- |

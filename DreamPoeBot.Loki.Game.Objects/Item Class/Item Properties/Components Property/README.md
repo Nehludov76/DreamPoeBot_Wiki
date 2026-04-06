@@ -1,5 +1,6 @@
 # Components Property 
 
+**Вложено элементов:** 0  
 
 | Item Components Property |
 | --- |

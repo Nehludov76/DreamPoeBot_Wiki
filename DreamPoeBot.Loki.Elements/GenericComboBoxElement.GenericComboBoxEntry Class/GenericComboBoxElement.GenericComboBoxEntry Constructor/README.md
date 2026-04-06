@@ -1,5 +1,6 @@
 # GenericComboBoxElement.GenericComboBoxEntry Constructor 
 
+**Вложено элементов:** 0  
 
 | GenericComboBoxElement GenericComboBoxEntry Constructor |
 | --- |

@@ -1,5 +1,6 @@
 # EthernalElement Property 
 
+**Вложено элементов:** 0  
 
 | LabyrinthUiElement EthernalElement Property |
 | --- |

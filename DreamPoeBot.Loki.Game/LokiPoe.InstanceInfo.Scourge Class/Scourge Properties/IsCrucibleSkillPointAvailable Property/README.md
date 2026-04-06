@@ -1,5 +1,6 @@
 # IsCrucibleSkillPointAvailable Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo Scourge IsCrucibleSkillPointAvailable Property |
 | --- |

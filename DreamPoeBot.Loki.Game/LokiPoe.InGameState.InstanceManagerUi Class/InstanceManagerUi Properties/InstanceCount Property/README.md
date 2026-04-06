@@ -1,5 +1,6 @@
 # InstanceCount Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState InstanceManagerUi InstanceCount Property |
 | --- |

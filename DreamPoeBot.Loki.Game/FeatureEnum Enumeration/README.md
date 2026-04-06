@@ -1,5 +1,6 @@
 # FeatureEnum Enumeration
 
+**Вложено элементов:** 0  
 
 | FeatureEnum Enumeration |
 | --- |
@@ -30,8 +31,8 @@ public enum class FeatureEnum
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| Unset | 0 |
-| Enabled | 1 |
-| Disabled | 2 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | Unset | 0 |  |
+|  | Enabled | 1 |  |
+|  | Disabled | 2 |  |

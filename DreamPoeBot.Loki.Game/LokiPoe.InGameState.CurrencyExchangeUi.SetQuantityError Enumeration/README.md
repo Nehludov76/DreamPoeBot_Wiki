@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.CurrencyExchangeUi.SetQuantityError Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState CurrencyExchangeUi SetQuantityError Enumeration |
 | --- |
@@ -30,8 +31,8 @@ public enum class SetQuantityError
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| CurrencySelectionPannelIsOpen | 1 |
-| UiNotOpen | 2 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | CurrencySelectionPannelIsOpen | 1 |  |
+|  | UiNotOpen | 2 |  |

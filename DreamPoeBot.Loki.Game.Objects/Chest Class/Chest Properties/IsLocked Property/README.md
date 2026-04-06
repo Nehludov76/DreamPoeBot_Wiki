@@ -1,5 +1,6 @@
 # IsLocked Property 
 
+**Вложено элементов:** 0  
 
 | Chest IsLocked Property |
 | --- |

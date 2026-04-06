@@ -1,5 +1,6 @@
 # TributeRemainingElement Property 
 
+**Вложено элементов:** 0  
 
 | RitualFavorElement TributeRemainingElement Property |
 | --- |

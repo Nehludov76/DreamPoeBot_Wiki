@@ -1,5 +1,6 @@
 # JunMissionElement Property 
 
+**Вложено элементов:** 0  
 
 | MasterDeviceElement JunMissionElement Property |
 | --- |

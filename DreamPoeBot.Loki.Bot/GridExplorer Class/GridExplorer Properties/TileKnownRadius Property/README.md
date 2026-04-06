@@ -1,5 +1,6 @@
 # TileKnownRadius Property 
 
+**Вложено элементов:** 0  
 
 | GridExplorer TileKnownRadius Property |
 | --- |

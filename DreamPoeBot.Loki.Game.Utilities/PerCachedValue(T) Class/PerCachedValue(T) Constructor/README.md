@@ -1,5 +1,6 @@
 # PerCachedValue(T) Constructor 
 
+**Вложено элементов:** 0  
 
 | PerCachedValue T Constructor |
 | --- |

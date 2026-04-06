@@ -1,5 +1,6 @@
 # Cancel Property 
 
+**Вложено элементов:** 0  
 
 | LeagueSelectionElement Cancel Property |
 | --- |

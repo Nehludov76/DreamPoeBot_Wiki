@@ -1,5 +1,6 @@
 # _0B Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState WorldUi WaypointDataWrapper _0B Property |
 | --- |

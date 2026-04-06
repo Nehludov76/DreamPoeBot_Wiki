@@ -1,5 +1,6 @@
 # BottomRowDefinitionHeight Property 
 
+**Вложено элементов:** 0  
 
 | GuiSettings BottomRowDefinitionHeight Property |
 | --- |

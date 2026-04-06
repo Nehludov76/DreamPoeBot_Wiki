@@ -1,5 +1,6 @@
 # AtlasClickPos Property 
 
+**Вложено элементов:** 0  
 
 | MapDeviceElement AtlasClickPos Property |
 | --- |

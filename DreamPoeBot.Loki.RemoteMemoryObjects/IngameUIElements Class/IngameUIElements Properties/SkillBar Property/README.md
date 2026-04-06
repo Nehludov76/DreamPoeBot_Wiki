@@ -1,5 +1,6 @@
 # SkillBar Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements SkillBar Property |
 | --- |

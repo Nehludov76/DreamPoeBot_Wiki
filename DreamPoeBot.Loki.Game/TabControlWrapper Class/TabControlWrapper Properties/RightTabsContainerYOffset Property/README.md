@@ -1,5 +1,6 @@
 # RightTabsContainerYOffset Property 
 
+**Вложено элементов:** 0  
 
 | TabControlWrapper RightTabsContainerYOffset Property |
 | --- |

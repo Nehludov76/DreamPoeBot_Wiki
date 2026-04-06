@@ -1,5 +1,6 @@
 # DelveLightComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation DelveLightComponent Property |
 | --- |

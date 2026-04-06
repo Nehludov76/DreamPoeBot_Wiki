@@ -1,5 +1,6 @@
 # Flags Field
 
+**Вложено элементов:** 0  
 
 | ChooseColor Flags Field |
 | --- |

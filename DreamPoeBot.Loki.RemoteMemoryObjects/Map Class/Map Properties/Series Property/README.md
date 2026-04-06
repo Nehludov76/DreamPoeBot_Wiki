@@ -1,5 +1,6 @@
 # Series Property 
 
+**Вложено элементов:** 0  
 
 | Map Series Property |
 | --- |

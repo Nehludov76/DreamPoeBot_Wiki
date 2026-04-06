@@ -1,5 +1,6 @@
 # ManaReserved Property 
 
+**Вложено элементов:** 0  
 
 | Life ManaReserved Property |
 | --- |

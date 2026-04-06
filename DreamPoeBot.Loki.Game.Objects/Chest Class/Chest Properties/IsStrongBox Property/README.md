@@ -1,5 +1,6 @@
 # IsStrongBox Property 
 
+**Вложено элементов:** 0  
 
 | Chest IsStrongBox Property |
 | --- |

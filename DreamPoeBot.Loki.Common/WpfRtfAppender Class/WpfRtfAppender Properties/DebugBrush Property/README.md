@@ -1,5 +1,6 @@
 # DebugBrush Property 
 
+**Вложено элементов:** 0  
 
 | WpfRtfAppender DebugBrush Property |
 | --- |

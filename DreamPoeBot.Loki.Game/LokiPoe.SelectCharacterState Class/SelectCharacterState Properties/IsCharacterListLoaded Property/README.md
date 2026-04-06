@@ -1,5 +1,6 @@
 # IsCharacterListLoaded Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe SelectCharacterState IsCharacterListLoaded Property |
 | --- |

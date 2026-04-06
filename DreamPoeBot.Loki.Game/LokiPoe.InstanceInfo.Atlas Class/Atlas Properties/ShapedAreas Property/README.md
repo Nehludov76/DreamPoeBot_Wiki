@@ -1,5 +1,6 @@
 # ShapedAreas Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo Atlas ShapedAreas Property |
 | --- |

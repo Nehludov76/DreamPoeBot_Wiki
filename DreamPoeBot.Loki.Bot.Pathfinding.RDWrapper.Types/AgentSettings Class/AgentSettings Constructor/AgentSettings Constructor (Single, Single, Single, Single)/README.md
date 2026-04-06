@@ -1,5 +1,6 @@
 # AgentSettings Constructor (Single, Single, Single, Single)
 
+**Вложено элементов:** 0  
 
 | AgentSettings Constructor (Single, Single, Single, Single) |
 | --- |

@@ -1,5 +1,6 @@
 # IsConsideredAura Property 
 
+**Вложено элементов:** 0  
 
 | Skill IsConsideredAura Property |
 | --- |

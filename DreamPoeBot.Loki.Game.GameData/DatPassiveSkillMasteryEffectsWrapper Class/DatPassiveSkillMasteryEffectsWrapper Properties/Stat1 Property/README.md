@@ -1,5 +1,6 @@
 # Stat1 Property 
 
+**Вложено элементов:** 0  
 
 | DatPassiveSkillMasteryEffectsWrapper Stat1 Property |
 | --- |

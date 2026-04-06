@@ -1,5 +1,6 @@
 # FastGoToZone Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState PartyHud FastGoToZone Method |
 | --- |

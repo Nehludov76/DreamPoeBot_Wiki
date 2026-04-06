@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.DockedWindowControlWrapper Constructor (Int64)
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState DockedWindowControlWrapper Constructor (Int64) |
 | --- |

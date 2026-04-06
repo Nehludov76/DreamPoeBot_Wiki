@@ -1,5 +1,6 @@
 # PassiveSkillIds Property 
 
+**Вложено элементов:** 0  
 
 | ServerData PassiveSkillIds Property |
 | --- |

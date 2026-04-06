@@ -1,5 +1,6 @@
 # HasGluttonyOfElementsBuff Property 
 
+**Вложено элементов:** 0  
 
 | Actor HasGluttonyOfElementsBuff Property |
 | --- |

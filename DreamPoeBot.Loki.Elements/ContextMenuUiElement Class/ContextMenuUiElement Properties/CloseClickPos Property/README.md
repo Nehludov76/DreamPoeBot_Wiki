@@ -1,5 +1,6 @@
 # CloseClickPos Property 
 
+**Вложено элементов:** 0  
 
 | ContextMenuUiElement CloseClickPos Property |
 | --- |

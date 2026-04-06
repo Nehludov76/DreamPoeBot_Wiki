@@ -1,5 +1,6 @@
 # IsCursedWithNewPunishment Property 
 
+**Вложено элементов:** 0  
 
 | Actor IsCursedWithNewPunishment Property |
 | --- |

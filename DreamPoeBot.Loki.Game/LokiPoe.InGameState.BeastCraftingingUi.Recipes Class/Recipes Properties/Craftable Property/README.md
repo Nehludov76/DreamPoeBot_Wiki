@@ -1,5 +1,6 @@
 # Craftable Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState BeastCraftingingUi Recipes Craftable Property |
 | --- |

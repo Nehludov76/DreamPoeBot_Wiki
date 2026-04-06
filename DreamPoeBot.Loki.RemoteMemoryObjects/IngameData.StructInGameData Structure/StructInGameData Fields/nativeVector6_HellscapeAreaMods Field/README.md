@@ -1,5 +1,6 @@
 # nativeVector6_HellscapeAreaMods Field
 
+**Вложено элементов:** 0  
 
 | IngameData StructInGameData nativeVector6_HellscapeAreaMods Field |
 | --- |

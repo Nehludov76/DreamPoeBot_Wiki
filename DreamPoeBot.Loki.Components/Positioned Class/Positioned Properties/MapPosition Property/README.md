@@ -1,5 +1,6 @@
 # MapPosition Property 
 
+**Вложено элементов:** 0  
 
 | Positioned MapPosition Property |
 | --- |

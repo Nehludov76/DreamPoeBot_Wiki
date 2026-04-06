@@ -1,5 +1,6 @@
 # Scale Field
 
+**Вложено элементов:** 0  
 
 | Element StructElement Scale Field |
 | --- |

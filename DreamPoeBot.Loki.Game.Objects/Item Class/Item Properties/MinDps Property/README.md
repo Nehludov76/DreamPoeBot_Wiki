@@ -1,5 +1,6 @@
 # MinDps Property 
 
+**Вложено элементов:** 0  
 
 | Item MinDps Property |
 | --- |

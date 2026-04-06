@@ -1,5 +1,6 @@
 # IsPlagueActive Property 
 
+**Вложено элементов:** 0  
 
 | Aura IsPlagueActive Property |
 | --- |

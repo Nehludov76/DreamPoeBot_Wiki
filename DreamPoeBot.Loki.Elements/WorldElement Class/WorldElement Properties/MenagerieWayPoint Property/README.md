@@ -1,5 +1,6 @@
 # MenagerieWayPoint Property 
 
+**Вложено элементов:** 0  
 
 | WorldElement MenagerieWayPoint Property |
 | --- |

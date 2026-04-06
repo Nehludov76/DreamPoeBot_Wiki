@@ -1,5 +1,6 @@
 # Gauge Property 
 
+**Вложено элементов:** 0  
 
 | BloodCrucibleElement CrucibleItemSlotElement Gauge Property |
 | --- |

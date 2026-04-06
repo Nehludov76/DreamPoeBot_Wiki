@@ -1,5 +1,6 @@
 # SelectCategory Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState HeistLockerUi SelectCategory Method |
 | --- |

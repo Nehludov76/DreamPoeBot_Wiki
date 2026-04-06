@@ -1,5 +1,6 @@
 # IsOpened Property 
 
+**Вложено элементов:** 0  
 
 | SoclialPannelElement IsOpened Property |
 | --- |

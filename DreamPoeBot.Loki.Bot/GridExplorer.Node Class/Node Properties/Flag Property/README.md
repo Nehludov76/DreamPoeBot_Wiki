@@ -1,5 +1,6 @@
 # Flag Property 
 
+**Вложено элементов:** 0  
 
 | GridExplorer Node Flag Property |
 | --- |

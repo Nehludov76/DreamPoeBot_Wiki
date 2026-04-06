@@ -1,5 +1,6 @@
 # ModifierKeys Enumeration
 
+**Вложено элементов:** 0  
 
 | ModifierKeys Enumeration |
 | --- |
@@ -30,10 +31,10 @@
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| Alt | 1 |
-| Control | 2 |
-| Shift | 4 |
-| Win | 8 |
-| NoRepeat | 16384 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | Alt | 1 |  |
+|  | Control | 2 |  |
+|  | Shift | 4 |  |
+|  | Win | 8 |  |
+|  | NoRepeat | 16384 |  |

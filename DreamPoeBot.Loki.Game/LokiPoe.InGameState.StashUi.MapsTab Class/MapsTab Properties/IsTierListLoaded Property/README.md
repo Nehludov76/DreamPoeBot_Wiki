@@ -1,5 +1,6 @@
 # IsTierListLoaded Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState StashUi MapsTab IsTierListLoaded Property |
 | --- |

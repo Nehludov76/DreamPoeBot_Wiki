@@ -1,5 +1,6 @@
 # Settings Property 
 
+**Вложено элементов:** 0  
 
 | MoverManagerWrapper Settings Property |
 | --- |

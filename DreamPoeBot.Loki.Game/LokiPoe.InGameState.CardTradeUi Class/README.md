@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.CardTradeUi Class
 
+**Вложено элементов:** 6  
 
 | LokiPoe InGameState CardTradeUi Class |
 | --- |
@@ -30,13 +31,17 @@ public ref class CardTradeUi abstract sealed
 The LokiPoe InGameState CardTradeUi type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| InventoryControl | A InventoryControlWrapper that let you put cards and pull reward from the interface slot. |
-| IsOpened | Return true if the Divination card trade panel is open. |
-| WindowControl | A WindowControlWrapper describing the Divination card trade panel window. |
+|  | Name | Description |
+| --- | --- | --- |
+|  | InventoryControl | A InventoryControlWrapper that let you put cards and pull reward from the interface slot. |
+|  | IsOpened | Return true if the Divination card trade panel is open. |
+|  | WindowControl | A WindowControlWrapper describing the Divination card trade panel window. |
 
 
-| Name | Description |
-| --- | --- |
-| Activate | Click the Activate slot. |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Activate | Click the Activate slot. |
+
+## Дочерние разделы
+- [**CardTradeUi Properties**](./CardTradeUi Properties/README.md)
+- [**CardTradeUi Methods**](./CardTradeUi Methods/README.md)

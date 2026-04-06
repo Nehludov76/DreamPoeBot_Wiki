@@ -1,5 +1,6 @@
 # Hash32 Property 
 
+**Вложено элементов:** 0  
 
 | DatBaseItemTypeWrapper Hash32 Property |
 | --- |

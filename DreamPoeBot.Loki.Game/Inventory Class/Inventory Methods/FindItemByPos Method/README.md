@@ -1,5 +1,6 @@
 # FindItemByPos Method 
 
+**Вложено элементов:** 0  
 
 | Inventory FindItemByPos Method |
 | --- |

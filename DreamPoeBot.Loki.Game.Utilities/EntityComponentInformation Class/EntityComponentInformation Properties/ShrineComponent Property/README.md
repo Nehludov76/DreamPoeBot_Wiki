@@ -1,5 +1,6 @@
 # ShrineComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation ShrineComponent Property |
 | --- |

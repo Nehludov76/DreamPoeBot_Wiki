@@ -1,5 +1,6 @@
 # IsTakeItemActive Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState MercenaryEncounterUi IsTakeItemActive Property |
 | --- |

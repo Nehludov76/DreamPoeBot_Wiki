@@ -1,5 +1,6 @@
 # ElementClickLocation Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe ElementClickLocation Method |
 | --- |

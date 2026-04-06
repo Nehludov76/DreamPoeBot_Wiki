@@ -1,5 +1,6 @@
 # rarity_0 Field
 
+**Вложено элементов:** 0  
 
 | ObjectMagicProperties Struct185ObgectMagicProperties rarity_0 Field |
 | --- |

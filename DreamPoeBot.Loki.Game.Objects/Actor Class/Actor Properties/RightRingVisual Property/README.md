@@ -1,5 +1,6 @@
 # RightRingVisual Property 
 
+**Вложено элементов:** 0  
 
 | Actor RightRingVisual Property |
 | --- |

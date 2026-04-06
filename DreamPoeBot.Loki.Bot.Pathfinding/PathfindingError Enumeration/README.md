@@ -1,5 +1,6 @@
 # PathfindingError Enumeration
 
+**Вложено элементов:** 0  
 
 | PathfindingError Enumeration |
 | --- |
@@ -30,11 +31,11 @@ public enum class PathfindingError
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| StartNotNavigable | 1 |
-| EndNotNavigable | 2 |
-| StartAndEndAreSame | 3 |
-| AreaNotGenerated | 4 |
-| NoPathAvailable | 5 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | StartNotNavigable | 1 |  |
+|  | EndNotNavigable | 2 |  |
+|  | StartAndEndAreSame | 3 |  |
+|  | AreaNotGenerated | 4 |  |
+|  | NoPathAvailable | 5 |  |

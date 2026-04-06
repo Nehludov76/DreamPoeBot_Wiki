@@ -1,5 +1,6 @@
 # Humanize Property 
 
+**Вложено элементов:** 0  
 
 | PathfindingCommand Humanize Property |
 | --- |

@@ -1,5 +1,6 @@
 # BaseItemTypeWrapper Property 
 
+**Вложено элементов:** 0  
 
 | DatDivinationCardStashTabLayoutWrapper BaseItemTypeWrapper Property |
 | --- |

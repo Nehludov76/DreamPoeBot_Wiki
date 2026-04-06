@@ -1,5 +1,6 @@
 # DeltaYMin Property 
 
+**Вложено элементов:** 0  
 
 | GenericComboBoxElement GenericComboBoxEntry DeltaYMin Property |
 | --- |

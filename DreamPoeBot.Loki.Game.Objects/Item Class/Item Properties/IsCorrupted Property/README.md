@@ -1,5 +1,6 @@
 # IsCorrupted Property 
 
+**Вложено элементов:** 0  
 
 | Item IsCorrupted Property |
 | --- |

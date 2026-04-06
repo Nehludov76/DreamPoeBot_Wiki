@@ -1,5 +1,6 @@
 # WriteInt Method 
 
+**Вложено элементов:** 0  
 
 | Memory WriteInt Method |
 | --- |

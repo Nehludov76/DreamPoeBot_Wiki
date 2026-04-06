@@ -1,5 +1,6 @@
 # GameStateOffset Property 
 
+**Вложено элементов:** 0  
 
 | Offsets GameStateOffset Property |
 | --- |

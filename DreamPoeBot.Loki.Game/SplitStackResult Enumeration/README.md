@@ -1,5 +1,6 @@
 # SplitStackResult Enumeration
 
+**Вложено элементов:** 0  
 
 | SplitStackResult Enumeration |
 | --- |
@@ -30,14 +31,14 @@ public enum class SplitStackResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| ProcessHookManagerNotEnabled | 1 |
-| CursorFull | 2 |
-| IncompatibleItemType | 3 |
-| ItemNotFound | 4 |
-| SplitStackUiDidNotOpen | 5 |
-| InvalidQuantity | 6 |
-| Failed | 7 |
-| Unsupported | 8 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | ProcessHookManagerNotEnabled | 1 |  |
+|  | CursorFull | 2 |  |
+|  | IncompatibleItemType | 3 |  |
+|  | ItemNotFound | 4 |  |
+|  | SplitStackUiDidNotOpen | 5 |  |
+|  | InvalidQuantity | 6 |  |
+|  | Failed | 7 |  |
+|  | Unsupported | 8 |  |

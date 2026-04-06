@@ -1,5 +1,6 @@
 # isExpanded Property 
 
+**Вложено элементов:** 0  
 
 | GenericComboBoxElement isExpanded Property |
 | --- |

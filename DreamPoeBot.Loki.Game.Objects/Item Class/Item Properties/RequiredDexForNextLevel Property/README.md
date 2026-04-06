@@ -1,5 +1,6 @@
 # RequiredDexForNextLevel Property 
 
+**Вложено элементов:** 0  
 
 | Item RequiredDexForNextLevel Property |
 | --- |

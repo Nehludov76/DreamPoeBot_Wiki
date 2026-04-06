@@ -1,5 +1,6 @@
 # _BD Property 
 
+**Вложено элементов:** 0  
 
 | Life _BD Property |
 | --- |

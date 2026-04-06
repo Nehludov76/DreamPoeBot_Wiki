@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.StashUi.EssenceTab.Scorn Class
 
+**Вложено элементов:** 4  
 
 | LokiPoe InGameState StashUi EssenceTab Scorn Class |
 | --- |
@@ -32,8 +33,11 @@ public ref class Scorn abstract sealed
 The LokiPoe InGameState StashUi EssenceTab Scorn type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Deafening |
-| Screaming |
-| Shrieking |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Deafening |  |
+|  | Screaming |  |
+|  | Shrieking |  |
+
+## Дочерние разделы
+- [**Scorn Properties**](./Scorn Properties/README.md)

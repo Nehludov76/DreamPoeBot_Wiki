@@ -1,5 +1,6 @@
 # GetClientRect Method 
 
+**Вложено элементов:** 0  
 
 | DivinationInventoryItem GetClientRect Method |
 | --- |

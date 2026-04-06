@@ -1,5 +1,6 @@
 # LokiPoe.AtlasRegionEnum Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe AtlasRegionEnum Enumeration |
 | --- |
@@ -30,9 +31,9 @@ public enum class AtlasRegionEnum
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| NorthWest | 0 |
-| NorthEast | 1 |
-| SouthEast | 2 |
-| SouthWest | 3 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | NorthWest | 0 |  |
+|  | NorthEast | 1 |  |
+|  | SouthEast | 2 |  |
+|  | SouthWest | 3 |  |

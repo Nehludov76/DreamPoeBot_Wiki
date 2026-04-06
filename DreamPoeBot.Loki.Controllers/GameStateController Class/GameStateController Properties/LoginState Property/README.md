@@ -1,5 +1,6 @@
 # LoginState Property 
 
+**Вложено элементов:** 0  
 
 | GameStateController LoginState Property |
 | --- |

@@ -1,5 +1,6 @@
 # NetworkObject Property 
 
+**Вложено элементов:** 0  
 
 | MinimapIconWrapper NetworkObject Property |
 | --- |

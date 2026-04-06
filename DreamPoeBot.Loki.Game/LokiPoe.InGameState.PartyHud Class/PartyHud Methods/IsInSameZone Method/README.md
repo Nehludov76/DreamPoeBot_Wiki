@@ -1,5 +1,6 @@
 # IsInSameZone Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState PartyHud IsInSameZone Method |
 | --- |

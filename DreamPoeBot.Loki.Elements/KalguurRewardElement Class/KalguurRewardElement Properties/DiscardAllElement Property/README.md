@@ -1,5 +1,6 @@
 # DiscardAllElement Property 
 
+**Вложено элементов:** 0  
 
 | KalguurRewardElement DiscardAllElement Property |
 | --- |

@@ -1,5 +1,6 @@
 # PlayerSecondaryMainHand Property 
 
+**Вложено элементов:** 0  
 
 | InventoryElement PlayerSecondaryMainHand Property |
 | --- |

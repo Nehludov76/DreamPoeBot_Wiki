@@ -1,5 +1,6 @@
 # IsAbyssStartNode Property 
 
+**Вложено элементов:** 0  
 
 | NetworkObject IsAbyssStartNode Property |
 | --- |

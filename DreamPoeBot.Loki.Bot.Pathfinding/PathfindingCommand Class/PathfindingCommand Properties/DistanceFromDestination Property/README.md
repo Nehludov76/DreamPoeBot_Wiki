@@ -1,5 +1,6 @@
 # DistanceFromDestination Property 
 
+**Вложено элементов:** 0  
 
 | PathfindingCommand DistanceFromDestination Property |
 | --- |

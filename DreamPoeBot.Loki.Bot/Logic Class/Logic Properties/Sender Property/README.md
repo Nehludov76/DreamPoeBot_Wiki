@@ -1,5 +1,6 @@
 # Sender Property 
 
+**Вложено элементов:** 0  
 
 | Logic Sender Property |
 | --- |

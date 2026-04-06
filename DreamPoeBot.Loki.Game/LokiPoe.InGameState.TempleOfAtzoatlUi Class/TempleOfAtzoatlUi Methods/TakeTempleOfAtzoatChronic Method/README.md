@@ -1,5 +1,6 @@
 # TakeTempleOfAtzoatChronic Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState TempleOfAtzoatlUi TakeTempleOfAtzoatChronic Method |
 | --- |

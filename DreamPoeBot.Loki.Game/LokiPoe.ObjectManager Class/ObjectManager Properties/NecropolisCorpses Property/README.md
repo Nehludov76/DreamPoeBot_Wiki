@@ -1,5 +1,6 @@
 # NecropolisCorpses Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe ObjectManager NecropolisCorpses Property |
 | --- |

@@ -1,5 +1,6 @@
 # LinkedParentId Property 
 
+**Вложено элементов:** 0  
 
 | ServerStashTab LinkedParentId Property |
 | --- |

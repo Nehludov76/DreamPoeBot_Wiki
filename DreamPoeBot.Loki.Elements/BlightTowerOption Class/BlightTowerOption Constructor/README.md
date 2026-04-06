@@ -1,5 +1,6 @@
 # BlightTowerOption Constructor 
 
+**Вложено элементов:** 0  
 
 | BlightTowerOption Constructor |
 | --- |

@@ -1,5 +1,6 @@
 # Control Property 
 
+**Вложено элементов:** 0  
 
 | BotManagerWrapper Control Property |
 | --- |

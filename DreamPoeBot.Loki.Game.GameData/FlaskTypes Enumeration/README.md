@@ -1,5 +1,6 @@
 # FlaskTypes Enumeration
 
+**Вложено элементов:** 0  
 
 | FlaskTypes Enumeration |
 | --- |
@@ -30,10 +31,10 @@ public enum class FlaskTypes
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| NonFlask | 0 |
-| Life | 1 |
-| Mana | 2 |
-| Hybrid | 3 |
-| Utility | 4 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | NonFlask | 0 |  |
+|  | Life | 1 |  |
+|  | Mana | 2 |  |
+|  | Hybrid | 3 |  |
+|  | Utility | 4 |  |

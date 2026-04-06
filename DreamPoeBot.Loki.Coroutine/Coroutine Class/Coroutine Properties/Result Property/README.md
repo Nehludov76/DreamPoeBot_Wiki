@@ -1,5 +1,6 @@
 # Result Property 
 
+**Вложено элементов:** 0  
 
 | Coroutine Result Property |
 | --- |

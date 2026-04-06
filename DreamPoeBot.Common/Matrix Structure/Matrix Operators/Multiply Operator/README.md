@@ -1,5 +1,6 @@
 # Multiply Operator 
 
+**Вложено элементов:** 0  
 
 | Matrix Multiply Operator |
 | --- |

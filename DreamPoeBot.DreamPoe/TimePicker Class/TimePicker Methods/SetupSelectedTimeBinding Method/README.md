@@ -1,5 +1,6 @@
 # SetupSelectedTimeBinding Method 
 
+**Вложено элементов:** 0  
 
 | TimePicker SetupSelectedTimeBinding Method |
 | --- |

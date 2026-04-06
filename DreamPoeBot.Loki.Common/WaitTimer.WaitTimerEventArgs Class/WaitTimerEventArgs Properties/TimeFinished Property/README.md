@@ -1,5 +1,6 @@
 # TimeFinished Property 
 
+**Вложено элементов:** 0  
 
 | WaitTimer WaitTimerEventArgs TimeFinished Property |
 | --- |

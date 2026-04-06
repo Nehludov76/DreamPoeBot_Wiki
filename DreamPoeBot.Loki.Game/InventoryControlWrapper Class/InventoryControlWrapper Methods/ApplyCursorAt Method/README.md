@@ -1,5 +1,6 @@
 # ApplyCursorAt Method 
 
+**Вложено элементов:** 0  
 
 | InventoryControlWrapper ApplyCursorAt Method |
 | --- |

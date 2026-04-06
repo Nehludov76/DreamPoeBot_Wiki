@@ -1,5 +1,6 @@
 # PlacePackFromToCursor Method 
 
+**Вложено элементов:** 0  
 
 | LanternOfArimorElement NecropolisLanternOption PlacePackFromToCursor Method |
 | --- |

@@ -1,5 +1,6 @@
 # PendingPartyInvites Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo PendingPartyInvites Property |
 | --- |

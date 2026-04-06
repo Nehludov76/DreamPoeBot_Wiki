@@ -1,5 +1,6 @@
 # ViewAllStashPanel Property 
 
+**Вложено элементов:** 0  
 
 | ExpeditionDealerElement ViewAllStashPanel Property |
 | --- |

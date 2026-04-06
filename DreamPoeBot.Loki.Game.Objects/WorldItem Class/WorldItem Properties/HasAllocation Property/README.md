@@ -1,5 +1,6 @@
 # HasAllocation Property 
 
+**Вложено элементов:** 0  
 
 | WorldItem HasAllocation Property |
 | --- |

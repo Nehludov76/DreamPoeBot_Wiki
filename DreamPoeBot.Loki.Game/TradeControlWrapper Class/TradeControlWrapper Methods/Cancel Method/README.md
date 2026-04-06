@@ -1,5 +1,6 @@
 # Cancel Method 
 
+**Вложено элементов:** 0  
 
 | TradeControlWrapper Cancel Method |
 | --- |

@@ -1,5 +1,6 @@
 # IsInSacredGrove Method 
 
+**Вложено элементов:** 0  
 
 | GridExplorer SacredGroveDataClass IsInSacredGrove Method |
 | --- |

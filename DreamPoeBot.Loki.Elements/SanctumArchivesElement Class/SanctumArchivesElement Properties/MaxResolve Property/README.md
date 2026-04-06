@@ -1,5 +1,6 @@
 # MaxResolve Property 
 
+**Вложено элементов:** 0  
 
 | SanctumArchivesElement MaxResolve Property |
 | --- |

@@ -1,5 +1,6 @@
 # Width Property 
 
+**Вложено элементов:** 0  
 
 | BlightStashTabLayouts BlightStashTabLayoutHardcodedJson Width Property |
 | --- |

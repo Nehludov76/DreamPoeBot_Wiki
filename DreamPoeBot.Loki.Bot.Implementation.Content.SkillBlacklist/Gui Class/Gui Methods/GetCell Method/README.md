@@ -1,5 +1,6 @@
 # GetCell Method 
 
+**Вложено элементов:** 0  
 
 | Gui GetCell Method |
 | --- |

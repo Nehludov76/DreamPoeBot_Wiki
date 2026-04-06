@@ -1,5 +1,6 @@
 # LokiPoe.ProcessHookManager.StateEnum Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe ProcessHookManager StateEnum Enumeration |
 | --- |
@@ -28,8 +29,8 @@ public enum class StateEnum
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| Enabled | 1 |
-| Disabled | 2 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | Enabled | 1 |  |
+|  | Disabled | 2 |  |

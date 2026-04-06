@@ -1,5 +1,6 @@
 # OpenSkillsPannel Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState BloodCrucibleUi OpenSkillsPannel Method |
 | --- |

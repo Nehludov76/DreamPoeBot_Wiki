@@ -1,5 +1,6 @@
 # ClientFrozen Property 
 
+**Вложено элементов:** 0  
 
 | BotManager ClientFrozen Property |
 | --- |

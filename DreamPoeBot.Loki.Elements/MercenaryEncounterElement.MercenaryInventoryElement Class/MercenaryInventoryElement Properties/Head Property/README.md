@@ -1,5 +1,6 @@
 # Head Property 
 
+**Вложено элементов:** 0  
 
 | MercenaryEncounterElement MercenaryInventoryElement Head Property |
 | --- |

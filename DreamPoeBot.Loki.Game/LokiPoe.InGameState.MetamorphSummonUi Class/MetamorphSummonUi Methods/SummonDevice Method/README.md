@@ -1,5 +1,6 @@
 # SummonDevice Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState MetamorphSummonUi SummonDevice Method |
 | --- |

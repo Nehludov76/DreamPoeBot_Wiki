@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.ResurrectResult Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ResurrectResult Enumeration |
 | --- |
@@ -30,8 +31,8 @@ public enum class ResurrectResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| ProcessHookManagerNotEnabled | 1 |
-| ResurrectButtonNotShowing | 2 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | ProcessHookManagerNotEnabled | 1 |  |
+|  | ResurrectButtonNotShowing | 2 |  |

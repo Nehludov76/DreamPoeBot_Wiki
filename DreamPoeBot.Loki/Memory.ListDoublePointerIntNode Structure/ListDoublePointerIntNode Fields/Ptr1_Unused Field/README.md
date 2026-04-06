@@ -1,5 +1,6 @@
 # Ptr1_Unused Field
 
+**Вложено элементов:** 0  
 
 | Memory ListDoublePointerIntNode Ptr1_Unused Field |
 | --- |

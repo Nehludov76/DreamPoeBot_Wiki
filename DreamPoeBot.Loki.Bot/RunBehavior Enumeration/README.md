@@ -1,5 +1,6 @@
 # RunBehavior Enumeration
 
+**Вложено элементов:** 0  
 
 | RunBehavior Enumeration |
 | --- |
@@ -30,7 +31,7 @@ public enum class RunBehavior
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| All | 0 |
-| UntilHandled | 1 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | All | 0 |  |
+|  | UntilHandled | 1 |  |

@@ -1,5 +1,6 @@
 # ritual_rewards_window_combo Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input Binding ritual_rewards_window_combo Property |
 | --- |

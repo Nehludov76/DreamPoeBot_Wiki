@@ -1,5 +1,6 @@
 # GetStableHashCode Method 
 
+**Вложено элементов:** 0  
 
 | StringExtension GetStableHashCode Method |
 | --- |

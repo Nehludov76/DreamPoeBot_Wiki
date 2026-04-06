@@ -1,5 +1,6 @@
 # Tab Property 
 
+**Вложено элементов:** 0  
 
 | FragmentStashTabLayouts FragmentStashTabLayoutJson Tab Property |
 | --- |

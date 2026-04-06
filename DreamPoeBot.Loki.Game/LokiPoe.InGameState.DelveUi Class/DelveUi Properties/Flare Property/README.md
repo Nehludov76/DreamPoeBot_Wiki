@@ -1,5 +1,6 @@
 # Flare Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState DelveUi Flare Property |
 | --- |

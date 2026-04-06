@@ -1,5 +1,6 @@
 # Max Method 
 
+**Вложено элементов:** 0  
 
 | MathHepler Max Method |
 | --- |

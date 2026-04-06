@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.SelectHideoutResult Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SelectHideoutResult Enumeration |
 | --- |
@@ -30,10 +31,10 @@ public enum class SelectHideoutResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| ProcessHookManagerNotEnabled | 1 |
-| UiNotOpen | 2 |
-| HideoutLocked | 3 |
-| HideoutDoNotExist | 4 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | ProcessHookManagerNotEnabled | 1 |  |
+|  | UiNotOpen | 2 |  |
+|  | HideoutLocked | 3 |  |
+|  | HideoutDoNotExist | 4 |  |

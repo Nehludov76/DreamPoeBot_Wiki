@@ -1,5 +1,6 @@
 # WeaponSet Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo WeaponSet Property |
 | --- |

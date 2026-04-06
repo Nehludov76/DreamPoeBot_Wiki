@@ -1,5 +1,6 @@
 # RefoundPassiveButton Property 
 
+**Вложено элементов:** 0  
 
 | AtlasSkillElement RefoundPassiveButton Property |
 | --- |

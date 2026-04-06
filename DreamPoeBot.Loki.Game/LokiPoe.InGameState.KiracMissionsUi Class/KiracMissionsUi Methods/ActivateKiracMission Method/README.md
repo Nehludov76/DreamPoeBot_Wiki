@@ -1,5 +1,6 @@
 # ActivateKiracMission Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState KiracMissionsUi ActivateKiracMission Method |
 | --- |

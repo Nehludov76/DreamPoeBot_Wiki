@@ -1,5 +1,6 @@
 # HasBestiaryCapturedAura Property 
 
+**Вложено элементов:** 0  
 
 | Monster HasBestiaryCapturedAura Property |
 | --- |

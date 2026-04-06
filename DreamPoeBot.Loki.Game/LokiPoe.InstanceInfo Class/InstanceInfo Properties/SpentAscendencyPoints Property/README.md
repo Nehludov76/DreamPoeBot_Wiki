@@ -1,5 +1,6 @@
 # SpentAscendencyPoints Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo SpentAscendencyPoints Property |
 | --- |

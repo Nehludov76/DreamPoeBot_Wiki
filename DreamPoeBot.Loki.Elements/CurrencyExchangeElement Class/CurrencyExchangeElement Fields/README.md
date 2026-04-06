@@ -1,5 +1,6 @@
 # CurrencyExchangeElement Fields
 
+**Вложено элементов:** 0  
 
 | CurrencyExchangeElement Fields |
 | --- |
@@ -10,6 +11,6 @@
 The CurrencyExchangeElement type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| NeedUpdate | (Inherited from RemoteMemoryObject .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | NeedUpdate | (Inherited from RemoteMemoryObject .) |

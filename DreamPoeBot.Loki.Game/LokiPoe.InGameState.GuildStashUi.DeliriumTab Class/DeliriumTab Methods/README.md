@@ -1,5 +1,6 @@
 # DeliriumTab Methods
 
+**Вложено элементов:** 1  
 
 | DeliriumTab Methods |
 | --- |
@@ -10,6 +11,9 @@
 The LokiPoe InGameState GuildStashUi DeliriumTab type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| GetInventoryControlForMetadata |
+|  | Name | Description |
+| --- | --- | --- |
+|  | GetInventoryControlForMetadata |  |
+
+## Дочерние разделы
+- [**GetInventoryControlForMetadata Method **](./GetInventoryControlForMetadata Method/README.md)

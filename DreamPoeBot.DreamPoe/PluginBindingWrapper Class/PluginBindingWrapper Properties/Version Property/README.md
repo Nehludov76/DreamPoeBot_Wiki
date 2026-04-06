@@ -1,5 +1,6 @@
 # Version Property 
 
+**Вложено элементов:** 0  
 
 | PluginBindingWrapper Version Property |
 | --- |

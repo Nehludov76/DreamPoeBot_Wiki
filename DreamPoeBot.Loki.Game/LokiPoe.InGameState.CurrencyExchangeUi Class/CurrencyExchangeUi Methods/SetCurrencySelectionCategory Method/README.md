@@ -1,5 +1,6 @@
 # SetCurrencySelectionCategory Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState CurrencyExchangeUi SetCurrencySelectionCategory Method |
 | --- |

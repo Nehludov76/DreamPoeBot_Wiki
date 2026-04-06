@@ -1,5 +1,6 @@
 # RemoveObstacles Method 
 
+**Вложено элементов:** 0  
 
 | Pathfinder RemoveObstacles Method |
 | --- |

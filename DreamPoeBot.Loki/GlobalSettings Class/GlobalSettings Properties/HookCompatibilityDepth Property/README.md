@@ -1,5 +1,6 @@
 # HookCompatibilityDepth Property 
 
+**Вложено элементов:** 0  
 
 | GlobalSettings HookCompatibilityDepth Property |
 | --- |

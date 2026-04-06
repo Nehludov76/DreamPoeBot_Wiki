@@ -1,5 +1,6 @@
 # GuiControlType Enumeration
 
+**Вложено элементов:** 0  
 
 | GuiControlType Enumeration |
 | --- |
@@ -30,7 +31,7 @@ public enum class GuiControlType
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| Unset | 0 |
-| Unknown | 1 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | Unset | 0 |  |
+|  | Unknown | 1 |  |

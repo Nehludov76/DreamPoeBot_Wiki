@@ -1,5 +1,6 @@
 # ClientBetrayalChoiceComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation ClientBetrayalChoiceComponent Property |
 | --- |

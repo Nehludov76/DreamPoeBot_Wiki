@@ -1,5 +1,6 @@
 # FragmentInventoryItem Constructor 
 
+**Вложено элементов:** 0  
 
 | FragmentInventoryItem Constructor |
 | --- |

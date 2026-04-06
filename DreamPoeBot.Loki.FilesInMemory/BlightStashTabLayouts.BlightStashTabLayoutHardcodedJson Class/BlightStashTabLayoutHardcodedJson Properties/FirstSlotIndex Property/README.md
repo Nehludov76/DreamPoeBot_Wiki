@@ -1,5 +1,6 @@
 # FirstSlotIndex Property 
 
+**Вложено элементов:** 0  
 
 | BlightStashTabLayouts BlightStashTabLayoutHardcodedJson FirstSlotIndex Property |
 | --- |

@@ -1,5 +1,6 @@
 # InternalId Property 
 
+**Вложено элементов:** 0  
 
 | Skill InternalId Property |
 | --- |

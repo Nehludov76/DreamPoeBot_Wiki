@@ -1,5 +1,6 @@
 # UltimatumRewardUi Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements UltimatumRewardUi Property |
 | --- |

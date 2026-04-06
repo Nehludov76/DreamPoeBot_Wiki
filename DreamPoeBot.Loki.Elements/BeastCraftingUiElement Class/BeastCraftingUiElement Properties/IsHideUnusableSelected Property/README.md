@@ -1,5 +1,6 @@
 # IsHideUnusableSelected Property 
 
+**Вложено элементов:** 0  
 
 | BeastCraftingUiElement IsHideUnusableSelected Property |
 | --- |

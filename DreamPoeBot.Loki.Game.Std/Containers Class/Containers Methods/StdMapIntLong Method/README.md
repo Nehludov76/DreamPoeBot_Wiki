@@ -1,5 +1,6 @@
 # StdMapIntLong Method 
 
+**Вложено элементов:** 0  
 
 | Containers StdMapIntLong Method |
 | --- |

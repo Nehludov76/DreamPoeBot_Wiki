@@ -1,5 +1,6 @@
 # UpdateObstacles Method 
 
+**Вложено элементов:** 0  
 
 | Pathfinder UpdateObstacles Method |
 | --- |

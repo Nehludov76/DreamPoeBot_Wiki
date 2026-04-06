@@ -1,5 +1,6 @@
 # InventPosX Property 
 
+**Вложено элементов:** 0  
 
 | DivinationInventoryItem InventPosX Property |
 | --- |

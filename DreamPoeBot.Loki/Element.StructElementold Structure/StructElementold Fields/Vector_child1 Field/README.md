@@ -1,5 +1,6 @@
 # Vector_child1 Field
 
+**Вложено элементов:** 0  
 
 | Element StructElementold Vector_child1 Field |
 | --- |

@@ -1,5 +1,6 @@
 # PersistentEffectName Property 
 
+**Вложено элементов:** 0  
 
 | SanctumArchivesElement SanctumRoom PersistentEffectName Property |
 | --- |

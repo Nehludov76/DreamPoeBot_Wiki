@@ -1,5 +1,6 @@
 # OnClientFrozen Event
 
+**Вложено элементов:** 0  
 
 | BotManager OnClientFrozen Event |
 | --- |

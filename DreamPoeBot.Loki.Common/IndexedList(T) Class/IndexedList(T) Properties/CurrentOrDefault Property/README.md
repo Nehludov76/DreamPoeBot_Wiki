@@ -1,5 +1,6 @@
 # CurrentOrDefault Property 
 
+**Вложено элементов:** 0  
 
 | IndexedList T CurrentOrDefault Property |
 | --- |

@@ -1,5 +1,6 @@
 # DeferElement Property 
 
+**Вложено элементов:** 0  
 
 | RitualFavorElement DeferElement Property |
 | --- |

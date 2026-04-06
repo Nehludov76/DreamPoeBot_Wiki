@@ -1,5 +1,6 @@
 # CurrencyExchangeElement.CurrencySelectionElement Constructor 
 
+**Вложено элементов:** 0  
 
 | CurrencyExchangeElement CurrencySelectionElement Constructor |
 | --- |

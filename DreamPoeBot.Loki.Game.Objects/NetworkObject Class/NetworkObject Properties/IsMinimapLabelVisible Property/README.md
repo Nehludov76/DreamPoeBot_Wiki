@@ -1,5 +1,6 @@
 # IsMinimapLabelVisible Property 
 
+**Вложено элементов:** 0  
 
 | NetworkObject IsMinimapLabelVisible Property |
 | --- |

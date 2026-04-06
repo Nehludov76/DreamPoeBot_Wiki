@@ -1,5 +1,6 @@
 # LookupQuestState Method (DatQuestWrapper, Int32)
 
+**Вложено элементов:** 0  
 
 | Dat LookupQuestState Method (DatQuestWrapper, Int32) |
 | --- |

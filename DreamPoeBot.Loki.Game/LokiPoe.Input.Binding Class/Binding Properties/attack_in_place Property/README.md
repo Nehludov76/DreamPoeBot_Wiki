@@ -1,5 +1,6 @@
 # attack_in_place Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input Binding attack_in_place Property |
 | --- |

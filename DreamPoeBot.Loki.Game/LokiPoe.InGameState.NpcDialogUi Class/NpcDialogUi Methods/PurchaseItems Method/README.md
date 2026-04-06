@@ -1,5 +1,6 @@
 # PurchaseItems Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState NpcDialogUi PurchaseItems Method |
 | --- |

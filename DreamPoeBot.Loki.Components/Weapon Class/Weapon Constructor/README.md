@@ -1,5 +1,6 @@
 # Weapon Constructor 
 
+**Вложено элементов:** 0  
 
 | Weapon Constructor |
 | --- |

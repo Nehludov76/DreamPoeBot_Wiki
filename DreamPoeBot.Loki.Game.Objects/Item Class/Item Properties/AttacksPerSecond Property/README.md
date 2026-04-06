@@ -1,5 +1,6 @@
 # AttacksPerSecond Property 
 
+**Вложено элементов:** 0  
 
 | Item AttacksPerSecond Property |
 | --- |

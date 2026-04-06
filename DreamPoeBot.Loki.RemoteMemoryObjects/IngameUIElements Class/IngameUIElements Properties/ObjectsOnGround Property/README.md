@@ -1,5 +1,6 @@
 # ObjectsOnGround Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements ObjectsOnGround Property |
 | --- |

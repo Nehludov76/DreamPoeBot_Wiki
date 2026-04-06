@@ -1,5 +1,6 @@
 # IsFakeInventoryVisible Property 
 
+**Вложено элементов:** 0  
 
 | MapsTabElement IsFakeInventoryVisible Property |
 | --- |

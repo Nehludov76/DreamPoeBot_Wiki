@@ -1,5 +1,6 @@
 # OnPluginDisabled Event
 
+**Вложено элементов:** 0  
 
 | PluginManager OnPluginDisabled Event |
 | --- |

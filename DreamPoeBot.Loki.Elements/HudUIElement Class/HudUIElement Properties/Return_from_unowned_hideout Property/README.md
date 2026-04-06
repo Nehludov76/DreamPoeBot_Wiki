@@ -1,5 +1,6 @@
 # Return_from_unowned_hideout Property 
 
+**Вложено элементов:** 0  
 
 | HudUIElement Return_from_unowned_hideout Property |
 | --- |

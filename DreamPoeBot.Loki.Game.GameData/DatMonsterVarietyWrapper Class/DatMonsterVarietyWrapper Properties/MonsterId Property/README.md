@@ -1,5 +1,6 @@
 # MonsterId Property 
 
+**Вложено элементов:** 0  
 
 | DatMonsterVarietyWrapper MonsterId Property |
 | --- |

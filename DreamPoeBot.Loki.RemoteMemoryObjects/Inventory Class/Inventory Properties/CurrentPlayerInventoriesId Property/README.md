@@ -1,5 +1,6 @@
 # CurrentPlayerInventoriesId Property 
 
+**Вложено элементов:** 0  
 
 | Inventory CurrentPlayerInventoriesId Property |
 | --- |

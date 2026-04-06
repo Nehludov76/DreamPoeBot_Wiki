@@ -1,5 +1,6 @@
 # ScourgedTier Property 
 
+**Вложено элементов:** 0  
 
 | Base ScourgedTier Property |
 | --- |

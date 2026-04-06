@@ -1,5 +1,6 @@
 # LastMover Property 
 
+**Вложено элементов:** 0  
 
 | GuiSettings LastMover Property |
 | --- |

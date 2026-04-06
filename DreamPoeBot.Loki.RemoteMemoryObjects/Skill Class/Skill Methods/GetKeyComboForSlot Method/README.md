@@ -1,5 +1,6 @@
 # GetKeyComboForSlot Method 
 
+**Вложено элементов:** 0  
 
 | Skill GetKeyComboForSlot Method |
 | --- |

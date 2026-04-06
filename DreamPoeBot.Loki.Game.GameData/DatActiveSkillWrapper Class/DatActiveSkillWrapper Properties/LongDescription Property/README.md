@@ -1,5 +1,6 @@
 # LongDescription Property 
 
+**Вложено элементов:** 0  
 
 | DatActiveSkillWrapper LongDescription Property |
 | --- |

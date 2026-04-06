@@ -1,5 +1,6 @@
 # IsOptionsDialogOpen Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe PreGameState IsOptionsDialogOpen Property |
 | --- |

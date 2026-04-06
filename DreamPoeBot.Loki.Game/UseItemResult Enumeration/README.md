@@ -1,5 +1,6 @@
 # UseItemResult Enumeration
 
+**Вложено элементов:** 0  
 
 | UseItemResult Enumeration |
 | --- |
@@ -30,12 +31,12 @@ public enum class UseItemResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| ProcessHookManagerNotEnabled | 1 |
-| ItemNotFound | 2 |
-| CursorFull | 3 |
-| ItemTransparent | 4 |
-| ItemNotUsable | 5 |
-| Unsupported | 6 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | ProcessHookManagerNotEnabled | 1 |  |
+|  | ItemNotFound | 2 |  |
+|  | CursorFull | 3 |  |
+|  | ItemTransparent | 4 |  |
+|  | ItemNotUsable | 5 |  |
+|  | Unsupported | 6 |  |

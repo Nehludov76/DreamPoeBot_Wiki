@@ -1,5 +1,6 @@
 # LokiPoe.LocalData.LabyrinthOverride Constructor 
 
+**Вложено элементов:** 0  
 
 | LokiPoe LocalData LabyrinthOverride Constructor |
 | --- |

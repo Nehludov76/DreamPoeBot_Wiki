@@ -1,5 +1,6 @@
 # StopAllocTracking Method 
 
+**Вложено элементов:** 0  
 
 | Profiler StopAllocTracking Method |
 | --- |

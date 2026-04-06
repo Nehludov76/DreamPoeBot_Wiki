@@ -1,5 +1,6 @@
 # byte_MonsterRemaining Field
 
+**Вложено элементов:** 0  
 
 | ServerData StructNewServerData byte_MonsterRemaining Field |
 | --- |

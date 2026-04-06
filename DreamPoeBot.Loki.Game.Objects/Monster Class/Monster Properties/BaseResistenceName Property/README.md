@@ -1,5 +1,6 @@
 # BaseResistenceName Property 
 
+**Вложено элементов:** 0  
 
 | Monster BaseResistenceName Property |
 | --- |

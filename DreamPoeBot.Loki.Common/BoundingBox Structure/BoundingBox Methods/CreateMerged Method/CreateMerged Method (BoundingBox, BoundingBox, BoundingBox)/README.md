@@ -1,5 +1,6 @@
 # CreateMerged Method (BoundingBox, BoundingBox, BoundingBox)
 
+**Вложено элементов:** 0  
 
 | BoundingBox CreateMerged Method (BoundingBox , BoundingBox , BoundingBox ) |
 | --- |

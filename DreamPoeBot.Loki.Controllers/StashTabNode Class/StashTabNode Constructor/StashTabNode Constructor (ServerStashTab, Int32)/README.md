@@ -1,5 +1,6 @@
 # StashTabNode Constructor (ServerStashTab, Int32)
 
+**Вложено элементов:** 0  
 
 | StashTabNode Constructor (ServerStashTab, Int32) |
 | --- |

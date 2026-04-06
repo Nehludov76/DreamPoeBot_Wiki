@@ -1,5 +1,6 @@
 # MinChaosDamage Property 
 
+**Вложено элементов:** 0  
 
 | Item MinChaosDamage Property |
 | --- |

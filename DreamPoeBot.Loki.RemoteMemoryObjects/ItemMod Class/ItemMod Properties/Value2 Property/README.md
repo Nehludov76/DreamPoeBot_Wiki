@@ -1,5 +1,6 @@
 # Value2 Property 
 
+**Вложено элементов:** 0  
 
 | ItemMod Value2 Property |
 | --- |

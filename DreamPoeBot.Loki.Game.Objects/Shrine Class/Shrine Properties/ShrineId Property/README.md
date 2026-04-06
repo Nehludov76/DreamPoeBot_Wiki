@@ -1,5 +1,6 @@
 # ShrineId Property 
 
+**Вложено элементов:** 0  
 
 | Shrine ShrineId Property |
 | --- |

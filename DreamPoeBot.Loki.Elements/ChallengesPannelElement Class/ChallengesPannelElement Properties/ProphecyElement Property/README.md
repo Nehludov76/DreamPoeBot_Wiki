@@ -1,5 +1,6 @@
 # ProphecyElement Property 
 
+**Вложено элементов:** 0  
 
 | ChallengesPannelElement ProphecyElement Property |
 | --- |

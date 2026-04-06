@@ -1,5 +1,6 @@
 # StashTabInfo Constructor 
 
+**Вложено элементов:** 0  
 
 | StashTabInfo Constructor |
 | --- |

@@ -1,5 +1,6 @@
 # IsActive Property 
 
+**Вложено элементов:** 0  
 
 | Monster IsActive Property |
 | --- |

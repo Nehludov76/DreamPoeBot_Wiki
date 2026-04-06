@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.MasterDeviceUi.MasterMissionEnum Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState MasterDeviceUi MasterMissionEnum Enumeration |
 | --- |
@@ -30,12 +31,12 @@ public enum class MasterMissionEnum
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| Einhar | 1 |
-| Alva | 2 |
-| Niko | 3 |
-| Jun | 4 |
-| Zana | 5 |
-| Kirac | 6 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | Einhar | 1 |  |
+|  | Alva | 2 |  |
+|  | Niko | 3 |  |
+|  | Jun | 4 |  |
+|  | Zana | 5 |  |
+|  | Kirac | 6 |  |

@@ -1,5 +1,6 @@
 # IncursionArchitect1Room Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo Incursion IncursionArchitect1Room Property |
 | --- |

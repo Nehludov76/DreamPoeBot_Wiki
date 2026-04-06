@@ -1,5 +1,6 @@
 # CPUTimeValues Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState DebugOverlay CPUTimeValues Property |
 | --- |

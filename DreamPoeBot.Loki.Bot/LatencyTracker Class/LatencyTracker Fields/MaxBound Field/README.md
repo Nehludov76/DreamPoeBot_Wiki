@@ -1,5 +1,6 @@
 # MaxBound Field
 
+**Вложено элементов:** 0  
 
 | LatencyTracker MaxBound Field |
 | --- |

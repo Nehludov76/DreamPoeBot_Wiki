@@ -1,5 +1,6 @@
 # IsPreGame Property 
 
+**Вложено элементов:** 0  
 
 | GameStateController IsPreGame Property |
 | --- |

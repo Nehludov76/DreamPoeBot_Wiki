@@ -1,5 +1,6 @@
 # IsMirrored Property 
 
+**Вложено элементов:** 0  
 
 | Item IsMirrored Property |
 | --- |

@@ -1,5 +1,6 @@
 # ExpeditionLockerUiElement Fields
 
+**Вложено элементов:** 0  
 
 | ExpeditionLockerUiElement Fields |
 | --- |
@@ -10,6 +11,6 @@
 The ExpeditionLockerUiElement type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| NeedUpdate | (Inherited from RemoteMemoryObject .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | NeedUpdate | (Inherited from RemoteMemoryObject .) |

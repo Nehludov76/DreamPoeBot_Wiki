@@ -1,5 +1,6 @@
 # SelectPriceCurrency Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState TradePriceItemDialogUi SelectPriceCurrency Method |
 | --- |

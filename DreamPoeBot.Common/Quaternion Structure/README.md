@@ -1,5 +1,6 @@
 # Quaternion Structure
 
+**Вложено элементов:** 7  
 
 | Quaternion Structure |
 | --- |
@@ -32,18 +33,22 @@ public value class Quaternion
 The Quaternion type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| CreateFromYawPitchRoll |
-| Equals | Indicates whether this instance and a specified object are equal. (Inherited from ValueType .) |
-| GetHashCode | Returns the hash code for this instance. (Inherited from ValueType .) |
-| GetType | Gets the Type of the current instance. (Inherited from Object .) |
-| ToString | Returns the fully qualified type name of this instance. (Inherited from ValueType .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | CreateFromYawPitchRoll |  |
+|  | Equals | Indicates whether this instance and a specified object are equal. (Inherited from ValueType .) |
+|  | GetHashCode | Returns the hash code for this instance. (Inherited from ValueType .) |
+|  | GetType | Gets the Type of the current instance. (Inherited from Object .) |
+|  | ToString | Returns the fully qualified type name of this instance. (Inherited from ValueType .) |
 
 
-| Name | Description |
-| --- | --- |
-| W |
-| X |
-| Y |
-| Z |
+|  | Name | Description |
+| --- | --- | --- |
+|  | W |  |
+|  | X |  |
+|  | Y |  |
+|  | Z |  |
+
+## Дочерние разделы
+- [**Quaternion Methods**](./Quaternion Methods/README.md)
+- [**Quaternion Fields**](./Quaternion Fields/README.md)

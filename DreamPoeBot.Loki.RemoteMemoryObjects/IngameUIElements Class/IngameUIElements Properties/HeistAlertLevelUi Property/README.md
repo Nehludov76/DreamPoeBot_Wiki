@@ -1,5 +1,6 @@
 # HeistAlertLevelUi Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements HeistAlertLevelUi Property |
 | --- |

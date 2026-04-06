@@ -1,5 +1,6 @@
 # IsEncounterFailed Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo Blight IsEncounterFailed Property |
 | --- |

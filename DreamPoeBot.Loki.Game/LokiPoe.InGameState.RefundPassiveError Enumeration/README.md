@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.RefundPassiveError Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState RefundPassiveError Enumeration |
 | --- |
@@ -30,15 +31,15 @@ public enum class RefundPassiveError
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| ProcessHookManagerNotEnabled | 1 |
-| UiNotOpen | 2 |
-| IdNotFound | 3 |
-| NotSelected | 4 |
-| RofundNotEnabled | 5 |
-| NoRefundPointToUse | 6 |
-| NotAllocatingPassives | 7 |
-| FailedToRemove | 8 |
-| PassiveCantBeRemoved | 9 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | ProcessHookManagerNotEnabled | 1 |  |
+|  | UiNotOpen | 2 |  |
+|  | IdNotFound | 3 |  |
+|  | NotSelected | 4 |  |
+|  | RofundNotEnabled | 5 |  |
+|  | NoRefundPointToUse | 6 |  |
+|  | NotAllocatingPassives | 7 |  |
+|  | FailedToRemove | 8 |  |
+|  | PassiveCantBeRemoved | 9 |  |

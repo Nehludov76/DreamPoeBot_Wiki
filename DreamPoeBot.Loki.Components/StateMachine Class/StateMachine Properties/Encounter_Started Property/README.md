@@ -1,5 +1,6 @@
 # Encounter_Started Property 
 
+**Вложено элементов:** 0  
 
 | StateMachine Encounter_Started Property |
 | --- |

@@ -1,5 +1,6 @@
 # InventoryControl_Belt Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState InventoryUi InventoryControl_Belt Property |
 | --- |

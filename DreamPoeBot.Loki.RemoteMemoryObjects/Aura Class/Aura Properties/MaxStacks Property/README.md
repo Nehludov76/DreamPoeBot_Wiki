@@ -1,5 +1,6 @@
 # MaxStacks Property 
 
+**Вложено элементов:** 0  
 
 | Aura MaxStacks Property |
 | --- |

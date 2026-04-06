@@ -1,5 +1,6 @@
 # MapEntryPoint Property 
 
+**Вложено элементов:** 0  
 
 | GridExplorer MapEntryPoint Property |
 | --- |

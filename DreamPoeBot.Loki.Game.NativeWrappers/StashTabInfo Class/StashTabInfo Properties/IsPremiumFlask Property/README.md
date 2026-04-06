@@ -1,5 +1,6 @@
 # IsPremiumFlask Property 
 
+**Вложено элементов:** 0  
 
 | StashTabInfo IsPremiumFlask Property |
 | --- |

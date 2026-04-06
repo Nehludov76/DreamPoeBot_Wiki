@@ -1,5 +1,6 @@
 # BestiaryUiElement Constructor 
 
+**Вложено элементов:** 0  
 
 | BestiaryUiElement Constructor |
 | --- |

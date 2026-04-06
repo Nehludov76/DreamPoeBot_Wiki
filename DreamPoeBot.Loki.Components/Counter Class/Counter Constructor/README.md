@@ -1,5 +1,6 @@
 # Counter Constructor 
 
+**Вложено элементов:** 0  
 
 | Counter Constructor |
 | --- |

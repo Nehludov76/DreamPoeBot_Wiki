@@ -1,5 +1,6 @@
 # FirstSlotIndex Property 
 
+**Вложено элементов:** 0  
 
 | FragmentStashTabLayouts FragmentStashTabLayoutJson FirstSlotIndex Property |
 | --- |

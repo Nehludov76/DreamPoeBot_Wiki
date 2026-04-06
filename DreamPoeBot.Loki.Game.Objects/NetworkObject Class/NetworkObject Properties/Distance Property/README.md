@@ -1,5 +1,6 @@
 # Distance Property 
 
+**Вложено элементов:** 0  
 
 | NetworkObject Distance Property |
 | --- |

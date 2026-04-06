@@ -1,5 +1,6 @@
 # GamePaused Property 
 
+**Вложено элементов:** 0  
 
 | IngameData GamePaused Property |
 | --- |

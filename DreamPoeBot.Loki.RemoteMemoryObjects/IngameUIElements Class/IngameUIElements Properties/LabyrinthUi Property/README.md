@@ -1,5 +1,6 @@
 # LabyrinthUi Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements LabyrinthUi Property |
 | --- |

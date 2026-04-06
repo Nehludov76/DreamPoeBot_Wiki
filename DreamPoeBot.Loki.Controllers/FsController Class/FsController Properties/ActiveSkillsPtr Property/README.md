@@ -1,5 +1,6 @@
 # ActiveSkillsPtr Property 
 
+**Вложено элементов:** 0  
 
 | FsController ActiveSkillsPtr Property |
 | --- |

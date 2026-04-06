@@ -1,5 +1,6 @@
 # GetItemTributeCostEx Method 
 
+**Вложено элементов:** 0  
 
 | InventoryControlWrapper GetItemTributeCostEx Method |
 | --- |

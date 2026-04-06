@@ -1,5 +1,6 @@
 # MinimapIcon Property 
 
+**Вложено элементов:** 0  
 
 | MinimapIconWrapper MinimapIcon Property |
 | --- |

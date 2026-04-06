@@ -1,5 +1,6 @@
 # ConnectionCount Field
 
+**Вложено элементов:** 0  
 
 | AtlasNodeDat AtlasNodeRecordStruct ConnectionCount Field |
 | --- |

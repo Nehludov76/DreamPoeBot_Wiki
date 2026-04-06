@@ -1,5 +1,6 @@
 # SelectedPriceCurrency Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState PremiumStashSettingsUi SelectedPriceCurrency Property |
 | --- |

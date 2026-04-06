@@ -1,5 +1,6 @@
 # LastBoundMoveSkill Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SkillBarHud LastBoundMoveSkill Property |
 | --- |

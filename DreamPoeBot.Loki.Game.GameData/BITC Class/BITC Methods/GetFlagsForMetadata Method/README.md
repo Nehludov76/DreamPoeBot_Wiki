@@ -1,5 +1,6 @@
 # GetFlagsForMetadata Method 
 
+**Вложено элементов:** 0  
 
 | BITC GetFlagsForMetadata Method |
 | --- |

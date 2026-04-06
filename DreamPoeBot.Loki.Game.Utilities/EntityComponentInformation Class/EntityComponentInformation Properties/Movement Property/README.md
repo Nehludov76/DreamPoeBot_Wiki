@@ -1,5 +1,6 @@
 # Movement Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation Movement Property |
 | --- |

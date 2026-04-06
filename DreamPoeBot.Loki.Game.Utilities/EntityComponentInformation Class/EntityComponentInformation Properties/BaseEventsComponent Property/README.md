@@ -1,5 +1,6 @@
 # BaseEventsComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation BaseEventsComponent Property |
 | --- |

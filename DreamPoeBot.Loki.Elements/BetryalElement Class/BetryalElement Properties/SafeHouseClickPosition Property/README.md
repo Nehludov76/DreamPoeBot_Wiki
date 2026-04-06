@@ -1,5 +1,6 @@
 # SafeHouseClickPosition Property 
 
+**Вложено элементов:** 0  
 
 | BetryalElement SafeHouseClickPosition Property |
 | --- |

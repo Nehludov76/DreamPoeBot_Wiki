@@ -1,5 +1,6 @@
 # Tier Property 
 
+**Вложено элементов:** 0  
 
 | BlightDefensiveTower Tier Property |
 | --- |

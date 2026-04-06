@@ -1,5 +1,6 @@
 # OnPointerChanged Method 
 
+**Вложено элементов:** 0  
 
 | MemoryObject OnPointerChanged Method |
 | --- |

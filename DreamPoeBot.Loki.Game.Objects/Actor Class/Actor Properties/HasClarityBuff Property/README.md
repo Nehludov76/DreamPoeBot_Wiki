@@ -1,5 +1,6 @@
 # HasClarityBuff Property 
 
+**Вложено элементов:** 0  
 
 | Actor HasClarityBuff Property |
 | --- |

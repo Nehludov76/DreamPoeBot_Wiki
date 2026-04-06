@@ -1,5 +1,6 @@
 # IdToStatWrapper Field
 
+**Вложено элементов:** 0  
 
 | Dat IdToStatWrapper Field |
 | --- |

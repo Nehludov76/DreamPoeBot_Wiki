@@ -1,5 +1,6 @@
 # IsAscendencyTrialCompleted Method 
 
+**Вложено элементов:** 0  
 
 | Player IsAscendencyTrialCompleted Method |
 | --- |

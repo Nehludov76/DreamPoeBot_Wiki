@@ -1,5 +1,6 @@
 # AllocateSkillsPoints Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState BloodCrucibleUi Skills AllocateSkillsPoints Property |
 | --- |

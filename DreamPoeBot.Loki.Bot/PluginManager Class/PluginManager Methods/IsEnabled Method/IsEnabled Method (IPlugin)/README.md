@@ -1,5 +1,6 @@
 # IsEnabled Method (IPlugin)
 
+**Вложено элементов:** 0  
 
 | PluginManager IsEnabled Method (IPlugin) |
 | --- |

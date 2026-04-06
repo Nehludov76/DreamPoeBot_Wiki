@@ -1,5 +1,6 @@
 # SocketedSkillGemsByLinks Property 
 
+**Вложено элементов:** 0  
 
 | Item SocketedSkillGemsByLinks Property |
 | --- |

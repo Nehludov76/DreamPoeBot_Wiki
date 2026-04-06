@@ -1,5 +1,6 @@
 # ToString Method 
 
+**Вложено элементов:** 0  
 
 | EntityWrapper ToString Method |
 | --- |

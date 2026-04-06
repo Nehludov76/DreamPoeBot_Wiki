@@ -1,5 +1,6 @@
 # TimeSelectedChangedEventHandler Delegate
 
+**Вложено элементов:** 0  
 
 | TimeSelectedChangedEventHandler Delegate |
 | --- |

@@ -1,5 +1,6 @@
 # AddSettings Method 
 
+**Вложено элементов:** 0  
 
 | Configuration AddSettings Method |
 | --- |

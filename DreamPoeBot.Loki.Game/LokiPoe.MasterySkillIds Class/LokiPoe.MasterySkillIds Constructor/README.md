@@ -1,5 +1,6 @@
 # LokiPoe.MasterySkillIds Constructor 
 
+**Вложено элементов:** 0  
 
 | LokiPoe MasterySkillIds Constructor |
 | --- |

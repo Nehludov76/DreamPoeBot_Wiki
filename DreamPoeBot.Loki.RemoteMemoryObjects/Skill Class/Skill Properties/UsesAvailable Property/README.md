@@ -1,5 +1,6 @@
 # UsesAvailable Property 
 
+**Вложено элементов:** 0  
 
 | Skill UsesAvailable Property |
 | --- |

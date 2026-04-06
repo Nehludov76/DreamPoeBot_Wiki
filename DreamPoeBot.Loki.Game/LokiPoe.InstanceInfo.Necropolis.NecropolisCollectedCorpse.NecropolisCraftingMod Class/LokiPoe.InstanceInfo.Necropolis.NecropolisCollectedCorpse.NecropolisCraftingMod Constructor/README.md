@@ -1,5 +1,6 @@
 # LokiPoe.InstanceInfo.Necropolis.NecropolisCollectedCorpse.NecropolisCraftingMod Constructor 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo Necropolis NecropolisCollectedCorpse NecropolisCraftingMod Constructor |
 | --- |

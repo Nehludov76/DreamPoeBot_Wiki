@@ -1,5 +1,6 @@
 # CustomTabMetadata Property 
 
+**Вложено элементов:** 0  
 
 | InventoryControlWrapper CustomTabMetadata Property |
 | --- |

@@ -1,5 +1,6 @@
 # PlaceCursorInto Method (Int32, Int32, Boolean, Boolean)
 
+**Вложено элементов:** 0  
 
 | InventoryControlWrapper PlaceCursorInto Method (Int32, Int32, Boolean, Boolean) |
 | --- |

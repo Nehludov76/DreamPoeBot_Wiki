@@ -1,5 +1,6 @@
 # ChangeToDifficulty Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState LabyrinthMapSelectorUi ChangeToDifficulty Method |
 | --- |

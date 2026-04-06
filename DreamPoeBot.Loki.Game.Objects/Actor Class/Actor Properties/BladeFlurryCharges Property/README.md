@@ -1,5 +1,6 @@
 # BladeFlurryCharges Property 
 
+**Вложено элементов:** 0  
 
 | Actor BladeFlurryCharges Property |
 | --- |

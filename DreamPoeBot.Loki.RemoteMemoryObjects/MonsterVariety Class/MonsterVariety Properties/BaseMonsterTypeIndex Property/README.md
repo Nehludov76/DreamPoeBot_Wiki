@@ -1,5 +1,6 @@
 # BaseMonsterTypeIndex Property 
 
+**Вложено элементов:** 0  
 
 | MonsterVariety BaseMonsterTypeIndex Property |
 | --- |

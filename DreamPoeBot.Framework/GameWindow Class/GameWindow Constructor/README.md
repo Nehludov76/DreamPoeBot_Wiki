@@ -1,5 +1,6 @@
 # GameWindow Constructor 
 
+**Вложено элементов:** 0  
 
 | GameWindow Constructor |
 | --- |

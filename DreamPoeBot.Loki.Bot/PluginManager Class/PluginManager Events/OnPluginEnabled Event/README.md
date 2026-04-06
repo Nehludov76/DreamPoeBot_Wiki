@@ -1,5 +1,6 @@
 # OnPluginEnabled Event
 
+**Вложено элементов:** 0  
 
 | PluginManager OnPluginEnabled Event |
 | --- |

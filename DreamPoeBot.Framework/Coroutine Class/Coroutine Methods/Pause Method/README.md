@@ -1,5 +1,6 @@
 # Pause Method 
 
+**Вложено элементов:** 0  
 
 | Coroutine Pause Method |
 | --- |

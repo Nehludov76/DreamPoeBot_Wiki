@@ -1,5 +1,6 @@
 # Expeditions Property 
 
+**Вложено элементов:** 0  
 
 | ExpeditionSaga Expeditions Property |
 | --- |

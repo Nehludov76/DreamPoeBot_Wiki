@@ -1,5 +1,6 @@
 # IntptrToStructArray(T) Method (Int64, Int32, Int32)
 
+**Вложено элементов:** 0  
 
 | Memory IntptrToStructArray T Method (Int64, Int32, Int32) |
 | --- |

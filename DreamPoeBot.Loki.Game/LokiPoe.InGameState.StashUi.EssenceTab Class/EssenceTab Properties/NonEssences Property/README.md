@@ -1,5 +1,6 @@
 # NonEssences Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState StashUi EssenceTab NonEssences Property |
 | --- |

@@ -1,5 +1,6 @@
 # IsCursable Property 
 
+**Вложено элементов:** 0  
 
 | Monster IsCursable Property |
 | --- |

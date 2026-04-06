@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.StashUi.CurrencyTab.SelectCategoryDelegate Delegate
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState StashUi CurrencyTab SelectCategoryDelegate Delegate |
 | --- |

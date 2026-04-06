@@ -1,5 +1,6 @@
 # Column Property 
 
+**Вложено элементов:** 0  
 
 | SubterainChartElement DelveNode Column Property |
 | --- |

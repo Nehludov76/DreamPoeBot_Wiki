@@ -1,5 +1,6 @@
 # UpdateQuestState Method (DatQuestWrapper)
 
+**Вложено элементов:** 0  
 
 | LokiPoe ClientFunctions UpdateQuestState Method (DatQuestWrapper) |
 | --- |

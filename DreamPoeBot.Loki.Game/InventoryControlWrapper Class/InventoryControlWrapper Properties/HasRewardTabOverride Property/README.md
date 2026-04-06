@@ -1,5 +1,6 @@
 # HasRewardTabOverride Property 
 
+**Вложено элементов:** 0  
 
 | InventoryControlWrapper HasRewardTabOverride Property |
 | --- |

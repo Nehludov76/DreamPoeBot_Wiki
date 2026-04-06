@@ -1,5 +1,6 @@
 # ReadFirstPointerArray_Count Method 
 
+**Вложено элементов:** 0  
 
 | Memory ReadFirstPointerArray_Count Method |
 | --- |

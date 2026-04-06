@@ -1,5 +1,6 @@
 # Wpf Class
 
+**Вложено элементов:** 9  
 
 | Wpf Class |
 | --- |
@@ -32,13 +33,16 @@ public ref class Wpf abstract sealed
 The Wpf type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| FindControlByName T |
-| SetupCheckBoxBinding |
-| SetupComboBoxItemsBinding |
-| SetupComboBoxSelectedItemBinding |
-| SetupLabelBinding |
-| SetupListBoxItemsBinding |
-| SetupListBoxSelectedItemBinding |
-| SetupTextBoxBinding |
+|  | Name | Description |
+| --- | --- | --- |
+|  | FindControlByName T |  |
+|  | SetupCheckBoxBinding |  |
+|  | SetupComboBoxItemsBinding |  |
+|  | SetupComboBoxSelectedItemBinding |  |
+|  | SetupLabelBinding |  |
+|  | SetupListBoxItemsBinding |  |
+|  | SetupListBoxSelectedItemBinding |  |
+|  | SetupTextBoxBinding |  |
+
+## Дочерние разделы
+- [**Wpf Methods**](./Wpf Methods/README.md)

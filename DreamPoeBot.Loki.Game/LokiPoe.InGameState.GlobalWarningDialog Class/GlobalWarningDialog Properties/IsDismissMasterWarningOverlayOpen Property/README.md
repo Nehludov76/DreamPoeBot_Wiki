@@ -1,5 +1,6 @@
 # IsDismissMasterWarningOverlayOpen Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState GlobalWarningDialog IsDismissMasterWarningOverlayOpen Property |
 | --- |

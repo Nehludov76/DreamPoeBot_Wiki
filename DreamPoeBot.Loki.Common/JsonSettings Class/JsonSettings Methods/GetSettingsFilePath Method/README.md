@@ -1,5 +1,6 @@
 # GetSettingsFilePath Method 
 
+**Вложено элементов:** 0  
 
 | JsonSettings GetSettingsFilePath Method |
 | --- |

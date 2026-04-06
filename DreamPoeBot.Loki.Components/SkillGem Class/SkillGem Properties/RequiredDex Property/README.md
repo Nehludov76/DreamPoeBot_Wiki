@@ -1,5 +1,6 @@
 # RequiredDex Property 
 
+**Вложено элементов:** 0  
 
 | SkillGem RequiredDex Property |
 | --- |

@@ -1,5 +1,6 @@
 # StackCount Property 
 
+**Вложено элементов:** 0  
 
 | Item StackCount Property |
 | --- |

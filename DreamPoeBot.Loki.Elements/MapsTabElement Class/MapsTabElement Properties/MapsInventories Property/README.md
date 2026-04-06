@@ -1,5 +1,6 @@
 # MapsInventories Property 
 
+**Вложено элементов:** 0  
 
 | MapsTabElement MapsInventories Property |
 | --- |

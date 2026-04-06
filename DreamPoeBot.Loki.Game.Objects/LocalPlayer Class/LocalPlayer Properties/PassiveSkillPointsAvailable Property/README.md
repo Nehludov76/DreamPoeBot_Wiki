@@ -1,5 +1,6 @@
 # PassiveSkillPointsAvailable Property 
 
+**Вложено элементов:** 0  
 
 | LocalPlayer PassiveSkillPointsAvailable Property |
 | --- |

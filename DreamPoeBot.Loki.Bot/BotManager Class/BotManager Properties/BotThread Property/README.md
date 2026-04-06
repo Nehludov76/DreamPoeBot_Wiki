@@ -1,5 +1,6 @@
 # BotThread Property 
 
+**Вложено элементов:** 0  
 
 | BotManager BotThread Property |
 | --- |

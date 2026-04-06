@@ -1,5 +1,6 @@
 # DetailSampleDist Property 
 
+**Вложено элементов:** 0  
 
 | RecastMeshSettings DetailSampleDist Property |
 | --- |

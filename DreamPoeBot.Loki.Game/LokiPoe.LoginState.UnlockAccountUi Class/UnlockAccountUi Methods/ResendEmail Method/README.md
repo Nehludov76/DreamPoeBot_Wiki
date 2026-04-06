@@ -1,5 +1,6 @@
 # ResendEmail Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe LoginState UnlockAccountUi ResendEmail Method |
 | --- |

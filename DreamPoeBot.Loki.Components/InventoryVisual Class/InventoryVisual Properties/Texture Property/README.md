@@ -1,5 +1,6 @@
 # Texture Property 
 
+**Вложено элементов:** 0  
 
 | InventoryVisual Texture Property |
 | --- |

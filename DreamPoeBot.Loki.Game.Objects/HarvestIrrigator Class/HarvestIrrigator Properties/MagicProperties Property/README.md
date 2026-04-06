@@ -1,5 +1,6 @@
 # MagicProperties Property 
 
+**Вложено элементов:** 0  
 
 | HarvestIrrigator MagicProperties Property |
 | --- |

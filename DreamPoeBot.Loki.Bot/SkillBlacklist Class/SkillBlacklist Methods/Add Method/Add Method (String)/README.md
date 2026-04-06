@@ -1,5 +1,6 @@
 # Add Method (String)
 
+**Вложено элементов:** 0  
 
 | SkillBlacklist Add Method (String) |
 | --- |

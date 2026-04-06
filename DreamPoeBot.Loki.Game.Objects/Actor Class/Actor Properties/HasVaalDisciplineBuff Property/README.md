@@ -1,5 +1,6 @@
 # HasVaalDisciplineBuff Property 
 
+**Вложено элементов:** 0  
 
 | Actor HasVaalDisciplineBuff Property |
 | --- |

@@ -1,5 +1,6 @@
 # RecipeList Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState CraftingBenchPannelUi RecipeList Property |
 | --- |

@@ -1,5 +1,6 @@
 # UltimatumTrialComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation UltimatumTrialComponent Property |
 | --- |

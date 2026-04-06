@@ -1,5 +1,6 @@
 # GetTranslation Method 
 
+**Вложено элементов:** 0  
 
 | Matrix GetTranslation Method |
 | --- |

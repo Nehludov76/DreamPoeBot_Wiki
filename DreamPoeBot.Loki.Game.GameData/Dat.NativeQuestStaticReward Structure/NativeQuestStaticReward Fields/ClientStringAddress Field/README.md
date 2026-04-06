@@ -1,5 +1,6 @@
 # ClientStringAddress Field
 
+**Вложено элементов:** 0  
 
 | Dat NativeQuestStaticReward ClientStringAddress Field |
 | --- |

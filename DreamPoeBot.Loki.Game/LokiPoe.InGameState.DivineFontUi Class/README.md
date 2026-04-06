@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.DivineFontUi Class
 
+**Вложено элементов:** 6  
 
 | LokiPoe InGameState DivineFontUi Class |
 | --- |
@@ -30,13 +31,17 @@ public ref class DivineFontUi abstract sealed
 The LokiPoe InGameState DivineFontUi type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| CraftOptions | List of available craft options, with options to select and IsSelected. |
-| InventoryControl | An InventoryControlWrapper class describing the item slot. |
-| IsOpened | Return true if the Divine Font panel is open. |
+|  | Name | Description |
+| --- | --- | --- |
+|  | CraftOptions | List of available craft options, with options to select and IsSelected. |
+|  | InventoryControl | An InventoryControlWrapper class describing the item slot. |
+|  | IsOpened | Return true if the Divine Font panel is open. |
 
 
-| Name | Description |
-| --- | --- |
-| Craft | Click the craft button. |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Craft | Click the craft button. |
+
+## Дочерние разделы
+- [**DivineFontUi Properties**](./DivineFontUi Properties/README.md)
+- [**DivineFontUi Methods**](./DivineFontUi Methods/README.md)

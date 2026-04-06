@@ -1,5 +1,6 @@
 # FacetedFossil Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState GuildStashUi DelveTab FacetedFossil Property |
 | --- |

@@ -1,5 +1,6 @@
 # AreaInstance Fields
 
+**Вложено элементов:** 1  
 
 | AreaInstance Fields |
 | --- |
@@ -10,6 +11,9 @@
 The AreaInstance type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| TimeEntered |
+|  | Name | Description |
+| --- | --- | --- |
+|  | TimeEntered |  |
+
+## Дочерние разделы
+- [**TimeEntered Field**](./TimeEntered Field/README.md)

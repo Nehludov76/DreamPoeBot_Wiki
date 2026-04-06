@@ -1,5 +1,6 @@
 # Average Property 
 
+**Вложено элементов:** 0  
 
 | LatencyTracker Average Property |
 | --- |

@@ -1,5 +1,6 @@
 # GetTickCount Method 
 
+**Вложено элементов:** 0  
 
 | Interop GetTickCount Method |
 | --- |

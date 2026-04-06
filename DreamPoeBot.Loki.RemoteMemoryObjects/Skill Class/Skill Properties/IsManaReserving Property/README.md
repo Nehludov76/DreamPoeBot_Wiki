@@ -1,5 +1,6 @@
 # IsManaReserving Property 
 
+**Вложено элементов:** 0  
 
 | Skill IsManaReserving Property |
 | --- |

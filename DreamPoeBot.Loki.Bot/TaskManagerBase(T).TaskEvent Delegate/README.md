@@ -1,5 +1,6 @@
 # TaskManagerBase(T).TaskEvent Delegate
 
+**Вложено элементов:** 0  
 
 | TaskManagerBase T TaskEvent Delegate |
 | --- |

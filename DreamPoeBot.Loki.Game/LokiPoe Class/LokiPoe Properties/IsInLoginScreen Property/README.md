@@ -1,5 +1,6 @@
 # IsInLoginScreen Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe IsInLoginScreen Property |
 | --- |

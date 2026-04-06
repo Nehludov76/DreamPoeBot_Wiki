@@ -1,5 +1,6 @@
 # CommonBlackScytheArtifact Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ExpeditionLockerUi CommonBlackScytheArtifact Property |
 | --- |

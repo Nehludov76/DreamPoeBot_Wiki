@@ -1,5 +1,6 @@
 # HasHideout Property 
 
+**Вложено элементов:** 0  
 
 | Player HasHideout Property |
 | --- |

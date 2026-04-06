@@ -1,5 +1,6 @@
 # WindowBordersY Field
 
+**Вложено элементов:** 0  
 
 | Interop WindowInfoWin32 WindowBordersY Field |
 | --- |

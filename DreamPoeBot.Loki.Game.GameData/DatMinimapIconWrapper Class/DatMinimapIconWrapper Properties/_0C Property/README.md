@@ -1,5 +1,6 @@
 # _0C Property 
 
+**Вложено элементов:** 0  
 
 | DatMinimapIconWrapper _0C Property |
 | --- |

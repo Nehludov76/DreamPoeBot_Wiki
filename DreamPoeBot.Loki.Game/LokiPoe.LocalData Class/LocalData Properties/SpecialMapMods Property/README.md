@@ -1,5 +1,6 @@
 # SpecialMapMods Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe LocalData SpecialMapMods Property |
 | --- |

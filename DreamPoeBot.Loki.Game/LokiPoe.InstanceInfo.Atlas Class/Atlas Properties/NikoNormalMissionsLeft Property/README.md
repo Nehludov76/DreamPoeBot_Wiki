@@ -1,5 +1,6 @@
 # NikoNormalMissionsLeft Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo Atlas NikoNormalMissionsLeft Property |
 | --- |

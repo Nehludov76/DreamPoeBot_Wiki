@@ -1,5 +1,6 @@
 # Shuffle(T) Method 
 
+**Вложено элементов:** 0  
 
 | ListExtensions Shuffle T Method |
 | --- |

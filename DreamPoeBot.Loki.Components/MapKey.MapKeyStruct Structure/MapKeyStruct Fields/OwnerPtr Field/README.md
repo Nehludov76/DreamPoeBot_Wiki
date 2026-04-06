@@ -1,5 +1,6 @@
 # OwnerPtr Field
 
+**Вложено элементов:** 0  
 
 | MapKey MapKeyStruct OwnerPtr Field |
 | --- |

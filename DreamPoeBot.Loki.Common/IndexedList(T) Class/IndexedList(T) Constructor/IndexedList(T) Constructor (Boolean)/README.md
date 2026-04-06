@@ -1,5 +1,6 @@
 # IndexedList(T) Constructor (Boolean)
 
+**Вложено элементов:** 0  
 
 | IndexedList T Constructor (Boolean) |
 | --- |

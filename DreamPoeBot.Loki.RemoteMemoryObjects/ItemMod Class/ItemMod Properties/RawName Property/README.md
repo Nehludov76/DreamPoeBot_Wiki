@@ -1,5 +1,6 @@
 # RawName Property 
 
+**Вложено элементов:** 0  
 
 | ItemMod RawName Property |
 | --- |

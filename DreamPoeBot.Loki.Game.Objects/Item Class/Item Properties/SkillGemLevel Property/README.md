@@ -1,5 +1,6 @@
 # SkillGemLevel Property 
 
+**Вложено элементов:** 0  
 
 | Item SkillGemLevel Property |
 | --- |

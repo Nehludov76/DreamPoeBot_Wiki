@@ -1,5 +1,6 @@
 # NotificationTypeEnum Property 
 
+**Вложено элементов:** 0  
 
 | NotificationHudElement NotificationInfo NotificationTypeEnum Property |
 | --- |

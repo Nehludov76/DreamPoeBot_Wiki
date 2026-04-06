@@ -1,5 +1,6 @@
 # open_cosmetics_inventory Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input Binding open_cosmetics_inventory Property |
 | --- |

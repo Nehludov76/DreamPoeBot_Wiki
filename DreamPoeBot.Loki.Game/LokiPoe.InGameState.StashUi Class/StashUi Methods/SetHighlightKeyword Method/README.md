@@ -1,5 +1,6 @@
 # SetHighlightKeyword Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState StashUi SetHighlightKeyword Method |
 | --- |

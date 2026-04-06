@@ -1,5 +1,6 @@
 # LineSegment Constructor 
 
+**Вложено элементов:** 0  
 
 | LineSegment Constructor |
 | --- |

@@ -1,5 +1,6 @@
 # IsInTown Property 
 
+**Вложено элементов:** 0  
 
 | LocalPlayer IsInTown Property |
 | --- |

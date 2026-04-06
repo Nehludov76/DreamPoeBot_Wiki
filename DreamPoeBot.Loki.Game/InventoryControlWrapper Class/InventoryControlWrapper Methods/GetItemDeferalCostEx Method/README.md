@@ -1,5 +1,6 @@
 # GetItemDeferalCostEx Method 
 
+**Вложено элементов:** 0  
 
 | InventoryControlWrapper GetItemDeferalCostEx Method |
 | --- |

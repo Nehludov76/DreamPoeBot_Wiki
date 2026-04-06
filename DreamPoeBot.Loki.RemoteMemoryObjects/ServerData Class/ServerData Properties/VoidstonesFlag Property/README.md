@@ -1,5 +1,6 @@
 # VoidstonesFlag Property 
 
+**Вложено элементов:** 0  
 
 | ServerData VoidstonesFlag Property |
 | --- |

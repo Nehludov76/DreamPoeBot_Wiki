@@ -1,5 +1,6 @@
 # MerchantUI Properties
 
+**Вложено элементов:** 5  
 
 | MerchantUI Properties |
 | --- |
@@ -10,10 +11,17 @@
 The LokiPoe InGameState MerchantUI type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Earnings | List of Items contained in the Earnings Tab. When invoked, it automatically switch to the Earnings tab. |
-| IsOpened | Return true if the Merchant UI is visible |
-| LowerTabControl | Lower TabControl (Merchatn tabs). Prefer SwitchToTabMouse for this control. |
-| MerchantInventoryControl | The InventoryControlWrapper for the Merchant Tab. When invoked, it automatically switch to the Merchant tab. |
-| UpperTabControl | Upper TabControl (Merchant/Earnings). This control allow you to move between tabs. Prefer SwitchToTabKeyboard for this control. |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Earnings | List of Items contained in the Earnings Tab. When invoked, it automatically switch to the Earnings tab. |
+|  | IsOpened | Return true if the Merchant UI is visible |
+|  | LowerTabControl | Lower TabControl (Merchatn tabs). Prefer SwitchToTabMouse for this control. |
+|  | MerchantInventoryControl | The InventoryControlWrapper for the Merchant Tab. When invoked, it automatically switch to the Merchant tab. |
+|  | UpperTabControl | Upper TabControl (Merchant/Earnings). This control allow you to move between tabs. Prefer SwitchToTabKeyboard for this control. |
+
+## Дочерние разделы
+- [**Earnings Property **](./Earnings Property/README.md)
+- [**IsOpened Property **](./IsOpened Property/README.md)
+- [**LowerTabControl Property **](./LowerTabControl Property/README.md)
+- [**MerchantInventoryControl Property **](./MerchantInventoryControl Property/README.md)
+- [**UpperTabControl Property **](./UpperTabControl Property/README.md)

@@ -1,5 +1,6 @@
 # HideoutDoodad Field
 
+**Вложено элементов:** 0  
 
 | ItemClasses HideoutDoodad Field |
 | --- |

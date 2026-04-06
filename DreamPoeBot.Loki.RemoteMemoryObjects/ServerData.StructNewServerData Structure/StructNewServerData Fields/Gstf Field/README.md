@@ -1,5 +1,6 @@
 # Gstf Field
 
+**Вложено элементов:** 0  
 
 | ServerData StructNewServerData Gstf Field |
 | --- |

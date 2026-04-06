@@ -1,5 +1,6 @@
 # DisplayIndex Property 
 
+**Вложено элементов:** 0  
 
 | StashTabInfo DisplayIndex Property |
 | --- |

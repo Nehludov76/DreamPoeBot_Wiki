@@ -1,5 +1,6 @@
 # DiagnosticElementNew Constructor 
 
+**Вложено элементов:** 0  
 
 | DiagnosticElementNew Constructor |
 | --- |

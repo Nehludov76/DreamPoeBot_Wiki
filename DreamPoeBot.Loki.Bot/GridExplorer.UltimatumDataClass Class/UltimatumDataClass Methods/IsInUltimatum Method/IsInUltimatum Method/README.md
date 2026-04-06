@@ -1,5 +1,6 @@
 # IsInUltimatum Method 
 
+**Вложено элементов:** 0  
 
 | GridExplorer UltimatumDataClass IsInUltimatum Method |
 | --- |

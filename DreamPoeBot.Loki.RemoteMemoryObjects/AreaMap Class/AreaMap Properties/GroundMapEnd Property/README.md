@@ -1,5 +1,6 @@
 # GroundMapEnd Property 
 
+**Вложено элементов:** 0  
 
 | AreaMap GroundMapEnd Property |
 | --- |

@@ -1,5 +1,6 @@
 # TrialTitle Property 
 
+**Вложено элементов:** 0  
 
 | UltimatumChallengeInteractable TrialTitle Property |
 | --- |

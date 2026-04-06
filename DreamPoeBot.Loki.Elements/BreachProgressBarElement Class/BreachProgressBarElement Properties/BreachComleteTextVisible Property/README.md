@@ -1,5 +1,6 @@
 # BreachComleteTextVisible Property 
 
+**Вложено элементов:** 0  
 
 | BreachProgressBarElement BreachComleteTextVisible Property |
 | --- |

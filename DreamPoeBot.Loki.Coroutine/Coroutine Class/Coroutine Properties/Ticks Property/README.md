@@ -1,5 +1,6 @@
 # Ticks Property 
 
+**Вложено элементов:** 0  
 
 | Coroutine Ticks Property |
 | --- |

@@ -1,5 +1,6 @@
 # GetInstance Method 
 
+**Вложено элементов:** 0  
 
 | ThirdPartyLoader GetInstance Method |
 | --- |

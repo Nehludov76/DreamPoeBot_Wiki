@@ -1,5 +1,6 @@
 # ArmourComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation ArmourComponent Property |
 | --- |

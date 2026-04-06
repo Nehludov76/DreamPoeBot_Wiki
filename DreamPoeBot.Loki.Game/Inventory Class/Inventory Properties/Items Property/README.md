@@ -1,5 +1,6 @@
 # Items Property 
 
+**Вложено элементов:** 0  
 
 | Inventory Items Property |
 | --- |

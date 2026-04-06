@@ -1,5 +1,6 @@
 # GridExplorer.SynthesisDataClass Constructor 
 
+**Вложено элементов:** 0  
 
 | GridExplorer SynthesisDataClass Constructor |
 | --- |

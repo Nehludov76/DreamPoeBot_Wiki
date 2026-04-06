@@ -1,5 +1,6 @@
 # MirroredTablePannel Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements MirroredTablePannel Property |
 | --- |

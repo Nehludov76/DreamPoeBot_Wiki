@@ -1,5 +1,6 @@
 # ActorFlags Property 
 
+**Вложено элементов:** 0  
 
 | Actor ActorFlags Property |
 | --- |

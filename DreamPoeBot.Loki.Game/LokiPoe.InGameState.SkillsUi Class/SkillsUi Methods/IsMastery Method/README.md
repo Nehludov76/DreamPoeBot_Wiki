@@ -1,5 +1,6 @@
 # IsMastery Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SkillsUi IsMastery Method |
 | --- |

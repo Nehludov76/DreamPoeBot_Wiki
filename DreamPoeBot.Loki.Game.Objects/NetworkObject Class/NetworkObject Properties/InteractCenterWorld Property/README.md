@@ -1,5 +1,6 @@
 # InteractCenterWorld Property 
 
+**Вложено элементов:** 0  
 
 | NetworkObject InteractCenterWorld Property |
 | --- |

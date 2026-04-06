@@ -1,5 +1,6 @@
 # PosX Property 
 
+**Вложено элементов:** 0  
 
 | CurrencyStashTabLayouts CurrencyStashTabLayoutHardcoded PosX Property |
 | --- |

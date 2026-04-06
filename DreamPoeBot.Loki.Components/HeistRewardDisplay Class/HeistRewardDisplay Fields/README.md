@@ -1,5 +1,6 @@
 # HeistRewardDisplay Fields
 
+**Вложено элементов:** 0  
 
 | HeistRewardDisplay Fields |
 | --- |
@@ -10,6 +11,6 @@
 The HeistRewardDisplay type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| NeedUpdate | (Inherited from RemoteMemoryObject .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | NeedUpdate | (Inherited from RemoteMemoryObject .) |

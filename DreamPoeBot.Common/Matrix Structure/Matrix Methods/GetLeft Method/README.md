@@ -1,5 +1,6 @@
 # GetLeft Method 
 
+**Вложено элементов:** 0  
 
 | Matrix GetLeft Method |
 | --- |

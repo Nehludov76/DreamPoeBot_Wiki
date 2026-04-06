@@ -1,5 +1,6 @@
 # HeistContractElement Constructor 
 
+**Вложено элементов:** 0  
 
 | HeistContractElement Constructor |
 | --- |

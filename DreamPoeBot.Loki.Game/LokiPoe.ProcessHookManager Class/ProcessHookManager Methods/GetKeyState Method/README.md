@@ -1,5 +1,6 @@
 # GetKeyState Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe ProcessHookManager GetKeyState Method |
 | --- |

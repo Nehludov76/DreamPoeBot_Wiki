@@ -1,5 +1,6 @@
 # GetVoteForOption Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState UltimatumTrialRewardUi GetVoteForOption Method |
 | --- |

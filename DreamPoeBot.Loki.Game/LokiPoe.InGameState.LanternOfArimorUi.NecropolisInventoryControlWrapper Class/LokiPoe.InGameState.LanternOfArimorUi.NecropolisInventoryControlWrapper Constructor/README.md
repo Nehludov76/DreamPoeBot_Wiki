@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.LanternOfArimorUi.NecropolisInventoryControlWrapper Constructor 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState LanternOfArimorUi NecropolisInventoryControlWrapper Constructor |
 | --- |

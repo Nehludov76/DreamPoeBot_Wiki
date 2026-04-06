@@ -1,5 +1,6 @@
 # StatsDat.StatRecord Constructor 
 
+**Вложено элементов:** 0  
 
 | StatsDat StatRecord Constructor |
 | --- |

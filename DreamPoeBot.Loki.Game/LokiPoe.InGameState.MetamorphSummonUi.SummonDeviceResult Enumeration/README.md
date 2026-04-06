@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.MetamorphSummonUi.SummonDeviceResult Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState MetamorphSummonUi SummonDeviceResult Enumeration |
 | --- |
@@ -30,8 +31,8 @@ public enum class SummonDeviceResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| ButtonUiNotOpen | 1 |
-| ButtonNotEnable | 2 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | ButtonUiNotOpen | 1 |  |
+|  | ButtonNotEnable | 2 |  |

@@ -1,5 +1,6 @@
 # CompressString Method 
 
+**Вложено элементов:** 0  
 
 | StringExtension CompressString Method |
 | --- |

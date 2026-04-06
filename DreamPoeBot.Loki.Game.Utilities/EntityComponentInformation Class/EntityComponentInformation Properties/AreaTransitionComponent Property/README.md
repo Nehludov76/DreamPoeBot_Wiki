@@ -1,5 +1,6 @@
 # AreaTransitionComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation AreaTransitionComponent Property |
 | --- |

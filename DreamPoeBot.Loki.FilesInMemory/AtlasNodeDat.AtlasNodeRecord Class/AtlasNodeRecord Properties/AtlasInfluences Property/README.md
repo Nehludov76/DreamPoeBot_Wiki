@@ -1,5 +1,6 @@
 # AtlasInfluences Property 
 
+**Вложено элементов:** 0  
 
 | AtlasNodeDat AtlasNodeRecord AtlasInfluences Property |
 | --- |

@@ -1,5 +1,6 @@
 # CanFitItem Method (Vector2i)
 
+**Вложено элементов:** 0  
 
 | Inventory CanFitItem Method (Vector2i) |
 | --- |

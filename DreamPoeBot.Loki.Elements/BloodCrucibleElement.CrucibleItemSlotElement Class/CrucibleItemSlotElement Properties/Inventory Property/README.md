@@ -1,5 +1,6 @@
 # Inventory Property 
 
+**Вложено элементов:** 0  
 
 | BloodCrucibleElement CrucibleItemSlotElement Inventory Property |
 | --- |

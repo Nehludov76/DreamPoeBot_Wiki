@@ -1,5 +1,6 @@
 # WorldAreaId Property 
 
+**Вложено элементов:** 0  
 
 | PantheonSoulsDatFileWrapper PantheonSoulsDatFileHardcoded WorldAreaId Property |
 | --- |

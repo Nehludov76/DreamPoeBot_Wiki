@@ -1,5 +1,6 @@
 # nativeVector_5List_1VaalSkills Field
 
+**Вложено элементов:** 0  
 
 | Actor ActorStruct137 nativeVector_5List_1VaalSkills Field |
 | --- |

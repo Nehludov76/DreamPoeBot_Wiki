@@ -1,5 +1,6 @@
 # Pickup Method (Boolean)
 
+**Вложено элементов:** 0  
 
 | InventoryControlWrapper Pickup Method (Boolean) |
 | --- |

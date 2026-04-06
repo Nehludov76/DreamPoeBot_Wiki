@@ -1,5 +1,6 @@
 # IsHidden Property 
 
+**Вложено элементов:** 0  
 
 | FragmentStashTabLayouts FragmentStashTabLayoutHardcoded IsHidden Property |
 | --- |

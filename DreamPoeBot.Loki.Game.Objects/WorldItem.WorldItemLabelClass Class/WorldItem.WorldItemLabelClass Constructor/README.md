@@ -1,5 +1,6 @@
 # WorldItem.WorldItemLabelClass Constructor 
 
+**Вложено элементов:** 0  
 
 | WorldItem WorldItemLabelClass Constructor |
 | --- |

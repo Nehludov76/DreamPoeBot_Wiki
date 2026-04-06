@@ -1,5 +1,6 @@
 # OnBotChanged Event
 
+**Вложено элементов:** 0  
 
 | BotManager OnBotChanged Event |
 | --- |

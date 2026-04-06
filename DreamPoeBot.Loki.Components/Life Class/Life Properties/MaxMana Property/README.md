@@ -1,5 +1,6 @@
 # MaxMana Property 
 
+**Вложено элементов:** 0  
 
 | Life MaxMana Property |
 | --- |

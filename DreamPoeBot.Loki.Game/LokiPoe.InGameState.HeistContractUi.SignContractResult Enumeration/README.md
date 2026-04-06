@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.HeistContractUi.SignContractResult Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState HeistContractUi SignContractResult Enumeration |
 | --- |
@@ -30,10 +31,10 @@ public enum class SignContractResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| ProcessHookManagerNotEnabled | 1 |
-| UiNotOpen | 2 |
-| ButtonNotEnabled | 3 |
-| ButtonElementIsNull | 4 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | ProcessHookManagerNotEnabled | 1 |  |
+|  | UiNotOpen | 2 |  |
+|  | ButtonNotEnabled | 3 |  |
+|  | ButtonElementIsNull | 4 |  |

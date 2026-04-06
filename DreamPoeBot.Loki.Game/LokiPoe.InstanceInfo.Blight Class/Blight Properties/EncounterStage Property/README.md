@@ -1,5 +1,6 @@
 # EncounterStage Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo Blight EncounterStage Property |
 | --- |

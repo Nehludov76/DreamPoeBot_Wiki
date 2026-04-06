@@ -1,5 +1,6 @@
 # IsCursedWithConductivity Property 
 
+**Вложено элементов:** 0  
 
 | Actor IsCursedWithConductivity Property |
 | --- |

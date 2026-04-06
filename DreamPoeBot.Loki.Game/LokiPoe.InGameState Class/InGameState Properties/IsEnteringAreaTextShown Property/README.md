@@ -1,5 +1,6 @@
 # IsEnteringAreaTextShown Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState IsEnteringAreaTextShown Property |
 | --- |

@@ -1,5 +1,6 @@
 # Anoint Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState AnointingUi Anoint Method |
 | --- |

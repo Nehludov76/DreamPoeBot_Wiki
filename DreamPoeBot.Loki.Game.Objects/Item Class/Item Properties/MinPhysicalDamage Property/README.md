@@ -1,5 +1,6 @@
 # MinPhysicalDamage Property 
 
+**Вложено элементов:** 0  
 
 | Item MinPhysicalDamage Property |
 | --- |

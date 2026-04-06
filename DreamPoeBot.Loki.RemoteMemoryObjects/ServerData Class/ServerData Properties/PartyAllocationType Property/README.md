@@ -1,5 +1,6 @@
 # PartyAllocationType Property 
 
+**Вложено элементов:** 0  
 
 | ServerData PartyAllocationType Property |
 | --- |

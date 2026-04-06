@@ -1,5 +1,6 @@
 # NewTime Property 
 
+**Вложено элементов:** 0  
 
 | TimeSelectedChangedRoutedEventArgs NewTime Property |
 | --- |

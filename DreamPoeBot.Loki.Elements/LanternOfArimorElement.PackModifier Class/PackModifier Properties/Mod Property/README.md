@@ -1,5 +1,6 @@
 # Mod Property 
 
+**Вложено элементов:** 0  
 
 | LanternOfArimorElement PackModifier Mod Property |
 | --- |

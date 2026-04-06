@@ -1,5 +1,6 @@
 # NrOfMaps Property 
 
+**Вложено элементов:** 0  
 
 | MapsTabElement TierElementClass NrOfMaps Property |
 | --- |

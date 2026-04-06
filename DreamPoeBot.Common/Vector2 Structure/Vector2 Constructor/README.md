@@ -1,5 +1,6 @@
 # Vector2 Constructor 
 
+**Вложено элементов:** 0  
 
 | Vector2 Constructor |
 | --- |

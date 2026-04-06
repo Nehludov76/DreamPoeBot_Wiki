@@ -1,5 +1,6 @@
 # OnInjectionDisabledByIngecion Field
 
+**Вложено элементов:** 0  
 
 | LokiPoe ProcessHookManager OnInjectionDisabledByIngecion Field |
 | --- |

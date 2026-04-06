@@ -1,5 +1,6 @@
 # SelectCharacterStatePtr Field
 
+**Вложено элементов:** 0  
 
 | GameStateController SelectCharacterStatePtr Field |
 | --- |

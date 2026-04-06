@@ -1,5 +1,6 @@
 # IsMineShaft Property 
 
+**Вложено элементов:** 0  
 
 | SubterainChartElement DelveNode IsMineShaft Property |
 | --- |

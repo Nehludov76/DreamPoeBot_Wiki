@@ -1,5 +1,6 @@
 # PlayerGolds Property 
 
+**Вложено элементов:** 0  
 
 | ServerData PlayerGolds Property |
 | --- |

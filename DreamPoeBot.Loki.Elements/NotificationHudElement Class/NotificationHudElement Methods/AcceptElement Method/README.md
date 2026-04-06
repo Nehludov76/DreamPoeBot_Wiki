@@ -1,5 +1,6 @@
 # AcceptElement Method 
 
+**Вложено элементов:** 0  
 
 | NotificationHudElement AcceptElement Method |
 | --- |

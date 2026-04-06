@@ -1,5 +1,6 @@
 # WM_PASTE Field
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input WM_PASTE Field |
 | --- |

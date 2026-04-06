@@ -1,5 +1,6 @@
 # PerFramesCachedValue(T) Events
 
+**Вложено элементов:** 0  
 
 | PerFramesCachedValue T Events |
 | --- |
@@ -10,6 +11,6 @@
 The PerFramesCachedValue T generic type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| OnCacheUpdate | (Inherited from PerCachedValue T .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | OnCacheUpdate | (Inherited from PerCachedValue T .) |

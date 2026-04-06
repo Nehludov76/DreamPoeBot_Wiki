@@ -1,5 +1,6 @@
 # XOffset Property 
 
+**Вложено элементов:** 0  
 
 | CurrencyStashTabLayouts CurrencyStashTabLayoutJson XOffset Property |
 | --- |

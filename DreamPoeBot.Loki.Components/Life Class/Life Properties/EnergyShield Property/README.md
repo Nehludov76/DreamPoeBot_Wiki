@@ -1,5 +1,6 @@
 # EnergyShield Property 
 
+**Вложено элементов:** 0  
 
 | Life EnergyShield Property |
 | --- |

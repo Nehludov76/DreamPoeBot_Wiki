@@ -1,5 +1,6 @@
 # LocalStats Constructor (Int64)
 
+**Вложено элементов:** 0  
 
 | LocalStats Constructor (Int64) |
 | --- |

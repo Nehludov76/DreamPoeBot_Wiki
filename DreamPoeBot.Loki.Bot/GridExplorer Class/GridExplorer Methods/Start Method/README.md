@@ -1,5 +1,6 @@
 # Start Method 
 
+**Вложено элементов:** 0  
 
 | GridExplorer Start Method |
 | --- |

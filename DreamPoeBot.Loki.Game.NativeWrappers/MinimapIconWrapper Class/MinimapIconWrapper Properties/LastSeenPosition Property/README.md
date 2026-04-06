@@ -1,5 +1,6 @@
 # LastSeenPosition Property 
 
+**Вложено элементов:** 0  
 
 | MinimapIconWrapper LastSeenPosition Property |
 | --- |

@@ -1,5 +1,6 @@
 # IsPremiumFlagged Property 
 
+**Вложено элементов:** 0  
 
 | StashTabInfo IsPremiumFlagged Property |
 | --- |

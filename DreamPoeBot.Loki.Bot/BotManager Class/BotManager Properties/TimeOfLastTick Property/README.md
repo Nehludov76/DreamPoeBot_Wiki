@@ -1,5 +1,6 @@
 # TimeOfLastTick Property 
 
+**Вложено элементов:** 0  
 
 | BotManager TimeOfLastTick Property |
 | --- |

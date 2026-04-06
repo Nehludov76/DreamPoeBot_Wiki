@@ -1,5 +1,6 @@
 # CanBeCrafted Property 
 
+**Вложено элементов:** 0  
 
 | HorticraftingElement Recipe CanBeCrafted Property |
 | --- |

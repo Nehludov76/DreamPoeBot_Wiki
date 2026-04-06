@@ -1,5 +1,6 @@
 # MasteryPassive Field
 
+**Вложено элементов:** 0  
 
 | ServerData StructServerDataExtra MasteryPassive Field |
 | --- |

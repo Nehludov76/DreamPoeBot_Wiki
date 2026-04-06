@@ -1,5 +1,6 @@
 # HideRemoveOnlyTabs Property 
 
+**Вложено элементов:** 0  
 
 | StashElement HideRemoveOnlyTabs Property |
 | --- |

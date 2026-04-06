@@ -1,5 +1,6 @@
 # IsKeyDown Method 
 
+**Вложено элементов:** 0  
 
 | WinApi IsKeyDown Method |
 | --- |

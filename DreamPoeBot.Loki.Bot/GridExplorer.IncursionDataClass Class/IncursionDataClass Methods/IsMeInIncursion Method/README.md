@@ -1,5 +1,6 @@
 # IsMeInIncursion Method 
 
+**Вложено элементов:** 0  
 
 | GridExplorer IncursionDataClass IsMeInIncursion Method |
 | --- |

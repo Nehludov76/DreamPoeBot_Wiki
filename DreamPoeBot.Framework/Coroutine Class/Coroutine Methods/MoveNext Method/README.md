@@ -1,5 +1,6 @@
 # MoveNext Method 
 
+**Вложено элементов:** 0  
 
 | Coroutine MoveNext Method |
 | --- |

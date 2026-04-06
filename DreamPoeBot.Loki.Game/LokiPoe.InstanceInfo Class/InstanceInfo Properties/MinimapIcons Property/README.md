@@ -1,5 +1,6 @@
 # MinimapIcons Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo MinimapIcons Property |
 | --- |

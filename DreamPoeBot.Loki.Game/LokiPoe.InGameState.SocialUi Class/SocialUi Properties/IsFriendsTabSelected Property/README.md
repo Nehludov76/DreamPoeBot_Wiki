@@ -1,5 +1,6 @@
 # IsFriendsTabSelected Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SocialUi IsFriendsTabSelected Property |
 | --- |

@@ -1,5 +1,6 @@
 # PlayerBoots Property 
 
+**Вложено элементов:** 0  
 
 | InventoryElement PlayerBoots Property |
 | --- |

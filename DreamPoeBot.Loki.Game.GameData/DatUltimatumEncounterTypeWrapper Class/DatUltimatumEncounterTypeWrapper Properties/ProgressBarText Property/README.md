@@ -1,5 +1,6 @@
 # ProgressBarText Property 
 
+**Вложено элементов:** 0  
 
 | DatUltimatumEncounterTypeWrapper ProgressBarText Property |
 | --- |

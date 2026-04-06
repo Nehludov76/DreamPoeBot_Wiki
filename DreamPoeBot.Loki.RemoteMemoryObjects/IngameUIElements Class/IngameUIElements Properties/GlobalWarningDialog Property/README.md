@@ -1,5 +1,6 @@
 # GlobalWarningDialog Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements GlobalWarningDialog Property |
 | --- |

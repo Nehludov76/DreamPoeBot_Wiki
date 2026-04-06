@@ -1,5 +1,6 @@
 # DiagnosticInfoType Enumeration
 
+**Вложено элементов:** 0  
 
 | DiagnosticInfoType Enumeration |
 | --- |
@@ -30,8 +31,8 @@ public enum class DiagnosticInfoType
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| Off | 0 |
-| Full | 1 |
-| Short | 2 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | Off | 0 |  |
+|  | Full | 1 |  |
+|  | Short | 2 |  |

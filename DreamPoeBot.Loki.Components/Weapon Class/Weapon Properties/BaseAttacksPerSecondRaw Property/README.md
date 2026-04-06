@@ -1,5 +1,6 @@
 # BaseAttacksPerSecondRaw Property 
 
+**Вложено элементов:** 0  
 
 | Weapon BaseAttacksPerSecondRaw Property |
 | --- |

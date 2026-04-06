@@ -1,5 +1,6 @@
 # ex_get_patch_offset Method 
 
+**Вложено элементов:** 0  
 
 | WinApi ex_get_patch_offset Method |
 | --- |

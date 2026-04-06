@@ -1,5 +1,6 @@
 # MercenaryEncounterUi Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements MercenaryEncounterUi Property |
 | --- |

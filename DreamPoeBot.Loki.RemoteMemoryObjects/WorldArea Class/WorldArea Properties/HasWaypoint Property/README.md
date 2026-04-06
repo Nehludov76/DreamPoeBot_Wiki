@@ -1,5 +1,6 @@
 # HasWaypoint Property 
 
+**Вложено элементов:** 0  
 
 | WorldArea HasWaypoint Property |
 | --- |

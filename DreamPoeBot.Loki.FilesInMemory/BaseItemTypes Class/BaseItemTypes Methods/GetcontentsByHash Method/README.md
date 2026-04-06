@@ -1,5 +1,6 @@
 # GetcontentsByHash Method 
 
+**Вложено элементов:** 0  
 
 | BaseItemTypes GetcontentsByHash Method |
 | --- |

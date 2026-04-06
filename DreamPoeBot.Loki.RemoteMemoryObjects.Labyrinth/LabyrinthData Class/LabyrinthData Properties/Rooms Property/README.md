@@ -1,5 +1,6 @@
 # Rooms Property 
 
+**Вложено элементов:** 0  
 
 | LabyrinthData Rooms Property |
 | --- |

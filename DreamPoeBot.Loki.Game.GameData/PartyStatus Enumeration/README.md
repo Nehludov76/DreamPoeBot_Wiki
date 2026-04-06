@@ -1,5 +1,6 @@
 # PartyStatus Enumeration
 
+**Вложено элементов:** 0  
 
 | PartyStatus Enumeration |
 | --- |
@@ -30,9 +31,9 @@ public enum class PartyStatus
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| PartyLeader | 0 |
-| Invited | 1 |
-| PartyMember | 2 |
-| None | 3 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | PartyLeader | 0 |  |
+|  | Invited | 1 |  |
+|  | PartyMember | 2 |  |
+|  | None | 3 |  |

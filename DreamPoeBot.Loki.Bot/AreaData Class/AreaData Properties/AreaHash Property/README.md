@@ -1,5 +1,6 @@
 # AreaHash Property 
 
+**Вложено элементов:** 0  
 
 | AreaData AreaHash Property |
 | --- |

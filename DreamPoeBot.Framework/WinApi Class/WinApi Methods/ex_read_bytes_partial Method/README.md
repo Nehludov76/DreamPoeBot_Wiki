@@ -1,5 +1,6 @@
 # ex_read_bytes_partial Method 
 
+**Вложено элементов:** 0  
 
 | WinApi ex_read_bytes_partial Method |
 | --- |

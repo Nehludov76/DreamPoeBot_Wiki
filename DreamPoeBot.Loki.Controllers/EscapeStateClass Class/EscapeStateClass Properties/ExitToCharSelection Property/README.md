@@ -1,5 +1,6 @@
 # ExitToCharSelection Property 
 
+**Вложено элементов:** 0  
 
 | EscapeStateClass ExitToCharSelection Property |
 | --- |

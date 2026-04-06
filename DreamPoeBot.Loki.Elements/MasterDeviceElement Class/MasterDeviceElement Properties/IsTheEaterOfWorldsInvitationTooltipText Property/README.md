@@ -1,5 +1,6 @@
 # IsTheEaterOfWorldsInvitationTooltipText Property 
 
+**Вложено элементов:** 0  
 
 | MasterDeviceElement IsTheEaterOfWorldsInvitationTooltipText Property |
 | --- |

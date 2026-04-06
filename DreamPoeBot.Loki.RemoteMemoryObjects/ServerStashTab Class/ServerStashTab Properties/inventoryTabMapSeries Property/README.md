@@ -1,5 +1,6 @@
 # inventoryTabMapSeries Property 
 
+**Вложено элементов:** 0  
 
 | ServerStashTab inventoryTabMapSeries Property |
 | --- |

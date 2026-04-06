@@ -1,5 +1,6 @@
 # IsNotOnAtlas Field
 
+**Вложено элементов:** 0  
 
 | AtlasNodeDat AtlasNodeRecordStruct IsNotOnAtlas Field |
 | --- |

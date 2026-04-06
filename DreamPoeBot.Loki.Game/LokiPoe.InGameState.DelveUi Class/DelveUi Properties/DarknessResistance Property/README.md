@@ -1,5 +1,6 @@
 # DarknessResistance Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState DelveUi DarknessResistance Property |
 | --- |

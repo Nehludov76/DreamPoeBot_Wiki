@@ -1,5 +1,6 @@
 # StrDexMasterExperienceLevels Property 
 
+**Вложено элементов:** 0  
 
 | GameConstants StrDexMasterExperienceLevels Property |
 | --- |

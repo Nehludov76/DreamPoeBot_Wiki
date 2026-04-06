@@ -1,5 +1,6 @@
 # CorpseName Property 
 
+**Вложено элементов:** 0  
 
 | NecropolisCorpseElement CorpseName Property |
 | --- |

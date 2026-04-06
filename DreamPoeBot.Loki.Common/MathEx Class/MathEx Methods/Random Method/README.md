@@ -1,5 +1,6 @@
 # Random Method 
 
+**Вложено элементов:** 0  
 
 | MathEx Random Method |
 | --- |

@@ -1,5 +1,6 @@
 # BetryalUi Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements BetryalUi Property |
 | --- |

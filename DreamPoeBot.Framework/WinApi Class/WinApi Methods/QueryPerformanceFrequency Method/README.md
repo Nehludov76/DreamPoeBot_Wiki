@@ -1,5 +1,6 @@
 # QueryPerformanceFrequency Method 
 
+**Вложено элементов:** 0  
 
 | WinApi QueryPerformanceFrequency Method |
 | --- |

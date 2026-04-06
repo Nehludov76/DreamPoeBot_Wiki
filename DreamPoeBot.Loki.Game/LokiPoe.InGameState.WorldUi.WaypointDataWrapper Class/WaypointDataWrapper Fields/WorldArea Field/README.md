@@ -1,5 +1,6 @@
 # WorldArea Field
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState WorldUi WaypointDataWrapper WorldArea Field |
 | --- |

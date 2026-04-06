@@ -1,5 +1,6 @@
 # Current Property 
 
+**Вложено элементов:** 0  
 
 | LatencyTracker Current Property |
 | --- |

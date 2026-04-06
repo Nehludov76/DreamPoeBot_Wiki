@@ -1,5 +1,6 @@
 # VoidstoneFlags Enumeration
 
+**Вложено элементов:** 0  
 
 | VoidstoneFlags Enumeration |
 | --- |
@@ -30,9 +31,9 @@
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| Originator | 1 |
-| Decayed | 2 |
-| Ceremonial | 4 |
-| Eldritch | 8 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | Originator | 1 |  |
+|  | Decayed | 2 |  |
+|  | Ceremonial | 4 |  |
+|  | Eldritch | 8 |  |

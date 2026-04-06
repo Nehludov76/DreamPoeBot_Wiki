@@ -1,5 +1,6 @@
 # GoldElement Property 
 
+**Вложено элементов:** 0  
 
 | CurrencyExchangeElement GoldElement Property |
 | --- |

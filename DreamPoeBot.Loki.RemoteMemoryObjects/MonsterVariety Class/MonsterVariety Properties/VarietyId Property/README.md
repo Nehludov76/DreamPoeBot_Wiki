@@ -1,5 +1,6 @@
 # VarietyId Property 
 
+**Вложено элементов:** 0  
 
 | MonsterVariety VarietyId Property |
 | --- |

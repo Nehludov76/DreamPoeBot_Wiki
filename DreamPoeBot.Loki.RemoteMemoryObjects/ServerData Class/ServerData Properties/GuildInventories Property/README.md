@@ -1,5 +1,6 @@
 # GuildInventories Property 
 
+**Вложено элементов:** 0  
 
 | ServerData GuildInventories Property |
 | --- |

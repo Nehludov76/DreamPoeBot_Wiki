@@ -1,5 +1,6 @@
 # IntRange Constructor (Int32, Int32)
 
+**Вложено элементов:** 0  
 
 | IntRange Constructor (Int32, Int32) |
 | --- |

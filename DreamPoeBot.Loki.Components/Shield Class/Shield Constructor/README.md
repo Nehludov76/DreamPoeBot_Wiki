@@ -1,5 +1,6 @@
 # Shield Constructor 
 
+**Вложено элементов:** 0  
 
 | Shield Constructor |
 | --- |

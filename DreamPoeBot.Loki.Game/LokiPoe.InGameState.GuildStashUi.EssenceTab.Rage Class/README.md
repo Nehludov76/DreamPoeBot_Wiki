@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.GuildStashUi.EssenceTab.Rage Class
 
+**Вложено элементов:** 6  
 
 | LokiPoe InGameState GuildStashUi EssenceTab Rage Class |
 | --- |
@@ -32,10 +33,13 @@ public ref class Rage abstract sealed
 The LokiPoe InGameState GuildStashUi EssenceTab Rage type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Deafening |
-| Screaming |
-| Shrieking |
-| Wailing |
-| Weeping |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Deafening |  |
+|  | Screaming |  |
+|  | Shrieking |  |
+|  | Wailing |  |
+|  | Weeping |  |
+
+## Дочерние разделы
+- [**Rage Properties**](./Rage Properties/README.md)

@@ -1,5 +1,6 @@
 # IsHideout Property 
 
+**Вложено элементов:** 0  
 
 | AreaInstance IsHideout Property |
 | --- |

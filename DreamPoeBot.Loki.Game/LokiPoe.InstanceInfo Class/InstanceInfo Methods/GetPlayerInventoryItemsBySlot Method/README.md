@@ -1,5 +1,6 @@
 # GetPlayerInventoryItemsBySlot Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo GetPlayerInventoryItemsBySlot Method |
 | --- |

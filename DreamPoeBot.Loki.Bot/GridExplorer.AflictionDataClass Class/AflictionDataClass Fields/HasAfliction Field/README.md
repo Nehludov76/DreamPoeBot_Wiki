@@ -1,5 +1,6 @@
 # HasAfliction Field
 
+**Вложено элементов:** 0  
 
 | GridExplorer AflictionDataClass HasAfliction Field |
 | --- |

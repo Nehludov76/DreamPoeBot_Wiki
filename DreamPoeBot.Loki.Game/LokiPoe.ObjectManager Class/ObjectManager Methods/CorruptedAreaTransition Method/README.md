@@ -1,5 +1,6 @@
 # CorruptedAreaTransition Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe ObjectManager CorruptedAreaTransition Method |
 | --- |

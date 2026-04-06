@@ -1,5 +1,6 @@
 # IsForeground Method 
 
+**Вложено элементов:** 0  
 
 | GameWindow IsForeground Method |
 | --- |

@@ -1,5 +1,6 @@
 # RenderComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation RenderComponent Property |
 | --- |

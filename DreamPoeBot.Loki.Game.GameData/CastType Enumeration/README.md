@@ -1,5 +1,6 @@
 # CastType Enumeration
 
+**Вложено элементов:** 0  
 
 | CastType Enumeration |
 | --- |
@@ -30,6 +31,6 @@ public enum class CastType
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| RequiresTargetWithWorldItemComponent | 5 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | RequiresTargetWithWorldItemComponent | 5 |  |

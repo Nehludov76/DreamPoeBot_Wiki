@@ -1,5 +1,6 @@
 # ObjectSpawnerComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation ObjectSpawnerComponent Property |
 | --- |

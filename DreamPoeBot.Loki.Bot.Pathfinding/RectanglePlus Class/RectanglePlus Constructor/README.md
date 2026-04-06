@@ -1,5 +1,6 @@
 # RectanglePlus Constructor 
 
+**Вложено элементов:** 0  
 
 | RectanglePlus Constructor |
 | --- |

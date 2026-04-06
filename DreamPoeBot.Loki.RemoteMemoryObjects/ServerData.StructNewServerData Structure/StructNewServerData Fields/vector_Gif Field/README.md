@@ -1,5 +1,6 @@
 # vector_Gif Field
 
+**Вложено элементов:** 0  
 
 | ServerData StructNewServerData vector_Gif Field |
 | --- |

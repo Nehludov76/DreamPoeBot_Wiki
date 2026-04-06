@@ -1,5 +1,6 @@
 # Icon Property 
 
+**Вложено элементов:** 0  
 
 | ActiveSkillWrapper Icon Property |
 | --- |

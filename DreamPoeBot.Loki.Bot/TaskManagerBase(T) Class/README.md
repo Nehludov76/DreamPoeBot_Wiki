@@ -1,5 +1,6 @@
 # TaskManagerBase(T) Class
 
+**Вложено элементов:** 27  
 
 | TaskManagerBase T Class |
 | --- |
@@ -34,47 +35,53 @@ generic < typename T> where T : IAuthored public ref class TaskManagerBase abstr
 The TaskManagerBase T type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| TaskManagerBase T | Initializes a new instance of the TaskManagerBase T class |
+|  | Name | Description |
+| --- | --- | --- |
+|  | TaskManagerBase T | Initializes a new instance of the TaskManagerBase T class |
 
 
-| Name | Description |
-| --- | --- |
-| IsFrozen |
-| TaskList |
+|  | Name | Description |
+| --- | --- | --- |
+|  | IsFrozen |  |
+|  | TaskList |  |
 
 
-| Name | Description |
-| --- | --- |
-| Add |
-| AddAfter |
-| AddAtFront |
-| AddBefore |
-| Disable |
-| Enable |
-| Equals | Determines whether the specified object is equal to the current object. (Inherited from Object .) |
-| Finalize | Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection. (Inherited from Object .) |
-| Freeze |
-| GetHashCode | Serves as the default hash function. (Inherited from Object .) |
-| GetTaskByName |
-| GetType | Gets the Type of the current instance. (Inherited from Object .) |
-| IsEnabled |
-| MemberwiseClone | Creates a shallow copy of the current Object . (Inherited from Object .) |
-| ProvideLogic |
-| Remove |
-| Replace |
-| Reset |
-| Run |
-| SendMessage |
-| Start |
-| Stop |
-| SwapTasks |
-| Tick |
-| ToString | Returns a string that represents the current object. (Inherited from Object .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Add |  |
+|  | AddAfter |  |
+|  | AddAtFront |  |
+|  | AddBefore |  |
+|  | Disable |  |
+|  | Enable |  |
+|  | Equals | Determines whether the specified object is equal to the current object. (Inherited from Object .) |
+|  | Finalize | Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection. (Inherited from Object .) |
+|  | Freeze |  |
+|  | GetHashCode | Serves as the default hash function. (Inherited from Object .) |
+|  | GetTaskByName |  |
+|  | GetType | Gets the Type of the current instance. (Inherited from Object .) |
+|  | IsEnabled |  |
+|  | MemberwiseClone | Creates a shallow copy of the current Object . (Inherited from Object .) |
+|  | ProvideLogic |  |
+|  | Remove |  |
+|  | Replace |  |
+|  | Reset |  |
+|  | Run |  |
+|  | SendMessage |  |
+|  | Start |  |
+|  | Stop |  |
+|  | SwapTasks |  |
+|  | Tick |  |
+|  | ToString | Returns a string that represents the current object. (Inherited from Object .) |
 
 
-| Name | Description |
-| --- | --- |
-| TaskDisabled |
-| TaskEnabled |
+|  | Name | Description |
+| --- | --- | --- |
+|  | TaskDisabled |  |
+|  | TaskEnabled |  |
+
+## Дочерние разделы
+- [**TaskManagerBase(T) Constructor **](./TaskManagerBase(T) Constructor/README.md)
+- [**TaskManagerBase(T) Properties**](./TaskManagerBase(T) Properties/README.md)
+- [**TaskManagerBase(T) Methods**](./TaskManagerBase(T) Methods/README.md)
+- [**TaskManagerBase(T) Events**](./TaskManagerBase(T) Events/README.md)

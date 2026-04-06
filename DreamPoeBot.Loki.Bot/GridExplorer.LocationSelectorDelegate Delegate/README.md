@@ -1,5 +1,6 @@
 # GridExplorer.LocationSelectorDelegate Delegate
 
+**Вложено элементов:** 0  
 
 | GridExplorer LocationSelectorDelegate Delegate |
 | --- |

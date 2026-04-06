@@ -1,5 +1,6 @@
 # LanternOfArimorElement.PackModifier Constructor 
 
+**Вложено элементов:** 0  
 
 | LanternOfArimorElement PackModifier Constructor |
 | --- |

@@ -1,5 +1,6 @@
 # HeistContractComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation HeistContractComponent Property |
 | --- |

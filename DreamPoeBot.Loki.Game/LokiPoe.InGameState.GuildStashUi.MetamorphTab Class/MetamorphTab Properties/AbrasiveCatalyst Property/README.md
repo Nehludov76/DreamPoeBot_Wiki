@@ -1,5 +1,6 @@
 # AbrasiveCatalyst Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState GuildStashUi MetamorphTab AbrasiveCatalyst Property |
 | --- |

@@ -1,5 +1,6 @@
 # GetObjectsByMetadatas Method (IEnumerable(String))
 
+**Вложено элементов:** 0  
 
 | LokiPoe ObjectManager GetObjectsByMetadatas Method (IEnumerable String ) |
 | --- |

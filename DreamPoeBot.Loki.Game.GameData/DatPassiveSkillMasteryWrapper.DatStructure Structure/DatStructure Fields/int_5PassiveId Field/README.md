@@ -1,5 +1,6 @@
 # int_5PassiveId Field
 
+**Вложено элементов:** 0  
 
 | DatPassiveSkillMasteryWrapper DatStructure int_5PassiveId Field |
 | --- |

@@ -1,5 +1,6 @@
 # MetadataDictionary Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe ObjectManager MetadataDictionary Property |
 | --- |

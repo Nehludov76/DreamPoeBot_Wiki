@@ -1,5 +1,6 @@
 # DatUltimatumModifierTypeWrapper Constructor 
 
+**Вложено элементов:** 0  
 
 | DatUltimatumModifierTypeWrapper Constructor |
 | --- |

@@ -1,5 +1,6 @@
 # IsSelected Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState MasterDeviceUi ZanaMod IsSelected Property |
 | --- |

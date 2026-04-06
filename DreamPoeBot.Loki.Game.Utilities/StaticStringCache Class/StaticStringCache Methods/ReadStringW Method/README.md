@@ -1,5 +1,6 @@
 # ReadStringW Method 
 
+**Вложено элементов:** 0  
 
 | StaticStringCache ReadStringW Method |
 | --- |

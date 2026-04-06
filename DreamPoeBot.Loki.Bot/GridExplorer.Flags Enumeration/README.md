@@ -1,5 +1,6 @@
 # GridExplorer.Flags Enumeration
 
+**Вложено элементов:** 0  
 
 | GridExplorer Flags Enumeration |
 | --- |
@@ -30,10 +31,10 @@ public enum class Flags
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| Unknown | 0 |
-| Known | 1 |
-| Seen | 2 |
-| Ignored | 4 |
-| Disconnected | 8 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | Unknown | 0 |  |
+|  | Known | 1 |  |
+|  | Seen | 2 |  |
+|  | Ignored | 4 |  |
+|  | Disconnected | 8 |  |

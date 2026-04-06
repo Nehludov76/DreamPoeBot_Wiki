@@ -1,5 +1,6 @@
 # SyndicateData Field
 
+**Вложено элементов:** 0  
 
 | GridExplorer SyndicateData Field |
 | --- |

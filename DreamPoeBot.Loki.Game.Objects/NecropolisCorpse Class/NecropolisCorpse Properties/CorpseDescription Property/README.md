@@ -1,5 +1,6 @@
 # CorpseDescription Property 
 
+**Вложено элементов:** 0  
 
 | NecropolisCorpse CorpseDescription Property |
 | --- |

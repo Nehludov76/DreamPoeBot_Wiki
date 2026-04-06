@@ -1,5 +1,6 @@
 # ClientFrozenEventArgs Constructor 
 
+**Вложено элементов:** 0  
 
 | ClientFrozenEventArgs Constructor |
 | --- |

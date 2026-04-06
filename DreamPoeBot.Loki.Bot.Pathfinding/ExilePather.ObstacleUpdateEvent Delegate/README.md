@@ -1,5 +1,6 @@
 # ExilePather.ObstacleUpdateEvent Delegate
 
+**Вложено элементов:** 0  
 
 | ExilePather ObstacleUpdateEvent Delegate |
 | --- |

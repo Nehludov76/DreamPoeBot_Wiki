@@ -1,5 +1,6 @@
 # ListOfPendingSkillGems Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SkillGemHud ListOfPendingSkillGems Property |
 | --- |

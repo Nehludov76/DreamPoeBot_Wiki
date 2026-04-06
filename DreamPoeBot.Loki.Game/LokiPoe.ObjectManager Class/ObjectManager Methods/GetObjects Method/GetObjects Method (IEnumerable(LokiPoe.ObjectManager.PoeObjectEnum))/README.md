@@ -1,5 +1,6 @@
 # GetObjects Method (IEnumerable(LokiPoe.ObjectManager.PoeObjectEnum))
 
+**Вложено элементов:** 0  
 
 | LokiPoe ObjectManager GetObjects Method (IEnumerable LokiPoe ObjectManager PoeObjectEnum ) |
 | --- |

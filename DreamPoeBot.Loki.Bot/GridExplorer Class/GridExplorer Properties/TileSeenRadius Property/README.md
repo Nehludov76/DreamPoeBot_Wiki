@@ -1,5 +1,6 @@
 # TileSeenRadius Property 
 
+**Вложено элементов:** 0  
 
 | GridExplorer TileSeenRadius Property |
 | --- |

@@ -1,5 +1,6 @@
 # MainHand Property 
 
+**Вложено элементов:** 0  
 
 | MercenaryEncounterElement MercenaryInventoryElement MainHand Property |
 | --- |

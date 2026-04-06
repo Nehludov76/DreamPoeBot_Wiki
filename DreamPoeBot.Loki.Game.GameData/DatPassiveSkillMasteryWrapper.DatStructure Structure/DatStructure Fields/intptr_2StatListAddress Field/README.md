@@ -1,5 +1,6 @@
 # intptr_2StatListAddress Field
 
+**Вложено элементов:** 0  
 
 | DatPassiveSkillMasteryWrapper DatStructure intptr_2StatListAddress Field |
 | --- |

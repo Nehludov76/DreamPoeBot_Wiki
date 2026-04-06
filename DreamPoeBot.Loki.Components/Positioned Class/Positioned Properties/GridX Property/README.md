@@ -1,5 +1,6 @@
 # GridX Property 
 
+**Вложено элементов:** 0  
 
 | Positioned GridX Property |
 | --- |

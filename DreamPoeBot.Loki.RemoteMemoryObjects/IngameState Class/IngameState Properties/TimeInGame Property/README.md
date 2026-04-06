@@ -1,5 +1,6 @@
 # TimeInGame Property 
 
+**Вложено элементов:** 0  
 
 | IngameState TimeInGame Property |
 | --- |

@@ -1,5 +1,6 @@
 # Utility Class
 
+**Вложено элементов:** 3  
 
 | Utility Class |
 | --- |
@@ -32,7 +33,10 @@ public ref class Utility abstract sealed
 The Utility type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| BroadcastLogicRequest |
-| BroadcastMessage |
+|  | Name | Description |
+| --- | --- | --- |
+|  | BroadcastLogicRequest |  |
+|  | BroadcastMessage |  |
+
+## Дочерние разделы
+- [**Utility Methods**](./Utility Methods/README.md)

@@ -1,5 +1,6 @@
 # PickUp Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ArchnemesisInventoryUi PickUp Method |
 | --- |

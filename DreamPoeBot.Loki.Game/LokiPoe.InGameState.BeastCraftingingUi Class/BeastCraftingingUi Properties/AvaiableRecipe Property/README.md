@@ -1,5 +1,6 @@
 # AvaiableRecipe Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState BeastCraftingingUi AvaiableRecipe Property |
 | --- |

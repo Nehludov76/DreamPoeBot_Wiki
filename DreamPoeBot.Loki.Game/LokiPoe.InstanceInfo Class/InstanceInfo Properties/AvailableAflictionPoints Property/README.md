@@ -1,5 +1,6 @@
 # AvailableAflictionPoints Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo AvailableAflictionPoints Property |
 | --- |

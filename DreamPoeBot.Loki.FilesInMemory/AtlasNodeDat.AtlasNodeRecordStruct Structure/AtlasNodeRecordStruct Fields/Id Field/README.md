@@ -1,5 +1,6 @@
 # Id Field
 
+**Вложено элементов:** 0  
 
 | AtlasNodeDat AtlasNodeRecordStruct Id Field |
 | --- |

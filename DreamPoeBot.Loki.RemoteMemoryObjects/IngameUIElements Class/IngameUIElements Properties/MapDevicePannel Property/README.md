@@ -1,5 +1,6 @@
 # MapDevicePannel Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements MapDevicePannel Property |
 | --- |

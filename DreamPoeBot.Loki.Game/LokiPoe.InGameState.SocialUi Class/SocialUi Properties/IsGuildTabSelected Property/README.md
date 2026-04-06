@@ -1,5 +1,6 @@
 # IsGuildTabSelected Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SocialUi IsGuildTabSelected Property |
 | --- |

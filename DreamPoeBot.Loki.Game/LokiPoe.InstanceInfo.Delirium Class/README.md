@@ -1,5 +1,6 @@
 # LokiPoe.InstanceInfo.Delirium Class
 
+**Вложено элементов:** 2  
 
 | LokiPoe InstanceInfo Delirium Class |
 | --- |
@@ -32,6 +33,9 @@ public ref class Delirium abstract sealed
 The LokiPoe InstanceInfo Delirium type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| ActualRewardLevel |
+|  | Name | Description |
+| --- | --- | --- |
+|  | ActualRewardLevel |  |
+
+## Дочерние разделы
+- [**Delirium Properties**](./Delirium Properties/README.md)

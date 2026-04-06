@@ -1,5 +1,6 @@
 # CooldownsActive Property 
 
+**Вложено элементов:** 0  
 
 | Skill CooldownsActive Property |
 | --- |

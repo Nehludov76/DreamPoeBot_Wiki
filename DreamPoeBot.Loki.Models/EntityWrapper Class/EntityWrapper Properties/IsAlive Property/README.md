@@ -1,5 +1,6 @@
 # IsAlive Property 
 
+**Вложено элементов:** 0  
 
 | EntityWrapper IsAlive Property |
 | --- |

@@ -1,5 +1,6 @@
 # IsCursingWithProjectileWeakness Property 
 
+**Вложено элементов:** 0  
 
 | Actor IsCursingWithProjectileWeakness Property |
 | --- |

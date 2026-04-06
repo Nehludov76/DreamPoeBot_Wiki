@@ -1,5 +1,6 @@
 # Stompable Property 
 
+**Вложено элементов:** 0  
 
 | Chest Stompable Property |
 | --- |

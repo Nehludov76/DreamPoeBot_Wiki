@@ -1,5 +1,6 @@
 # CanHighlight Property 
 
+**Вложено элементов:** 0  
 
 | Targetable CanHighlight Property |
 | --- |

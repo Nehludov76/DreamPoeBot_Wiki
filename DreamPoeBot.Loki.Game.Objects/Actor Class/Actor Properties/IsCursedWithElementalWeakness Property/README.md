@@ -1,5 +1,6 @@
 # IsCursedWithElementalWeakness Property 
 
+**Вложено элементов:** 0  
 
 | Actor IsCursedWithElementalWeakness Property |
 | --- |

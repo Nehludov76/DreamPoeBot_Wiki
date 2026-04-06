@@ -1,5 +1,6 @@
 # BuffType Property 
 
+**Вложено элементов:** 0  
 
 | Aura BuffType Property |
 | --- |

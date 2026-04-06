@@ -1,5 +1,6 @@
 # WorldArea3 Property 
 
+**Вложено элементов:** 0  
 
 | DatHideoutWrapper WorldArea3 Property |
 | --- |

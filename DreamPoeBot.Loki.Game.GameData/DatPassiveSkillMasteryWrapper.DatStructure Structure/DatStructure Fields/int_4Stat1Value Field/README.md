@@ -1,5 +1,6 @@
 # int_4Stat1Value Field
 
+**Вложено элементов:** 0  
 
 | DatPassiveSkillMasteryWrapper DatStructure int_4Stat1Value Field |
 | --- |

@@ -1,5 +1,6 @@
 # QualityStats Property 
 
+**Вложено элементов:** 0  
 
 | GrantedEffectsPerLevel QualityStats Property |
 | --- |

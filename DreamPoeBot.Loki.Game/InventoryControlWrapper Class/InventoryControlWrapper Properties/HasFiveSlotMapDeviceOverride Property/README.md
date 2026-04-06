@@ -1,5 +1,6 @@
 # HasFiveSlotMapDeviceOverride Property 
 
+**Вложено элементов:** 0  
 
 | InventoryControlWrapper HasFiveSlotMapDeviceOverride Property |
 | --- |

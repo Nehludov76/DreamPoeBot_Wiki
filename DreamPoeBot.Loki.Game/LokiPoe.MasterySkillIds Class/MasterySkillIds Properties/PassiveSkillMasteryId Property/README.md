@@ -1,5 +1,6 @@
 # PassiveSkillMasteryId Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe MasterySkillIds PassiveSkillMasteryId Property |
 | --- |

@@ -1,5 +1,6 @@
 # IsInventoryOpen Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState LanternOfArimorUi IsInventoryOpen Property |
 | --- |

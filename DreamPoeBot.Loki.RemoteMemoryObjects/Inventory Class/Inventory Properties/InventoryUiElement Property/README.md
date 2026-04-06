@@ -1,5 +1,6 @@
 # InventoryUiElement Property 
 
+**Вложено элементов:** 0  
 
 | Inventory InventoryUiElement Property |
 | --- |

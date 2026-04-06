@@ -1,5 +1,6 @@
 # MonsterVariety Property 
 
+**Вложено элементов:** 0  
 
 | CapturedMonster MonsterVariety Property |
 | --- |

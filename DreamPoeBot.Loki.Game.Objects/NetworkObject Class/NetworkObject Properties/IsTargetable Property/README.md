@@ -1,5 +1,6 @@
 # IsTargetable Property 
 
+**Вложено элементов:** 0  
 
 | NetworkObject IsTargetable Property |
 | --- |

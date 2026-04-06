@@ -1,5 +1,6 @@
 # MinTimeProperty Field
 
+**Вложено элементов:** 0  
 
 | TimePicker MinTimeProperty Field |
 | --- |

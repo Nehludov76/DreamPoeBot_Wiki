@@ -1,5 +1,6 @@
 # EntityComponentInformation Constructor (EntityWrapper)
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation Constructor (EntityWrapper) |
 | --- |

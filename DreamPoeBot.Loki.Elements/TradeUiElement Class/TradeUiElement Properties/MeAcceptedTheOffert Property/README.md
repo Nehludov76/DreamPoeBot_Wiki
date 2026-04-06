@@ -1,5 +1,6 @@
 # MeAcceptedTheOffert Property 
 
+**Вложено элементов:** 0  
 
 | TradeUiElement MeAcceptedTheOffert Property |
 | --- |

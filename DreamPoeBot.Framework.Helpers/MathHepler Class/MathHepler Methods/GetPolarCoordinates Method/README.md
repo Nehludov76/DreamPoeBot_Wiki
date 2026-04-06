@@ -1,5 +1,6 @@
 # GetPolarCoordinates Method 
 
+**Вложено элементов:** 0  
 
 | MathHepler GetPolarCoordinates Method |
 | --- |

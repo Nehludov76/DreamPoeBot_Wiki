@@ -1,5 +1,6 @@
 # CraftBoss Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState MetamorphUi CraftBoss Method |
 | --- |

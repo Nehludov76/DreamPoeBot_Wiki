@@ -1,5 +1,6 @@
 # IsLoading Property 
 
+**Вложено элементов:** 0  
 
 | AreaLoadingState IsLoading Property |
 | --- |

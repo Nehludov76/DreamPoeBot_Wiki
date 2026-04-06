@@ -1,5 +1,6 @@
 # Act Enumeration
 
+**Вложено элементов:** 0  
 
 | Act Enumeration |
 | --- |
@@ -30,10 +31,10 @@ public enum class Act
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| Unknown | -1 |
-| One | 1 |
-| Two | 2 |
-| Three | 3 |
-| Four | 4 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | Unknown | -1 |  |
+|  | One | 1 |  |
+|  | Two | 2 |  |
+|  | Three | 3 |  |
+|  | Four | 4 |  |

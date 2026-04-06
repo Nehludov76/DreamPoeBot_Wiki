@@ -1,5 +1,6 @@
 # IsReady Field
 
+**Вложено элементов:** 0  
 
 | ExilePather IsReady Field |
 | --- |

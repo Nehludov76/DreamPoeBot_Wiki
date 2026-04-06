@@ -1,5 +1,6 @@
 # MyWorldPosition Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe MyWorldPosition Property |
 | --- |

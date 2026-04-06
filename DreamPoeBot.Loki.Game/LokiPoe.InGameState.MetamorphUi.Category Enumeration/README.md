@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.MetamorphUi.Category Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState MetamorphUi Category Enumeration |
 | --- |
@@ -30,11 +31,11 @@ public enum class Category
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| none | 0 |
-| Brains | 1 |
-| Eyes | 2 |
-| Lungs | 3 |
-| Hearts | 4 |
-| Livers | 5 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | none | 0 |  |
+|  | Brains | 1 |  |
+|  | Eyes | 2 |  |
+|  | Lungs | 3 |  |
+|  | Hearts | 4 |  |
+|  | Livers | 5 |  |

@@ -1,5 +1,6 @@
 # CurrentVividWisps Field
 
+**Вложено элементов:** 0  
 
 | ServerData StructAzmeriWisps CurrentVividWisps Field |
 | --- |

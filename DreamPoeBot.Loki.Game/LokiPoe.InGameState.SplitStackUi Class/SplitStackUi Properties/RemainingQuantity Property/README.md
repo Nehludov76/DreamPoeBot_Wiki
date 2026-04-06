@@ -1,5 +1,6 @@
 # RemainingQuantity Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SplitStackUi RemainingQuantity Property |
 | --- |

@@ -1,5 +1,6 @@
 # DisableCategoryFromProfiling Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe TemporaryPerformanceProfiler DisableCategoryFromProfiling Method |
 | --- |

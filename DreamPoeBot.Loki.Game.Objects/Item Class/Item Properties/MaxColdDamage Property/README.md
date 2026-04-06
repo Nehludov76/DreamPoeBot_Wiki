@@ -1,5 +1,6 @@
 # MaxColdDamage Property 
 
+**Вложено элементов:** 0  
 
 | Item MaxColdDamage Property |
 | --- |

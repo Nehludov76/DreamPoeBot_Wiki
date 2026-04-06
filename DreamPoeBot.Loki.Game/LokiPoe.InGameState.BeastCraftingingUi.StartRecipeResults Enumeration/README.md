@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.BeastCraftingingUi.StartRecipeResults Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState BeastCraftingingUi StartRecipeResults Enumeration |
 | --- |
@@ -30,10 +31,10 @@ public enum class StartRecipeResults
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| RecipeNotFound | 1 |
-| CategoryNotFound | 2 |
-| CraftButtonNotEnabled | 3 |
-| RecipeNotCraftable | 4 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | RecipeNotFound | 1 |  |
+|  | CategoryNotFound | 2 |  |
+|  | CraftButtonNotEnabled | 3 |  |
+|  | RecipeNotCraftable | 4 |  |

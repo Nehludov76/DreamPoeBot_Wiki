@@ -1,5 +1,6 @@
 # DelveUiElement Fields
 
+**Вложено элементов:** 0  
 
 | DelveUiElement Fields |
 | --- |
@@ -10,6 +11,6 @@
 The DelveUiElement type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| NeedUpdate | (Inherited from RemoteMemoryObject .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | NeedUpdate | (Inherited from RemoteMemoryObject .) |

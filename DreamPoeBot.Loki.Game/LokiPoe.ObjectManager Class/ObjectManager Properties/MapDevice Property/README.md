@@ -1,5 +1,6 @@
 # MapDevice Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe ObjectManager MapDevice Property |
 | --- |

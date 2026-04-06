@@ -1,5 +1,6 @@
 # MemoryLineRemaining Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo Atlas MemoryLine MemoryLineRemaining Property |
 | --- |

@@ -1,5 +1,6 @@
 # HighestBreachTowerY Field
 
+**Вложено элементов:** 0  
 
 | GridExplorer BreachTowerDataClass HighestBreachTowerY Field |
 | --- |

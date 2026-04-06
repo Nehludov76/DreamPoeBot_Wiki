@@ -1,5 +1,6 @@
 # Pattern Constructor (Byte[], String)
 
+**Вложено элементов:** 0  
 
 | Pattern Constructor ( Byte , String) |
 | --- |

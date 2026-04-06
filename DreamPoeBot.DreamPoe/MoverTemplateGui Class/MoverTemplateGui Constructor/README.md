@@ -1,5 +1,6 @@
 # MoverTemplateGui Constructor 
 
+**Вложено элементов:** 0  
 
 | MoverTemplateGui Constructor |
 | --- |

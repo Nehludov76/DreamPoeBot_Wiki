@@ -1,5 +1,6 @@
 # int_0StatListCount Field
 
+**Вложено элементов:** 0  
 
 | DatPassiveSkillMasteryWrapper DatStructure int_0StatListCount Field |
 | --- |

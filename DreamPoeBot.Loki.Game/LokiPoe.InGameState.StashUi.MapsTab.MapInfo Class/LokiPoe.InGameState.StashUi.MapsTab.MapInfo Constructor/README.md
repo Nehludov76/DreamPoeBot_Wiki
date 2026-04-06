@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.StashUi.MapsTab.MapInfo Constructor 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState StashUi MapsTab MapInfo Constructor |
 | --- |

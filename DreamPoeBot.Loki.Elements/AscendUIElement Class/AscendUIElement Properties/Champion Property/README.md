@@ -1,5 +1,6 @@
 # Champion Property 
 
+**Вложено элементов:** 0  
 
 | AscendUIElement Champion Property |
 | --- |

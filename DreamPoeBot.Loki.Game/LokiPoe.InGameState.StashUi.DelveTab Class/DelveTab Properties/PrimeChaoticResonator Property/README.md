@@ -1,5 +1,6 @@
 # PrimeChaoticResonator Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState StashUi DelveTab PrimeChaoticResonator Property |
 | --- |

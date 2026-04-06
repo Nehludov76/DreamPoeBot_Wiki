@@ -1,5 +1,6 @@
 # CharPosition Method 
 
+**Вложено элементов:** 0  
 
 | SelectCharElement CharPosition Method |
 | --- |

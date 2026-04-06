@@ -1,5 +1,6 @@
 # NpcsRequires Property 
 
+**Вложено элементов:** 0  
 
 | HeistContract NpcsRequires Property |
 | --- |

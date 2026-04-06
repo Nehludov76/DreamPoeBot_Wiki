@@ -1,5 +1,6 @@
 # StdIntVector(TValue) Method 
 
+**Вложено элементов:** 0  
 
 | Containers StdIntVector TValue Method |
 | --- |

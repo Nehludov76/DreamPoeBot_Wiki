@@ -1,5 +1,6 @@
 # TooltipText Property 
 
+**Вложено элементов:** 0  
 
 | MavenButtonElement TooltipText Property |
 | --- |

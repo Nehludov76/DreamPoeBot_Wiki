@@ -1,5 +1,6 @@
 # OpenContextMenuClickPos Property 
 
+**Вложено элементов:** 0  
 
 | PartyHudUIElement PartyInfo OpenContextMenuClickPos Property |
 | --- |

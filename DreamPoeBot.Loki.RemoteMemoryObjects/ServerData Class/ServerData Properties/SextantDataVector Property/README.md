@@ -1,5 +1,6 @@
 # SextantDataVector Property 
 
+**Вложено элементов:** 0  
 
 | ServerData SextantDataVector Property |
 | --- |

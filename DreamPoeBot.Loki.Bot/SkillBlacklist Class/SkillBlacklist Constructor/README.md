@@ -1,5 +1,6 @@
 # SkillBlacklist Constructor 
 
+**Вложено элементов:** 0  
 
 | SkillBlacklist Constructor |
 | --- |

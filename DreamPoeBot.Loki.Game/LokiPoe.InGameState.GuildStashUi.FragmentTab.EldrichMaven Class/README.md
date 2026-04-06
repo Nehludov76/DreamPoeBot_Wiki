@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.GuildStashUi.FragmentTab.EldrichMaven Class
 
+**Вложено элементов:** 3  
 
 | LokiPoe InGameState GuildStashUi FragmentTab EldrichMaven Class |
 | --- |
@@ -32,7 +33,10 @@ public ref class EldrichMaven abstract sealed
 The LokiPoe InGameState GuildStashUi FragmentTab EldrichMaven type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| All |
-| EldrichInventory |
+|  | Name | Description |
+| --- | --- | --- |
+|  | All |  |
+|  | EldrichInventory |  |
+
+## Дочерние разделы
+- [**EldrichMaven Properties**](./EldrichMaven Properties/README.md)

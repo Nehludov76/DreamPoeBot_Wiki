@@ -1,5 +1,6 @@
 # IsInGame Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe IsInGame Property |
 | --- |

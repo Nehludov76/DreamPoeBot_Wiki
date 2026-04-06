@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.ItemPriceTypeEnum Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ItemPriceTypeEnum Enumeration |
 | --- |
@@ -30,10 +31,10 @@ public enum class ItemPriceTypeEnum
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| Unknown | -1 |
-| Note | 0 |
-| NegotiablePrice | 1 |
-| ExactPrice | 2 |
-| DoNotIndex | 3 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | Unknown | -1 |  |
+|  | Note | 0 |  |
+|  | NegotiablePrice | 1 |  |
+|  | ExactPrice | 2 |  |
+|  | DoNotIndex | 3 |  |

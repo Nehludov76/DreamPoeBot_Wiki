@@ -1,5 +1,6 @@
 # IsMenagerieArea Property 
 
+**Вложено элементов:** 0  
 
 | DatWorldAreaWrapper IsMenagerieArea Property |
 | --- |

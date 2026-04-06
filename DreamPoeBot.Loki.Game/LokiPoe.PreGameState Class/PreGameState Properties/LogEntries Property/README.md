@@ -1,5 +1,6 @@
 # LogEntries Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe PreGameState LogEntries Property |
 | --- |

@@ -1,5 +1,6 @@
 # HideoutWrapper Constructor 
 
+**Вложено элементов:** 0  
 
 | HideoutWrapper Constructor |
 | --- |

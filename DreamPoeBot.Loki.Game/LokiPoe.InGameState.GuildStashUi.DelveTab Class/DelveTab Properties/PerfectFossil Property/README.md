@@ -1,5 +1,6 @@
 # PerfectFossil Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState GuildStashUi DelveTab PerfectFossil Property |
 | --- |

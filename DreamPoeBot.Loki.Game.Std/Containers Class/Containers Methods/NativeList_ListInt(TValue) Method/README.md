@@ -1,5 +1,6 @@
 # NativeList_ListInt(TValue) Method 
 
+**Вложено элементов:** 0  
 
 | Containers NativeList_ListInt TValue Method |
 | --- |

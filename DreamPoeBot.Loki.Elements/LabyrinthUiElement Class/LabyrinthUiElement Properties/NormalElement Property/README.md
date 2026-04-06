@@ -1,5 +1,6 @@
 # NormalElement Property 
 
+**Вложено элементов:** 0  
 
 | LabyrinthUiElement NormalElement Property |
 | --- |

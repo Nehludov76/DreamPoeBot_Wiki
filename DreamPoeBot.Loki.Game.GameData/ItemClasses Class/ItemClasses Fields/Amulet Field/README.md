@@ -1,5 +1,6 @@
 # Amulet Field
 
+**Вложено элементов:** 0  
 
 | ItemClasses Amulet Field |
 | --- |

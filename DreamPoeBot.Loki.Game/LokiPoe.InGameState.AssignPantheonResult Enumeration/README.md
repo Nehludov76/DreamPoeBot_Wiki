@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.AssignPantheonResult Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState AssignPantheonResult Enumeration |
 | --- |
@@ -30,10 +31,10 @@ public enum class AssignPantheonResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| ProcessHookManagerNotEnabled | 1 |
-| UiNotOpen | 2 |
-| GodNotUnlocked | 3 |
-| GodNotFound | 4 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | ProcessHookManagerNotEnabled | 1 |  |
+|  | UiNotOpen | 2 |  |
+|  | GodNotUnlocked | 3 |  |
+|  | GodNotFound | 4 |  |

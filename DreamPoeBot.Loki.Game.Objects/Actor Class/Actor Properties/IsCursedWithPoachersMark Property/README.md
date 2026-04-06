@@ -1,5 +1,6 @@
 # IsCursedWithPoachersMark Property 
 
+**Вложено элементов:** 0  
 
 | Actor IsCursedWithPoachersMark Property |
 | --- |

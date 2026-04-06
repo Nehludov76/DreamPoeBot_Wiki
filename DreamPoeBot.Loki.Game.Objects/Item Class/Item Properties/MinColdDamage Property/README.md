@@ -1,5 +1,6 @@
 # MinColdDamage Property 
 
+**Вложено элементов:** 0  
 
 | Item MinColdDamage Property |
 | --- |

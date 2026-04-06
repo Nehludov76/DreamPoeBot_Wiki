@@ -1,5 +1,6 @@
 # SixSlotInventoryControl Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState MasterDeviceUi SixSlotInventoryControl Property |
 | --- |

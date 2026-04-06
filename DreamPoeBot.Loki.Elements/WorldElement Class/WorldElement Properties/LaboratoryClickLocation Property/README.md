@@ -1,5 +1,6 @@
 # LaboratoryClickLocation Property 
 
+**Вложено элементов:** 0  
 
 | WorldElement LaboratoryClickLocation Property |
 | --- |

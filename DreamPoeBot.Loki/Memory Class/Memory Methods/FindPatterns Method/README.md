@@ -1,5 +1,6 @@
 # FindPatterns Method 
 
+**Вложено элементов:** 0  
 
 | Memory FindPatterns Method |
 | --- |

@@ -1,5 +1,6 @@
 # ExpeditionDealerPanell Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements ExpeditionDealerPanell Property |
 | --- |

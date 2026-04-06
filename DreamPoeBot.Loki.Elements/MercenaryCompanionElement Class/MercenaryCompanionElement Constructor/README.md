@@ -1,5 +1,6 @@
 # MercenaryCompanionElement Constructor 
 
+**Вложено элементов:** 0  
 
 | MercenaryCompanionElement Constructor |
 | --- |

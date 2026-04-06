@@ -1,5 +1,6 @@
 # IsVisibleLocal Property 
 
+**Вложено элементов:** 0  
 
 | Element IsVisibleLocal Property |
 | --- |

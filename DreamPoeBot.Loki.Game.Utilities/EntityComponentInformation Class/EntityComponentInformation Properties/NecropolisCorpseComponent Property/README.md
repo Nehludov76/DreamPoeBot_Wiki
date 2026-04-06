@@ -1,5 +1,6 @@
 # NecropolisCorpseComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation NecropolisCorpseComponent Property |
 | --- |

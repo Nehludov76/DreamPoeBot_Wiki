@@ -1,5 +1,6 @@
 # TabType Property 
 
+**Вложено элементов:** 0  
 
 | StashTabInfo TabType Property |
 | --- |

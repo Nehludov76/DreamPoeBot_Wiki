@@ -1,5 +1,6 @@
 # Latency Property 
 
+**Вложено элементов:** 0  
 
 | ServerData Latency Property |
 | --- |

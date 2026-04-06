@@ -1,5 +1,6 @@
 # MaxChargesModifier Property 
 
+**Вложено элементов:** 0  
 
 | Charges MaxChargesModifier Property |
 | --- |

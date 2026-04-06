@@ -1,5 +1,6 @@
 # Dictionary_AtlasPassive Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState AtlasSkillsUi Dictionary_AtlasPassive Property |
 | --- |

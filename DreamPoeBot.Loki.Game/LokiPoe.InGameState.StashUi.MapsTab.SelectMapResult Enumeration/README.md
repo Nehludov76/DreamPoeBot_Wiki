@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.StashUi.MapsTab.SelectMapResult Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState StashUi MapsTab SelectMapResult Enumeration |
 | --- |
@@ -30,9 +31,9 @@ public enum class SelectMapResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| InvalidControl | 1 |
-| FailedToScroll | 2 |
-| MapListNotLoaded | 3 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | InvalidControl | 1 |  |
+|  | FailedToScroll | 2 |  |
+|  | MapListNotLoaded | 3 |  |

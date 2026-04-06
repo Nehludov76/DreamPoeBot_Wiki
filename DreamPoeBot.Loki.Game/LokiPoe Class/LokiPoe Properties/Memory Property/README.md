@@ -1,5 +1,6 @@
 # Memory Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe Memory Property |
 | --- |

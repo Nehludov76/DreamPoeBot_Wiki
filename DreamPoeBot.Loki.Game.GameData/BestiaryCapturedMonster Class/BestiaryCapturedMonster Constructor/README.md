@@ -1,5 +1,6 @@
 # BestiaryCapturedMonster Constructor 
 
+**Вложено элементов:** 0  
 
 | BestiaryCapturedMonster Constructor |
 | --- |

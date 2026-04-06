@@ -1,5 +1,6 @@
 # CanFitItemSizeAt Method 
 
+**Вложено элементов:** 0  
 
 | Inventory CanFitItemSizeAt Method |
 | --- |

@@ -1,5 +1,6 @@
 # ItemOnGround Property 
 
+**Вложено элементов:** 0  
 
 | ItemsOnGroundLabelElement ItemOnGround Property |
 | --- |

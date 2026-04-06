@@ -1,5 +1,6 @@
 # Min Property 
 
+**Вложено элементов:** 0  
 
 | ModAffix StatContainer Min Property |
 | --- |

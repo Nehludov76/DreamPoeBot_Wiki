@@ -1,5 +1,6 @@
 # IsBotFullyLoaded Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe IsBotFullyLoaded Property |
 | --- |

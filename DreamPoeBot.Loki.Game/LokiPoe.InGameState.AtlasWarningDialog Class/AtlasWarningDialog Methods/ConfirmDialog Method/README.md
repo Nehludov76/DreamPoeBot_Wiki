@@ -1,5 +1,6 @@
 # ConfirmDialog Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState AtlasWarningDialog ConfirmDialog Method |
 | --- |

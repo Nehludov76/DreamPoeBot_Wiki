@@ -1,5 +1,6 @@
 # IsSafeHouseReady Property 
 
+**Вложено элементов:** 0  
 
 | BetryalElement IsSafeHouseReady Property |
 | --- |

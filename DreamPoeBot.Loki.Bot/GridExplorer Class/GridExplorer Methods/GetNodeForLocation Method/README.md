@@ -1,5 +1,6 @@
 # GetNodeForLocation Method 
 
+**Вложено элементов:** 0  
 
 | GridExplorer GetNodeForLocation Method |
 | --- |

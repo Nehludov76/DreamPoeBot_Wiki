@@ -1,5 +1,6 @@
 # InventoryType Property 
 
+**Вложено элементов:** 0  
 
 | Skill InventoryType Property |
 | --- |

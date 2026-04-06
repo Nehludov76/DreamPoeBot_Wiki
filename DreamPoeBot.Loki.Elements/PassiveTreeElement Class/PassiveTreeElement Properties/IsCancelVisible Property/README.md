@@ -1,5 +1,6 @@
 # IsCancelVisible Property 
 
+**Вложено элементов:** 0  
 
 | PassiveTreeElement IsCancelVisible Property |
 | --- |

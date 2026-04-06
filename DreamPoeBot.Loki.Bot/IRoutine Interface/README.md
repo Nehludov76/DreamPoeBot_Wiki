@@ -1,5 +1,6 @@
 # IRoutine Interface
 
+**Вложено элементов:** 2  
 
 | IRoutine Interface |
 | --- |
@@ -32,22 +33,26 @@ public interface class IRoutine : IConfigurable , IMessageHandler , IStartStopEv
 The IRoutine type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Author | (Inherited from IAuthored .) |
-| Control | (Inherited from IConfigurable .) |
-| Description | (Inherited from IAuthored .) |
-| Name | (Inherited from IAuthored .) |
-| Settings | (Inherited from IConfigurable .) |
-| Version | (Inherited from IAuthored .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Author | (Inherited from IAuthored .) |
+|  | Control | (Inherited from IConfigurable .) |
+|  | Description | (Inherited from IAuthored .) |
+|  | Name | (Inherited from IAuthored .) |
+|  | Settings | (Inherited from IConfigurable .) |
+|  | Version | (Inherited from IAuthored .) |
 
 
-| Name | Description |
-| --- | --- |
-| Deinitialize | (Inherited from IBase .) |
-| Initialize | (Inherited from IBase .) |
-| Logic | (Inherited from ILogicProvider .) |
-| Message | (Inherited from IMessageHandler .) |
-| Start | (Inherited from IStartStopEvents .) |
-| Stop | (Inherited from IStartStopEvents .) |
-| Tick | (Inherited from ITickEvents .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Deinitialize | (Inherited from IBase .) |
+|  | Initialize | (Inherited from IBase .) |
+|  | Logic | (Inherited from ILogicProvider .) |
+|  | Message | (Inherited from IMessageHandler .) |
+|  | Start | (Inherited from IStartStopEvents .) |
+|  | Stop | (Inherited from IStartStopEvents .) |
+|  | Tick | (Inherited from ITickEvents .) |
+
+## Дочерние разделы
+- [**IRoutine Properties**](./IRoutine Properties/README.md)
+- [**IRoutine Methods**](./IRoutine Methods/README.md)

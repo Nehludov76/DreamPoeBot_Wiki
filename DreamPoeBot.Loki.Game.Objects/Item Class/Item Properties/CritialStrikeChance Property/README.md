@@ -1,5 +1,6 @@
 # CritialStrikeChance Property 
 
+**Вложено элементов:** 0  
 
 | Item CritialStrikeChance Property |
 | --- |

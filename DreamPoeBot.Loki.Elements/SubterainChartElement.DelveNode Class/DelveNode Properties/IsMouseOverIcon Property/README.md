@@ -1,5 +1,6 @@
 # IsMouseOverIcon Property 
 
+**Вложено элементов:** 0  
 
 | SubterainChartElement DelveNode IsMouseOverIcon Property |
 | --- |

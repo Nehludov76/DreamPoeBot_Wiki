@@ -1,5 +1,6 @@
 # PantheonSoulsDatFileWrapper Constructor 
 
+**Вложено элементов:** 0  
 
 | PantheonSoulsDatFileWrapper Constructor |
 | --- |

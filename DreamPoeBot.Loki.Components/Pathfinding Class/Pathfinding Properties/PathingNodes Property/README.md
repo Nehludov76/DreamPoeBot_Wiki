@@ -1,5 +1,6 @@
 # PathingNodes Property 
 
+**Вложено элементов:** 0  
 
 | Pathfinding PathingNodes Property |
 | --- |

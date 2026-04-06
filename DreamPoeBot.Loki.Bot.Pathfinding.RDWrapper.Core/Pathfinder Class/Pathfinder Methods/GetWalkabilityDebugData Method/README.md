@@ -1,5 +1,6 @@
 # GetWalkabilityDebugData Method 
 
+**Вложено элементов:** 0  
 
 | Pathfinder GetWalkabilityDebugData Method |
 | --- |

@@ -1,5 +1,6 @@
 # IsVaal Property 
 
+**Вложено элементов:** 0  
 
 | DatSkillGemWrapper IsVaal Property |
 | --- |

@@ -1,5 +1,6 @@
 # RecordAddresses Method 
 
+**Вложено элементов:** 0  
 
 | QuestStates RecordAddresses Method |
 | --- |

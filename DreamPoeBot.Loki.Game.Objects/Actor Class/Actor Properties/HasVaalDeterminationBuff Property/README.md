@@ -1,5 +1,6 @@
 # HasVaalDeterminationBuff Property 
 
+**Вложено элементов:** 0  
 
 | Actor HasVaalDeterminationBuff Property |
 | --- |

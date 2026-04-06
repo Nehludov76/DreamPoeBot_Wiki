@@ -1,5 +1,6 @@
 # TierRed Property 
 
+**Вложено элементов:** 0  
 
 | ZanaMissionElement TierRed Property |
 | --- |

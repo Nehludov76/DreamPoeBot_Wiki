@@ -1,5 +1,6 @@
 # Equals Method (RemoteMemoryObject)
 
+**Вложено элементов:** 0  
 
 | RemoteMemoryObject Equals Method (RemoteMemoryObject) |
 | --- |

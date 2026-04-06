@@ -1,5 +1,6 @@
 # GetKeysForSkill Method 
 
+**Вложено элементов:** 0  
 
 | LocalPlayer GetKeysForSkill Method |
 | --- |

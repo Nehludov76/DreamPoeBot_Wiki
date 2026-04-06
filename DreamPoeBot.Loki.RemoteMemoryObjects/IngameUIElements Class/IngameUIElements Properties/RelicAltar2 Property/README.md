@@ -1,5 +1,6 @@
 # RelicAltar2 Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements RelicAltar2 Property |
 | --- |

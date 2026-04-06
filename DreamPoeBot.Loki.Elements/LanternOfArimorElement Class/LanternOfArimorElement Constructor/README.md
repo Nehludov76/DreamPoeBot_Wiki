@@ -1,5 +1,6 @@
 # LanternOfArimorElement Constructor 
 
+**Вложено элементов:** 0  
 
 | LanternOfArimorElement Constructor |
 | --- |

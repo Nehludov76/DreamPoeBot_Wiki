@@ -1,5 +1,6 @@
 # InteractWith Method (NetworkObject, Boolean)
 
+**Вложено элементов:** 0  
 
 | Coroutines InteractWith Method (NetworkObject, Boolean) |
 | --- |

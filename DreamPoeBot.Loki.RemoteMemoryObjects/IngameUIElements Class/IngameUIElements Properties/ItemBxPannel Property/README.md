@@ -1,5 +1,6 @@
 # ItemBxPannel Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements ItemBxPannel Property |
 | --- |

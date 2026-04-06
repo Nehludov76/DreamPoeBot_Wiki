@@ -1,5 +1,6 @@
 # GrandHeistContractUi Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements GrandHeistContractUi Property |
 | --- |

@@ -1,5 +1,6 @@
 # intPtr_SERVERDATA Field
 
+**Вложено элементов:** 0  
 
 | IngameData StructInGameData intPtr_SERVERDATA Field |
 | --- |

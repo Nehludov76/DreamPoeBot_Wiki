@@ -1,5 +1,6 @@
 # ListItem Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState TradePriceItemDialogUi ListItem Method |
 | --- |

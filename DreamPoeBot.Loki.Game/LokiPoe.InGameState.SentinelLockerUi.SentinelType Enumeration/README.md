@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.SentinelLockerUi.SentinelType Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SentinelLockerUi SentinelType Enumeration |
 | --- |
@@ -30,9 +31,9 @@ public enum class SentinelType
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| Unknown | 0 |
-| Stalker | 1 |
-| Pandemonium | 2 |
-| Apex | 3 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | Unknown | 0 |  |
+|  | Stalker | 1 |  |
+|  | Pandemonium | 2 |  |
+|  | Apex | 3 |  |

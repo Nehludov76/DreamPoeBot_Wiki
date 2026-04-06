@@ -1,5 +1,6 @@
 # NoteTextLabel Property 
 
+**Вложено элементов:** 0  
 
 | DisplayNoteElement NoteTextLabel Property |
 | --- |

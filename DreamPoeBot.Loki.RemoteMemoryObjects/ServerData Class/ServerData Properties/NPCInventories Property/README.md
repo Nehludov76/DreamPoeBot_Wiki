@@ -1,5 +1,6 @@
 # NPCInventories Property 
 
+**Вложено элементов:** 0  
 
 | ServerData NPCInventories Property |
 | --- |

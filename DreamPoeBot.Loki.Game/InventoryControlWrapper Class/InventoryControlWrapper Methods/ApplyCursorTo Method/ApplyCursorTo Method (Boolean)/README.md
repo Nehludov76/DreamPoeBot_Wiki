@@ -1,5 +1,6 @@
 # ApplyCursorTo Method (Boolean)
 
+**Вложено элементов:** 0  
 
 | InventoryControlWrapper ApplyCursorTo Method (Boolean) |
 | --- |

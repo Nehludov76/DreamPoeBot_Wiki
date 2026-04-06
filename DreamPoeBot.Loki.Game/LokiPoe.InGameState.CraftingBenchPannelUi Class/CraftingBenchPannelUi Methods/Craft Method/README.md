@@ -1,5 +1,6 @@
 # Craft Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState CraftingBenchPannelUi Craft Method |
 | --- |

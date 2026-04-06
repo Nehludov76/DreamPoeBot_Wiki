@@ -1,5 +1,6 @@
 # GetInput(T) Method (Int32)
 
+**Вложено элементов:** 0  
 
 | Message GetInput T Method (Int32) |
 | --- |

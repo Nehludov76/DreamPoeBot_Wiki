@@ -1,5 +1,6 @@
 # GetLevelRequirement Method 
 
+**Вложено элементов:** 0  
 
 | InventoryControlWrapper GetLevelRequirement Method |
 | --- |

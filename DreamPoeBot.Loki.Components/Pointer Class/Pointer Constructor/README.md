@@ -1,5 +1,6 @@
 # Pointer Constructor 
 
+**Вложено элементов:** 0  
 
 | Pointer Constructor |
 | --- |

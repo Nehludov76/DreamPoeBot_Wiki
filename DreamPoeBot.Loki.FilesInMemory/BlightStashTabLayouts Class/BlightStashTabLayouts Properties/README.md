@@ -1,5 +1,6 @@
 # BlightStashTabLayouts Properties
 
+**Вложено элементов:** 1  
 
 | BlightStashTabLayouts Properties |
 | --- |
@@ -10,6 +11,9 @@
 The BlightStashTabLayouts type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Data |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Data |  |
+
+## Дочерние разделы
+- [**Data Property **](./Data Property/README.md)

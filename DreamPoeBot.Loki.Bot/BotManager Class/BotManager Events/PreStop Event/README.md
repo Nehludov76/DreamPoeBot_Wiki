@@ -1,5 +1,6 @@
 # PreStop Event
 
+**Вложено элементов:** 0  
 
 | BotManager PreStop Event |
 | --- |

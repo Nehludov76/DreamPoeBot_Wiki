@@ -1,5 +1,6 @@
 # StdStruct131Vector(TValue) Method 
 
+**Вложено элементов:** 0  
 
 | Containers StdStruct131Vector TValue Method |
 | --- |

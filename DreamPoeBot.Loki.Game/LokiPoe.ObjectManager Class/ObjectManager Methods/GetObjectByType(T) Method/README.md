@@ -1,5 +1,6 @@
 # GetObjectByType(T) Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe ObjectManager GetObjectByType T Method |
 | --- |

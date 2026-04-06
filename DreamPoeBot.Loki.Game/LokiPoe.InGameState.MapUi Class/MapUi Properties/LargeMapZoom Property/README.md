@@ -1,5 +1,6 @@
 # LargeMapZoom Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState MapUi LargeMapZoom Property |
 | --- |

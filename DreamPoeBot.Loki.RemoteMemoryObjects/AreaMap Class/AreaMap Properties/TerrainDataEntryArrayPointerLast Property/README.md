@@ -1,5 +1,6 @@
 # TerrainDataEntryArrayPointerLast Property 
 
+**Вложено элементов:** 0  
 
 | AreaMap TerrainDataEntryArrayPointerLast Property |
 | --- |

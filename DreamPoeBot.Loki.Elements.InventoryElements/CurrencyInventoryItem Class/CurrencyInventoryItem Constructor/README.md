@@ -1,5 +1,6 @@
 # CurrencyInventoryItem Constructor 
 
+**Вложено элементов:** 0  
 
 | CurrencyInventoryItem Constructor |
 | --- |

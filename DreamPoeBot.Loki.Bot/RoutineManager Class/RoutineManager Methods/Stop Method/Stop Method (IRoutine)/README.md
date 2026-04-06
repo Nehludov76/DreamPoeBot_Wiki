@@ -1,5 +1,6 @@
 # Stop Method (IRoutine)
 
+**Вложено элементов:** 0  
 
 | RoutineManager Stop Method (IRoutine) |
 | --- |

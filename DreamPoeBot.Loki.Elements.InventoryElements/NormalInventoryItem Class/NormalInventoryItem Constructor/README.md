@@ -1,5 +1,6 @@
 # NormalInventoryItem Constructor 
 
+**Вложено элементов:** 0  
 
 | NormalInventoryItem Constructor |
 | --- |

@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.MirroredTabletUi Class
 
+**Вложено элементов:** 2  
 
 | LokiPoe InGameState MirroredTabletUi Class |
 | --- |
@@ -32,6 +33,9 @@ public ref class MirroredTabletUi abstract sealed
 The LokiPoe InGameState MirroredTabletUi type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| IsOpened |
+|  | Name | Description |
+| --- | --- | --- |
+|  | IsOpened |  |
+
+## Дочерние разделы
+- [**MirroredTabletUi Properties**](./MirroredTabletUi Properties/README.md)

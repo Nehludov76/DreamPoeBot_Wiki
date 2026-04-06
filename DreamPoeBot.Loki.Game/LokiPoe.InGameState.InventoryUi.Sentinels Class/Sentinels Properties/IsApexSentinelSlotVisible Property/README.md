@@ -1,5 +1,6 @@
 # IsApexSentinelSlotVisible Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState InventoryUi Sentinels IsApexSentinelSlotVisible Property |
 | --- |

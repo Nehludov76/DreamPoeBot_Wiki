@@ -1,5 +1,6 @@
 # Generic6 Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState GuildStashUi CurrencyTab Generic6 Property |
 | --- |

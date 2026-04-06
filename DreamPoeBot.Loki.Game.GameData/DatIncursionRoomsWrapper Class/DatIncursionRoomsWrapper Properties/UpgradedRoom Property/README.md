@@ -1,5 +1,6 @@
 # UpgradedRoom Property 
 
+**Вложено элементов:** 0  
 
 | DatIncursionRoomsWrapper UpgradedRoom Property |
 | --- |

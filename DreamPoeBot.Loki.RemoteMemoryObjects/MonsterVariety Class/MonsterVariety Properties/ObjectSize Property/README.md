@@ -1,5 +1,6 @@
 # ObjectSize Property 
 
+**Вложено элементов:** 0  
 
 | MonsterVariety ObjectSize Property |
 | --- |

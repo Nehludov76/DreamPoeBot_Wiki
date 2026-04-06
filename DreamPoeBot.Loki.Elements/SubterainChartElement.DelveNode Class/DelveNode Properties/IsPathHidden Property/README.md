@@ -1,5 +1,6 @@
 # IsPathHidden Property 
 
+**Вложено элементов:** 0  
 
 | SubterainChartElement DelveNode IsPathHidden Property |
 | --- |

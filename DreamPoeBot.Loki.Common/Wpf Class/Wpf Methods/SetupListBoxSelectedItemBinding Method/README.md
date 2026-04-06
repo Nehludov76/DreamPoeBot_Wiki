@@ -1,5 +1,6 @@
 # SetupListBoxSelectedItemBinding Method 
 
+**Вложено элементов:** 0  
 
 | Wpf SetupListBoxSelectedItemBinding Method |
 | --- |

@@ -1,5 +1,6 @@
 # IsCapturedMonstersDataLoaded Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo Bestiary IsCapturedMonstersDataLoaded Property |
 | --- |

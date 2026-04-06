@@ -1,5 +1,6 @@
 # CharacterClass Property 
 
+**Вложено элементов:** 0  
 
 | CharacterEntry CharacterClass Property |
 | --- |

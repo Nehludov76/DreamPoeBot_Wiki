@@ -1,5 +1,6 @@
 # ClientStringsEnum Enumeration
 
+**Вложено элементов:** 0  
 
 | ClientStringsEnum Enumeration |
 | --- |
@@ -30,4069 +31,4069 @@ public enum class ClientStringsEnum
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| GameName | 0 |
-| Error | 1 |
-| FatalError | 2 |
-| Exception | 3 |
-| PassiveInfo1 | 4 |
-| PassiveInfo2 | 5 |
-| PassiveInfo3 | 6 |
-| PassiveInfo4 | 7 |
-| PassiveInfo5 | 8 |
-| PassiveInfo6 | 9 |
-| BugReportInstructions | 10 |
-| NoLocalPlayer | 11 |
-| PvPTeam1 | 12 |
-| PvPTeam2 | 13 |
-| PvPTeam3 | 14 |
-| PvPGainPoint | 15 |
-| PvPWinMatch | 16 |
-| PvPRoundDraw | 17 |
-| PvPMatchDraw | 18 |
-| PvPMatchPointChange | 19 |
-| PvPMatchRatingChange | 20 |
-| PvPMatchLeoReputationGained | 21 |
-| PvPTimeLeft | 22 |
-| PvPRoundXOfY | 23 |
-| PvPFlagTaken | 24 |
-| PvPFlagCaptured | 25 |
-| PvPFlagReturned | 26 |
-| PositiveNumber | 27 |
-| NegativeNumber | 28 |
-| Percentage | 29 |
-| NumberRange | 30 |
-| TimeS | 31 |
-| TimeMS | 32 |
-| TimeHMS | 33 |
-| TimeDHMS | 34 |
-| TimeSeconds1 | 35 |
-| TimeSecondsN | 36 |
-| TimeMinutes1 | 37 |
-| TimeMinutesN | 38 |
-| TimeHours1 | 39 |
-| TimeHoursN | 40 |
-| TimeDays1 | 41 |
-| TimeDaysN | 42 |
-| Stairs | 43 |
-| MerveilArenaName | 44 |
-| BrutusArenaName | 45 |
-| BrutusAreaName | 46 |
-| OversoulArenaName | 47 |
-| WeaverArenaName | 48 |
-| MapWeaverArenaName | 49 |
-| MapTropicalIslandCave | 50 |
-| MapDungeonTransition | 51 |
-| ChatSuppressionToggled | 52 |
-| ON | 53 |
-| OFF | 54 |
-| OK | 55 |
-| ActionFlask | 56 |
-| ActionSkill | 57 |
-| ActionAttackInPlace | 58 |
-| ActionWeaponSwap | 59 |
-| ActionDetonateMines | 60 |
-| ActionHighlightStuff | 61 |
-| ActionToggleHighlighting | 62 |
-| ActionEnableCorpseTargeting | 63 |
-| ActionChat | 64 |
-| ActionToggleOverlayMap | 65 |
-| ActionOpenOptionsPanel | 66 |
-| ActionOpenCharacterPanel | 67 |
-| ActionOpenSocialPanel | 68 |
-| ActionOpenLadderPanel | 69 |
-| ActionOpenInventoryPanel | 70 |
-| ActionOpenChallengePanel | 71 |
-| ActionOpenEventsPanel | 72 |
-| ActionOpenWorldPanel | 73 |
-| ActionOpenPassivePanel | 74 |
-| ActionOpenMtxStash | 75 |
-| ActionOpenMarketPanel | 76 |
-| ActionOpenGuidebookPanel | 77 |
-| ActionCloseAllPanels | 78 |
-| ActionScreenshot | 79 |
-| ActionZoomIn | 80 |
-| ActionZoomOut | 81 |
-| ActionTogglePerfGraphs | 82 |
-| ActionEnableKeyPickup | 83 |
-| UIOpenPanelDescription | 84 |
-| UIOpenPanelDescriptionNoKey | 85 |
-| UIOpenChatDescription | 86 |
-| EternalLaboratoryName | 87 |
-| WeaponSwapFailed | 88 |
-| CorpseSuffix | 89 |
-| PlayerHighlight | 90 |
-| ResistsElemental | 91 |
-| ResistsFire | 92 |
-| ResistsCold | 93 |
-| ResistsLightning | 94 |
-| ResistsChaos | 95 |
-| VulnerableToElemental | 96 |
-| VulnerableToFire | 97 |
-| VulnerableToCold | 98 |
-| VulnerableToLightning | 99 |
-| VulnerableToChaos | 100 |
-| PvPFlagDropped | 101 |
-| Portal | 102 |
-| Enter | 103 |
-| AtziriArenaName | 104 |
-| Arena | 105 |
-| Cancel | 106 |
-| Yes | 107 |
-| No | 108 |
-| Back | 109 |
-| ClickToLevelGemText | 110 |
-| ClickToLevelGemLabel | 111 |
-| CannotLevelGemText | 112 |
-| CannotLevelGemLabel | 113 |
-| OrbLifeValue | 114 |
-| OrbShieldValue | 115 |
-| OrbManaValue | 116 |
-| OrbReservedLifeValue | 117 |
-| OrbReservedManaValue | 118 |
-| HUDPassivePoint | 119 |
-| HUDPassivePoints | 120 |
-| HUDPassiveAllocation | 121 |
-| HUDPassiveAllocations | 122 |
-| HUDPassiveRefund | 123 |
-| HUDPassiveRefunds | 124 |
-| PassiveTreePanelTitle | 125 |
-| PassiveTreeRefundLeft | 126 |
-| PassiveTreeRefundsLeft | 127 |
-| PassiveTreePointLeft | 128 |
-| PassiveTreePointsLeft | 129 |
-| PassiveTreeAscendancyPointLeft | 130 |
-| PassiveTreeAscendancyPointsLeft | 131 |
-| PassiveTreeApplyPoints | 132 |
-| PassiveTreeApplyRefunds | 133 |
-| PassiveTreeRefundMode | 134 |
-| PassiveTreeResetButton | 135 |
-| PassiveTreeResetButtonWarning | 136 |
-| PassiveTreeResetMessageTitle | 137 |
-| PassiveTreeResetMessageDescription | 138 |
-| PassiveTreeResetApplyWarning | 139 |
-| PassiveTreeStrengthRequired | 140 |
-| PassiveTreeDexterityRequired | 141 |
-| PassiveTreeIntelligenceRequired | 142 |
-| PassiveTreeItemRequirements | 143 |
-| PassiveTreeChangeConfirmation | 144 |
-| PassiveTreeConfirmation | 145 |
-| PassiveNodeAllocate | 146 |
-| PassiveNodeUnallocate | 147 |
-| PassiveNodeRequirementsNotMet | 148 |
-| PassiveNodeUnallocated | 149 |
-| PassiveTreeSaveBuild | 150 |
-| PassiveTreeSaveAllocated | 151 |
-| PassiveTreeModifyBuild | 152 |
-| PassiveTreeClearBuild | 153 |
-| PassiveTreeErrorWrongClass | 154 |
-| PassiveTreeErrorPassiveDoesNotExist | 155 |
-| PassiveTreeBuildLoaded | 156 |
-| PassiveTreeBuildSaved | 157 |
-| Level | 158 |
-| Experience | 159 |
-| StrengthDescription | 160 |
-| DexterityDescription | 161 |
-| IntelligenceDescription | 162 |
-| Strength | 163 |
-| Dexterity | 164 |
-| Intelligence | 165 |
-| StrengthShort | 166 |
-| DexterityShort | 167 |
-| IntelligenceShort | 168 |
-| CharacterPanelTitle | 169 |
-| ExperienceBarPopup1 | 170 |
-| ExperienceBarPopup2 | 171 |
-| ExperienceBarPopup3 | 172 |
-| MapOverlayMonsterLevel | 173 |
-| MapOverlayLeague | 174 |
-| MapOverlayRealm | 175 |
-| Continue | 176 |
-| Goodbye | 177 |
-| Quality | 178 |
-| ItemViewSocketsNotShown | 179 |
-| ItemViewSkillGemReadyToLevel | 180 |
-| ItemLevelPopup | 181 |
-| WorldPanelTitle | 182 |
-| WorldPanelAct | 183 |
-| WorldPanelPart | 184 |
-| MapLegendTitle | 185 |
-| MapLegendCurrentLocation | 186 |
-| MapLegendTown | 187 |
-| MapLegendUnknownArea | 188 |
-| MapLegendKnownArea | 189 |
-| MapLegendKnownAreaWaypoint | 190 |
-| MapLegendKnownAreaWaypointEnabled | 191 |
-| MapLegendQuestLocation | 192 |
-| MapLegendConnection | 193 |
-| MapLegendCannotTravel | 194 |
-| MapLegendHideout | 195 |
-| ChatErrorUnknownRealm | 196 |
-| ChatTimeoutMessage | 197 |
-| ChatTimeoutMessageChannel | 198 |
-| ChatTimeoutMessageTrade | 199 |
-| ChatTimeoutMessageGlobal | 200 |
-| ChatBoxChannelNameGlobal | 201 |
-| ChatBoxChannelNameLocal | 202 |
-| ChatBoxChannelNameTrade | 203 |
-| ChatBoxChannelNameParty | 204 |
-| ChatBoxChannelNameWhisper | 205 |
-| ChatBoxChannelNameGuild | 206 |
-| ChatBoxChannelNameTwitch | 207 |
-| ChatBoxChannelNameServer | 208 |
-| ChatBoxGlobalCheckboxLabel | 209 |
-| ChatBoxTradeCheckboxLabel | 210 |
-| ChatBoxGuildCheckboxLabel | 211 |
-| ChatBoxChannelPopupJoining | 212 |
-| ChatBoxChannelPopupJoiningWithLanguage | 213 |
-| ChatBoxChannelPopupNotConnected | 214 |
-| ChatBoxChannelPopupConnectedTo | 215 |
-| ChatBoxChannelPopupConnectedToWithLanguage | 216 |
-| WhisperHelp | 217 |
-| WeaponClassDisplayNameOneHandedSword | 218 |
-| WeaponClassDisplayNameTwoHandedSword | 219 |
-| WeaponClassDisplayNameOneHandedMace | 220 |
-| WeaponClassDisplayNameTwoHandedMace | 221 |
-| WeaponClassDisplayNameWand | 222 |
-| WeaponClassDisplayNameOneHandedAxe | 223 |
-| WeaponClassDisplayNameTwoHandedAxe | 224 |
-| WeaponClassDisplayNameBow | 225 |
-| WeaponClassDisplayNameDagger | 226 |
-| WeaponClassDisplayNameStaff | 227 |
-| WeaponClassDisplayNameClaw | 228 |
-| WeaponClassDisplayNameShield | 229 |
-| WeaponClassDisplayNameUnarmed | 230 |
-| WeaponClassDisplayNameFishingRod | 231 |
-| WeaponClassDisplayNameNotWeapon | 232 |
-| ItemDisplayMapTier | 233 |
-| ItemDisplayTalismanTier | 234 |
-| ItemDisplayMapQuantityIncrease | 235 |
-| ItemDisplaySkillGemLevel | 236 |
-| ItemDisplaySkillGemMaxLevel | 237 |
-| ItemDisplaySkillGemPlusLevelFromItem | 238 |
-| ItemDisplaySkillGemPlusLevelsFromItem | 239 |
-| ItemDisplaySkillGemPlusLevelFromSupport | 240 |
-| ItemDisplaySkillGemPlusLevelsFromSupport | 241 |
-| ItemDisplaySkillGemPlusQualityFromItem | 242 |
-| ItemDisplaySkillGemPlusQualityFromSupport | 243 |
-| ItemDisplaySkillGemExperience | 244 |
-| ItemDisplaySkillGemManaMultiplier | 245 |
-| ItemDisplaySkillGemManaReserved | 246 |
-| ItemDisplaySkillGemManaCost | 247 |
-| ItemDisplaySkillGemCastTime | 248 |
-| ItemDisplaySkillGemCastTimeValue | 249 |
-| ItemDisplaySkillGemCriticalStrikeChance | 250 |
-| ItemDisplaySkillGemCooldownTime | 251 |
-| ItemDisplaySkillGemCooldownValue | 252 |
-| ItemDisplaySkillGemCooldownValueCount | 253 |
-| ItemDisplaySkillGemSoulsPerUse | 254 |
-| ItemDisplaySkillGemPreventSoulGainDuration | 255 |
-| ItemDisplaySkillGemSoulsCanStoreUse | 256 |
-| ItemDisplaySkillGemSoulsCanStoreUses | 257 |
-| ItemDisplaySkillGemDamageEffectiveness | 258 |
-| ItemDisplayFlaskLifeRecovery1Second | 259 |
-| ItemDisplayFlaskLifeRecoveryNSeconds | 260 |
-| ItemDisplayFlaskManaRecovery1Second | 261 |
-| ItemDisplayFlaskManaRecoveryNSeconds | 262 |
-| ItemDisplayFlaskBuffDuration1Second | 263 |
-| ItemDisplayFlaskBuffDurationNSeconds | 264 |
-| ItemDisplayChargesConsumptionOnUse1Charge | 265 |
-| ItemDisplayChargesConsumptionOnUseNCharges | 266 |
-| ItemDisplayCharges1Charge | 267 |
-| ItemDisplayChargesNCharges | 268 |
-| ItemDisplayWeaponPhysicalDamage | 269 |
-| ItemDisplayWeaponElementalDamage | 270 |
-| ItemDisplayWeaponChaosDamage | 271 |
-| ItemDisplayWeaponCriticalStrikeChance | 272 |
-| ItemDisplayWeaponAttacksPerSecond | 273 |
-| ItemDisplayShieldBlockChance | 274 |
-| ItemDisplayArmourArmour | 275 |
-| ItemDisplayArmourEvasionRating | 276 |
-| ItemDisplayArmourEnergyShield | 277 |
-| ItemDisplayStackSize | 278 |
-| ItemDisplayStackSizeValue | 279 |
-| ItemDisplayStackDescription | 280 |
-| ItemDisplayHasEffect | 281 |
-| ItemDisplayHasReskin | 282 |
-| ItemDisplayImprintImprinted | 283 |
-| ItemDisplayImprintUnidentified | 284 |
-| ItemDisplayRequirementFromGem | 285 |
-| ItemDisplayRequirementFromJewel | 286 |
-| ItemPopupCannotUseItem | 287 |
-| ItemPopupCannotTradeOrModify | 288 |
-| ItemPopupLockedToAccount | 289 |
-| ItemPopupUnidentified | 290 |
-| ItemPopupMirrored | 291 |
-| ItemPopupCorrupted | 292 |
-| ItemPopupDroppedInMaps | 293 |
-| ItemPopupNextLevel | 294 |
-| LoadingScreenMessage | 295 |
-| GraphicsOptionsApplySettings | 296 |
-| GraphicsOptionsApplySettingsPopup | 297 |
-| GraphicsOptionsAdapterLabel | 298 |
-| GraphicsOptionsDisplayModeLabel | 299 |
-| GraphicsOptionsDisplayModeWindowed | 300 |
-| GraphicsOptionsDisplayModeFullscreen | 301 |
-| GraphicsOptionsDisplayModeWindowedFullscreen | 302 |
-| GraphicsOptionsResolutionLabel | 303 |
-| GraphicsOptionsResolutionCustom | 304 |
-| GraphicsOptionsVSyncLabel | 305 |
-| GraphicsOptionsDynamicResolution | 306 |
-| GraphicsOptionsTargetFps | 307 |
-| GraphicsOptionsTargetFpsTooltip | 308 |
-| GraphicsOptionsWaterDetail | 309 |
-| GraphicsOptionsWaterDetailDownscaled | 310 |
-| GraphicsOptionsWaterDetailFullres | 311 |
-| GraphicsOptionsGlobalIllumination | 312 |
-| GraphicsOptionsGlobalIlluminationOff | 313 |
-| GraphicsOptionsGlobalIlluminationLow | 314 |
-| GraphicsOptionsGlobalIlluminationHigh | 315 |
-| GraphicsOptionsShadowQualityLabel | 316 |
-| GraphicsOptionsShadowQualityOff | 317 |
-| GraphicsOptionsShadowQualityLow | 318 |
-| GraphicsOptionsShadowQualityHigh | 319 |
-| GraphicsOptionsShadowQualityOLDVariance | 320 |
-| GraphicsOptionsShadowQualityOLDBasic | 321 |
-| GraphicsOptionsAntialiasingLabel | 322 |
-| GraphicsOptionsDX9SMAAOff | 323 |
-| GraphicsOptionsDX9SMAAMedium | 324 |
-| GraphicsOptionsDX9SMAAHigh | 325 |
-| GraphicsOptionsDX11MSAAOff | 326 |
-| GraphicsOptionsDX11MSAA4 | 327 |
-| GraphicsOptionsDX11MSAA8 | 328 |
-| GraphicsOptionsTextureQualityLabel | 329 |
-| GraphicsOptionsTextureQualityMedium | 330 |
-| GraphicsOptionsTextureQualityHigh | 331 |
-| GraphicsOptionsTextureFilteringLabel | 332 |
-| GraphicsOptionsTextureFilteringTrilinear | 333 |
-| GraphicsOptionsTextureFilteringAnisotropic | 334 |
-| GraphicsOptionsPostProcessingLabel | 335 |
-| GraphicsOptionsScreenShakeLabel | 336 |
-| AudioOptionsDeviceLabel | 337 |
-| AudioOptionsDeviceDefault | 338 |
-| AudioOptionsDeviceNoDevices | 339 |
-| AudioOptionsEffectsVolumeLabel | 340 |
-| AudioOptionsMusicVolumeLabel | 341 |
-| AudioOptionsAmbientVolumeLabel | 342 |
-| AudioOptionsDialogueVolumeLabel | 343 |
-| AudioOptionsItemFilterAlertVolumeLabel | 344 |
-| AudioOptionsReverbLabel | 345 |
-| AudioOptionsMuteInBackgroundLabel | 346 |
-| AudioOptionsMuteInBackgroundDescription | 347 |
-| AudioOptionsWarningNoSoundDriver | 348 |
-| AudioOptionsWarningSoundDriverInitialisationFailed | 349 |
-| OptionsCornerMapLabel | 350 |
-| OptionsCornerMapPopup | 351 |
-| OptionsAutoCenterMapLabel | 352 |
-| OptionsAutoCenterMapPopup | 353 |
-| OptionsMapTransparencyLabel | 354 |
-| OptionsAlwaysHighlightLabel | 355 |
-| OptionsAlwaysHighlightPopup | 356 |
-| OptionsAlwaysShowSocketsLabel | 357 |
-| OptionsKeyPickupLabel | 358 |
-| OptionsKeyPickupDisabled | 359 |
-| OptionsKeyPickupUseHighlightKey | 360 |
-| OptionsKeyPickupUseBoundKey | 361 |
-| OptionsShowFullDescriptionsLabel | 362 |
-| OptionsShowFullDescriptionsPopup | 363 |
-| OptionsShowLifeManaLevelsLabel | 364 |
-| OptionsShowLifeManaLevelsPopup | 365 |
-| OptionsCorpseTargetingLabel | 366 |
-| OptionsCorpseTargetingAlways | 367 |
-| OptionsCorpseTargetingWhenKeyHeld | 368 |
-| OptionsJoinGlobalChatLabel | 369 |
-| OptionsJoinTradeChatLabel | 370 |
-| OptionsShowGuildChatLabel | 371 |
-| OptionsShowLifeBarsOnAlliesLabel | 372 |
-| OptionsShowLifeBarsOnAlliesPopup | 373 |
-| OptionsShowLifeBarsOnEnemiesLabel | 374 |
-| OptionsShowLifeBarsOnEnemiesPopup | 375 |
-| OptionsShowLifeBarOnPlayerLabel | 376 |
-| OptionsShowLifeBarOnPlayerPopup | 377 |
-| OptionsShowAllyNamesOnMapLabel | 378 |
-| OptionsShowAllyNamesOnMapPopup | 379 |
-| OptionsUseNextFlaskWithChargesLabel | 380 |
-| OptionsUseNextFlaskWithChargesPopup | 381 |
-| OptionsShowClockLabel | 382 |
-| OptionsShowClockPopup | 383 |
-| OptionsAutoEquipLabel | 384 |
-| OptionsAutoEquipPopup | 385 |
-| OptionsAlwaysAttackInPlaceLabel | 386 |
-| OptionsAlwaysAttackInPlacePopup | 387 |
-| OptionsAttackInPlaceKeyStopsMoveLabel | 388 |
-| OptionsAttackInPlaceKeyStopsMovePopup | 389 |
-| OptionsMousewheelZoomLabel | 390 |
-| OptionsMousewheelZoomPopup | 391 |
-| OptionsRestrictCursorToWindowLabel | 392 |
-| OptionsRestrictCursorToWindowPopup | 393 |
-| OptionsDefaultLootAllocation | 394 |
-| OptionsChatFontSize | 395 |
-| OptionsChatFontOptionSmall | 396 |
-| OptionsChatFontOptionNormal | 397 |
-| OptionsChatWidthLabel | 398 |
-| OptionsChatHeightLabel | 399 |
-| OptionsEnableQuestTracking | 400 |
-| OptionsEnableQuestTrackingPopup | 401 |
-| OptionsReloadItemFiltersButton | 402 |
-| OptionsItemFilterFileList | 403 |
-| OptionsNoFilter | 404 |
-| OptionsLanguageOption | 405 |
-| OptionsLanguageChange | 406 |
-| OptionsChatLanguageOption | 407 |
-| OptionsChatLanguageOptionDefault | 408 |
-| OptionsDialogueInChatLabel | 409 |
-| OptionsDialogueInChatPopup | 410 |
-| OptionsNetworkingMode | 411 |
-| OptionsNetworkingModeCannotChange | 412 |
-| OptionsNetworkingModeLockstep | 413 |
-| OptionsNetworkingModePredictive | 414 |
-| OptionsNetworkingModeAuto | 415 |
-| OptionsNetworkingModeAutoSelected | 416 |
-| OptionsShowFlaskBuffs | 417 |
-| OptionsShowFlaskBuffsPopup | 418 |
-| OptionsShowAuraIcons | 419 |
-| OptionsShowAuraIconsPopup | 420 |
-| InputOptionsDescription | 421 |
-| OptionsResetToDefaults | 422 |
-| OptionsReset | 423 |
-| InputOptionsActionsNotSet | 424 |
-| InputOptionsHint | 425 |
-| InputOptionsNotSet | 426 |
-| InputOptionsEntryPopup | 427 |
-| StreamingOptionsUsernameLabel | 428 |
-| StreamingOptionsUsernameEmptyMessage | 429 |
-| StreamingOptionsPasswordLabel | 430 |
-| StreamingOptionsPasswordEmptyMessage | 431 |
-| StreamingOptionsLinkAccountsButtonText | 432 |
-| StreamingOptionsLinkAccountsLabel | 433 |
-| StreamingOptionsLinkAccountsTip | 434 |
-| StreamingOptionsStreamTitleLabel | 435 |
-| StreamingOptionsQualityLabel | 436 |
-| StreamingOptionsQualityAuto | 437 |
-| StreamingOptionsQualityEntry | 438 |
-| StreamingOptionsBitrateLabel | 439 |
-| StreamingOptionsBitrateAuto | 440 |
-| StreamingOptionsServerLabel | 441 |
-| StreamingOptionsServerLogIn | 442 |
-| StreamingOptionsWebcamLabel | 443 |
-| StreamingOptionsWebcamNoWebcams | 444 |
-| StreamingOptionsWebcamSize | 445 |
-| StreamingOptionsShowWebcam | 446 |
-| StreamingOptionsShowWebcamPopup | 447 |
-| StreamingOptionsStopStreamButtonText | 448 |
-| StreamingOptionsStartStreamButtonText | 449 |
-| StreamingOptionsStatusText | 450 |
-| StreamingOptionsStatusTextStreaming | 451 |
-| StreamingOptionsLogInButtonText | 452 |
-| StreamingOptionsLogOutButtonText | 453 |
-| StreamingOptionsEnableWebcamButtonText | 454 |
-| StreamingOptionsDisableWebcamButtonText | 455 |
-| StreamingStatusTextLogInToStream | 456 |
-| StreamingStatusTextLoggingIn | 457 |
-| StreamingStatusTextFetchingServerList | 458 |
-| StreamingStatusTextReadyToStream | 459 |
-| StreamingStatusTextTestingConnection | 460 |
-| StreamingStatusTextConnectionTested | 461 |
-| StreamingStatusTextStreaming | 462 |
-| StreamingStatusTextStreamPaused | 463 |
-| StreamingStatusTextStoppingStream | 464 |
-| OptionsPanelTitle | 465 |
-| OptionsPanelSaveButtonText | 466 |
-| OptionsPanelCloseButtonText | 467 |
-| OptionsPanelCancelButtonText | 468 |
-| OptionsPanelDefaultsButtonText | 469 |
-| OptionsPanelSaveChangesText | 470 |
-| OptionsPanelCancelChangesText | 471 |
-| OptionsPanelResetToDefaultsText | 472 |
-| OptionsPanelGraphicsTabTitle | 473 |
-| OptionsPanelSoundTabTitle | 474 |
-| OptionsPanelUITabTitle | 475 |
-| OptionsPanelNotificationsTabTitle | 476 |
-| OptionsPanelNotificationsTabDisplayLocationsNone | 477 |
-| OptionsPanelInputTabTitle | 478 |
-| OptionsPanelStreamingTabTitle | 479 |
-| NotificationOptionsTypeHeader | 480 |
-| NotificationOptionsShowPopupHeader | 481 |
-| NotificationOptionsObeyDNDHeader | 482 |
-| LoginScreenLogInButtonText | 483 |
-| SteamLoginScreenLogInButtonTip | 484 |
-| LoginScreenOptionsButtonText | 485 |
-| LoginScreenCreditsButtonText | 486 |
-| LoginScreenExitButtonText | 487 |
-| LoginScreenGatewayLabel | 488 |
-| LoginScreenEmailLabel | 489 |
-| LoginScreenPasswordLabel | 490 |
-| LoginScreenSaveLoginDetailsText | 491 |
-| LoginScreenCreateButtonText | 492 |
-| LoginScreenCreateButtonTip | 493 |
-| LoginScreenLostPasswordButtonText | 494 |
-| LoginScreenLostPasswordButtonTip | 495 |
-| LoginScreenGatewayListGatewayTitle | 496 |
-| LoginScreenGatewayListPingTitle | 497 |
-| LoginScreenGatewayListPing | 498 |
-| LoginScreenGatewayListAutoSelectGateway | 499 |
-| LoginScreenGatewayListFindingGateway | 500 |
-| LoginScreenGatewayListGatewayAutoSelected | 501 |
-| GarenaLoginScreenPlayButtonText | 502 |
-| CharacterSelectionScreenEntryText | 503 |
-| CharacterPanelNextLevelExperience | 504 |
-| CharacterPanelMaxLevel | 505 |
-| CharacterPanelMaxLevelBrackets | 506 |
-| SkillPopupManaCost | 507 |
-| SkillPopupManaReserved | 508 |
-| SkillPopupCastTime | 509 |
-| SkillPopupAttackTime | 510 |
-| SkillPopupSecond | 511 |
-| SkillPopupSeconds | 512 |
-| SkillPopupDPS | 513 |
-| SkillPopupAverageDamage | 514 |
-| SkillPopupSouls | 515 |
-| SkillPopupLevel | 516 |
-| MicrotransactionPanelTitle | 517 |
-| MicrotransactionPanelReclaimMTX | 518 |
-| MicrotransactionPanelReclaimMTXPopup | 519 |
-| MicrotransactionPanelCancelReclaimMTX | 520 |
-| MicrotransactionPanelCancelReclaimMTXPopup | 521 |
-| MicrotransactionPanelReclaimPet | 522 |
-| MicrotransactionPanelReclaimPetPopup | 523 |
-| MicrotransactionPanelCancelReclaimPet | 524 |
-| MicrotransactionPanelReclaimCursorNotEmpty | 525 |
-| MicrotransactionPanelShopButton | 526 |
-| MicrotransactionPanelShopButtonPopup | 527 |
-| MicrotransactionPanelOnlineShopButton | 528 |
-| MicrotransactionPanelOnlineShopButtonPopup | 529 |
-| MicrotransactionPanelReclaimMTXMessage | 530 |
-| ShopPanelTitle | 531 |
-| ShopPanelBuyButton | 532 |
-| ShopPanelBuyButtonPopup | 533 |
-| ShopPanelYouSave | 534 |
-| ShopPanelBuyPointsButton | 535 |
-| ShopPanelBuyPointsButtonPopup | 536 |
-| ShopPanelGivePointsToGuildButton | 537 |
-| ShopPanelGivePointsToGuildButtonPopup | 538 |
-| ShopPanelGuildPointInfoLabel | 539 |
-| ShopPanelHomeButton | 540 |
-| ShopPanelDailyDealShortName | 541 |
-| ShopPanelHourlyDealShortName | 542 |
-| ShopPanelPercentOffEverything | 543 |
-| ShopPanelLoading | 544 |
-| ShopPanelError | 545 |
-| EscapeMenuResume | 546 |
-| EscapeMenuOptions | 547 |
-| EscapeMenuShop | 548 |
-| EscapeMenuExitToLogin | 549 |
-| EscapeMenuExitToCharacterSelect | 550 |
-| EscapeMenuExitToDesktop | 551 |
-| LoginStateConnectingToLoginServer | 552 |
-| LoginStateDefaultGatewayText | 553 |
-| LoginStateLoginMessageTitle | 554 |
-| LoginStateAbnormalDisconnectMessageTitle | 555 |
-| LoginStateDisconnectedMessageTitle | 556 |
-| LoginStateUnlockedMessageTitle | 557 |
-| LoginStateContactingServer | 558 |
-| LoginStateMOTDDownloading | 559 |
-| LoginStateMOTDError | 560 |
-| LoginStateNoGatewaySelected | 561 |
-| LoginStateAuthenticatingUser | 562 |
-| LoginStateFailedToLoadLoginDetails | 563 |
-| LoginStateFailedToLoadLoginDetailsMessageBox | 564 |
-| LoginStateAuthenticated | 565 |
-| LoginStateUnlockedMessageBox | 566 |
-| LoginStateQueuedServersNotOnline | 567 |
-| LoginStateQueuedServersFull | 568 |
-| LoginStateQueuedNumberInQueue | 569 |
-| LoginStatePasswordSavedDetailsEmptyMessage | 570 |
-| LoginStatePasswordEmptyMessage | 571 |
-| LoginStateSteamNetworkProblem | 572 |
-| LoginStateSteamLoginsExceeded | 573 |
-| LoginStateSteamDuplicateLogin | 574 |
-| LoginStateSteamNoConnection | 575 |
-| LoginStateSteamUnexpectedError | 576 |
-| LoginStateSteamUnableToGetAppTicket | 577 |
-| LoginStateWarnAboutHacks | 578 |
-| ClientLoginSessionUnableToConnect | 579 |
-| ClientLoginSessionConnected | 580 |
-| CharacterCreationScreenLeagueButtonText | 581 |
-| CharacterCreationScreenNameLabel | 582 |
-| CharacterCreationScreenPasswordLabel | 583 |
-| CharacterCreationScreenTitle | 584 |
-| WaitingStateContactingServer | 585 |
-| InventoryPanelTitle | 586 |
-| SocialPanelTitle | 587 |
-| SocialPanelFriendPageName | 588 |
-| SocialPanelGuildPageName | 589 |
-| SocialPanelCurrentPartyPageName | 590 |
-| SocialPanelCreatePartyPageName | 591 |
-| SocialPanelPublicPartyPageName | 592 |
-| SocialPanelGuildInviteLabel | 593 |
-| SocialPanelGuildInviteBox | 594 |
-| SocialPanelGuildInvitePopup | 595 |
-| SocialPanelFriendInviteLabel | 596 |
-| SocialPanelFriendInviteBox | 597 |
-| SocialPanelFriendInvitePopup | 598 |
-| SocialPanelPartyInviteLabel | 599 |
-| SocialPanelPartyInviteBox | 600 |
-| SocialPanelPartyInvitePopup | 601 |
-| SocialPanelPartySearchBarBox | 602 |
-| SocialPanelPartySearchBarUpdateButton | 603 |
-| SocialPanelFriendsPageOnline | 604 |
-| SocialPanelFriendsPageInvitationsRecieved | 605 |
-| SocialPanelFriendsPageOffline | 606 |
-| SocialPanelFriendsPageNotePopup | 607 |
-| SocialPanelGuildBarDefaultNameBox | 608 |
-| SocialPanelGuildBarCreateGuildButton | 609 |
-| SocialPanelGuildOptionsDefaultStatusBox | 610 |
-| SocialPanelGuildOptionsDefaultTag | 611 |
-| SocialPanelGuildOptionsStatusLabel | 612 |
-| SocialPanelGuildOptionsStatusUpdateButton | 613 |
-| SocialPanelGuildOptionsTagLabel | 614 |
-| SocialPanelGuildOptionsEditTagButton | 615 |
-| SocialPanelGuildOptionsEditTagPopup | 616 |
-| SocialPanelGuildOptionsUpdateStatusPopup | 617 |
-| SocialPanelGuildOptionsUpdateStatusPopupEmpty | 618 |
-| SocialPanelGuildPageGuildNameLabel | 619 |
-| LeaveGuildConfirmation | 620 |
-| Leave | 621 |
-| CancelGuildInviteConfirmation | 622 |
-| SocialPanelGuildPageLeaveGuildButton | 623 |
-| SocialPanelGuildPageCancelInviteButton | 624 |
-| SocialPanelGuildPageLeaderTitle | 625 |
-| SocialPanelGuildPageInvitationSent | 626 |
-| SocialPanelGuildPageInvitationsSent | 627 |
-| SocialPanelGuildPageInvitationReceived | 628 |
-| SocialPanelGuildPageInvitationsReceived | 629 |
-| SocialPanelGuildPageMember | 630 |
-| SocialPanelGuildPageMembers | 631 |
-| SocialPanelGuildPageOfficer | 632 |
-| SocialPanelGuildPageOfficers | 633 |
-| SocialPanelPartyNameBarDefaultBox | 634 |
-| SocialPanelPartyNameBarRenameButton | 635 |
-| SocialPanelPartyNameBarRenamePopup | 636 |
-| SocialPanelPartyNameBarMakePrivateButton | 637 |
-| SocialPanelPartyNameBarMakePrivatePopup | 638 |
-| SocialPanelPartyNameBarCancelButton | 639 |
-| SocialPanelPartyNameBarCancelPopup | 640 |
-| SocialPanelPartyNameBarCreatePublicButton | 641 |
-| SocialPanelPartyNameBarCreatePublicPopup | 642 |
-| SocialPanelMakePublicButton | 643 |
-| SocialPanelMakePublicPopup | 644 |
-| SocialPanelMakePrivateButton | 645 |
-| SocialPanelMakePrivatePopup | 646 |
-| SocialPanelCancelPartyButton | 647 |
-| SocialPanelCancelPartyPopup | 648 |
-| SocialPanelPartyOptionsAllocationMode | 649 |
-| SocialPanelPartyPageMessage | 650 |
-| SocialPanelPartyPageLeaderTitle | 651 |
-| SocialPanelPartyPageMember | 652 |
-| SocialPanelPartyPageMembers | 653 |
-| SocialPanelPartyPageInvitationSent | 654 |
-| SocialPanelPartyPageInvitationsSent | 655 |
-| SocialPanelPartyPageInvitationReceived | 656 |
-| SocialPanelPartyPageInvitationsReceived | 657 |
-| SocialPanelPartyPageLeaveButton | 658 |
-| SocialPanelPartyPageLeavePopup | 659 |
-| SocialPanelPartyPageCancelInviteButton | 660 |
-| SocialPanelPartyPageCancelInvitePopup | 661 |
-| Kick | 662 |
-| SocialPanelPartyPageKickPopup | 663 |
-| SocialPanelPublicPartyPlayerCount | 664 |
-| SocialPanelPublicPartyLevel | 665 |
-| SocialPanelPublicPartyLootPopupFFA | 666 |
-| SocialPanelPublicPartyLootPopupSA | 667 |
-| SocialPanelPublicPartyLootPopupPA | 668 |
-| SocialPanelPublicPartyPageNoParties | 669 |
-| SocialPanelPublicPartyPageNoMatches | 670 |
-| SocialPanelStatusBarDefaultMessage | 671 |
-| SocialPanelStatusBarSetStatusButton | 672 |
-| CharacterSelectionScreenShowAll | 673 |
-| CharacterSelectionJoinButtonText | 674 |
-| CharacterSelectionRegisterIn | 675 |
-| CharacterSelectionStartsIn | 676 |
-| CharacterSelectionEndsIn | 677 |
-| CharacterSelectionRegisterNow | 678 |
-| CharacterSelectionRunningNow | 679 |
-| CharacterSelectionExitButtonText | 680 |
-| CharacterSelectionLogoutButtonText | 681 |
-| CharacterSelectionOptionButtonText | 682 |
-| CharacterSelectionPasswordButtonText | 683 |
-| CharacterSelectionPlayButtonText | 684 |
-| CharacterSelectionDeleteButtonText | 685 |
-| CharacterSelectionCreateButtonText | 686 |
-| CharacterSelectionLoadingCharacters | 687 |
-| CharacterSelectionCreateCharacterTip | 688 |
-| CharacterSelectionLeagueLabel | 689 |
-| ChallengesPanelTitle | 690 |
-| GemLevelUpButton | 691 |
-| GemLevelUpButtonNotMet | 692 |
-| ItemRequirementsLabel | 693 |
-| HUDChangingAreaMessage | 694 |
-| HUDNoAllocatedSkillsMessageTitle | 695 |
-| HUDNoAllocatedSkillsMessageText | 696 |
-| HUDGemReadyToLevel | 697 |
-| HUDQuitTimerTitle | 698 |
-| HUDWaitingForPlayerTrade | 699 |
-| HUDContactAccountAndCharacter | 700 |
-| HUDContactAccount | 701 |
-| HUDContactOnline | 702 |
-| HUDContactOffline | 703 |
-| HUDContactAreaChanged | 704 |
-| HUDContactCharacterLevelChanged | 705 |
-| HUDContactChangedStatus | 706 |
-| HUDJoinedPartyMessage | 707 |
-| HUDLeftPartyMessage | 708 |
-| HUDCharacterInvitedToParty | 709 |
-| HUDCharacterJoinedParty | 710 |
-| HUDCharacterLeftParty | 711 |
-| HUDCharacterPromotedToPartyLeader | 712 |
-| HUDAccountInvitedToGuild | 713 |
-| HUDAccountJoinedGuild | 714 |
-| HUDAccountLeftGuild | 715 |
-| HUDJoinedGuildMessage | 716 |
-| HUDLeftGuildMessage | 717 |
-| GuildMemberTypeInvited | 718 |
-| GuildMemberTypeMember | 719 |
-| GuildMemberTypeOfficer | 720 |
-| GuildMemberTypeLeader | 721 |
-| HUDGuildDemotedMessage | 722 |
-| HUDGuildPromotedMessage | 723 |
-| HUDGuildMemberDemotedMessage | 724 |
-| HUDGuildMemberPromotedMessage | 725 |
-| HUDAchievementItemCompleteMessage | 726 |
-| HUDDeathMessageExitButton | 727 |
-| HUDDeathMessageExitButtonPopup | 728 |
-| HUDDeathMessageResurrectButton | 729 |
-| HUDDeathMessageResurrectInTownButton | 730 |
-| HUDDeathMessageResurrectAtCheckpointButton | 731 |
-| HUDStreamDisconnected | 732 |
-| HUDStreamConnected | 733 |
-| WorldPanelPinPopupClickToTravel | 734 |
-| WorldPanelPinPopupMonsterLevel | 735 |
-| WorldPanelPinPopupTown | 736 |
-| DailyDealLoading | 737 |
-| HourlyDealLoading | 738 |
-| DailyDealBalance | 739 |
-| DailyDealShopButtonPopup | 740 |
-| DailyDealShopNow | 741 |
-| DailyDealBuyNow | 742 |
-| DailyDealPercentOff | 743 |
-| HourlyDealPercentOff | 744 |
-| DailyDealTodaysPrice | 745 |
-| DailyDealPrice | 746 |
-| DailyDealBuyPointsNow | 747 |
-| InstanceChooserTitle | 748 |
-| InstanceChooserPlayersColumnHeading | 749 |
-| InstanceChooserPlayersColumnSubheading | 750 |
-| InstanceChooserTimeColumnHeading | 751 |
-| InstanceChooserTimeColumnSubheading | 752 |
-| InstanceChooserCreatedColumnHeading | 753 |
-| InstanceChooserRealmColumnHeading | 754 |
-| InstanceChooserLabel | 755 |
-| InstanceChooserEnterButton | 756 |
-| InstanceChooserNewButton | 757 |
-| InstanceChooserNewText | 758 |
-| InstanceChooserNewTimeText | 759 |
-| InstanceChooserNoPlayers | 760 |
-| InstanceChooserCreateTimeSameDay | 761 |
-| InstanceChooserCreateTimeOtherDay | 762 |
-| InstanceChooserClosed | 763 |
-| InstanceChooserTimeDay | 764 |
-| InstanceChooserTimeDays | 765 |
-| InstanceChooserTimeHour | 766 |
-| InstanceChooserTimeHours | 767 |
-| InstanceChooserTimeMinute | 768 |
-| InstanceChooserTimeMinutes | 769 |
-| LootOptionFreeForAll | 770 |
-| LootOptionFreeForAllDescription | 771 |
-| LootOptionShortAllocation | 772 |
-| LootOptionShortAllocationDescription | 773 |
-| LootOptionPermanentAllocation | 774 |
-| LootOptionPermanentAllocationDescription | 775 |
-| RewardWindowTitle | 776 |
-| RewardWindowInfo | 777 |
-| RewardWindowClosePopup | 778 |
-| ReportWindowTitle | 779 |
-| ReportWindowChoose | 780 |
-| ReportWindowHateSpeech | 781 |
-| ReportWindowOffensiveCharacterName | 782 |
-| ReportWindowHarassment | 783 |
-| ReportWindowSpam | 784 |
-| ReportWindowDisclaimer | 785 |
-| ReportWindowCharacterLabel | 786 |
-| ReportWindowMessageLabel | 787 |
-| ReportWindowAbuseTypeLabel | 788 |
-| ReportWindowAdditionalInfoLabel | 789 |
-| ReportWindowSubmitButtonText | 790 |
-| ReportWindowReportSent | 791 |
-| AchievementCompleteAchievement | 792 |
-| AchievementCompleteChallenge | 793 |
-| TwitchAPIFailedToInitialise | 794 |
-| TwitchAPIErrorLoggingIn | 795 |
-| TwitchAPIInvalidBitrate | 796 |
-| TwitchAPIInvalidFPS | 797 |
-| TwitchAPIInvalidFrameHeight | 798 |
-| TwitchAPIFailedToStartServerTest | 799 |
-| TwitchAPIErrorStoppingStream | 800 |
-| TwitchAPIErrorPausingStream | 801 |
-| TwitchAPIFrameQueueTooLong | 802 |
-| TwitchAPIErrorSendingFrame | 803 |
-| TwitchAPIErrorSendingFrameDisconnect | 804 |
-| TwitchAPIErrorStartingStream | 805 |
-| TwitchAPIFailedToSendVideoDuringServerTest | 806 |
-| TwitchAPIFailedToDetermineBitrateToServer | 807 |
-| TwitchAPIErrorDuringServerTest | 808 |
-| TwitchAPIFailedToStartStreaming | 809 |
-| TwitchAPIInvalidLogIn | 810 |
-| TwitchAPIFailedToReceiveServerList | 811 |
-| TwitchChatAPIConnecting | 812 |
-| TwitchChatAPIConnected | 813 |
-| TwitchChatAPIFailedToConnect | 814 |
-| TwitchChatAPILostConnection | 815 |
-| TwitchChatAPIUserLeftChannel | 816 |
-| TwitchChatAPIUserJoinedChannel | 817 |
-| PlayerContextMenuWaitingForDetails | 818 |
-| PlayerContextMenuLeavePartyButton | 819 |
-| PlayerContextMenuLeaveGuildButton | 820 |
-| PlayerContextMenuWhisper | 821 |
-| PlayerContextMenuTrade | 822 |
-| PlayerContextMenuEditNote | 823 |
-| PlayerContextMenuUnfriend | 824 |
-| PlayerContextMenuAddFriend | 825 |
-| PlayerContextMenuIgnore | 826 |
-| PlayerContextMenuUnignore | 827 |
-| PlayerContextMenuReport | 828 |
-| PlayerContextMenuPartyInvite | 829 |
-| PlayerContextMenuPartyKick | 830 |
-| PlayerContextMenuGuildInvite | 831 |
-| PlayerContextMenuGuildInviteCancel | 832 |
-| PlayerContextMenuGuildKick | 833 |
-| PlayerContextMenuGuildPromoteOfficer | 834 |
-| PlayerContextMenuGuildPromoteLeader | 835 |
-| PlayerContextMenuGuildDemoteFromOfficer | 836 |
-| PlayerContextMenuDuel | 837 |
-| PlayerContextMenuSectionModeration | 838 |
-| PlayerContextMenuCopyAccountName | 839 |
-| PlayerContextMenuCopyCharacterName | 840 |
-| PlayerContextMenuNoOptions | 841 |
-| PlayerContextMenuUnfriendConfirmation | 842 |
-| PlayerContextMenuGuildKickConfirmation | 843 |
-| Promote | 844 |
-| PlayerContextMenuGuildPromoteLeaderComfirmation | 845 |
-| ItemPopupRequirements | 846 |
-| TradeNoSpace | 847 |
-| TradeMouseEachItem | 848 |
-| TradeWindowAccept | 849 |
-| TradeWindowAccepted | 850 |
-| TradeWindowCancelAccept | 851 |
-| TradeWindowYourOffer | 852 |
-| TradeWindowOtherOffer | 853 |
-| TradeWindowPlaceItemsHere | 854 |
-| SkillPopupNotEnoughSouls | 855 |
-| SkillPopupNotEnoughLife | 856 |
-| SkillPopupNotEnoughMana | 857 |
-| SkillPopupSkillUnusable | 858 |
-| SkillPopupDisabledInTown | 859 |
-| SkillPopupDetonateMinesDescription | 860 |
-| SkillPopupClearThisSlot | 861 |
-| SkillPopupMoveOnly | 862 |
-| ChatBoxChannelPopupGlobal | 863 |
-| ChatBoxChannelPopupTrade | 864 |
-| ChatBoxChannelLabel | 865 |
-| ChatBoxChannelLabelRealm | 866 |
-| InGameStateCannotDestroyCosmetic | 867 |
-| InGameStateCannotDropInTown | 868 |
-| InGameStateCannotDropCosmetic | 869 |
-| InGameStateWarningDestroyItemWithGems | 870 |
-| InGameStateWarningDropItemWithGems | 871 |
-| InGameStateDrop | 872 |
-| InGameStateDestroy | 873 |
-| InGameStateKeep | 874 |
-| ScreenshotSaved | 875 |
-| DeathScreenTitle | 876 |
-| TooLowLevelToSendChatTrade | 877 |
-| TooLowLevelToSendChatGlobal | 878 |
-| ItemDescriptionFlask | 879 |
-| ItemDescriptionFlaskUtility1 | 880 |
-| ItemDescriptionSkillGem | 881 |
-| ItemDescriptionActiveSkillGem | 882 |
-| ItemDescriptionSupportSkillGem | 883 |
-| ItemDescriptionMapFragment | 884 |
-| ItemDescriptionPantheonVessel | 885 |
-| ItemDescriptionPantheonSoul | 886 |
-| ItemDescriptionLabyrinthMapItem | 887 |
-| ItemDescriptionBreachMapItem | 888 |
-| ItemDescriptionBreachMapItemChaos | 889 |
-| ItemDescriptionBreachMapItemFire | 890 |
-| ItemDescriptionBreachMapItemCold | 891 |
-| ItemDescriptionBreachMapItemLightning | 892 |
-| ItemDescriptionBreachMapItemPhysical | 893 |
-| ItemDescriptionMap | 894 |
-| ItemDescriptionBanditRespecAlira | 895 |
-| ItemDescriptionBanditRespecEramir | 896 |
-| ItemDescriptionBanditRespecKraityn | 897 |
-| ItemDescriptionBanditRespecOak | 898 |
-| ItemDescriptionBookPassivePoint | 899 |
-| ItemDescriptionBook2RespecPoints | 900 |
-| ItemDescriptionBookPassivePointAnd2RespecPoints | 901 |
-| ItemDescriptionBook2PassivePoints | 902 |
-| ItemDescriptionBookDelevel | 903 |
-| ItemFunctionBanditRespecAlira | 904 |
-| ItemFunctionBanditRespecEramir | 905 |
-| ItemFunctionBanditRespecKraityn | 906 |
-| ItemFunctionBanditRespecOak | 907 |
-| ItemFunctionPassivePoint | 908 |
-| ItemFunction2PassivePoints | 909 |
-| ItemFunction2RespecPoints | 910 |
-| ItemFunctionPassivePointAnd2RespecPoints | 911 |
-| ItemFunctionDelevel | 912 |
-| QualityMax | 913 |
-| TradeItemWithGemsWarning | 914 |
-| TradeItemHasGem | 915 |
-| TradeItemGemConfirmation | 916 |
-| TradeItemCosmetic | 917 |
-| ItemAlreadyHasCosmetic | 918 |
-| CannotApplyCosmeticBecauseUreclaimable | 919 |
-| CannotApplyCosmeticMustReclaim | 920 |
-| SkinTransferExplanation | 921 |
-| Apply | 922 |
-| CreateCharacterStateTitlebarHintChooseLeague | 923 |
-| CreateCharacterStateTitlebarHintChooseClass | 924 |
-| CreateCharacterStateTitlebarHintChooseName | 925 |
-| CreateCharacterStateNoClassSelected | 926 |
-| CreateCharacterStateHardcoreWarning | 927 |
-| CreateCharacterStateHardcore | 928 |
-| CreateCharacterStateAwaitingResponse | 929 |
-| CreateCharacterStateHardcoreConfirmationTitle | 930 |
-| CreateCharacterStateHardcoreConfirmationText | 931 |
-| CreateCharacterStateLeaguePasswordEmptyText | 932 |
-| CreateCharacterStateChallengeLeaguesTitle | 933 |
-| CreateCharacterStateChallengeLeagueDescriptionGarena | 934 |
-| CreateCharacterStateChallengeLeagueDescription | 935 |
-| CreateCharacterStateNextChallengeLeagueDescriptionGarena | 936 |
-| CreateCharacterStateNextChallengeLeagueDescription | 937 |
-| CreateCharacterStatePVPOnly | 938 |
-| ObjectDisplayTextPlayer | 939 |
-| ObjectDisplayTextChest | 940 |
-| ObjectDisplayTextChestDescent1 | 941 |
-| ObjectDisplayTextChestDescent2 | 942 |
-| ObjectDisplayTextChestProvisions | 943 |
-| ObjectDisplayTextStash | 944 |
-| ObjectDisplayTextChestSarcophagus | 945 |
-| ObjectDisplayTextAltar | 946 |
-| ObjectDisplayTextAreaTransition | 947 |
-| ObjectDisplayTextDoor | 948 |
-| ObjectDisplayTextFountain | 949 |
-| ObjectDisplayTextGuildStash | 950 |
-| ObjectDisplayTextMapDevice | 951 |
-| ObjectDisplayTextMapPortal | 952 |
-| ObjectDisplayTextDailyMissionPortal | 953 |
-| ObjectDisplayTextMapReturnPortal | 954 |
-| ObjectDisplayTextNoticeboard | 955 |
-| ObjectDisplayTextPvPNoticeboard | 956 |
-| ObjectDisplayTextTownPortal | 957 |
-| ObjectDisplayTextTownReturnPortal | 958 |
-| ObjectDisplayTextWaypoint | 959 |
-| ObjectDisplayTextNPC | 960 |
-| ObjectDisplayTextDarkAltar | 961 |
-| ObjectDisplayTextScionCage | 962 |
-| ObjectDisplayTextMineEntranceSeal | 963 |
-| ObjectDisplayTextLockedDoor | 964 |
-| ObjectDisplayTextSceptreOfGod | 965 |
-| ObjectDisplayTextAncientSeal | 966 |
-| ObjectDisplayTextPoisonTree | 967 |
-| ObjectDisplayTextLooseCandle | 968 |
-| ObjectDisplayTextPortal | 969 |
-| ObjectDisplayTextBlockage | 970 |
-| ObjectDisplayTextLooseGrate | 971 |
-| ObjectDisplayTextSewerGrating | 972 |
-| ObjectDisplayTextThaumeticSeal | 973 |
-| ObjectDisplayTextGlyphWall | 974 |
-| ObjectDisplayTextShrine | 975 |
-| ObjectDisplayTextLegendsGlyph1 | 976 |
-| ObjectDisplayTextLegendsGlyph2 | 977 |
-| ObjectDisplayTextLegendsGlyph3 | 978 |
-| ObjectDisplayTextLegendsGlyph4 | 979 |
-| ObjectDisplayTextLegendsGlyphMain | 980 |
-| ObjectDisplayTextLockedChest | 981 |
-| ObjectDisplayTextFairgravesTreasureIsland | 982 |
-| ObjectDisplayTextBlueFlag | 983 |
-| ObjectDisplayTextRedFlag | 984 |
-| ObjectDisplayTextGreenFlag | 985 |
-| ObjectDisplayTextHakuSpirit | 986 |
-| ObjectDisplayTextVinktarStaffHolder | 987 |
-| ObjectDisplayTextDarkshrine | 988 |
-| ObjectDisplayTextLabyrinthDarkshrine | 989 |
-| ObjectDisplayTextStatue | 990 |
-| ObjectDisplayTextAscendancyPlaque | 991 |
-| ObjectDisplayTextTrialOfAscendancyPlaque | 992 |
-| ObjectDisplayTextChargeDisruptors | 993 |
-| PlayerAccountOptionsPopup | 994 |
-| QualityItem | 995 |
-| ChangePasswordStateChangePasswordButton | 996 |
-| ChangePasswordStateRetypePassword | 997 |
-| ChangePasswordStateNewPassword | 998 |
-| ChangePasswordStateOldPassword | 999 |
-| ChangePasswordStateMessageEnterOldPassword | 1000 |
-| ChangePasswordStateMessageEnterNewPassword | 1001 |
-| ChangePasswordStateMessageOldAndNewMustDiffer | 1002 |
-| ChangePasswordStateMessageRetypeNewPassword | 1003 |
-| ChangePasswordStateMessageNewAndRetypeMustMatch | 1004 |
-| SaveChangesPromptMessage | 1005 |
-| SaveChangesPromptSave | 1006 |
-| SaveChangesPromptDontSave | 1007 |
-| DeleteCharacterStatePrompt | 1008 |
-| DeleteCharacterStateStashWarning | 1009 |
-| DeleteCharacterStateWaitingForResponse | 1010 |
-| MapDeviceWindowTitle | 1011 |
-| LabyrinthAscendancyWindowTitle | 1012 |
-| CadiroOfferWindowTitle | 1013 |
-| LabyrinthCraftingWindowTitle | 1014 |
-| LabyrinthCraftingWindowDescription | 1015 |
-| LabyrinthCraftingWindowDescriptionCruel | 1016 |
-| LabyrinthCraftingWindowDescriptionMerciless | 1017 |
-| LabyrinthCraftingWindowDescriptionMap | 1018 |
-| TalismanWindowTitle | 1019 |
-| TalismanWindowButton | 1020 |
-| TalismanWindowDescription | 1021 |
-| AscendancyMapWindowTitle | 1022 |
-| AscendancyMapAreaNotComplete | 1023 |
-| AscendancyMapAreaComplete | 1024 |
-| AscendancyMapUnknownArea | 1025 |
-| AscendancyClassSelectorWindowDescription | 1026 |
-| AscendancyClassSelectorWindowNextButton | 1027 |
-| AscendancyClassSelectorWindowBackButton | 1028 |
-| AscendancyClassSelectorWindowSelectButton | 1029 |
-| AscendancyClassSelectorWindowChangeButton | 1030 |
-| AscendancyClassSelectorWindowChangeButtonHoverCanChange | 1031 |
-| AscendancyClassSelectorWindowChangeButtonHoverCannotChange | 1032 |
-| AscendancyClassSelectorWindowCloseButtonHover | 1033 |
-| MapDeviceWindowActivateButton | 1034 |
-| CadiroOfferWindowActivateButton | 1035 |
-| CadiroOfferWindowItemOnCursorError | 1036 |
-| DefaultPortalEffect | 1037 |
-| DefaultPortraitFrame | 1038 |
-| DefaultCharacterPortrait | 1039 |
-| StashPanelTitle | 1040 |
-| StashPanelSearchLabel | 1041 |
-| StashPanelSearchTextboxDefault | 1042 |
-| StashPanelSearchInfo | 1043 |
-| StashTabRemoveOnly | 1044 |
-| StashTabRemoveOnlyDescription | 1045 |
-| StashTabPremiumPopup | 1046 |
-| RevertDisplayScreenKeepChangesButton | 1047 |
-| RevertDisplayScreenRevertChangesButton | 1048 |
-| RevertDisplayScreenApplyingDisplaySettings | 1049 |
-| RevertDisplayScreenKeepChangesPrompt | 1050 |
-| RevertDisplayScreenRevertTimer | 1051 |
-| MicrotransactionPreviewWindowPurchaseSuccessful | 1052 |
-| MicrotransactionPreviewWindowYouSaveLabel | 1053 |
-| MicrotransactionPreviewWindowBuyPointsButton | 1054 |
-| MicrotransactionPreviewWindowGivePointsToGuildButton | 1055 |
-| MicrotransactionPreviewWindowBuyPointsButtonPopup | 1056 |
-| MicrotransactionPreviewWindowGivePointsToGuildButtonPopup | 1057 |
-| MicrotransactionPreviewWindowBuyButton | 1058 |
-| MicrotransactionPreviewWindowPurchasing | 1059 |
-| MicrotransactionPreviewWindowMustPurchaseFromWebsite | 1060 |
-| MicrotransactionPreviewWindowPreviewVideo | 1061 |
-| MicrotransactionPreviewWindowPreviewVideoPopup | 1062 |
-| MicrotransactionPreviewWindowBuyFor | 1063 |
-| MicrotransactionPreviewWindowMyself | 1064 |
-| GuildStashPanelTitle | 1065 |
-| GuildStashPanelEmptyLeader | 1066 |
-| GuildStashPanelEmpty | 1067 |
-| SellWindowTitle | 1068 |
-| SellWindowEmptyMessage | 1069 |
-| Accept | 1070 |
-| Decline | 1071 |
-| BuyWindowTitle | 1072 |
-| BuyWindowText | 1073 |
-| GuildTagEditorTitle | 1074 |
-| GuildTagEditorDescription | 1075 |
-| GuildTagEditorUpdateButton | 1076 |
-| GuildTagEditorConfirmation1 | 1077 |
-| GuildTagEditorConfirmation2 | 1078 |
-| GuildTagEditorTagNotSet | 1079 |
-| GuildTagEditorNewTag | 1080 |
-| FriendInviteNotification | 1081 |
-| PartyInviteNotification | 1082 |
-| TradeRequestNotification | 1083 |
-| ItemNoCosmeticsReclaim | 1084 |
-| GuildInviteNotification | 1085 |
-| GemOnGroundLevel | 1086 |
-| PVPQueueChallengeTitle | 1087 |
-| PVPQueueMatchmakingTitle | 1088 |
-| PVPQueueCancelButton | 1089 |
-| PVPQueueWithdraw | 1090 |
-| WaitingForAccept | 1091 |
-| PVPQueueOtherPlayer | 1092 |
-| PVPQueueOtherPlayers | 1093 |
-| PVPQueueFindingMatchFor | 1094 |
-| PVPQueueWaitingForNextRound | 1095 |
-| PVPMatchListJoinButton | 1096 |
-| PVPMatchQueued | 1097 |
-| PVPMatchListTitle | 1098 |
-| PVPMatchListCannotJoin | 1099 |
-| PVPMatchListCannotJoinLevelTooHigh | 1100 |
-| PVPMatchListCannotJoinTeamTooLarge | 1101 |
-| PVPMatchListCannotJoinLevel1 | 1102 |
-| PVPMatchListCannotJoinWrongLeague | 1103 |
-| PVPMatchListCannotJoinQuestCap | 1104 |
-| PVPMatchListCategoryName | 1105 |
-| PVPMatchListCategoryLevelCap | 1106 |
-| PVPMatchListCategoryNumberInQueue | 1107 |
-| PVPReadyForNextRound | 1108 |
-| PVPLeaveSpectating | 1109 |
-| PlayerCharacterInfoLevelClass | 1110 |
-| PlayerCharacterInfoLevel | 1111 |
-| PlayerCharacterInfoClass | 1112 |
-| FriendNoteEditorTitle | 1113 |
-| FriendNoteEditorUpdateButton | 1114 |
-| FriendNoteEditorLabel | 1115 |
-| GuildTabPermissionsTitle | 1116 |
-| GuildTabPermissionsMemberType | 1117 |
-| GuildTabPermissionsAdd | 1118 |
-| GuildTabPermissionsView | 1119 |
-| GuildTabPermissionsRemove | 1120 |
-| StashTabEditorNameLabel | 1121 |
-| StashTabEditorPubliclyListedLabel | 1122 |
-| TabContainerAddTabPopupText | 1123 |
-| ItemCosmeticGuildStash | 1124 |
-| ItemGuildStashConfirmation | 1125 |
-| PvPNotificationStatusMessageParty | 1126 |
-| PvPNotificationStatusMessageYou | 1127 |
-| PvPNotificationSystemChallenge | 1128 |
-| MagicNamePrefix | 1129 |
-| MagicNameSuffix | 1130 |
-| MagicNamePrefixSuffix | 1131 |
-| ShopPanelOnSale | 1132 |
-| MicrotransactionPanelTip | 1133 |
-| CreditsLeadDesigner | 1134 |
-| CreditsLeadProgrammer | 1135 |
-| CreditsLeadArtist | 1136 |
-| CreditsProgramming | 1137 |
-| CreditsAdditionalProgramming | 1138 |
-| CreditsArt | 1139 |
-| CreditsAdditionalArt | 1140 |
-| CreditsDesign | 1141 |
-| CreditsAdditionalDesign | 1142 |
-| CreditsLevelDesign | 1143 |
-| CreditsAudio | 1144 |
-| CreditsAdditionalAudio | 1145 |
-| CreditsMusic | 1146 |
-| CreditsAdditionalMusic | 1147 |
-| CreditsWriting | 1148 |
-| CreditsAdditionalWriting | 1149 |
-| CreditsProduction | 1150 |
-| CreditsQualityAssurance | 1151 |
-| CreditsAdditionalQualityAssurance | 1152 |
-| CreditsServerAdministration | 1153 |
-| CreditsVoiceActingDirectorAndProducer | 1154 |
-| CreditsVoiceActors | 1155 |
-| CreditsSpecialThanks | 1156 |
-| CreditsFounderManagingDirector | 1157 |
-| CreditsFounderTechnicalDirector | 1158 |
-| CreditsFounderCreativeDirector | 1159 |
-| CreditsFounder | 1160 |
-| CreditsMarketingDirector | 1161 |
-| CreditsCustomerSupportManager | 1162 |
-| CreditsCustomerSupportSupervisor | 1163 |
-| CreditsITAdministration | 1164 |
-| CreditsAccounting | 1165 |
-| CreditsOfficeManagement | 1166 |
-| CreditsCustomerSupport | 1167 |
-| CreditsCommunitySupporters | 1168 |
-| CreateCharacterStateChallengeLeagueAdvertisementHardcore | 1169 |
-| CreateCharacterStateChallengeLeagueAdvertisement | 1170 |
-| Month1 | 1171 |
-| Month2 | 1172 |
-| Month3 | 1173 |
-| Month4 | 1174 |
-| Month5 | 1175 |
-| Month6 | 1176 |
-| Month7 | 1177 |
-| Month8 | 1178 |
-| Month9 | 1179 |
-| Month10 | 1180 |
-| Month11 | 1181 |
-| Month12 | 1182 |
-| PVPDisplayFight | 1183 |
-| PVPDisplayWaiting | 1184 |
-| PVPDisplaySpectating | 1185 |
-| PVPDisplayStarting | 1186 |
-| PVPDisplayRound | 1187 |
-| CreateCharacterStateChallengeLeagueAdvertisementGarena | 1188 |
-| CreateCharacterStateChallengeLeagueAdvertisementHardcoreGarena | 1189 |
-| ItemPopupExpiresIn | 1190 |
-| ItemPopupItemExpired | 1191 |
-| ItemPopupEffectExpired | 1192 |
-| ItemErrorItemInTrade | 1193 |
-| ItemErrorLockedToCharacter | 1194 |
-| ItemErrorLockedToAccount | 1195 |
-| ItemErrorItemUnusable | 1196 |
-| ItemErrorTargetCorrupted | 1197 |
-| ItemErrorItemCannotBeCorrupted | 1198 |
-| ItemErrorFailedToCorrupt | 1199 |
-| ItemErrorItemInRemoveOnlyTab | 1200 |
-| ItemErrorItemEquipped | 1201 |
-| ItemErrorNoTargetItem | 1202 |
-| ItemErrorNoTargetChest | 1203 |
-| ItemErrorTargetTooFarAway | 1204 |
-| ItemErrorTargetNotIdentified | 1205 |
-| ItemErrorTargetAlreadyIdentified | 1206 |
-| ItemErrorItemCannotBeIdentified | 1207 |
-| ItemErrorItemNotWeapon | 1208 |
-| ItemErrorItemNotArmour | 1209 |
-| ItemErrorItemNotFlask | 1210 |
-| ItemErrorItemNotMap | 1211 |
-| ItemErrorItemNotAtlasMap | 1212 |
-| ItemErrorItemNotSkillGem | 1213 |
-| ItemErrorNotDivinationCard | 1214 |
-| ItemErrorNotFullStackOfDivinationCards | 1215 |
-| ItemErrorItemMirrored | 1216 |
-| ItemErrorItemCannotBeMirrored | 1217 |
-| ItemErrorItemAtMaxQuality | 1218 |
-| ItemErrorItemNoSockets | 1219 |
-| ItemErrorItemFixedSockets | 1220 |
-| ItemErrorFailedToRerollSockets | 1221 |
-| ItemErrorSocketsNotEmpty | 1222 |
-| ItemErrorItemAlreadyFullyLinked | 1223 |
-| ItemErrorItemAlreadyFullSockets | 1224 |
-| ItemErrorItemCannotIncreaseRarity | 1225 |
-| ItemErrorTargetNotNormal | 1226 |
-| ItemErrorTargetNotMagic | 1227 |
-| ItemErrorTargetNotRare | 1228 |
-| ItemErrorTargetNotMagicOrRare | 1229 |
-| ItemErrorTargetNoMods | 1230 |
-| ItemErrorCannotApplyToThisStrongbox | 1231 |
-| ItemErrorCannotApplyToStrongbox | 1232 |
-| ItemErrorNotInThisLeague | 1233 |
-| ItemErrorCannotApplyToTarget | 1234 |
-| ItemErrorTargetHasExistingMtx | 1235 |
-| ItemErrorCannotBeUsedInTown | 1236 |
-| ItemErrorMustBeUsedInTownOrHideout | 1237 |
-| ItemErrorCannotBeUsedInPVP | 1238 |
-| ItemErrorFailedToPlacePortal | 1239 |
-| ItemErrorFailedToGenerateMod | 1240 |
-| ItemErrorNotEnoughCharges | 1241 |
-| ItemErrorNoEffect | 1242 |
-| ItemErrorItemOnCursor | 1243 |
-| ItemErrorWrongDanceClass | 1244 |
-| ItemErrorItemCannotBeImprinted | 1245 |
-| ItemErrorItemImprintMismatch | 1246 |
-| ItemErrorBanditQuestIncomplete | 1247 |
-| ItemErrorBanditNoPassive | 1248 |
-| ItemErrorBanditAlreadyAlira | 1249 |
-| ItemErrorBanditAlreadyOak | 1250 |
-| ItemErrorBanditAlreadyKraityn | 1251 |
-| ItemErrorBanditAlreadyEramir | 1252 |
-| ItemErrorDelevelNoPassive | 1253 |
-| ItemErrorDelevelLevelTooLow | 1254 |
-| ItemErrorCannotReskin | 1255 |
-| ItemErrorReskinTypeMismatch | 1256 |
-| ItemErrorItemTooManyMods | 1257 |
-| ItemErrorWrongBaseType | 1258 |
-| ItemErrorNotStrongbox | 1259 |
-| ItemErrorStrongboxOpen | 1260 |
-| ItemErrorStrongboxLocked | 1261 |
-| ItemErrorFailedRerollImplicit | 1262 |
-| ItemErrorFailedChance | 1263 |
-| ItemErrorFailedRerollLinks | 1264 |
-| ItemErrorFailedRerollSockets | 1265 |
-| ItemErrorGenericFailure | 1266 |
-| ItemErrorMustBeInHideout | 1267 |
-| ItemErrorMustBeInIzaroObjective | 1268 |
-| ItemErrorHasExpiryHideoutDoodad | 1269 |
-| ItemErrorDoodadCanNotBePlacedHere | 1270 |
-| ItemErrorTargetHasMtx | 1271 |
-| ItemErrorMapAlreadyUpgraded | 1272 |
-| ItemErrorMapAlreadyHasMod | 1273 |
-| ItemErrorMapTooHighLevel | 1274 |
-| ItemErrorMapIncorrectTier | 1275 |
-| ItemErrorNoValidUnique | 1276 |
-| OptionsEnableTutorialsPopup | 1277 |
-| OptionsEnableTutorialsLabel | 1278 |
-| EventsPanelTitle | 1279 |
-| EventsPanelScheduleTabTitle | 1280 |
-| EventsPanelMatchmakingTabTitle | 1281 |
-| EventsPanelNotificationOptionsShortcut | 1282 |
-| EventsPanelNotificationOptionsShortcutPopup | 1283 |
-| EventsPanelJoinLeagueEventMessage | 1284 |
-| EventsPanelNoEvents | 1285 |
-| EventsPanelNoMatchmaking | 1286 |
-| EventsPanelScheduleLink | 1287 |
-| EventsPanelScheduleLinkHover | 1288 |
-| OptionsPanelEventsPanelShortcut | 1289 |
-| OptionsPanelEventsPanelShortcutPopup | 1290 |
-| ShopButton | 1291 |
-| NPCExperienceBarLevel | 1292 |
-| NPCExperienceBarMaxLevel | 1293 |
-| NPCExperienceBarXP | 1294 |
-| QuestTrackingGoTo1 | 1295 |
-| QuestTrackingGoTo2 | 1296 |
-| QuestTrackingGoTo3 | 1297 |
-| QuestTrackerOptional | 1298 |
-| TimeYears1 | 1299 |
-| TimeYearsN | 1300 |
-| TimeMonths1 | 1301 |
-| TimeMonthsN | 1302 |
-| TimeWeeks1 | 1303 |
-| TimeWeeksN | 1304 |
-| ItemErrorFirstItemHasMtx | 1305 |
-| WitchMissionCorpseText | 1306 |
-| ObjectDisplayTextStrCraftingBench | 1307 |
-| ObjectDisplayTextStrIntCraftingBench | 1308 |
-| ObjectDisplayTextDexCraftingBench | 1309 |
-| ObjectDisplayTextIntCraftingBench | 1310 |
-| ObjectDisplayTextStrDexCraftingBench | 1311 |
-| ObjectDisplayTextDexIntCraftingBench | 1312 |
-| ObjectDisplayTextStrDexIntMappingDevice | 1313 |
-| ObjectDisplayTextPvPCraftingBench | 1314 |
-| ItemPopupCost | 1315 |
-| ArenaScoreboard | 1316 |
-| TutorialFirstSkillGemOpenMenu | 1317 |
-| TutorialFirstSkillGemClickOnInventoryButton | 1318 |
-| TutorialFirstSkillGemHowToSocket | 1319 |
-| TutorialGemLevelUpClickButton | 1320 |
-| TutorialIdentification | 1321 |
-| TutorialLevelUp | 1322 |
-| TutorialLowLife | 1323 |
-| TutorialMove | 1324 |
-| TutorialQuestRewardActiveSkillGem | 1325 |
-| TutorialQuestRewardSupportGem | 1326 |
-| TutorialRemoveGem | 1327 |
-| TutorialShowMap | 1328 |
-| TutorialWaypointsExplanation | 1329 |
-| TutorialWaypointsClickToActivate | 1330 |
-| Edit | 1331 |
-| CraftingWindowTitle | 1332 |
-| CraftingWindowCraftButton | 1333 |
-| BanditRespecConfirmation | 1334 |
-| BanditRespecDiffText | 1335 |
-| GainLosePassive | 1336 |
-| GainLosePassives | 1337 |
-| GainLoseRespec | 1338 |
-| GainLoseRespecs | 1339 |
-| GainLosePointCombo | 1340 |
-| ItemDisplayNumDoodadVariationsN | 1341 |
-| ItemDisplayNumDoodadVariations1 | 1342 |
-| TabContainerClickToShowTabList | 1343 |
-| CreateSteamAccountWindowMessage | 1344 |
-| CreateSteamAccountWindowTitleLabel | 1345 |
-| CreateSteamAccountWindowAccountNameTextboxEmptyString | 1346 |
-| CreateSteamAccountWindowAccountNameLabel | 1347 |
-| CreateSteamAccountWindowCreateButton | 1348 |
-| CreateSteamAccountWindowLinkExistingAccount | 1349 |
-| CreateSteamAccountWindowEmailAddressTextboxEmptyString | 1350 |
-| CreateSteamAccountWindowEmailLabel | 1351 |
-| CreateSteamAccountWindowPasswordTextboxEmptyString | 1352 |
-| CreateSteamAccountWindowPasswordLabel | 1353 |
-| CreateSteamAccountWindowLinkButton | 1354 |
-| TermsOfUseWindowIAgree | 1355 |
-| TermsOfUseWindowIDisagree | 1356 |
-| TermsOfUseWindowPopupTip | 1357 |
-| TermsOfUseWindowTitle | 1358 |
-| TermsOfUseWindowDecideLater | 1359 |
-| TermsOfUseWindowDescription | 1360 |
-| UnlockWindowMessage | 1361 |
-| UnlockWindowCodeTextboxEmptyText | 1362 |
-| UnlockWindowUnlockButton | 1363 |
-| UnlockWindowCancelButton | 1364 |
-| UnlockWindowCancelButtonPopupTip | 1365 |
-| UnlockWindowResendEmailButton | 1366 |
-| UnlockWindowInvalidActivationCode | 1367 |
-| CharacterSelectionPanelEntryLeague | 1368 |
-| OwnedPortalDescription | 1369 |
-| HUDMenuButton | 1370 |
-| TradeWindowTitle | 1371 |
-| ShopPanelComingSoon | 1372 |
-| ItemErrorCraftingBenchLevelTooLow | 1373 |
-| ItemErrorCannotBeUnique | 1374 |
-| ItemErrorHasModOfFamily | 1375 |
-| ItemErrorTooManySuffixes | 1376 |
-| ItemErrorTooManyPrefixes | 1377 |
-| ItemErrorCannotHaveThisNumberOfSockets | 1378 |
-| ItemErrorAlreadyHasThisManySockets | 1379 |
-| ItemErrorNotEnoughSockets | 1380 |
-| ItemErrorAlreadyHasThisLinkGroup | 1381 |
-| QuestVerbBrutus | 1382 |
-| QuestVerbMedicineChest | 1383 |
-| QuestVerbFairgraves | 1384 |
-| QuestVerbDeepDweller | 1385 |
-| QuestVerbSwigOfHope | 1386 |
-| QuestVerbFixtureOfFate | 1387 |
-| QuestVerbDominus | 1388 |
-| QuestVerbMerveil | 1389 |
-| QuestVerbVaalOversoul | 1390 |
-| QuestVerbPiety | 1391 |
-| QuestVerbDescent2Boss1 | 1392 |
-| QuestVerbDescent2Boss2 | 1393 |
-| QuestVerbDescent2Boss3 | 1394 |
-| QuestVerbDescent2Boss4 | 1395 |
-| QuestVerbDescent2Boss5 | 1396 |
-| QuestVerbKaom | 1397 |
-| QuestVerbDaresso | 1398 |
-| QuestVerbMalachai | 1399 |
-| QuestVerbDescentBoss1 | 1400 |
-| QuestVerbIzaro | 1401 |
-| ChatBoxStaleLink | 1402 |
-| HideoutStashPanelTitle | 1403 |
-| MissionTrackStrEnter | 1404 |
-| MissionTrackStrFind | 1405 |
-| MissionTrackStrFindTime | 1406 |
-| MissionTrackStrReturn | 1407 |
-| MissionTrackStrReturnTime | 1408 |
-| MissionTrackStrTalk | 1409 |
-| MissionTrackStrComplete | 1410 |
-| MissionTrackStrFailedTime1 | 1411 |
-| MissionTrackStrFailedTime2 | 1412 |
-| HUDHideoutStashButton | 1413 |
-| Done | 1414 |
-| MissionTrackDexHunt | 1415 |
-| MissionTrackDexHuntScore | 1416 |
-| MissionTrackDexEnter | 1417 |
-| MissionTrackDexEnter2 | 1418 |
-| MissionTrackDexTalk | 1419 |
-| MissionTrackDexComplete | 1420 |
-| MissionTrackDexTrackingCorpses | 1421 |
-| MissionTrackDexTrackingPools | 1422 |
-| MissionTrackIntFailed | 1423 |
-| MissionTrackIntComplete | 1424 |
-| MissionTrackIntTalk | 1425 |
-| MissionTrackIntFindRevive1 | 1426 |
-| MissionTrackIntFindReviveN | 1427 |
-| MissionTrackIntRevive1 | 1428 |
-| MissionTrackIntReviveN | 1429 |
-| MissionTrackIntReturn1 | 1430 |
-| MissionTrackIntReturnN | 1431 |
-| MissionTrackIntKill1 | 1432 |
-| MissionTrackIntKillN | 1433 |
-| MissionTrackIntFeed1 | 1434 |
-| MissionTrackIntFeedN | 1435 |
-| MissionTrackIntEscort1 | 1436 |
-| MissionTrackIntEscortN | 1437 |
-| MissionTrackIntReviveDefeated1 | 1438 |
-| MissionTrackIntReviveDefeatedN | 1439 |
-| MissionTrackDexIntComplete | 1440 |
-| MissionTrackDexIntTalk | 1441 |
-| MissionTrackDexIntKill | 1442 |
-| MissionTrackDexIntKillTime | 1443 |
-| MissionTrackDexIntKillGuards | 1444 |
-| MissionTrackDexIntKillGuardsScore | 1445 |
-| MissionTrackDexIntLowLife | 1446 |
-| MissionTrackDexIntOpenChest | 1447 |
-| MissionTrackDexIntSaveOneGuard | 1448 |
-| MissionTrackDexIntSaveOneGuardScore | 1449 |
-| MissionTrackDexIntSaveAllGuards | 1450 |
-| MissionTrackDexIntSaveTarget | 1451 |
-| MissionTrackDexIntSaveHostage | 1452 |
-| MissionTrackDexIntFailedTargetDead | 1453 |
-| MissionTrackDexIntFailedGuardDead | 1454 |
-| MissionTrackDexIntFailedHostageDead | 1455 |
-| MissionTrackDexIntFailedGuardsAllDead | 1456 |
-| MissionTrackDexIntFailedTimeRanOut | 1457 |
-| CraftingWindowLevel | 1458 |
-| CraftingWindowCost | 1459 |
-| CraftingWindowCantAffordError | 1460 |
-| MissionTrackStrDexEnter | 1461 |
-| MissionTrackStrDexFind | 1462 |
-| MissionTrackStrDexFight | 1463 |
-| MissionTrackStrDexFightTime | 1464 |
-| MissionTrackStrDexDummies | 1465 |
-| MissionTrackStrDexDummiesScore | 1466 |
-| MissionTrackStrDexTalk | 1467 |
-| MissionTrackStrDexTalkDummies | 1468 |
-| MissionTrackStrDexFailedDummies | 1469 |
-| MissionTrackStrDexFailedTime | 1470 |
-| MissionTrackStrDexComplete | 1471 |
-| MissionTrackStrDexCompleteDummies | 1472 |
-| MissionTrackStrIntFailedTime | 1473 |
-| MissionTrackStrIntFailedDeath | 1474 |
-| MissionTrackStrIntComplete1 | 1475 |
-| MissionTrackStrIntCompleteN | 1476 |
-| MissionTrackStrIntTalk | 1477 |
-| MissionTrackStrIntDefend1 | 1478 |
-| MissionTrackStrIntDefendN | 1479 |
-| MissionTrackStrIntDestroy1 | 1480 |
-| MissionTrackStrIntDestroyN | 1481 |
-| MissionTrackStrIntDestroyTime1 | 1482 |
-| MissionTrackStrIntDestroyTimeN | 1483 |
-| MissionTrackStrIntFeed1 | 1484 |
-| MissionTrackStrIntFeedN | 1485 |
-| MissionTrackStrDexIntTalk | 1486 |
-| MissionTrackStrDexIntEnter | 1487 |
-| MissionTrackStrDexIntFailedTime | 1488 |
-| MissionTrackStrDexIntFailedMission | 1489 |
-| MissionTrackStrDexIntFailedDeath | 1490 |
-| MissionTrackStrDexIntFailedLockedOut | 1491 |
-| MissionTrackStrDexIntComplete | 1492 |
-| MissionTrackStrDexIntTag | 1493 |
-| MissionTrackStrDexIntTagScore | 1494 |
-| MissionTrackStrDexIntKillBoss1 | 1495 |
-| MissionTrackStrDexIntKillBossN | 1496 |
-| MissionTrackStrDexIntKillBossNScore | 1497 |
-| MissionTrackStrDexIntKillMonsters | 1498 |
-| MissionTrackStrDexIntKillMonstersScore | 1499 |
-| MissionTrackStrDexIntMap | 1500 |
-| MissionTrackStrDexIntUnique | 1501 |
-| MissionTrackStrDexIntDivCard | 1502 |
-| MissionTrackStrDexIntVaalFragment | 1503 |
-| MissionTrackStrDexIntMission | 1504 |
-| MissionTrackStrDexIntCompleteMap | 1505 |
-| MissionTrackStrDexIntCompleteLabTrial | 1506 |
-| MissionTrackStrDexIntCompleteAbyss1 | 1507 |
-| MissionTrackStrDexIntCompleteAbyssN | 1508 |
-| MissionTrackStrDexIntCompleteAbyssScore | 1509 |
-| MissionTrackStrDexIntExiles | 1510 |
-| MissionTrackStrDexIntExilesScore | 1511 |
-| MissionTrackStrDexIntBeyond | 1512 |
-| MissionTrackStrDexIntWarband | 1513 |
-| MissionTrackStrDexIntWarbandScore | 1514 |
-| MissionTrackStrDexIntEssence | 1515 |
-| MissionTrackStrDexIntEssenceScore | 1516 |
-| MissionTrackStrDexIntInvasionBoss1 | 1517 |
-| MissionTrackStrDexIntInvasionBossN | 1518 |
-| MissionTrackStrDexIntInvasionBossScore | 1519 |
-| MissionTrackStrDexIntHarbinger | 1520 |
-| MissionTrackStrDexIntHarbingerScore | 1521 |
-| MissionTrackStrDexIntUniqueStrongbox | 1522 |
-| MissionTrackStrDexIntBreach1 | 1523 |
-| MissionTrackStrDexIntBreachN | 1524 |
-| MissionTrackStrDexIntBreachScore | 1525 |
-| MissionTrackStrDexIntTime | 1526 |
-| MissionTrackStrDexIntTimeUp | 1527 |
-| MissionTrackStrDexIntTimeDown | 1528 |
-| MissionTrackStrDexIntTimeItems | 1529 |
-| MissionTrackStrDexIntLimitedPortals | 1530 |
-| MissionTrackFishQuestRare | 1531 |
-| MissionTrackFishQuestExotic | 1532 |
-| MissionTrackFishQuestRedHerring | 1533 |
-| MissionTrackFishQuestUniqueBoots | 1534 |
-| MissionTrackAbandoned | 1535 |
-| RampageDisplayKills | 1536 |
-| TelemetryLatency | 1537 |
-| TelemetryFPS | 1538 |
-| TelemetryFrameTime | 1539 |
-| TelemetryServerFrameTime | 1540 |
-| FriendContextMenuSpectatePvP | 1541 |
-| WorldPanelHideoutPinInactiveHover | 1542 |
-| ItemPopupFavourCost | 1543 |
-| BuyWindowFavour | 1544 |
-| BuyWindowConfirmDoodadPurchaseTitle | 1545 |
-| BuyWindowConfirmDoodadPurchaseText | 1546 |
-| QuestRewardWindowConfirmTakeTitle | 1547 |
-| QuestRewardWindowConfirmTakeText | 1548 |
-| ClientInstanceRestrictionMessage | 1549 |
-| CommandLineOptionNoPack | 1550 |
-| CommandLineOptionOnlyGenerated | 1551 |
-| CommandLineOptionNoPatch | 1552 |
-| CommandLineOptionNoPreload | 1553 |
-| CommandLineOptionLoginPort | 1554 |
-| CommandLineOptionPatchingServer | 1555 |
-| CommandLineOptionPatchingAuth | 1556 |
-| CommandLineOptionPrevProcId | 1557 |
-| CommandLineOptionRequireLaunch | 1558 |
-| CommandLineOptionFail | 1559 |
-| CommandLineOptionFailMessage | 1560 |
-| CommandLineOptionGarbageGenerations | 1561 |
-| CommandLineOptionNoSound | 1562 |
-| CommandLineOptionSoftwareAudio | 1563 |
-| CommandLineOptionLanguage | 1564 |
-| CommandLineOptionMovieDirectory | 1565 |
-| CommandLineOptionUseDefaults | 1566 |
-| CommandLineOptionLogTerrainGeneration | 1567 |
-| CommandLineOptionTestingMaster | 1568 |
-| CommandLineOptionEnableReportForRevision | 1569 |
-| ErrorCommandLineFormat | 1570 |
-| ErrorPatchingTimeout | 1571 |
-| ErrorContentFileCorrupt | 1572 |
-| ErrorContentFileIncorrectVersion | 1573 |
-| ErrorContentFileUnableToOpen | 1574 |
-| ErrorFailedToInitialise | 1575 |
-| ErrorFailedToInitialiseRendererSubsystem | 1576 |
-| ErrorDXUTCreateDeviceFailed | 1577 |
-| ErrorNoLoginTokenSpecified | 1578 |
-| ErrorGarbageGenerationLessThan1 | 1579 |
-| ErrorLoadingShader | 1580 |
-| WorldPanelHideoutPinActiveHover | 1581 |
-| NPCWindowDismissMasterConfirmationTitle | 1582 |
-| NPCWindowDismissMasterConfirmationText | 1583 |
-| NPCWindowDismissNPCConfirmationTitle | 1584 |
-| NPCWindowDismissNPCConfirmationText | 1585 |
-| ItemErrorNoCraftedMods | 1586 |
-| PlayerContextMenuVisitHideout | 1587 |
-| HideoutStashPanelFriendsCanVisit | 1588 |
-| HideoutStashPanelGuildCanVisit | 1589 |
-| ItemErrorHasCraftedMod | 1590 |
-| BuyWindowInfufficientFavourWarning | 1591 |
-| BuyWindowInfufficientCurrencyWarning | 1592 |
-| HideoutStashPanelPartyCanVisit | 1593 |
-| DailyMissionNotReady | 1594 |
-| DailyMissionInProgress | 1595 |
-| TooManyMastersForNewHideout | 1596 |
-| TooManyMastersInCurrentHideout | 1597 |
-| StrDexIntMissionGoalObject | 1598 |
-| StrDexIntMissionTimeObject | 1599 |
-| CraftingWindowCanBeAppliedTo | 1600 |
-| HUDHideoutEditingBannerText | 1601 |
-| HUDHideoutInformationHoverText | 1602 |
-| ObjectDisplayTextHallOfGrandmasters | 1603 |
-| ObjectDisplayTextHallOfGrandmastersHall1 | 1604 |
-| ObjectDisplayTextHallOfGrandmastersHall2 | 1605 |
-| ObjectDisplayTextHallOfGrandmastersHall3 | 1606 |
-| ObjectDisplayTextHallOfGrandmastersHall4 | 1607 |
-| ObjectDisplayTextHallOfGrandmastersHall5 | 1608 |
-| ObjectDisplayTextHallOfGrandmastersHall6 | 1609 |
-| ObjectDisplayTextHallOfGrandmastersHall7 | 1610 |
-| ObjectDisplayTextHallOfGrandmastersHall8 | 1611 |
-| ActionOTPCode | 1612 |
-| GiftFrom | 1613 |
-| GiftReceivedNotification | 1614 |
-| GiftReceivedAtLoginNotification | 1615 |
-| GiftReceivedNotificationViewGift | 1616 |
-| GiftReceivedNotificationDismiss | 1617 |
-| ShroudedMonsterName | 1618 |
-| MonsterCorrupted | 1619 |
-| PVPChangingArenas | 1620 |
-| LadderColumnRank | 1621 |
-| LadderColumnName | 1622 |
-| LadderColumnClass | 1623 |
-| LadderColumnLevel | 1624 |
-| LadderColumnPoints | 1625 |
-| LadderColumnRating | 1626 |
-| LadderColumnResistance | 1627 |
-| LadderColumnRounds | 1628 |
-| LadderColumnGamesPlayed | 1629 |
-| LadderColumnDeaths | 1630 |
-| LadderLink | 1631 |
-| LadderLinkHover | 1632 |
-| MissionTrackFishTalk | 1633 |
-| MissionTrackFishComplete | 1634 |
-| MissionTrackPVPTalk | 1635 |
-| CharacterClassPrefixThe | 1636 |
-| CharacterClassListSeparator | 1637 |
-| CharacterClassList2 | 1638 |
-| CharacterClassListNOr | 1639 |
-| LeoDailyReminder | 1640 |
-| LeoPVPOnlyCharTitle | 1641 |
-| LeoPVPOnlyCharDescription | 1642 |
-| PVPOnlyCannotDaily | 1643 |
-| ShopLoadError | 1644 |
-| PVPMatchDualLeagues | 1645 |
-| ItemDescriptionPassiveJewel | 1646 |
-| ItemDescriptionAbyssJewel | 1647 |
-| ErrorCannotChatInDNDMode | 1648 |
-| WhisperEchoDNDSuffix | 1649 |
-| DefaultDNDMessage | 1650 |
-| DefaultAFKMessage | 1651 |
-| AutoReplyPrefix | 1652 |
-| ChatSenderSuffix | 1653 |
-| ChatSenderStaff | 1654 |
-| ChatSenderDev | 1655 |
-| ChatSenderMod | 1656 |
-| ItemFilterLoadOutOfDate | 1657 |
-| ItemFilterLoadFailure | 1658 |
-| ItemFilterLoadSuccess | 1659 |
-| KaomArenaName | 1660 |
-| DaressoArenaName | 1661 |
-| KaomDaressoReturn | 1662 |
-| DoedreArenaName | 1663 |
-| ShavronneArenaName | 1664 |
-| MaligaroArenaName | 1665 |
-| PietyBellyArenaName | 1666 |
-| MalachaiArenaName1 | 1667 |
-| MalachaiArenaName2 | 1668 |
-| JewelRadiusLabel | 1669 |
-| JewelRadiusLarge | 1670 |
-| JewelRadiusMedium | 1671 |
-| JewelRadiusSmall | 1672 |
-| RareNameFormat2Words | 1673 |
-| RareNameFormat3Words | 1674 |
-| ObjectDisplayTextDeshretSpirit | 1675 |
-| SkillPopupNotEnoughEnergyShieldAndMana | 1676 |
-| JewelItemLimit | 1677 |
-| JackTheAxeName | 1678 |
-| GoddessUnleashedName | 1679 |
-| DivinationWindowTitle | 1680 |
-| DivinationWindowTradeButton | 1681 |
-| GrandArenaExterior | 1682 |
-| GrandArenaInterior | 1683 |
-| SteamPointsPointLabel | 1684 |
-| SteamPointsNewCostLabel | 1685 |
-| SteamPointsVideo1 | 1686 |
-| SteamPointsVideo2 | 1687 |
-| SteamPointsVideo3 | 1688 |
-| SteamPointsVideo4 | 1689 |
-| SteamPointsVideo5 | 1690 |
-| SteamPointsPackageDescription | 1691 |
-| SteamPointsPointPackLabel | 1692 |
-| SteamPointsCostExceedsSteamWallet | 1693 |
-| SteamPointsSteamPurchaseFailed | 1694 |
-| SteamPointsPurchaseSuccess | 1695 |
-| SteamPointsWaitingForSteamInfo | 1696 |
-| SteamPointsWaitingSteamInfoError | 1697 |
-| SteamPointsWaitingSteamInfoErrorRetryButton | 1698 |
-| AchievementItemProgress | 1699 |
-| ItemDisplayMapRarityIncrease | 1700 |
-| ItemDisplayMapPackSizeIncrease | 1701 |
-| CharacterNameExpiredPopup | 1702 |
-| CharacterRenameSuccess | 1703 |
-| CharacterRenameWindowDetails | 1704 |
-| CharacterRenameWindowCancelButton | 1705 |
-| CharacterRenameWindowRenameButton | 1706 |
-| CharacterRenameWindowTextboxEmptyText | 1707 |
-| ObjectDisplayTextLabyrinthTrialDoor | 1708 |
-| DarkShrineWindowTitle | 1709 |
-| UseDarkShrineButton | 1710 |
-| DarkShrineHover | 1711 |
-| LabyrinthMapWindowTitle | 1712 |
-| LabyrinthMapWindowYouAreHere | 1713 |
-| ObjectDisplayTextLabyrinthGoldenChest | 1714 |
-| ObjectDisplayTextLabyrinthSilverChest | 1715 |
-| ObjectDisplayTextLabyrinthBronzeChest | 1716 |
-| ObjectDisplayTextGoldenDoor | 1717 |
-| ObjectDisplayTextSilverDoor | 1718 |
-| ObjectDisplayTextBronzeDoor | 1719 |
-| AscendencyChamberDoor | 1720 |
-| ObjectDisplayTextStoneCircleDevice | 1721 |
-| ObjectDisplayTextLever | 1722 |
-| ObjectDisplayTextSwitch | 1723 |
-| ObjectDisplayTextCrank | 1724 |
-| ItemDisplaySkillGemManaCostOverride | 1725 |
-| ItemDisplaySkillGemManaReservationOverride | 1726 |
-| RandomItem20Quality | 1727 |
-| RandomItem0Quality | 1728 |
-| AlchemyInventoryItem | 1729 |
-| ScourInventoryItemsGiveCurrency | 1730 |
-| IdentifyAll | 1731 |
-| RandomMonsterDropsUnique | 1732 |
-| WeaponsDropWtih20Quality | 1733 |
-| RandomChestDrops20QualityGem | 1734 |
-| AddMapToMapDevice | 1735 |
-| AddJewelToJewelInventory | 1736 |
-| DropRegalAfterTime | 1737 |
-| RaresDropUniquesForShortTime | 1738 |
-| AddItemToCharacterStats | 1739 |
-| AllMonstersGainVaalFragmentChance | 1740 |
-| FillFlasks | 1741 |
-| EmptyFlasks | 1742 |
-| Beyond | 1743 |
-| Rampage | 1744 |
-| AddNemesisToAll | 1745 |
-| HalfOfMonstersChangeToPlayerTeam | 1746 |
-| SetCorruptedEnvironment | 1747 |
-| MonstersSetZeroActionSpeed | 1748 |
-| MonstersSet1Life | 1749 |
-| SpawnStrExile | 1750 |
-| SpawnStrDexExile | 1751 |
-| SpawnDexExile | 1752 |
-| SpawnStrDexIntExile | 1753 |
-| SpawnDexIntExile | 1754 |
-| SpawnStrIntExile | 1755 |
-| SpawnIntExile | 1756 |
-| SpawnInvasionBossInLevel | 1757 |
-| SpawnFireWarband | 1758 |
-| SpawnColdWarband | 1759 |
-| SpawnLightningWarband | 1760 |
-| SpawnChaosWarband | 1761 |
-| SpawnFireColdLightningWarband | 1762 |
-| SpawnRareMonsterAtShrine | 1763 |
-| SpawnMagicMonstersAtShrine | 1764 |
-| SpawnPackAtShrine | 1765 |
-| SpawnKaomTotems | 1766 |
-| SpawnAbaxoth | 1767 |
-| CloneAllMagicMonsters | 1768 |
-| CloneAllRareMonsters | 1769 |
-| AllMonstersTouched | 1770 |
-| RandomDarkshrineEffect | 1771 |
-| RaiseWeaponsOnGround | 1772 |
-| ItemsOnGroundExchangedForSellPrice | 1773 |
-| IncreaseRandomMasterLevel | 1774 |
-| ResetMasterDailyMissions | 1775 |
-| OpenTownPortal | 1776 |
-| ConsumeItem | 1777 |
-| DoNothing | 1778 |
-| FillVaalSouls | 1779 |
-| EmptyAllShops | 1780 |
-| FishingMessageInGlobal | 1781 |
-| FishingMessageInSocialText | 1782 |
-| FishingPublicParty | 1783 |
-| FishingFirstEnterWindingPier | 1784 |
-| FishingKrilsonAsFriend | 1785 |
-| FishingMutesPlayer | 1786 |
-| FishingMapsAddedToGuildNameSlot | 1787 |
-| GivesHeadhunterMod | 1788 |
-| SpawnQualityCurrencyFountain | 1789 |
-| SpawnCloneToHelp | 1790 |
-| SpawnDevourers | 1791 |
-| FillInventoryWithWisdomScraps | 1792 |
-| SpawnGrandmasterInLevel | 1793 |
-| SpawnGrandmasterAlly | 1794 |
-| PlayerAccellerationShrine | 1795 |
-| PlayerBrutalShrine | 1796 |
-| PlayerCriticalShrine | 1797 |
-| PlayerDivineShrine | 1798 |
-| PlayerEchoingShrine | 1799 |
-| PlayerReplenishingShrine | 1800 |
-| PlayerImpenetrableShrine | 1801 |
-| PlayerShroudedShrine | 1802 |
-| PlayerMassiveShrine | 1803 |
-| MapModEnfeeble | 1804 |
-| MapModElementalWeakness | 1805 |
-| MapModVulnerability | 1806 |
-| MapModAOE | 1807 |
-| MapModCannotBeStunned | 1808 |
-| MapModChaining | 1809 |
-| MapModColdResist | 1810 |
-| MapModCriticalStrikes | 1811 |
-| MapModFireResist | 1812 |
-| MapModFrenzyCharges | 1813 |
-| MapModLightningResist | 1814 |
-| MapModPhysicalResist | 1815 |
-| MapModPlayerExperience | 1816 |
-| MapModMonsterLife | 1817 |
-| MapModMonsterDamage | 1818 |
-| MapModFastMonsters | 1819 |
-| MapModColdDamage | 1820 |
-| MapModLightningDamage | 1821 |
-| MapModFireDamage | 1822 |
-| MapModPoisoning | 1823 |
-| MapModFracturing | 1824 |
-| MapModMinusMaxResist | 1825 |
-| MapModMultipleProjectiles | 1826 |
-| MapModReducedRegeneration | 1827 |
-| MapModTempestEchoingStorm | 1828 |
-| MapModTempestCorruptedDrops | 1829 |
-| MapModTempestCurses | 1830 |
-| MapModTempestFireSkills | 1831 |
-| MapModTempestLightningSkills | 1832 |
-| MapModTempestColdSkills | 1833 |
-| MapModTempestPhysicalSkills | 1834 |
-| MapModTempestColdDamage | 1835 |
-| MapModTempestFireDamage | 1836 |
-| MapModTempestLightningDamage | 1837 |
-| DropDivinationCard | 1838 |
-| DropChanceOrbs | 1839 |
-| DropVaalOrbs | 1840 |
-| DropAlchemyOrbs | 1841 |
-| DropArmourShards | 1842 |
-| DropChisels | 1843 |
-| DropChaosOrbs | 1844 |
-| DropWhetstones | 1845 |
-| DropDivineOrb | 1846 |
-| DropAlterations | 1847 |
-| DropTransmutes | 1848 |
-| RandomMonsterDrops10Currency | 1849 |
-| RandomMonsterDrops10Rares | 1850 |
-| RandomMonsterDrops100Scrolls | 1851 |
-| RandomMonsterDrops5RareAmulets | 1852 |
-| RandomMonsterDrops5RareBelts | 1853 |
-| RandomMonsterDrops5RareBows | 1854 |
-| RandomMonsterDrops5RareClaws | 1855 |
-| RandomMonsterDrops5RareDaggers | 1856 |
-| RandomMonsterDrops5RareOneHandMaces | 1857 |
-| RandomMonsterDrops5RareOneHandSwords | 1858 |
-| RandomMonsterDrops5RareRings | 1859 |
-| RandomMonsterDrops5RareScepters | 1860 |
-| RandomMonsterDrops5RareShields | 1861 |
-| RandomMonsterDrops5RareStaves | 1862 |
-| RandomMonsterDrops5RareTwoHandAxes | 1863 |
-| RandomMonsterDrops5RareTwoHandMaces | 1864 |
-| RandomMonsterDrops5RareTwoHandSwords | 1865 |
-| RandomMonsterDrops5RareWands | 1866 |
-| RandomMonsterDrops5RareJewels | 1867 |
-| SpawnADarkshrine | 1868 |
-| SpawnBarrelOfSpiders | 1869 |
-| SpawnEmpyreanApparatus | 1870 |
-| SpawnKaomsCache | 1871 |
-| SpawnPerandusBank | 1872 |
-| SpawnArcanistStrongbox | 1873 |
-| SpawnArmoryStrongbox | 1874 |
-| SpawnArsenalStrongbox | 1875 |
-| SpawnArtisanStrongbox | 1876 |
-| SpawnCartographersStrongbox | 1877 |
-| SpawnChemistStrongbox | 1878 |
-| SpawnGemcutterStrongbox | 1879 |
-| SpawnJewellerStrongbox | 1880 |
-| SpawnLargeStrongbox | 1881 |
-| SpawnOrnateStrongbox | 1882 |
-| SpawnStrongbox | 1883 |
-| SpawnTormentedArsonist | 1884 |
-| SpawnTormentedCorrupter | 1885 |
-| SpawnTormentedCounterfeiter | 1886 |
-| SpawnTormentedEmbezzler | 1887 |
-| SpawnTormentedLibrarian | 1888 |
-| SpawnTormentedNecromancer | 1889 |
-| SpawnTormentedPoisoner | 1890 |
-| SpawnTormentedExperimenter | 1891 |
-| SpawnTormentedFreezer | 1892 |
-| SpawnTormentedThug | 1893 |
-| DropNormalJewels | 1894 |
-| ChanceAllGroundItems | 1895 |
-| MaxAnImplicit | 1896 |
-| OpenCorruptedAreaPortals | 1897 |
-| AddRareSkinTransferToInventoryItem | 1898 |
-| MaxAndMinAnExplicitMod | 1899 |
-| SpawnUniqueSellingVendor | 1900 |
-| OpenVaultsOfAtziri | 1901 |
-| OpenCowardsTrial | 1902 |
-| OpenObasTrial | 1903 |
-| OpenOlmecsSanctum | 1904 |
-| OpenDeathAndTaxes | 1905 |
-| OpenWhakawairuaTuahu | 1906 |
-| OpenUntaintedParadise | 1907 |
-| OpenPoorjoysAsylum | 1908 |
-| OpenMaelstromOfChaos | 1909 |
-| OpenActonsNightmare | 1910 |
-| OpenMaoKun | 1911 |
-| ElreonsTrial | 1912 |
-| TorasTrial | 1913 |
-| HakusTrial | 1914 |
-| CatarinasTrial | 1915 |
-| LeosTrial | 1916 |
-| VagansTrial | 1917 |
-| ColdWarbandTrial | 1918 |
-| FireWarbandTrial | 1919 |
-| LightningWarbandTrial | 1920 |
-| SkillsCostNoMana | 1921 |
-| ImmunityToAilments | 1922 |
-| CannotBeStunned | 1923 |
-| SecretPassage | 1924 |
-| TalismanErrorNotEnoughTalismans | 1925 |
-| TalismanErrorMustBeDifferentTypes | 1926 |
-| TalismanErrorNotATalisman | 1927 |
-| TalismanErrorMustBeSameTier | 1928 |
-| ErrorPortalsDisabled | 1929 |
-| ShaperPortalsDisabled | 1930 |
-| OptionsLanguageChangeNoRestart | 1931 |
-| ChallengesInformation | 1932 |
-| ReminderTextConsecutive | 1933 |
-| ReminderTextCounterAttack | 1934 |
-| ReminderTextUnaffectedBy | 1935 |
-| ReminderTextElementalConflux | 1936 |
-| ReminderTextSavageHit | 1937 |
-| ReminderTextOnslaught | 1938 |
-| ReminderTextPoison | 1939 |
-| ReminderTextBleeding | 1940 |
-| ReminderTextCullingStrike | 1941 |
-| ReminderTextPhasing | 1942 |
-| ReminderTextBlind | 1943 |
-| ReminderTextMaim | 1944 |
-| ReminderTextFortify | 1945 |
-| ReminderTextSmokeCloud | 1946 |
-| ReminderTextConsecratedGround | 1947 |
-| ReminderTextDefences | 1948 |
-| ReminderTextDebilitatingPresence | 1949 |
-| ReminderTextIntimidate | 1950 |
-| ReminderTextTailwind | 1951 |
-| SteamOverlayNotAvailable | 1952 |
-| ItemNoteEditorOptionNote | 1953 |
-| ItemNoteEditorOptionNewNote | 1954 |
-| ItemNoteEditorOptionPrice | 1955 |
-| ItemNoteEditorOptionFixed | 1956 |
-| ItemNoteEditorOptionQuantity | 1957 |
-| ItemNoteEditorOptionCurrency | 1958 |
-| ItemNoteEditorOptionOffer | 1959 |
-| ItemNoteEditorOptionInvalidQuantity | 1960 |
-| ItemNoteEditorOptionInvalidOfferQuantity | 1961 |
-| StashNoteEditorOptionNoPrice | 1962 |
-| StashNoteEditorOptionSetPriceOnAllItems | 1963 |
-| StashNoteEditorOptionSetExactPriceOnAllItems | 1964 |
-| PassiveNodeGrantsPassivePoints | 1965 |
-| PassiveNodeGrantsPassivePoint | 1966 |
-| ReminderTextAscendantChooseOneOfThree | 1967 |
-| LabyrinthChargeDisruptorInfoString | 1968 |
-| LabyrinthToggleStatueFireInfoString | 1969 |
-| LabyrinthToggleStatueColdInfoString | 1970 |
-| LabyrinthToggleStatueLightningInfoString | 1971 |
-| LabyrinthToggleStatueFireInfoStringDoodad | 1972 |
-| LabyrinthToggleStatueColdInfoStringDoodad | 1973 |
-| LabyrinthToggleStatueLightningInfoStringDoodad | 1974 |
-| LabyrinthToggleStatueFireNameString | 1975 |
-| LabyrinthToggleStatueColdNameString | 1976 |
-| LabyrinthToggleStatueLightningNameString | 1977 |
-| LabyrinthChargeDisruptorCount | 1978 |
-| ReminderTextDamageTypes | 1979 |
-| LabyrinthElementalsFireInfoString | 1980 |
-| LabyrinthElementalsColdInfoString | 1981 |
-| LabyrinthElementalsLightningInfoString | 1982 |
-| LabyrinthChronoStatueFireInfoString | 1983 |
-| LabyrinthChronoStatueColdInfoString | 1984 |
-| LabyrinthChronoStatueLightningInfoString | 1985 |
-| LabyrinthChronoStatueFireInfoStringPhase2 | 1986 |
-| LabyrinthChronoStatueColdInfoStringPhase2 | 1987 |
-| LabyrinthChronoStatueLightningInfoStringPhase2 | 1988 |
-| LabyrinthChronoStatueNameString | 1989 |
-| LabyrinthPortalsInfoString | 1990 |
-| LabyrinthGargoylesSpeedInfoString | 1991 |
-| LabyrinthGargoylesDamageInfoString | 1992 |
-| LabyrinthGargoylesDamageTakenInfoString | 1993 |
-| LabyrinthPylonsTemporalChainsInfoString | 1994 |
-| LabyrinthPylonsVulnerabilityInfoString | 1995 |
-| LabyrinthPylonsElementalWeaknessInfoString | 1996 |
-| LabyrinthPylonsTemporalChainsNameString | 1997 |
-| LabyrinthPylonsVulnerabilityNameString | 1998 |
-| LabyrinthPylonsElementalWeaknessNameString | 1999 |
-| LabyrinthPylonsTemporalChainsInfoStringDoodad | 2000 |
-| LabyrinthPylonsVulnerabilityInfoStringDoodad | 2001 |
-| LabyrinthPylonsElementalWeaknessInfoStringDoodad | 2002 |
-| MonsterEnragesInfoString | 2003 |
-| MonsterCastsDamageReflectionInfoString | 2004 |
-| ReminderTextRecently | 2005 |
-| ReminderTextAscendantMarauderNodes | 2006 |
-| ReminderTextAscendantRangerNodes | 2007 |
-| ReminderTextAscendantWitchNodes | 2008 |
-| ReminderTextAscendantDuelistNodes | 2009 |
-| ReminderTextAscendantTemplarNodes | 2010 |
-| ReminderTextAscendantShadowNodes | 2011 |
-| AbandonLabyrinthMessage | 2012 |
-| AbandonLabyrinthUnascendedMessage | 2013 |
-| GoldenKeyDescription | 2014 |
-| SilverKeyDescription | 2015 |
-| TreasureKeyDescription | 2016 |
-| ReminderTextIgnoreResistances | 2017 |
-| ItemDisplayStringRarity | 2018 |
-| ItemDisplayStringMagic | 2019 |
-| ItemDisplayStringRare | 2020 |
-| ItemDisplayStringUnique | 2021 |
-| ItemDisplayStringGem | 2022 |
-| ItemDisplayStringCurrency | 2023 |
-| ItemDisplayStringNormal | 2024 |
-| ItemDisplayStringSockets | 2025 |
-| ItemDisplayStringItemLevel | 2026 |
-| ItemDisplayStringTalismanTier | 2027 |
-| ItemDisplayStringNextLevelRequirements | 2028 |
-| ItemDisplayStringNote | 2029 |
-| GrandmasterSaveFailed | 2030 |
-| CreateTencentAccountWindowMessage | 2031 |
-| CreateTencentAccountWindowTitleLabel | 2032 |
-| CreateTencentAccountWindowAccountNameTextboxEmptyString | 2033 |
-| CreateTencentAccountWindowAccountNameLabel | 2034 |
-| CreateTencentAccountWindowCreateButton | 2035 |
-| Price | 2036 |
-| ExactPrice | 2037 |
-| PurchaseMTXResultTimeout | 2038 |
-| PurchasePackageResultTimeout | 2039 |
-| HealthyGamingNotice | 2040 |
-| ItemDescriptionItemisedProphecy | 2041 |
-| ItemDescriptionItemisedCapturedMonster | 2042 |
-| ProphecyTabItemiseButton | 2043 |
-| ProphecyTabName | 2044 |
-| ItemWarningApplyingAccountBoundCurrency | 2045 |
-| MonsterGoatmanFireShamanChampionInfoString | 2046 |
-| MonsterBanditMeleeChampionInfoString | 2047 |
-| MonsterBanditRangedChampionInfoString | 2048 |
-| MonsterGhostPirateChampionInfoString | 2049 |
-| TutorialQuestRewardJewellersOrbTutorial | 2050 |
-| TutorialQuestRewardFusingOrbTutorial | 2051 |
-| ReminderTextTaunt | 2052 |
-| TabContainerClickToHideTabList | 2053 |
-| SocialPanelPublicPartyJoin | 2054 |
-| ProphecyQuestTrackerComplete | 2055 |
-| ProphecyQuestTrackerHaku | 2056 |
-| ProphecyQuestTrackerTora | 2057 |
-| ProphecyQuestTrackerCatarina | 2058 |
-| ProphecyQuestTrackerVagan | 2059 |
-| ProphecyQuestTrackerElreon | 2060 |
-| ProphecyQuestTrackerVorici | 2061 |
-| ProphecyQuestTrackerZana | 2062 |
-| ProphecyQuestTrackerRareZombies | 2063 |
-| ProphecyQuestTrackerMagicNecromancers | 2064 |
-| ProphecyQuestTrackerWickedKing1 | 2065 |
-| ProphecyQuestTrackerWickedKing1b | 2066 |
-| ProphecyQuestTrackerWickedKing2 | 2067 |
-| ProphecyQuestTrackerWickedKing3 | 2068 |
-| ProphecyQuestTrackerWickedKing4 | 2069 |
-| ProphecyQuestTrackerWickedKing5 | 2070 |
-| ProphecyQuestTrackerShadowQueen1 | 2071 |
-| ProphecyQuestTrackerShadowQueen2 | 2072 |
-| ProphecyQuestTrackerShadowQueen3 | 2073 |
-| ProphecyQuestTrackerShadowQueen4 | 2074 |
-| ProphecyQuestTrackerShadowQueen5 | 2075 |
-| ProphecyQuestTrackerVerdantKing1 | 2076 |
-| ProphecyQuestTrackerVerdantKing2 | 2077 |
-| ProphecyQuestTrackerVerdantKing3 | 2078 |
-| ProphecyQuestTrackerVerdantKing4 | 2079 |
-| ProphecyQuestTrackerVerdantKing5 | 2080 |
-| ProphecyQuestTrackerHollowQueen1 | 2081 |
-| ProphecyQuestTrackerHollowQueen2 | 2082 |
-| ProphecyQuestTrackerHollowQueen3 | 2083 |
-| ProphecyQuestTrackerHollowQueen4 | 2084 |
-| ProphecyQuestTrackerHollowQueen5 | 2085 |
-| ProphecyQuestTrackerThaumaturgists1 | 2086 |
-| ProphecyQuestTrackerThaumaturgists2 | 2087 |
-| ProphecyQuestTrackerThaumaturgists3 | 2088 |
-| ProphecyQuestTrackerThaumaturgists4 | 2089 |
-| ProphecyQuestTrackerAncientRivalries1 | 2090 |
-| ProphecyQuestTrackerAncientRivalries2 | 2091 |
-| ProphecyQuestTrackerAncientRivalries3 | 2092 |
-| ProphecyQuestTrackerAncientRivalries4 | 2093 |
-| ProphecyQuestTrackerAmbitiousBandit1 | 2094 |
-| ProphecyQuestTrackerAmbitiousBandit2 | 2095 |
-| ProphecyQuestTrackerAmbitiousBandit3 | 2096 |
-| ProphecyQuestTrackerDeadlyRivalry1 | 2097 |
-| ProphecyQuestTrackerDeadlyRivalry2 | 2098 |
-| ProphecyQuestTrackerDeadlyRivalry3 | 2099 |
-| ProphecyQuestTrackerDeadlyRivalry4 | 2100 |
-| ProphecyQuestTrackerDeadlyRivalry5 | 2101 |
-| ProphecyQuestTrackerCraftingRitual1 | 2102 |
-| ProphecyQuestTrackerCraftingRitual2 | 2103 |
-| ProphecyQuestTrackerCraftingRitual3 | 2104 |
-| ProphecyQuestTrackerCraftingRitual4 | 2105 |
-| ProphecyQuestTrackerKeeperOfThePeace1 | 2106 |
-| ProphecyQuestTrackerKeeperOfThePeace2 | 2107 |
-| ProphecyQuestTrackerKeeperOfThePeace3 | 2108 |
-| ProphecyQuestTrackerKeeperOfThePeace4 | 2109 |
-| ProphecyQuestTrackerBeyondCult1 | 2110 |
-| ProphecyQuestTrackerBeyondCult1b | 2111 |
-| ProphecyQuestTrackerBeyondCult2 | 2112 |
-| ProphecyQuestTrackerBeyondCult2b | 2113 |
-| ProphecyQuestTrackerAnarchysEnd1 | 2114 |
-| ProphecyQuestTrackerAnarchysEnd2 | 2115 |
-| ProphecyQuestTrackerAnarchysEnd3 | 2116 |
-| ProphecyQuestTrackerAnarchysEnd4 | 2117 |
-| ProphecyQuestTrackerDayOfSacrifice1 | 2118 |
-| ProphecyQuestTrackerDayOfSacrifice2 | 2119 |
-| ProphecyQuestTrackerDayOfSacrifice3 | 2120 |
-| ProphecyQuestTrackerDayOfSacrifice4 | 2121 |
-| ProphecyQuestTrackerTwinnedMapBosses | 2122 |
-| ProphecyQuestTrackerExtraRogueExiles | 2123 |
-| ProphecyQuestTrackerExtraStrongboxes | 2124 |
-| ProphecyQuestTrackerExtraVaalSideArea | 2125 |
-| ItemErrorProphecyNoSpace | 2126 |
-| ItemErrorProphecyFamilyConflict | 2127 |
-| ItemErrorProphecyChainConflict | 2128 |
-| ProphecyQuestTrackerMapShavronneBrutus | 2129 |
-| ProphecyQuestTrackerMapKoleBrutus | 2130 |
-| ProphecyQuestTrackerMapDoedreStoneCircle | 2131 |
-| ProphecyQuestTrackerMapKadakaKuduku | 2132 |
-| ProphecyQuestTrackerMapMaligaroFidelitas | 2133 |
-| ProphecyQuestTrackerMapDaressoMerveil | 2134 |
-| ProphecyQuestTrackerMapExtraHaku | 2135 |
-| ProphecyQuestTrackerMapExtraTora | 2136 |
-| ProphecyQuestTrackerMapExtraCatarina | 2137 |
-| ProphecyQuestTrackerMapExtraVagan | 2138 |
-| ProphecyQuestTrackerMapExtraElreon | 2139 |
-| ProphecyQuestTrackerMapExtraVorici | 2140 |
-| ProphecyQuestTrackerMapExtraZana | 2141 |
-| ProphecyQuestTrackerMysteriousInvaders | 2142 |
-| ProphecyQuestTrackerUndeadSpawnInOldFields | 2143 |
-| ProphecyQuestTrackerMapTwinned | 2144 |
-| NavaliNotEnoughCoinsToSeek | 2145 |
-| NavaliNotEnoughCoinsToSeal | 2146 |
-| ProphecySealConfirmationText | 2147 |
-| ProphecySealConfirmationTextPlural | 2148 |
-| NavaliPropheciesFull | 2149 |
-| ProphecyQuestTrackerUniqueFireGolemAtFireFurysCamp | 2150 |
-| ProphecyQuestTrackerFarmerSkeletonsAtRuinedHouse | 2151 |
-| ProphecyQuestTrackerKaruiWarriorsNearWeatheredCarvings | 2152 |
-| ProphecyQuestTrackerWeaponsRiseUpAroundLioneyesStandard | 2153 |
-| ProphecyQuestTrackerGoldenWaterElementalsRiseFromGoldPiles | 2154 |
-| ProphecyQuestTrackerChildOfLunarisAppearsInChapel | 2155 |
-| ProphecyQuestTrackerArmyOfUndeadSoldiersAppearInRuinedFortress | 2156 |
-| ProphecyQuestTrackerTheStockkeeperAppears | 2157 |
-| ProphecyQuestTrackerUniqueLightningGolemAppearsOutsideBubble | 2158 |
-| ProphecyQuestTrackerTwoUniqueBlackguardCaptainsAppearAtFarEnd | 2159 |
-| ProphecyQuestTrackerUniqueZombieBlackguardAtRuinedCart | 2160 |
-| ProphecyQuestTrackerRareLunarisMiscreationsAppearAtScionCage | 2161 |
-| ProphecyQuestTrackerTier1MapsSpawnedAtMapDevice | 2162 |
-| ProphecyQuestTrackerAreaAllRaresAreCloned | 2163 |
-| ProphecyQuestTrackerAreaAllUniquesArePossessedByTormentedSpirits | 2164 |
-| ProphecyQuestTrackerMapTempest | 2165 |
-| ProphecyCompleteTitle | 2166 |
-| ProphecyQuestTrackerAreaSpawnsUndead | 2167 |
-| ProphecyQuestTrackerAreaSpawnsInsectsAndQueens | 2168 |
-| ProphecyQuestTrackerAreaSpawnsSeaWitchesAndSpawn | 2169 |
-| ProphecyQuestTrackerAreaSpawnsRareDevourers | 2170 |
-| ProphecyQuestTrackerRatFlood | 2171 |
-| ProphecyQuestTrackerFrogFlood | 2172 |
-| ProphecyQuestTrackerVaalInvasion | 2173 |
-| ProphecyQuestTrackerAreaContainsWashedUpCorpses | 2174 |
-| ProphecyQuestTrackerMapContainsTrial | 2175 |
-| ProphecyQuestTrackerKillingKaomWithKaomsSignAddsSpecificMod | 2176 |
-| ProphecyQuestTrackerKillingGemlingLegionareWithKaruiWardAddsSpecificMod | 2177 |
-| ProphecyQuestTrackerKillingDaressoWithBramblejackAddsSpecificMod | 2178 |
-| ProphecyQuestTrackerKillingShavronneWithShavronnesPaceAddsSpecificMod | 2179 |
-| ProphecyQuestTrackerKillingNightwaneWithDeathsHarpAddsSpecificMod | 2180 |
-| ProphecyQuestTrackerKillingBeyondUniqueWithBlackheartAddsSpecificMod | 2181 |
-| ProphecyQuestTrackerKillingGneissWithCragheadAddsSpecificMod | 2182 |
-| ProphecyQuestTrackerKillingHatebeatWithBlackgleamAddsSpecificMod | 2183 |
-| ProphecyQuestTrackerKillingTorchoakGroveWithArakuTikiAddsSpecificMod | 2184 |
-| ProphecyQuestTrackerKillingHailrakeWithHrimsorrowAddsSpecificMod | 2185 |
-| ProphecyQuestTrackerKillingShavronneWithCrownOfThornsAddsSpecificMod | 2186 |
-| ProphecyQuestTrackerKillingGemlingLegionnaireWithEzomytePeakAddsSpecificMod | 2187 |
-| ProphecyQuestTrackerKillingGraviciusWithDeidbellAddsSpecificMod | 2188 |
-| ProphecyQuestTrackerKillingDoedreWithChaliceOfHorrorsAddsSpecificMod | 2189 |
-| ProphecyQuestTrackerKillingCalafHeadstaverWithSpringleafAddsSpecificMod | 2190 |
-| ProphecyQuestTrackerKillingChattersWithKaltenhaltAddsSpecificMod | 2191 |
-| ProphecyQuestTrackerKillingHundredFootShadowWithScreamingEagleAddsSpecificMod | 2192 |
-| ProphecyQuestTrackerKillingHammerstormWithLimbsplitAddsSpecificMod | 2193 |
-| ProphecyQuestTrackerKillingVaalOversoulWithDoomfletchAddsSpecificMod | 2194 |
-| ProphecyQuestTrackerKillingKalFoxflyWithSilverbranchAddsSpecificMod | 2195 |
-| ProphecyQuestTrackerKillingFidelitasWithStormCloudAddsSpecificMod | 2196 |
-| ProphecyQuestTrackerKillingSoulmournWithHrimnorsHymnAddsSpecificMod | 2197 |
-| ProphecyQuestTrackerKillingPietyWithReverberationRodAddsSpecificMod | 2198 |
-| ProphecyQuestTrackerKillingGeofriWithRealmshaperAddsSpecificMod | 2199 |
-| ProphecyQuestTrackerKillingBoneQueenWithQueensDecreeAddsSpecificMod | 2200 |
-| CreditsCreditsThirdParty | 2201 |
-| ProphecyPathOfTheThaumaturgistCount1 | 2202 |
-| ProphecyPathOfTheThaumaturgistCount2 | 2203 |
-| ProphecyPathOfTheThaumaturgistCount3 | 2204 |
-| ProphecyThaumaturgistFinal | 2205 |
-| ProphecyPlaguemawAmbush | 2206 |
-| ProphecyWarbandFromExile | 2207 |
-| ProphecyExileFromStrongbox | 2208 |
-| ProphecyBloodElemental | 2209 |
-| ProphecyNormalRevivesAsRare | 2210 |
-| ProphecyMonsterSpawnsMagicPack | 2211 |
-| ProphecyDestroyTome | 2212 |
-| ProphecyEnchantmentDevice2ndUse1 | 2213 |
-| ProphecyEnchantmentDevice2ndUse2 | 2214 |
-| ProphecyPopupSealCost | 2215 |
-| ProphecyQuestTrackerInvadingMonster | 2216 |
-| OptionsChannelCountLow | 2217 |
-| OptionsChannelCountMedium | 2218 |
-| OptionsChannelCountHigh | 2219 |
-| OptionsChannelCount | 2220 |
-| InsaneWorldArea1 | 2221 |
-| InsaneWorldArea2 | 2222 |
-| InsaneWorldArea3 | 2223 |
-| InsaneWorldArea4 | 2224 |
-| InsaneWorldArea5 | 2225 |
-| InsaneWorldArea6 | 2226 |
-| InsaneWorldArea7 | 2227 |
-| InsaneWorldArea8 | 2228 |
-| InsaneWorldArea9 | 2229 |
-| InsaneWorldArea10 | 2230 |
-| InsaneDifficulty | 2231 |
-| InsaneMessage1 | 2232 |
-| InsaneMessage2 | 2233 |
-| InsaneMessage3 | 2234 |
-| InsaneMessage4 | 2235 |
-| InsaneMessage5 | 2236 |
-| InsaneMessage6 | 2237 |
-| OptionsChannelCountRestart | 2238 |
-| ProphecyFortuneTellerChest | 2239 |
-| ItemDisplayStringDivinationCard | 2240 |
-| ItemErrorNotMonolith | 2241 |
-| AtlasScreenTitle | 2242 |
-| ChatBoxTo | 2243 |
-| ChatBoxFrom | 2244 |
-| OptionsShowChatTimestamps | 2245 |
-| OptionsOpenFiltersFolderButton | 2246 |
-| OptionsOpenFiltersFolderButtonPopup | 2247 |
-| CraftingWindowCraftWithBoundCurrencyButton | 2248 |
-| TutorialShiftAttack | 2249 |
-| TutorialWeaponSwap | 2250 |
-| TutorialCTRLClick | 2251 |
-| TutorialUnsocket | 2252 |
-| EssenceCategoryClaw | 2253 |
-| EssenceCategoryDagger | 2254 |
-| EssenceCategoryOneHandSword | 2255 |
-| EssenceCategoryThrustingOneHandSword | 2256 |
-| EssenceCategoryOneHandAxe | 2257 |
-| EssenceCategoryOneHandMace | 2258 |
-| EssenceCategorySceptre | 2259 |
-| EssenceCategoryStaff | 2260 |
-| EssenceCategoryTwoHandSword | 2261 |
-| EssenceCategoryTwoHandAxe | 2262 |
-| EssenceCategoryTwoHandMace | 2263 |
-| EssenceCategoryWand | 2264 |
-| EssenceCategoryBow | 2265 |
-| EssenceCategoryQuiver | 2266 |
-| EssenceCategoryAmulet | 2267 |
-| EssenceCategoryRing | 2268 |
-| EssenceCategoryBelt | 2269 |
-| EssenceCategoryGloves | 2270 |
-| EssenceCategoryBoots | 2271 |
-| EssenceCategoryBodyArmour | 2272 |
-| EssenceCategoryHelmet | 2273 |
-| EssenceCategoryShield | 2274 |
-| EssenceCategoryArmour | 2275 |
-| EssenceCategoryMeleeWeapon | 2276 |
-| EssenceCategoryRangedWeapon | 2277 |
-| EssenceCategoryOneHandWeapon | 2278 |
-| EssenceCategoryTwoHandWeapon | 2279 |
-| EssenceCategoryTwoHandMeleeWeapon | 2280 |
-| EssenceCategoryWeapon | 2281 |
-| EssenceCategoryJewellery | 2282 |
-| OptionsDisableGameplayEventVoices | 2283 |
-| DeliveryDetailsEditorNameLabel | 2284 |
-| DeliveryDetailsEditorAddress1Label | 2285 |
-| DeliveryDetailsEditorAddress2Label | 2286 |
-| DeliveryDetailsEditorZipOrPostCodeLabel | 2287 |
-| DeliveryDetailsEditorCityLabel | 2288 |
-| DeliveryDetailsEditorStateLabel | 2289 |
-| DeliveryDetailsEditorCountryLabel | 2290 |
-| DeliveryDetailsEditorShirtSizeLabel | 2291 |
-| DeliveryDetailsEditorShirtSizeSelectASize | 2292 |
-| DeliveryDetailsEditorOptOutLabel | 2293 |
-| DeliveryDetailsEditorOptOutHover | 2294 |
-| DeliveryDetailsEditorMandatoryNotice | 2295 |
-| DeliveryDetailsEditorTitle | 2296 |
-| DeliveryDetailsEditorDescription | 2297 |
-| DeliveryDetailsEditorConfirmButton | 2298 |
-| DeliveryDetailsEditorOptOutNotice | 2299 |
-| MapRhoaNestNameString | 2300 |
-| MapRhoaNestInfoString | 2301 |
-| MapUndeadRhoaNestInfoString | 2302 |
-| MapRhoaBossInfoString | 2303 |
-| MonolithHelperText | 2304 |
-| EssenceModLevelRestriction | 2305 |
-| CreateCharacterButtonMaxCharactersReachedPopup | 2306 |
-| ItemErrorCannotApplyToMonolith | 2307 |
-| AtlasModUsesRemaining | 2308 |
-| AtlasModUsesRemainingPlural | 2309 |
-| ActionOpenAtlasScreen | 2310 |
-| ItemErrorTargetNotNormalOrRare | 2311 |
-| MapStairAlternativeTombExit | 2312 |
-| MapStairAlternativeTombEntrance | 2313 |
-| MapStairAlternativeCaveExit | 2314 |
-| MapStairAlternativePassage | 2315 |
-| EssenceCategoryOther | 2316 |
-| EssenceCategoryItems | 2317 |
-| WorldPanelHideoutPinInfoHover | 2318 |
-| AscendancyTrialHelp | 2319 |
-| BoundCurrencyCheckboxLabel | 2320 |
-| EssenceLeagueInformationLabel | 2321 |
-| UIOpenMapDescription | 2322 |
-| MapUpgradeFunctionTier1 | 2323 |
-| MapUpgradeFunctionTier2 | 2324 |
-| MapUpgradeFunctionTier3 | 2325 |
-| MapUpgradeFunctionTier4 | 2326 |
-| MapUpgradeFunctionTier5 | 2327 |
-| MapUpgradeFunctionTier6 | 2328 |
-| MapUpgradeFunctionTier7 | 2329 |
-| MapUpgradeFunctionTier8 | 2330 |
-| MapUpgradeFunctionTier9 | 2331 |
-| MapUpgradeFunctionTier10 | 2332 |
-| MapUpgradeFunctionTierTo16 | 2333 |
-| MapUpgradeDescriptionText | 2334 |
-| MapSuperUpgradeDescriptionText | 2335 |
-| LoginScreenMigrationLabel | 2336 |
-| ItemErrorMapNotUpgraded | 2337 |
-| OptionsEngineMultithreadingModes | 2338 |
-| OptionsEngineMultithreadingDisabled | 2339 |
-| OptionsEngineMultithreadingEnabled | 2340 |
-| ItemErrorMapNotCompleted | 2341 |
-| CISItemMessage | 2342 |
-| ItemErrorMapIsUnique | 2343 |
-| MapStairAlternativeGauntlet | 2344 |
-| AtlasPopupTier | 2345 |
-| ReminderTextElementalConfluxes | 2346 |
-| PlayerAccountLastOnlineYearsN | 2347 |
-| PlayerAccountLastOnlineYears1 | 2348 |
-| PlayerAccountLastOnlineMonthsN | 2349 |
-| PlayerAccountLastOnlineMonths1 | 2350 |
-| PlayerAccountLastOnlineWeeksN | 2351 |
-| PlayerAccountLastOnlineWeeks1 | 2352 |
-| PlayerAccountLastOnlineDaysN | 2353 |
-| PlayerAccountLastOnlineDays1 | 2354 |
-| PlayerAccountLastOnlineHoursN | 2355 |
-| PlayerAccountLastOnlineHours1 | 2356 |
-| PlayerAccountLastOnlineMinutesN | 2357 |
-| PlayerAccountLastOnlineMinutes1 | 2358 |
-| PlayerAccountLastOnlineSecondsN | 2359 |
-| PlayerAccountLastOnlineSeconds1 | 2360 |
-| AtlasNodeHoverAreaHasShaperMemoryFragment | 2361 |
-| PlayerAccountLastOnlineUnknown | 2362 |
-| AtlasNodeHoverObjectiveMagic | 2363 |
-| AtlasNodeHoverObjectiveRare | 2364 |
-| AtlasNodeHoverObjectiveCorruptedRare | 2365 |
-| AtlasNodeHoverObjectiveUnique | 2366 |
-| AtlasProgressBarHover1 | 2367 |
-| AtlasProgressBarHover2 | 2368 |
-| CraftingWindowShowAtlasButton | 2369 |
-| DailyDealTimeRemainingCountdown | 2370 |
-| PlayerContextMenuViewCharacter | 2371 |
-| PlayerContextMenuViewCharacterPopup | 2372 |
-| PlayerKilledBy | 2373 |
-| AtlasScreenSearchLabel | 2374 |
-| AtlasScreenSearchInfo | 2375 |
-| AtlasScreenSearchTextboxDefault | 2376 |
-| GuildTutorialReachedLevel20 | 2377 |
-| GuildTutorialOpenedSocialPanel | 2378 |
-| GuildTutorialOpenedGuildTab | 2379 |
-| CreateHideoutByLevelingMasterTutorial | 2380 |
-| ClaimHideoutTutorial | 2381 |
-| AccountBoundCurrencyMergeWarning | 2382 |
-| RenameGuildButton | 2383 |
-| OffersDefaultUserMessageText | 2384 |
-| PrepaidMessageWindowDescription | 2385 |
-| PrepaidMessageWindowSendButton | 2386 |
-| PrepaidMessageWindowCancelButton | 2387 |
-| ItemErrorTargetNotUnique | 2388 |
-| ItemErrorWrongUnique | 2389 |
-| ChatBoxWhispersCheckboxLabel | 2390 |
-| ChatBoxPartyCheckboxLabel | 2391 |
-| ChatBoxLocalCheckboxLabel | 2392 |
-| MarketPanelTitle | 2393 |
-| MarketSearchPageTitle | 2394 |
-| MarketBookmarkPageTitle | 2395 |
-| MarketSellingPageTitle | 2396 |
-| MarketOffersPageTitle | 2397 |
-| MarketSendOffersPageTitle | 2398 |
-| MarketSearchPageSearchButton | 2399 |
-| MarketSearchPageNextButton | 2400 |
-| MarketMakeOfferMenuItem | 2401 |
-| MarketOfferAcceptButton | 2402 |
-| MarketOfferRejectButton | 2403 |
-| MarketOfferWithdrawButton | 2404 |
-| MarketOfferSubmitButton | 2405 |
-| MarketOfferCategoryCurrent | 2406 |
-| MarketOfferCategoryAccepted | 2407 |
-| MarketOfferCategoryRejected | 2408 |
-| MarketOfferCategoryHistory | 2409 |
-| ReminderTextChill | 2410 |
-| ReminderTextChillNonHit | 2411 |
-| ReminderTextChillNonHitNoDuration | 2412 |
-| ReminderTextShock | 2413 |
-| ReminderTextShockNonHit | 2414 |
-| ReminderTextShockNonHitNoDuration | 2415 |
-| ReminderTextChilledGround | 2416 |
-| ReminderTextDesecratedGround | 2417 |
-| ReminderTextImplicitMod | 2418 |
-| ReminderTextKnockback | 2419 |
-| ReminderTextLifeLeech | 2420 |
-| ReminderTextManaLeech | 2421 |
-| ReminderTextLowLife | 2422 |
-| ReminderTextLowMana | 2423 |
-| ReminderTextOverkill | 2424 |
-| ReminderTextRampage | 2425 |
-| ReminderTextSilence | 2426 |
-| ReminderTextSoulEater | 2427 |
-| ReminderTextElementalStatusAilments | 2428 |
-| ReminderTextStatusAilments | 2429 |
-| ReminderTextDamagingAilments | 2430 |
-| ReminderTextNonDamagingAilments | 2431 |
-| ReminderTextStunThreshold | 2432 |
-| ReminderTextUnholyMight | 2433 |
-| ReminderTextVisibility | 2434 |
-| ReminderTextFarShot | 2435 |
-| MarketOfferCancelButton | 2436 |
-| MarketMakeOfferMenuTitle | 2437 |
-| MarketOfferNoOfferedItemsPopup | 2438 |
-| MarketOfferItemsInInventoryPopup | 2439 |
-| DefaultItemFilter | 2440 |
-| MarketNotificationOfferRejected | 2441 |
-| MarketNotificationOfferExpired | 2442 |
-| MarketNotificationOfferAccepted | 2443 |
-| MarketNotificationOfferRecieved | 2444 |
-| MarketNotificationOffersWaiting | 2445 |
-| ReminderTextHinder | 2446 |
-| MarketTabBuyWindowButtonDay | 2447 |
-| MarketTabBuyWindowButtonWeek | 2448 |
-| MarketTabBuyWindowButtonMonth | 2449 |
-| MarketConfirmationWindowTitle | 2450 |
-| MarketConfirmationWindowMessage | 2451 |
-| MarketSellingTabNameRegular | 2452 |
-| MarketSellingTabNameBuyout | 2453 |
-| MarketSellingTabNamePromoted | 2454 |
-| MarketTabExpiryTime | 2455 |
-| MarketTabExtensionButtonDay | 2456 |
-| MarketTabExtensionButtonWeek | 2457 |
-| MarketTabExtensionButtonMonth | 2458 |
-| MarketSellingTabInfoRegular | 2459 |
-| MarketSellingTabInfoBuyout | 2460 |
-| MarketSellingTabInfoPromoted | 2461 |
-| MarketSellingTabInfoMessage | 2462 |
-| HUDDeathMessageReviveAtCheckpointButton | 2463 |
-| HUDDeathMessageReviveAtCheckpointButtonPopup | 2464 |
-| PurchaseReviveCoinsMessage | 2465 |
-| PurchaseReviveCoinsFailed | 2466 |
-| MarketTabExpiredTimeMessage | 2467 |
-| ReviveCoinCost | 2468 |
-| MarketNotificationOffersWaitingSingle | 2469 |
-| ReminderTextBleedingIsAttackOnly | 2470 |
-| ReminderTextKeystoneCrimsonDance | 2471 |
-| ReminderTextKeystoneSharedSuffering | 2472 |
-| ReminderTextKeystoneIronReflexes | 2473 |
-| ReminderTextKeystoneResoluteTechnique | 2474 |
-| ReminderTextKeystoneAcrobatics | 2475 |
-| ReminderTextKeystoneBloodMagic | 2476 |
-| ReminderTextKeystonePainAttunement | 2477 |
-| ReminderTextKeystoneConduit | 2478 |
-| ReminderTextKeystoneVaalPact | 2479 |
-| ReminderTextKeystoneMindOverMatter | 2480 |
-| ReminderTextKeystoneUnwaveringStance | 2481 |
-| ReminderTextKeystonePointBlank | 2482 |
-| ReminderTextLucky | 2483 |
-| ReminderTextUnlucky | 2484 |
-| InsufficientCurrencyConfimationWindowTitle | 2485 |
-| InsufficientCurrencyConfimationWindowBoundMessage | 2486 |
-| InsufficientCurrencyConfimationWindowUnboundMessage | 2487 |
-| ChatToolbarNotCurrentlyInParty | 2488 |
-| ChatToolbarNotCurrentlyInGuild | 2489 |
-| TencentElementsPricingTabString | 2490 |
-| GuideBookButton | 2491 |
-| GuideBookButtonHover | 2492 |
-| MarketConfirmationTitleBuyTab | 2493 |
-| MarketConfirmationMessageBuyTab | 2494 |
-| MarketConfirmationMessageBuyTabButton | 2495 |
-| NotificationOfferStatePreparing | 2496 |
-| NotificationOfferStateRejected | 2497 |
-| NotificationOfferStateWithdrawn | 2498 |
-| NotificationOfferStateExpired | 2499 |
-| NotificationOfferStateSending | 2500 |
-| NotificationOfferStateSubmitted | 2501 |
-| NotificationOfferStateNewOffer | 2502 |
-| NotificationOfferStateAccepting | 2503 |
-| MarketTabCostLabel | 2504 |
-| MarketSearchCategoryArmor | 2505 |
-| MarketSearchCategoryOneHanded | 2506 |
-| MarketSearchCategoryTwoHanded | 2507 |
-| MarketSearchCategoryOffhand | 2508 |
-| MarketSearchCategoryJewellery | 2509 |
-| MarketSearchCategoryGems | 2510 |
-| MarketSearchCategoryFlasks | 2511 |
-| MarketSearchCategoryOther | 2512 |
-| MarketSearchCategoryBase | 2513 |
-| OffersDefaultUserSellerMessageText | 2514 |
-| ChatBoxLocalHover | 2515 |
-| ChatBoxGlobalHover | 2516 |
-| ChatBoxPartyHover | 2517 |
-| ChatBoxWhisperHover | 2518 |
-| ChatBoxTradeHover | 2519 |
-| ChatBoxGuildHover | 2520 |
-| MarketPopupAskingPrice | 2521 |
-| MarketDisabledLevelRestrictionHoverText | 2522 |
-| MarketDisabledOutOfBoundsMessage | 2523 |
-| ItemErrorCantUseFromOffer | 2524 |
-| MarketSearchPageSpamClickLockoutMessage | 2525 |
-| OfferInventoryLabel | 2526 |
-| OfferItemLabel | 2527 |
-| TabExtensionConfirmation | 2528 |
-| OfferConfirmationTitle | 2529 |
-| OfferConfirmationMessage | 2530 |
-| TencentGuideBookTutorialText | 2531 |
-| TencentBrowserGuidebookTip | 2532 |
-| TencentBoundCurrencyCraftingConfirmationMessage | 2533 |
-| TencentBoundCurrencyCraftingConfirmationTitle | 2534 |
-| ReminderTextUncappedResist | 2535 |
-| PropheciesDisabled | 2536 |
-| OfferItemSoldLabel | 2537 |
-| OfferInventoryReceivedItemLabel | 2538 |
-| OfferInventoryReceivedItemsLabel | 2539 |
-| ReminderTextKeystoneAvatarOfFire | 2540 |
-| ReminderTextKeystoneAncestralBond | 2541 |
-| ReminderTextKeystoneEldritchBattery | 2542 |
-| ChatToolbarChatButtonChangeChannellPopup | 2543 |
-| WebBrowserLoading | 2544 |
-| ObjectDisplayTextResonator | 2545 |
-| ObjectDisplayTextOriathPortal | 2546 |
-| SGItemMessage | 2547 |
-| TutorialFirstSkillGemSocketGemOnItem | 2548 |
-| TutorialFirstSkillGemExplainSkill | 2549 |
-| TutorialLowMana | 2550 |
-| ItemDisplayWeaponRange | 2551 |
-| OptionsEnableProfanityFilter | 2552 |
-| OptionsEnableProfanityFilterPopup | 2553 |
-| ReminderTextCoveredInAsh | 2554 |
-| ReminderTextCoveredInAshNoDuration | 2555 |
-| ReminderTextKeystoneChaosInoculation | 2556 |
-| ReminderTextKeystoneElementalEquilibrium | 2557 |
-| ReminderTextKeystoneElementalOverload | 2558 |
-| ReminderTextKeystoneMinionInstability | 2559 |
-| ReminderTextKeystonePhaseAcrobatics | 2560 |
-| ReminderTextKeystoneProjectileEvasion | 2561 |
-| ReminderTextKeystoneIronGrip | 2562 |
-| ChallengeRewardsPopup | 2563 |
-| ChallengeRewardsTotemPopup | 2564 |
-| OptionsDirectXVersion | 2565 |
-| OptionsDirectXVersionAuto | 2566 |
-| OptionsDirectXVersionAutoSelected | 2567 |
-| OptionsDirectXVersion9 | 2568 |
-| OptionsDirectXVersion9Ex | 2569 |
-| OptionsDirectXVersion11 | 2570 |
-| OptionsDirectXRestartNow | 2571 |
-| OptionsDirectXRestartLater | 2572 |
-| OptionsDirectX11Crash | 2573 |
-| OptionsDirectX9Failed | 2574 |
-| ReminderTextKeystoneZealotsOath | 2575 |
-| ReminderTextKeystoneGhostReaver | 2576 |
-| ReminderTextFishBiteSensitivity | 2577 |
-| DirectX9Only | 2578 |
-| ReminderTextIronWill | 2579 |
-| ReminderTextBloodMagicCosts | 2580 |
-| DivinationStashComboboxLabel | 2581 |
-| DivinationStashAllOwnedCards | 2582 |
-| DivinationStashShowFullStacks | 2583 |
-| DivinationStashShowCollection | 2584 |
-| EssenceStashButtonText | 2585 |
-| EssenceStashButtonPopup | 2586 |
-| EssenceStashUpgradeLabel | 2587 |
-| EssenceStashUpgradeNumberError | 2588 |
-| EssenceStashUpgradeSuccessful | 2589 |
-| EssenceStashUpgradeTierError | 2590 |
-| EventFinished | 2591 |
-| EventClosed | 2592 |
-| DivinationStashShownUnownedCards | 2593 |
-| CustomItemNoteExchange | 2594 |
-| CustomItemNoteFixedPrice | 2595 |
-| CustomItemNoteFor | 2596 |
-| EventAboutToStartNotification | 2597 |
-| EventAboutToEndNotification | 2598 |
-| EventStartsNowNotification | 2599 |
-| EventNotificationTitle | 2600 |
-| PathOfEnduranceBossPortalOpen | 2601 |
-| PathOfEnduranceNextAreaPortal | 2602 |
-| PathOfEnduranceAreaComplete | 2603 |
-| TimerNotificationSeeDetails | 2604 |
-| TencentAASPopupTitle | 2605 |
-| CraftingBenchMasterLevelTooLow | 2606 |
-| PassiveTreeSearchLabel | 2607 |
-| PassiveTreeSearchInfo | 2608 |
-| TradeMarketSearchOnlineOnlyLabel | 2609 |
-| SocialPanelSearchDefaultText | 2610 |
-| SocialPanelFriendsSearchLabel | 2611 |
-| SocialPanelGuildSearchLabel | 2612 |
-| THItemMessage | 2613 |
-| PassiveTreeSearchHint | 2614 |
-| CreditsCreativeCommons | 2615 |
-| DivinationCardStashSliderLabel | 2616 |
-| ObjectDisplayTextAtlasTable | 2617 |
-| ObjectDisplayTextGreustShrine | 2618 |
-| ObjectDisplayTextCorruptionRoomDevice1 | 2619 |
-| ObjectDisplayTextCorruptionRoomDevice2 | 2620 |
-| ObjectDisplayTextSacrificeRoomDevice1 | 2621 |
-| ObjectDisplayTextSacrificeRoomDevice2 | 2622 |
-| ObjectDisplayTextSacrificeRoomDevice3 | 2623 |
-| NavaliMonkeyWrongPlayer | 2624 |
-| ActionOpenPantheonPanel | 2625 |
-| ItemDescriptionClassicVaultKey | 2626 |
-| LegacyTabName | 2627 |
-| AtlasMapCompleteNotification | 2628 |
-| AtlasMapBonusCompleteNotification | 2629 |
-| TencentActionFailedTasLock | 2630 |
-| ItemErrorModIncompatable | 2631 |
-| TelemetryLatencyMS | 2632 |
-| MTXShopItemPreviousPrice | 2633 |
-| EnchantingWarningTitle | 2634 |
-| EnchantingWarningText | 2635 |
-| EnchantingAcceptButton | 2636 |
-| ItemDisplayChargesCurrentOfMax1 | 2637 |
-| ItemDisplayChargesCurrentOfMaxN | 2638 |
-| CreateCharacterStateSSF | 2639 |
-| CreateCharacterStateSSFWarning | 2640 |
-| SSFMigrateConfirmationTitle | 2641 |
-| SSFMigrateConfirmationMessageAll | 2642 |
-| SSFMigrationConfirmationMessageChar | 2643 |
-| ItemPopupRelicUnique | 2644 |
-| LeagueStoneTabLevelRestriction | 2645 |
-| LeagueStoneTabDescription | 2646 |
-| LeagueStonePopupHelperText | 2647 |
-| SoloSelfSoundMigrateAllButton | 2648 |
-| SoloSelfFoundMigrateCharacterButton | 2649 |
-| SoloSelfFoundMigrateCharacterPopup | 2650 |
-| SoloSelfFoundMigrateAllPopup | 2651 |
-| TencentActionFailedMarketBanned | 2652 |
-| LeaguestoneMinimumAreaLevel | 2653 |
-| LeaguestoneMaximumAreaLevel | 2654 |
-| LeaguestoneMinimumMaximumAreaLevel | 2655 |
-| TencentAreaTransitionInformation | 2656 |
-| ReminderTextCreateLesserShrineCooldown | 2657 |
-| LeaguestoneTabLevelTooLowNote | 2658 |
-| LeaguestoneTabLevelTooHighNote | 2659 |
-| LeaguestoneTabGenericError | 2660 |
-| TencentTasUnlockWindowTitle | 2661 |
-| TencentTasUnlockWindowMessage | 2662 |
-| TencentTasUnlockWindowAction1Button | 2663 |
-| TencentTasUnlockWindowAction2Button | 2664 |
-| ConsoleLabyrinthCraftingWindowDescription | 2665 |
-| ConsoleLabyrinthCraftingWindowDescriptionCruel | 2666 |
-| ConsoleLabyrinthCraftingWindowDescriptionMerciless | 2667 |
-| ConsoleLabyrinthCraftingWindowDescriptionMap | 2668 |
-| AudioOptionsMasterVolumeLabel | 2669 |
-| AbandonEventMessage | 2670 |
-| EventErrorSingleEntry | 2671 |
-| ConnectErrorBadPublicKeys | 2672 |
-| ConsoleEnchantmentWarning | 2673 |
-| ObjectDisplayTextKaruiDoor | 2674 |
-| ObjectDisplayTextPuritySignSlot | 2675 |
-| TencentSwapChatChannelLabel | 2676 |
-| ObjectDisplayTextTemplarCourtDoor | 2677 |
-| XboxControllerDisconnectedMessage | 2678 |
-| PantheonPanelPopupStatLocked | 2679 |
-| PantheonPanelPopupStatUnlocked | 2680 |
-| PantheonPanelPopupUnlocks | 2681 |
-| MapStairAlternativeLadder | 2682 |
-| MicrotransactionSlotHoverItemTypeMismatchError | 2683 |
-| MicrotransactionSlotContextMenuNoMTXMessage | 2684 |
-| MicrotransactionSlotContextMenuPurchaseButton | 2685 |
-| InventoryCosmeticsButton | 2686 |
-| MtxSlotNameWeaponSkin | 2687 |
-| MtxSlotNameWeaponEffect | 2688 |
-| MtxSlotNameWeaponAddedEffect | 2689 |
-| MtxSlotNameHelmetSkin | 2690 |
-| MtxSlotNameHelmetAttachment | 2691 |
-| MtxSlotNameBodyArmourSkin | 2692 |
-| MtxSlotNameBodyArmourAttachment | 2693 |
-| MtxSlotNameGlovesSkin | 2694 |
-| MtxSlotNameBootsSkin | 2695 |
-| MtxSlotNameFootprints | 2696 |
-| MtxSlotNameCharacterEffect | 2697 |
-| MtxSlotNamePeriodicCharacterEffect | 2698 |
-| MtxSlotNamePortrait | 2699 |
-| MtxSlotNameSocialFrame | 2700 |
-| MtxSlotNamePet | 2701 |
-| MtxSlotNamePortal | 2702 |
-| MtxCategoryConsumable | 2703 |
-| MtxCategoryShieldSkin | 2704 |
-| MtxCategoryDance | 2705 |
-| MtxCategorySkillGem | 2706 |
-| MtxOptionEquipButton | 2707 |
-| MtxOptionReclaimButtom | 2708 |
-| MtxOptionInUse | 2709 |
-| MtxInventoryOpenMtxPanelButton | 2710 |
-| MtxInventoryFilterLabel | 2711 |
-| MtxPanelSortMethodCategory | 2712 |
-| MtxPanelSortMethodThemes | 2713 |
-| MtxPanelSortLabel | 2714 |
-| MicrotransactionSlotHoverEmpty | 2715 |
-| InventoryOpenShopButton | 2716 |
-| ActionOpenCosmeticsInventory | 2717 |
-| TwitchPromotionalButtonText | 2718 |
-| HideoutListPanelPlace | 2719 |
-| MicrotransactionPanelUseConsumable | 2720 |
-| XboxBetaNotification | 2721 |
-| XboxSharedGamingPrivilegeError | 2722 |
-| XboxLoginPermissionErrorTitle | 2723 |
-| XboxPermissionGeneralError | 2724 |
-| XboxPermissionBannerError | 2725 |
-| XboxPermissionRestrictedError | 2726 |
-| XboxPermissionAbortedError | 2727 |
-| XboxPermissionPurchaseRequiredError | 2728 |
-| MapStairAlternativeSewerOutlet | 2729 |
-| ObjectDisplayTextValve | 2730 |
-| TencentOptionsReport | 2731 |
-| TencentOptionsReportResult | 2732 |
-| XboxGuildNameProfanityErrorMessage | 2733 |
-| XboxCreateCharacterStateTitlebarHintChooseLeague | 2734 |
-| XboxCreateCharacterStateTitlebarHintChooseClass | 2735 |
-| XboxCreateCharacterStateTitlebarHintChooseName | 2736 |
-| XboxPassiveNodeAllocate | 2737 |
-| XboxPassiveNodeUnallocate | 2738 |
-| XboxNetworkExitedReasonNetworkFull | 2739 |
-| LabyrinthWindowName | 2740 |
-| LabyrithWindowActivateButton | 2741 |
-| TwitchShopButtonName | 2742 |
-| ObjectDisplayTextBeacon | 2743 |
-| ObjectDisplayTextBeaconSwitch | 2744 |
-| HideCompletedChallengesLabel | 2745 |
-| ConsoleLogOut | 2746 |
-| ConsoleFastLogOut | 2747 |
-| ConsoleClosePanel | 2748 |
-| ConsolePressMenuButtonToPlay | 2749 |
-| ConsoleSwitchAccount | 2750 |
-| ConsoleChangeSelection | 2751 |
-| ConsoleSelectCharacter | 2752 |
-| ConsoleDeleteCharacter | 2753 |
-| ConsoleCreateNewCharacter | 2754 |
-| ConsoleSwitchLeague | 2755 |
-| ConsoleSelectLeague | 2756 |
-| ConsoleSwitchClass | 2757 |
-| ConsoleSelectClass | 2758 |
-| ConsoleNavigate | 2759 |
-| ConsolePickUp | 2760 |
-| ConsoleCompare | 2761 |
-| ConsoleSelect | 2762 |
-| ConsoleRepeatApply | 2763 |
-| ConsoleScrollStats | 2764 |
-| ConsoleSelectSkill | 2765 |
-| ConsoleSelectBinding | 2766 |
-| ConsoleNavigateSkills | 2767 |
-| ConsoleNavigateProphecies | 2768 |
-| ConsoleSwapSkillSets | 2769 |
-| ConsoleBindSkill | 2770 |
-| ConsoleChangeWaypoint | 2771 |
-| ConsoleChangeQuest | 2772 |
-| ConsoleToggleMapLegend | 2773 |
-| ConsoleToggleInventory | 2774 |
-| ConsoleToggleStash | 2775 |
-| ConsoleToggleMTXInventory | 2776 |
-| ConsoleMove | 2777 |
-| ConsolePan | 2778 |
-| ConsoleZoom | 2779 |
-| ConsoleRefund | 2780 |
-| ConsoleReset | 2781 |
-| ConsoleAscendancyGraph | 2782 |
-| ConsoleApplyPassiveChanges | 2783 |
-| ConsoleCancelPassiveChanges | 2784 |
-| ConsolePlaceJewel | 2785 |
-| ConsoleRemoveJewel | 2786 |
-| ConsoleEventsSeeFullSchedule | 2787 |
-| ConsoleSwapTabs | 2788 |
-| ConsoleMoveToArea | 2789 |
-| ConsoleOpenSkillsPanel | 2790 |
-| ConsoleActionUse | 2791 |
-| ConsoleActionStash | 2792 |
-| ConsoleActionTakeItem | 2793 |
-| ConsoleActionUnstack | 2794 |
-| ConsoleActionChangeStackSize | 2795 |
-| ConsoleActionDiscard | 2796 |
-| ConsoleActionEquip | 2797 |
-| ConsoleActionEquipOffhand | 2798 |
-| ConsoleActionUnequip | 2799 |
-| ConsoleActionSockets | 2800 |
-| ConsoleActionSocket | 2801 |
-| ConsoleActionUnsocket | 2802 |
-| ConsoleActionStore | 2803 |
-| ConsoleActionPickupGem | 2804 |
-| ConsoleActionPickupJewel | 2805 |
-| ConsoleActionPlace | 2806 |
-| ConsoleActionBuyItem | 2807 |
-| ConsoleActionSellItem | 2808 |
-| ConsoleActionAcceptTrade | 2809 |
-| ConsoleActionCancelTrade | 2810 |
-| ConsoleActionIdentify | 2811 |
-| ConsoleActionUseOnObject | 2812 |
-| ConsoleActionEnchant | 2813 |
-| ConsoleActionMoveItem | 2814 |
-| ConsoleActionCraft | 2815 |
-| ConsoleActionNavigateMods | 2816 |
-| ConsoleActionOpenAtlas | 2817 |
-| ConsoleShopNavigate | 2818 |
-| ConsoleSwapPanels | 2819 |
-| ConsoleSelectMTXOption | 2820 |
-| ConsoleCloseLabyrinthMap | 2821 |
-| ConsoleToggleMapInformation | 2822 |
-| ConsoleCharacterPanelStats | 2823 |
-| ConsoleCharacterPanelResistances | 2824 |
-| ConsoleActionRemove | 2825 |
-| ConsoleUnbindSkillLabel | 2826 |
-| ConsoleMTXUseEquipReclaim | 2827 |
-| ConsolePantheonNavigate | 2828 |
-| ConsolePantheonActivate | 2829 |
-| ConsoleActivateMapDevice | 2830 |
-| ConsoleErrorLabyrinthIncompleteTrials | 2831 |
-| ConsoleActionOpen | 2832 |
-| ConsoleActionUseRemnant | 2833 |
-| ConsoleActionInteract | 2834 |
-| ConsoleActionUseCurrency | 2835 |
-| ConsoleReminderUseLifeFlask | 2836 |
-| ConsoleReminderUseManaFlask | 2837 |
-| ConsoleSelectPremadeBuild | 2838 |
-| ConsoleSelectBuild | 2839 |
-| XboxLowBandwidthWarning | 2840 |
-| TencentAbuseTypeCheating | 2841 |
-| TencentAbuseTypeGameFarming | 2842 |
-| TencentAbuseTypeChat | 2843 |
-| TencentAbuseTypeExploitingBug | 2844 |
-| TencentAbuseTypeMaliciousActions | 2845 |
-| TencentAbuseTypeUserLeft | 2846 |
-| TencentViewGrading | 2847 |
-| ArenaNameDominus | 2848 |
-| ArenaNameGruthkul | 2849 |
-| ArenaNameAvarius | 2850 |
-| ArenaNameKitava | 2851 |
-| ArenaNameTukohama | 2852 |
-| ArenaNameShavronne | 2853 |
-| ArenaNameAbberath1 | 2854 |
-| ArenaNameAbberath2 | 2855 |
-| ArenaNameAbberath3 | 2856 |
-| ArenaNameRyslatha | 2857 |
-| ArenaNameBrineKing | 2858 |
-| ArenaNameMaligaro | 2859 |
-| ArenaNameRalakesh | 2860 |
-| ArenaNameArakaali | 2861 |
-| ArenaNameYugul | 2862 |
-| ArenaNameDoedre | 2863 |
-| ArenaNameSolarisLunaris | 2864 |
-| ObjectDisplayTextSolarisLunaris | 2865 |
-| ReclaimMTXWindowTitle | 2866 |
-| ApplySkinTransferConfirmation | 2867 |
-| ReclaimSkinTransferConfirmation | 2868 |
-| MtxListPanelEmptyMessage | 2869 |
-| MtxHideoutPanelEmptyMessage | 2870 |
-| OptionsMapOverlayTransparencyLabel | 2871 |
-| MtxOptionSummonPet | 2872 |
-| MtxOptionDismissPet | 2873 |
-| MtxCategoryMisc | 2874 |
-| MtxOptionItemTypeMismatch | 2875 |
-| MtxOptionEquipped | 2876 |
-| MysteryBoxTitle | 2877 |
-| ObjectDisplayTextLabyrinthDifficultySelect | 2878 |
-| WorldPanelLabyrinthPinActiveHover | 2879 |
-| WorldPanelLabyrinthPinInactiveHover | 2880 |
-| EquipMXTWindow | 2881 |
-| TravellingToArea | 2882 |
-| ItemNodeEditorFor | 2883 |
-| BanditVoting | 2884 |
-| XboxPartyUIGroup | 2885 |
-| LabyrinthLockedPopup | 2886 |
-| LabyrinthLockedPopupNoCost | 2887 |
-| VanishingDyeMTXStashUse | 2888 |
-| MtxCategoryHideout | 2889 |
-| MtxReclaimWindowPrefixCharacter | 2890 |
-| MtxReclaimWindowPrefixLeague | 2891 |
-| ObjectNameMoonOrb | 2892 |
-| ObjectNameSunOrb | 2893 |
-| PatheonTabName | 2894 |
-| ActionOpenMtxListPanel | 2895 |
-| TutorialSkillGemOpenInventory | 2896 |
-| TutorialSupportGemOpenInventory | 2897 |
-| TutorialCloseInventory | 2898 |
-| TutorialTalkToFirstNPC | 2899 |
-| TutorialWeaponNotPickedUp | 2900 |
-| TutorialPlayerHasNotAttacked | 2901 |
-| TutorialSkillGemNotPickedUp | 2902 |
-| TutorialSupportGemNotPickedUp | 2903 |
-| TutorialSupportChestNotOpened | 2904 |
-| TutorialUnsocketedSkillGemInInventory | 2905 |
-| TutorialUnsocketedSupportGemInInventory | 2906 |
-| TutorialSkillGemOnCursor | 2907 |
-| TutorialSupportGemOnCursor | 2908 |
-| TutorialManaUsed | 2909 |
-| TutorialDamageTaken | 2910 |
-| TutorialExperienceGained | 2911 |
-| TutorialSupportGemPlacementFailed | 2912 |
-| TutorialSupportGemPlacementSuccess | 2913 |
-| TutorialPassiveTreeOpened | 2914 |
-| TutorialNoPassivePointsSelected | 2915 |
-| TutorialPassivePointsNotAllocated | 2916 |
-| TutorialAreaErrorNoWeaponDropping | 2917 |
-| TutorialAreaErrorNoSkillGemDropping | 2918 |
-| TutorialAreaErrorNoSupportGemDropping | 2919 |
-| TutorialAreaErrorNoWeaponSetSwapping | 2920 |
-| TutorialPanelSocial | 2921 |
-| GrandmasterExportConfirmation | 2922 |
-| UseMtxItemMessage | 2923 |
-| SteamPointsPackWindowHoverTitle | 2924 |
-| SteamPointsPackWindowHoverFreeInternationalShipping | 2925 |
-| PortraitFrameEquippedMessage | 2926 |
-| ReminderTextKeystonePerfectAgony | 2927 |
-| ConsoleQuickInventorySwitchMapDevice | 2928 |
-| KitavaWeaken1 | 2929 |
-| KitavaWeaken2 | 2930 |
-| PassiveSkillTreeBuildTitle | 2931 |
-| PassiveSkillTreeBuildDescription | 2932 |
-| PassiveSkillTreeBuildToolTipSaveBuild | 2933 |
-| PassiveSkillTreeBuildToolTipSaveAllocated | 2934 |
-| PassiveSkillTreeBuildToolTipModifyBuild | 2935 |
-| PassiveSkillTreeBuildToolTipClearBuild | 2936 |
-| PanthonInformationText | 2937 |
-| PantheonInformationMinorGod | 2938 |
-| PantheonInformationMajorGod | 2939 |
-| EpilogueTabName | 2940 |
-| EpilogueActName | 2941 |
-| MapLabyrinthTrialAct | 2942 |
-| PantheonLocationRestrictionWarning | 2943 |
-| TutorialPanelRarities | 2944 |
-| TutorialPanelStatsAndMods1 | 2945 |
-| TutorialPanelStatsAndMods2 | 2946 |
-| TutorialPanelStatusAilments | 2947 |
-| TutorialPanelStash | 2948 |
-| TutorialPanelNavigation | 2949 |
-| TutorialPanelProphecies | 2950 |
-| TutorialPanelSupportGemRequirements | 2951 |
-| TutorialPanelCraftingAndCurrency | 2952 |
-| TutorialPanelOptionsMenu | 2953 |
-| TutorialPanelHelpfulTips | 2954 |
-| TutorialPanelAurasAndHeralds | 2955 |
-| TutorialPanelJewels | 2956 |
-| TutorialPanelForsakenMasters | 2957 |
-| TutorialPanelHideouts | 2958 |
-| TutorialPanelCustomerSupport | 2959 |
-| TutorialPanelAscendancies | 2960 |
-| TutorialPanelHardcoreAndStandard | 2961 |
-| TutorialPanelLeagues | 2962 |
-| TutorialPanelDivinationCards | 2963 |
-| TutorialPanelMicrotransactions | 2964 |
-| TutorialPanelPantheon | 2965 |
-| TutorialPanelMapping | 2966 |
-| TutorialPanelLadders | 2967 |
-| TutorialPanelRaces | 2968 |
-| TutorialPanelPvP | 2969 |
-| TutorialPanelAtziri | 2970 |
-| TutorialPanelCurses | 2971 |
-| TutorialPanelWarcries | 2972 |
-| TutorialPanelMinions | 2973 |
-| TutorialPanelGlossary | 2974 |
-| TutorialPanelSkillGemBasics | 2975 |
-| AreaTransitionName | 2976 |
-| ConsoleQuickInventorySwitchDivinationTake | 2977 |
-| TencentReportButton | 2978 |
-| TencentReportResultButton | 2979 |
-| XboxPartyUIInvite | 2980 |
-| XboxPartyUILeave | 2981 |
-| XboxPartyUIGetGold | 2982 |
-| XboxPartyUIAllowJoins | 2983 |
-| TutorialPanelPassiveTree | 2984 |
-| SkipAllTutorialsLabel | 2985 |
-| ConsoleQuickInventorySwitchDivinationGive | 2986 |
-| ConsoleGemLevelUpTitle | 2987 |
-| ConsolePlayerLevelUpTitle | 2988 |
-| ConsolePlayerLevelUpText | 2989 |
-| XboxNetworkExitedOnJoinReasonRestrictedNoGold | 2990 |
-| XboxNetworkExitedReasonRestrictedNoGold | 2991 |
-| XboxNetworkExitedOnJoinReasonRestrictedGeneral | 2992 |
-| XboxNetworkExitedReasonRestrictedGeneral | 2993 |
-| XboxNetworkExitedOnJoinReasonXboxLiveTemporarilyUnavailable | 2994 |
-| XboxNetworkExitedReasonXboxLiveTemporarilyUnavailable | 2995 |
-| XboxNetworkExitedOnJoinReasonIncompatible | 2996 |
-| XboxNetworkExitedReasonIncompatible | 2997 |
-| XboxNetworkExitedReasonKicked | 2998 |
-| XboxNetworkExitedOnJoinReasonError | 2999 |
-| XboxNetworkExitedReasonError | 3000 |
-| XboxNetworkExitedOnJoinReasonXIMNetworkNoLongerExists | 3001 |
-| XboxNetworkExitedReasonXIMNetworkNoLongerExists | 3002 |
-| XboxNetworkExitedReasonJoinRestriction | 3003 |
-| TutorialPanelVendorRecipes | 3004 |
-| TutorialPanelHeaderTitle | 3005 |
-| TutorialPanelName | 3006 |
-| GemAutoLevelUpTextEnabled | 3007 |
-| GemAutoLevelUpTextDisabled | 3008 |
-| GemToggleAutoLevelLegend | 3009 |
-| GemLevelUpGemLevel | 3010 |
-| ConsoleJoinedPartyMessage | 3011 |
-| CraftItemConfirmationText | 3012 |
-| HideoutStashTitle | 3013 |
-| FailedToOpenLabyrinthTitle | 3014 |
-| FailedToOpenLabyrinthText | 3015 |
-| TutorialPanelLabyrinth | 3016 |
-| ObjectStringMummyEventChest | 3017 |
-| XboxJoiningGroup | 3018 |
-| ConsoleLeftPartyMessage | 3019 |
-| ConsolePlayerJoinedPartyMessage | 3020 |
-| ConsolePlayerLeftPartyMessage | 3021 |
-| TutorialGemLevelUpClickButtonDirected | 3022 |
-| TutorialRemoveGemDirected | 3023 |
-| TutorialShowMapDirected | 3024 |
-| TutorialUnsocketDirected | 3025 |
-| TutorialFirstSkillGemSocketGemOnItemDirected | 3026 |
-| TutorialFirstSkillGemExplainSkillDirected | 3027 |
-| TutorialTalkToFirstNPCDirected | 3028 |
-| TutorialWeaponNotPickedUpDirected | 3029 |
-| TutorialPlayerHasNotAttackedDirected | 3030 |
-| TutorialSkillGemNotPickedUpDirected | 3031 |
-| TutorialSupportGemNotPickedUpDirected | 3032 |
-| TutorialSupportChestNotOpenedDirected | 3033 |
-| TutorialUnsocketedSupportGemInInventoryDirected | 3034 |
-| TutorialSkillGemOnCursorDirected | 3035 |
-| TutorialSupportGemPlacementSuccessDirected | 3036 |
-| TutorialNoPassivePointsSelectedDirected | 3037 |
-| TutorialPassivePointsNotAllocatedDirected | 3038 |
-| ConsoleMTXReclaimLegend | 3039 |
-| ConsoleMTXHideoutPlaceLegend | 3040 |
-| ConsolePurchaseWithFavourConfirmationWindowTitle | 3041 |
-| ConsolePurchaseWithFavourConfirmationWindowMessage | 3042 |
-| ConsoleSSFMenu | 3043 |
-| TutorialPanelTrapsAndMines | 3044 |
-| TutorialPanelUpcomingContent | 3045 |
-| TutorialPanelDamageTypesAndConversion | 3046 |
-| TutorialPanelDefenses | 3047 |
-| TutorialPanelCorruption | 3048 |
-| TutorialPanelStrongboxes | 3049 |
-| TutorialPanelOtherCombatMechanics | 3050 |
-| TutorialPanelTormentedSpirits | 3051 |
-| TutorialPanelFlasks | 3052 |
-| TutorialPanelCurrentLeague | 3053 |
-| HideoutItemOnCursorError | 3054 |
-| OpenTutorialPanelButtonPopup | 3055 |
-| TermsAndConditionsPrompt | 3056 |
-| TutorialPanelSkillGemTitle | 3057 |
-| TutorialPanelSkillGemContent1 | 3058 |
-| TutorialPanelSkillGemContent2 | 3059 |
-| TutorialPanelSkillGemContent3 | 3060 |
-| TutorialPanelSkillGemImage1 | 3061 |
-| TutorialPanelSkillGemVideo1 | 3062 |
-| TutorialPanelSkillGemVideo2 | 3063 |
-| TutorialPanelSupportGemTitle | 3064 |
-| TutorialPanelSupportGemSubtitle1 | 3065 |
-| TutorialPanelSupportGemSubtitle2 | 3066 |
-| TutorialPanelSupportGemContent1 | 3067 |
-| TutorialPanelSupportGemContent2 | 3068 |
-| TutorialPanelSupportGemContent3 | 3069 |
-| TutorialPanelSupportGemContent4 | 3070 |
-| TutorialPanelSupportGemCaption1 | 3071 |
-| TutorialPanelSupportGemImage1 | 3072 |
-| TutorialPanelSupportGemVideo1 | 3073 |
-| TutorialPanelSupportGemVideo2 | 3074 |
-| LabyrinthIzaroDropsAdditionalTreasureKey | 3075 |
-| LabyrinthIzaroDropsAdditionalUnique | 3076 |
-| LabyrinthPlayersHaveShrineRowEffect | 3077 |
-| LabyrinthBossRoomTrapsAreDisabled | 3078 |
-| LabyrinthPlayersTakeReducedDamageFromLabyrinthTraps | 3079 |
-| LabyrinthDivineFontGrantsAdditionalEnchantment | 3080 |
-| LabyrinthDarkshrinePlayersHaveShrineRowEffect2 | 3081 |
-| LabyrinthDarkshrinePlayersHaveShrineRowEffect3_ | 3082 |
-| LabyrinthDarkshrinePlayersHaveShrineRowEffect4 | 3083 |
-| LabyrinthDarkshrinePlayersHaveShrineRowEffect5 | 3084 |
-| LabyrinthDarkshrinePlayersHaveShrineRowEffect6 | 3085 |
-| LabyrinthPortalToNextIzaroFight | 3086 |
-| TutorialPopupNewTutorialUnlocked | 3087 |
-| TutorialPopupMultipleUnreadTutorials | 3088 |
-| TutorialPanelPassiveSkillTreeTitle | 3089 |
-| TutorialPanelPassiveSkillTreeSubtitle1 | 3090 |
-| TutorialPanelPassiveSkillTreeSubtitle2 | 3091 |
-| TutorialPanelPassiveSkillTreeContent1 | 3092 |
-| TutorialPanelPassiveSkillTreeContent2 | 3093 |
-| TutorialPanelPassiveSkillTreeContent3 | 3094 |
-| TutorialPanelPassiveSkillTreeContent4 | 3095 |
-| TutorialPanelPassiveSkillTreeImage1 | 3096 |
-| TutorialPanelPassiveSkillTreeImage2 | 3097 |
-| TutorialPanelPassiveSkillTreeImage3 | 3098 |
-| TutorialPanelRarityTiersTitle | 3099 |
-| TutorialPanelRarityTiersSubtitle1 | 3100 |
-| TutorialPanelRarityTiersContent1 | 3101 |
-| TutorialPanelRarityTiersContent2 | 3102 |
-| TutorialPanelRarityTiersContent3 | 3103 |
-| TutorialPanelRarityTiersContent4 | 3104 |
-| TutorialPanelRarityTiersContent5 | 3105 |
-| TutorialPanelRarityTiersImage1 | 3106 |
-| TutorialPanelRarityTiersImage2 | 3107 |
-| TutorialPanelRarityTiersImage3 | 3108 |
-| TutorialPanelRarityTiersImage4 | 3109 |
-| TutorialPanelRarityTiersVideo1 | 3110 |
-| TutorialPanelRarityTiersCaption1 | 3111 |
-| TutorialPanelRarityTiersCaption2 | 3112 |
-| TutorialPanelRarityTiersCaption3 | 3113 |
-| TutorialPanelStatsAndModsCalculationsTitle | 3114 |
-| TutorialPanelStatsAndModsCalculationsSubtitle1 | 3115 |
-| TutorialPanelStatsAndModsCalculationsSubtitle2 | 3116 |
-| TutorialPanelStatsAndModsCalculationsSubtitle3 | 3117 |
-| TutorialPanelStatsAndModsCalculationsContent1 | 3118 |
-| TutorialPanelStatsAndModsCalculationsContent2 | 3119 |
-| TutorialPanelStatsAndModsCalculationsContent3 | 3120 |
-| TutorialPanelStatsAndModsCalculationsContent4 | 3121 |
-| TutorialPanelStatsAndModsCalculationsContent5 | 3122 |
-| TutorialPanelStatsAndModsCalculationsContent6 | 3123 |
-| TutorialPanelStatsAndModsCalculationsContent7 | 3124 |
-| TutorialPanelStatsAndModsCalculationsImage1 | 3125 |
-| TutorialPanelStatsAndModsCalculationsImage2 | 3126 |
-| TutorialPanelStatsAndModsCalculationsImage3 | 3127 |
-| TutorialPanelStatsAndModsCalculationsImage4 | 3128 |
-| TutorialPanelStatsAndModsCalculationsImage5 | 3129 |
-| TutorialPanelStatsAndModsCalculationsImage6 | 3130 |
-| TutorialPanelStatsAndModsCalculationsImage7 | 3131 |
-| TutorialPanelStatsAndModsCalculationsCaption1 | 3132 |
-| TutorialPanelStatsAndModsCalculationsCaption2 | 3133 |
-| TutorialPanelStatsAndModsCalculationsCaption3 | 3134 |
-| TutorialPanelStatsAndModsCalculationsCaption4 | 3135 |
-| TutorialPanelGlossaryTitle1 | 3136 |
-| TutorialPanelGlossarySubtitle1 | 3137 |
-| TutorialPanelGlossaryContent1 | 3138 |
-| TutorialPanelGlossarySubtitle2 | 3139 |
-| TutorialPanelGlossaryContent2 | 3140 |
-| TutorialPanelGlossarySubtitle3 | 3141 |
-| TutorialPanelGlossaryContent3 | 3142 |
-| TutorialPanelGlossarySubtitle4 | 3143 |
-| TutorialPanelGlossaryContent4 | 3144 |
-| TutorialPanelGlossarySubtitle5 | 3145 |
-| TutorialPanelGlossaryContent5 | 3146 |
-| TutorialPanelGlossarySubtitle6 | 3147 |
-| TutorialPanelGlossaryContent6 | 3148 |
-| TutorialPanelGlossarySubtitle7 | 3149 |
-| TutorialPanelGlossaryContent7 | 3150 |
-| TutorialPanelGlossarySubtitle8 | 3151 |
-| TutorialPanelGlossaryContent8 | 3152 |
-| TutorialPanelGlossarySubtitle9 | 3153 |
-| TutorialPanelGlossaryContent9 | 3154 |
-| TutorialPanelGlossarySubtitle10 | 3155 |
-| TutorialPanelGlossaryContent10 | 3156 |
-| TutorialPanelGlossarySubtitle11 | 3157 |
-| TutorialPanelGlossaryContent11 | 3158 |
-| TutorialPanelGlossarySubtitle12 | 3159 |
-| TutorialPanelGlossaryContent12 | 3160 |
-| TutorialPanelGlossarySubtitle13 | 3161 |
-| TutorialPanelGlossaryContent13 | 3162 |
-| TutorialPanelGlossarySubtitle14 | 3163 |
-| TutorialPanelGlossaryContent14 | 3164 |
-| TutorialPanelGlossarySubtitle15 | 3165 |
-| TutorialPanelGlossaryContent15 | 3166 |
-| TutorialPanelGlossarySubtitle16 | 3167 |
-| TutorialPanelGlossaryContent16 | 3168 |
-| TutorialPanelGlossarySubtitle17 | 3169 |
-| TutorialPanelGlossaryContent17 | 3170 |
-| TutorialPanelGlossarySubtitle18 | 3171 |
-| TutorialPanelGlossaryContent18 | 3172 |
-| TutorialPanelGlossarySubtitle19 | 3173 |
-| TutorialPanelGlossaryContent19 | 3174 |
-| TutorialPanelGlossarySubtitle20 | 3175 |
-| TutorialPanelGlossaryContent20 | 3176 |
-| TutorialPanelGlossarySubtitle21 | 3177 |
-| TutorialPanelGlossaryContent21 | 3178 |
-| TutorialPanelGlossarySubtitle22 | 3179 |
-| TutorialPanelGlossaryContent22 | 3180 |
-| TutorialPanelGlossarySubtitle23 | 3181 |
-| TutorialPanelGlossaryContent23 | 3182 |
-| TutorialPanelGlossarySubtitle24 | 3183 |
-| TutorialPanelGlossaryContent24 | 3184 |
-| TutorialPanelGlossarySubtitle26 | 3185 |
-| TutorialPanelGlossaryContent26 | 3186 |
-| TutorialPanelGlossarySubtitle27 | 3187 |
-| TutorialPanelGlossaryContent27 | 3188 |
-| TutorialPanelGlossarySubtitle28 | 3189 |
-| TutorialPanelGlossaryContent28 | 3190 |
-| TutorialPanelGlossarySubtitle29 | 3191 |
-| TutorialPanelGlossaryContent29 | 3192 |
-| TutorialPanelGlossarySubtitle30 | 3193 |
-| TutorialPanelGlossaryContent30 | 3194 |
-| TutorialPanelGlossarySubtitle31 | 3195 |
-| TutorialPanelGlossaryContent31 | 3196 |
-| TutorialPanelGlossarySubtitle32 | 3197 |
-| TutorialPanelGlossaryContent32 | 3198 |
-| TutorialPanelGlossarySubtitle33 | 3199 |
-| TutorialPanelGlossaryContent33 | 3200 |
-| TutorialPanelGlossarySubtitle25 | 3201 |
-| TutorialPanelGlossaryContent25 | 3202 |
-| TutorialPanelGlossarySubtitle34 | 3203 |
-| TutorialPanelGlossaryContent34 | 3204 |
-| TutorialPanelGlossarySubtitle35 | 3205 |
-| TutorialPanelGlossaryContent35 | 3206 |
-| TutorialPanelGlossarySubtitle36 | 3207 |
-| TutorialPanelGlossaryContent36 | 3208 |
-| TutorialPanelGlossarySubtitle37 | 3209 |
-| TutorialPanelGlossaryContent37 | 3210 |
-| TutorialPanelGlossarySubtitle38 | 3211 |
-| TutorialPanelGlossaryContent38 | 3212 |
-| TutorialPanelGlossarySubtitle39 | 3213 |
-| TutorialPanelGlossaryContent39 | 3214 |
-| TutorialPanelGlossarySubtitle40 | 3215 |
-| TutorialPanelGlossaryContent40 | 3216 |
-| TutorialPanelGlossarySubtitle41 | 3217 |
-| TutorialPanelGlossaryContent41 | 3218 |
-| TutorialPanelGlossarySubtitle42 | 3219 |
-| TutorialPanelGlossaryContent42 | 3220 |
-| TutorialPanelGlossarySubtitle43 | 3221 |
-| TutorialPanelGlossaryContent43 | 3222 |
-| TutorialPanelGlossarySubtitle44 | 3223 |
-| TutorialPanelGlossaryContent44 | 3224 |
-| TutorialPanelGlossarySubtitle45 | 3225 |
-| TutorialPanelGlossaryContent45 | 3226 |
-| TutorialPanelGlossarySubtitle46 | 3227 |
-| TutorialPanelGlossaryContent46 | 3228 |
-| TutorialPanelGlossarySubtitle47 | 3229 |
-| TutorialPanelGlossaryContent47 | 3230 |
-| TutorialPanelGlossarySubtitle48 | 3231 |
-| TutorialPanelGlossaryContent48 | 3232 |
-| TutorialPanelGlossarySubtitle49 | 3233 |
-| TutorialPanelGlossaryContent49 | 3234 |
-| TutorialPanelGlossarySubtitle50 | 3235 |
-| TutorialPanelGlossaryContent50 | 3236 |
-| TutorialPanelGlossarySubtitle107 | 3237 |
-| TutorialPanelGlossaryContent107 | 3238 |
-| TutorialPanelGlossarySubtitle51 | 3239 |
-| TutorialPanelGlossaryContent51 | 3240 |
-| TutorialPanelGlossarySubtitle52 | 3241 |
-| TutorialPanelGlossaryContent52 | 3242 |
-| TutorialPanelGlossarySubtitle53 | 3243 |
-| TutorialPanelGlossaryContent53 | 3244 |
-| TutorialPanelGlossarySubtitle54 | 3245 |
-| TutorialPanelGlossaryContent54 | 3246 |
-| TutorialPanelGlossarySubtitle55 | 3247 |
-| TutorialPanelGlossaryContent55 | 3248 |
-| TutorialPanelGlossarySubtitle56 | 3249 |
-| TutorialPanelGlossaryContent56 | 3250 |
-| TutorialPanelGlossarySubtitle57 | 3251 |
-| TutorialPanelGlossaryContent57 | 3252 |
-| TutorialPanelGlossarySubtitle58 | 3253 |
-| TutorialPanelGlossaryContent58 | 3254 |
-| TutorialPanelGlossarySubtitle59 | 3255 |
-| TutorialPanelGlossaryContent59 | 3256 |
-| TutorialPanelGlossarySubtitle60 | 3257 |
-| TutorialPanelGlossaryContent60 | 3258 |
-| TutorialPanelGlossarySubtitle61 | 3259 |
-| TutorialPanelGlossaryContent61 | 3260 |
-| TutorialPanelGlossarySubtitle62 | 3261 |
-| TutorialPanelGlossaryContent62 | 3262 |
-| TutorialPanelGlossarySubtitle63 | 3263 |
-| TutorialPanelGlossaryContent63 | 3264 |
-| TutorialPanelGlossarySubtitle64 | 3265 |
-| TutorialPanelGlossaryContent64 | 3266 |
-| TutorialPanelGlossarySubtitle65 | 3267 |
-| TutorialPanelGlossaryContent65 | 3268 |
-| TutorialPanelGlossarySubtitle66 | 3269 |
-| TutorialPanelGlossaryContent66 | 3270 |
-| TutorialPanelGlossarySubtitle67 | 3271 |
-| TutorialPanelGlossaryContent67 | 3272 |
-| TutorialPanelGlossarySubtitle68 | 3273 |
-| TutorialPanelGlossaryContent68 | 3274 |
-| TutorialPanelGlossarySubtitle69 | 3275 |
-| TutorialPanelGlossaryContent69 | 3276 |
-| TutorialPanelGlossarySubtitle70 | 3277 |
-| TutorialPanelGlossaryContent70 | 3278 |
-| TutorialPanelGlossarySubtitle71 | 3279 |
-| TutorialPanelGlossaryContent71 | 3280 |
-| TutorialPanelGlossarySubtitle72 | 3281 |
-| TutorialPanelGlossaryContent72 | 3282 |
-| TutorialPanelGlossarySubtitle73 | 3283 |
-| TutorialPanelGlossaryContent73 | 3284 |
-| TutorialPanelGlossarySubtitle74 | 3285 |
-| TutorialPanelGlossaryContent74 | 3286 |
-| TutorialPanelGlossarySubtitle75 | 3287 |
-| TutorialPanelGlossaryContent75 | 3288 |
-| TutorialPanelGlossarySubtitle76 | 3289 |
-| TutorialPanelGlossaryContent76 | 3290 |
-| TutorialPanelGlossarySubtitle78 | 3291 |
-| TutorialPanelGlossaryContent78 | 3292 |
-| TutorialPanelGlossarySubtitle79 | 3293 |
-| TutorialPanelGlossaryContent79 | 3294 |
-| TutorialPanelGlossarySubtitle80 | 3295 |
-| TutorialPanelGlossaryContent80 | 3296 |
-| TutorialPanelGlossarySubtitle81 | 3297 |
-| TutorialPanelGlossaryContent81 | 3298 |
-| TutorialPanelGlossarySubtitle82 | 3299 |
-| TutorialPanelGlossaryContent82 | 3300 |
-| TutorialPanelGlossarySubtitle83 | 3301 |
-| TutorialPanelGlossaryContent83 | 3302 |
-| TutorialPanelGlossarySubtitle84 | 3303 |
-| TutorialPanelGlossaryContent84 | 3304 |
-| TutorialPanelGlossarySubtitle85 | 3305 |
-| TutorialPanelGlossaryContent85 | 3306 |
-| TutorialPanelGlossarySubtitle86 | 3307 |
-| TutorialPanelGlossaryContent86 | 3308 |
-| TutorialPanelGlossarySubtitle87 | 3309 |
-| TutorialPanelGlossaryContent87 | 3310 |
-| TutorialPanelGlossarySubtitle88 | 3311 |
-| TutorialPanelGlossaryContent88 | 3312 |
-| TutorialPanelGlossarySubtitle89 | 3313 |
-| TutorialPanelGlossaryContent89 | 3314 |
-| TutorialPanelGlossarySubtitle90 | 3315 |
-| TutorialPanelGlossaryContent90 | 3316 |
-| TutorialPanelGlossarySubtitle91 | 3317 |
-| TutorialPanelGlossaryContent91 | 3318 |
-| TutorialPanelGlossarySubtitle92 | 3319 |
-| TutorialPanelGlossaryContent92 | 3320 |
-| TutorialPanelGlossarySubtitle93 | 3321 |
-| TutorialPanelGlossaryContent93 | 3322 |
-| TutorialPanelGlossarySubtitle94 | 3323 |
-| TutorialPanelGlossaryContent94 | 3324 |
-| TutorialPanelGlossarySubtitle95 | 3325 |
-| TutorialPanelGlossaryContent95 | 3326 |
-| TutorialPanelGlossarySubtitle96 | 3327 |
-| TutorialPanelGlossaryContent96 | 3328 |
-| TutorialPanelGlossarySubtitle97 | 3329 |
-| TutorialPanelGlossaryContent97 | 3330 |
-| TutorialPanelGlossarySubtitle98 | 3331 |
-| TutorialPanelGlossaryContent98 | 3332 |
-| TutorialPanelGlossarySubtitle99 | 3333 |
-| TutorialPanelGlossaryContent99 | 3334 |
-| TutorialPanelGlossarySubtitle100 | 3335 |
-| TutorialPanelGlossaryContent100 | 3336 |
-| TutorialPanelGlossarySubtitle101 | 3337 |
-| TutorialPanelGlossaryContent101 | 3338 |
-| TutorialPanelGlossarySubtitle102 | 3339 |
-| TutorialPanelGlossaryContent102 | 3340 |
-| TutorialPanelGlossarySubtitle103 | 3341 |
-| TutorialPanelGlossaryContent103 | 3342 |
-| TutorialPanelGlossarySubtitle104 | 3343 |
-| TutorialPanelGlossaryContent104 | 3344 |
-| TutorialPanelGlossarySubtitle105 | 3345 |
-| TutorialPanelGlossaryContent105 | 3346 |
-| TutorialPanelGlossarySubtitle106 | 3347 |
-| TutorialPanelGlossaryContent106 | 3348 |
-| TutorialPanelStatsAndModsWhatsImportantTitle1 | 3349 |
-| TutorialPanelStatsAndModsWhatsImportantContent1 | 3350 |
-| TutorialPanelStatsAndModsWhatsImportantImage1 | 3351 |
-| TutorialPanelStatsAndModsWhatsImportantCaption1 | 3352 |
-| TutorialPanelStatsAndModsWhatsImportantSubtitle1 | 3353 |
-| TutorialPanelStatsAndModsWhatsImportantContent2 | 3354 |
-| TutorialPanelStatsAndModsWhatsImportantImage2 | 3355 |
-| TutorialPanelStatsAndModsWhatsImportantCaption2 | 3356 |
-| TutorialPanelStatsAndModsWhatsImportantSubtitle2 | 3357 |
-| TutorialPanelStatsAndModsWhatsImportantContent3 | 3358 |
-| TutorialPanelStatsAndModsWhatsImportantImage3 | 3359 |
-| TutorialPanelStatsAndModsWhatsImportantCaption3 | 3360 |
-| TutorialPanelStashTitle1 | 3361 |
-| TutorialPanelStashContent1 | 3362 |
-| TutorialPanelStashImage1 | 3363 |
-| TutorialPanelStashCaption1 | 3364 |
-| TutorialPanelStashContent2 | 3365 |
-| TutorialPanelStashSubtitle1 | 3366 |
-| TutorialPanelStashContent3 | 3367 |
-| TutorialPanelStashImage2 | 3368 |
-| TutorialPanelStashCaption2 | 3369 |
-| TutorialPanelStashImage3 | 3370 |
-| TutorialPanelStashCaption3 | 3371 |
-| TutorialPanelStashImage4 | 3372 |
-| TutorialPanelStashCaption4 | 3373 |
-| TutorialPanelStashContent4 | 3374 |
-| TutorialPanelStashImage5 | 3375 |
-| TutorialPanelStashCaption5 | 3376 |
-| TutorialPanelNavigationTitle1 | 3377 |
-| TutorialPanelNavigationSubtitle1 | 3378 |
-| TutorialPanelNavigationContent1 | 3379 |
-| TutorialPanelNavigationImage1 | 3380 |
-| TutorialPanelNavigationCaption1 | 3381 |
-| TutorialPanelNavigationSubtitle2 | 3382 |
-| TutorialPanelNavigationContent2 | 3383 |
-| TutorialPanelStatusAilmentsTitle1 | 3384 |
-| TutorialPanelStatusAilmentsContent1 | 3385 |
-| TutorialPanelStatusAilmentsContent2 | 3386 |
-| TutorialPanelStatusAilmentsImage1 | 3387 |
-| TutorialPanelStatusAilmentsCaption1 | 3388 |
-| TutorialPanelStatusAilmentsSubtitle1 | 3389 |
-| TutorialPanelStatusAilmentsContent3 | 3390 |
-| TutorialPanelStatusAilmentsImage2 | 3391 |
-| TutorialPanelStatusAilmentsCaption2 | 3392 |
-| TutorialPanelStatusAilmentsContent4 | 3393 |
-| TutorialPanelStatusAilmentsVideo1 | 3394 |
-| TutorialPanelSocialTitle1 | 3395 |
-| TutorialPanelSocialContent1 | 3396 |
-| TutorialPanelSocialSubtitle1 | 3397 |
-| TutorialPanelSocialContent2 | 3398 |
-| TutorialPanelSocialImage1 | 3399 |
-| TutorialPanelSocialCaption1 | 3400 |
-| TutorialPanelSocialSubtitle2 | 3401 |
-| TutorialPanelSocialContent3 | 3402 |
-| TutorialPanelSocialImage2 | 3403 |
-| TutorialPanelSocialContent4 | 3404 |
-| TutorialPanelSocialSubtitle3 | 3405 |
-| TutorialPanelSocialContent5 | 3406 |
-| TutorialPanelSocialImage3 | 3407 |
-| TutorialPanelSocialContent6 | 3408 |
-| TutorialPanelPropheciesTitle1 | 3409 |
-| TutorialPanelPropheciesContent1 | 3410 |
-| TutorialPanelPropheciesImage1 | 3411 |
-| TutorialPanelPropheciesContent2 | 3412 |
-| TutorialPanelPropheciesImage2 | 3413 |
-| TutorialPanelPropheciesContent3 | 3414 |
-| TutorialPanelPropheciesVideo1 | 3415 |
-| TutorialPanelCraftingAndCurrencyTitle | 3416 |
-| TutorialPanelCraftingAndCurrencyContent1 | 3417 |
-| TutorialPanelCraftingAndCurrencyContent2 | 3418 |
-| TutorialPanelCraftingAndCurrencyContent3 | 3419 |
-| TutorialPanelCraftingAndCurrencyImage1 | 3420 |
-| TutorialPanelCraftingAndCurrencyImage2 | 3421 |
-| TutorialPanelCraftingAndCurrencyImage3 | 3422 |
-| TutorialPanelCraftingAndCurrencyImage4 | 3423 |
-| TutorialPanelCraftingAndCurrencyImage5 | 3424 |
-| TutorialPanelCraftingAndCurrencyImage6 | 3425 |
-| TutorialPanelCraftingAndCurrencyImage7 | 3426 |
-| TutorialPanelCraftingAndCurrencyImage8 | 3427 |
-| TutorialPanelCraftingAndCurrencyImage9 | 3428 |
-| TutorialPanelCraftingAndCurrencyImage10 | 3429 |
-| TutorialPanelCraftingAndCurrencyImage11 | 3430 |
-| TutorialPanelCraftingAndCurrencyVideo1 | 3431 |
-| TutorialPanelCraftingAndCurrencyCaption1 | 3432 |
-| TutorialPanelHelpfulTipsTitle1 | 3433 |
-| TutorialPanelHelpfulTipsContent1 | 3434 |
-| TutorialPanelHelpfulTipsSubtitle1 | 3435 |
-| TutorialPanelHelpfulTipsContent2 | 3436 |
-| TutorialPanelHelpfulTipsSubtitle2 | 3437 |
-| TutorialPanelHelpfulTipsContent3 | 3438 |
-| TutorialPanelHelpfulTipsSubtitle3 | 3439 |
-| TutorialPanelHelpfulTipsContent4 | 3440 |
-| TutorialPanelHelpfulTipsSubtitle4 | 3441 |
-| TutorialPanelHelpfulTipsContent5 | 3442 |
-| TutorialPanelHelpfulTipsSubtitle5 | 3443 |
-| TutorialPanelHelpfulTipsContent6 | 3444 |
-| TutorialPanelHelpfulTipsSubtitle6 | 3445 |
-| TutorialPanelHelpfulTipsContent7 | 3446 |
-| TutorialPanelHelpfulTipsSubtitle7 | 3447 |
-| TutorialPanelHelpfulTipsContent8 | 3448 |
-| TutorialPanelHelpfulTipsSubtitle8 | 3449 |
-| TutorialPanelHelpfulTipsContent9 | 3450 |
-| TutorialPanelHelpfulTipsVideo1 | 3451 |
-| TutorialPanelHelpfulTipsCaption1 | 3452 |
-| TutorialPanelAurasAndHeraldsTitle | 3453 |
-| TutorialPanelAurasAndHeraldsContent1 | 3454 |
-| TutorialPanelAurasAndHeraldsVideo1 | 3455 |
-| TutorialPanelAurasAndHeraldsContent2 | 3456 |
-| TutorialPanelAurasAndHeraldsContent3 | 3457 |
-| TutorialPanelAurasAndHeraldsVideo2 | 3458 |
-| TutorialPanelAurasAndHeraldsCaption1 | 3459 |
-| TutorialPanelJewelsTitle1 | 3460 |
-| TutorialPanelJewelsContent1 | 3461 |
-| TutorialPanelJewelsImage1 | 3462 |
-| TutorialPanelJewelsContent2 | 3463 |
-| TutorialPanelJewelsImage2 | 3464 |
-| TutorialPanelJewelsImage3 | 3465 |
-| TutorialPanelJewelsCaption3 | 3466 |
-| TutorialPanelJewelsContent3 | 3467 |
-| TutorialPanelForsakenMastersTitle1 | 3468 |
-| TutorialPanelForsakenMastersContent1 | 3469 |
-| TutorialPanelForsakenMastersSubtitle1 | 3470 |
-| TutorialPanelForsakenMastersContent2 | 3471 |
-| TutorialPanelForsakenMastersContent3 | 3472 |
-| TutorialPanelForsakenMastersContent4 | 3473 |
-| TutorialPanelForsakenMastersSubtitle2 | 3474 |
-| TutorialPanelForsakenMastersContent5 | 3475 |
-| TutorialPanelForsakenMastersVideo1 | 3476 |
-| TutorialPanelVendorRecipesTitle1 | 3477 |
-| TutorialPanelVendorRecipesContent1 | 3478 |
-| TutorialPanelVendorRecipesImage1 | 3479 |
-| TutorialPanelVendorRecipesImage2 | 3480 |
-| TutorialPanelVendorRecipesImage3 | 3481 |
-| TutorialPanelVendorRecipesImage4 | 3482 |
-| TutorialPanelVendorRecipesImage5 | 3483 |
-| TutorialPanelVendorRecipesImage6 | 3484 |
-| TutorialPanelVendorRecipesImage7 | 3485 |
-| TutorialPanelVendorRecipesImage8 | 3486 |
-| TutorialPanelVendorRecipesContent2 | 3487 |
-| TutorialPanelTheLabyrinthTitle | 3488 |
-| TutorialPanelTheLabyrinthContent1 | 3489 |
-| TutorialPanelTheLabyrinthVideo1 | 3490 |
-| TutorialPanelTheLabyrinthCaption1 | 3491 |
-| TutorialPanelTheLabyrinthContent2 | 3492 |
-| TutorialPanelTheLabyrinthImage1 | 3493 |
-| TutorialPanelTheLabyrinthCaption2 | 3494 |
-| TutorialPanelTheLabyrinthContent3 | 3495 |
-| TutorialPanelAscendanciesTitle | 3496 |
-| TutorialPanelAscendanciesContent1 | 3497 |
-| TutorialPanelParentLeaguesTitle | 3498 |
-| TutorialPanelParentLeaguesContent1 | 3499 |
-| TutorialPanelParentLeaguesContent2 | 3500 |
-| TutorialPanelParentLeaguesImage1 | 3501 |
-| TutorialPanelParentLeaguesImage2 | 3502 |
-| TutorialPanelChallengeLeaguesTitle1 | 3503 |
-| TutorialPanelChallengeLeaguesContent1 | 3504 |
-| TutorialPanelChallengeLeaguesImage1 | 3505 |
-| TutorialPanelChallengeLeaguesCaption1 | 3506 |
-| TutorialPanelChallengeLeaguesContent2 | 3507 |
-| TutorialPanelChallengeLeaguesImage2 | 3508 |
-| TutorialPanelChallengeLeaguesCaption2 | 3509 |
-| TutorialPanelDivinationCardsTitle | 3510 |
-| TutorialPanelDivinationCardsContent1 | 3511 |
-| TutorialPanelDivinationCardsImage1 | 3512 |
-| TutorialPanelDivinationCardsContent2 | 3513 |
-| TutorialPanelDivinationCardsVideo1 | 3514 |
-| TutorialPanelMicrotransactionsTitle1 | 3515 |
-| TutorialPanelMicrotransactionsContent1 | 3516 |
-| TutorialPanelMicrotransactionsContent2 | 3517 |
-| TutorialPanelMicrotransactionsSubtitle1 | 3518 |
-| TutorialPanelMicrotransactionsImage1 | 3519 |
-| TutorialPanelMicrotransactionsCaption1 | 3520 |
-| TutorialPanelMicrotransactionsContent3 | 3521 |
-| TutorialPanelMicrotransactionsVideo1 | 3522 |
-| TutorialPanelPantheonTitle1 | 3523 |
-| TutorialPanelPantheonContent1 | 3524 |
-| TutorialPanelPantheonSubtitle1 | 3525 |
-| TutorialPanelPantheonContent2 | 3526 |
-| TutorialPanelPantheonImage1 | 3527 |
-| TutorialPanelPantheonCaption1 | 3528 |
-| TutorialPanelMappingTitle1 | 3529 |
-| TutorialPanelMappingContent1 | 3530 |
-| TutorialPanelMappingSubtitle1 | 3531 |
-| TutorialPanelMappingContent2 | 3532 |
-| TutorialPanelMappingSubtitle2 | 3533 |
-| TutorialPanelMappingContent3 | 3534 |
-| TutorialPanelMappingContent4 | 3535 |
-| TutorialPanelMappingVideo1 | 3536 |
-| TutorialPanelMappingVideo2 | 3537 |
-| TutorialPanelPvPTitle1 | 3538 |
-| TutorialPanelPvPContent1 | 3539 |
-| TutorialPanelCustomerSupportTitle1 | 3540 |
-| TutorialPanelCustomerSupportContent1 | 3541 |
-| MtxPopupCountLabel | 3542 |
-| ObjectDisplayTextAreaTransitionOssuary | 3543 |
-| ItemDescriptionUniqueFragment | 3544 |
-| TutorialPanelHelpIntro | 3545 |
-| TutorialPanelHelpTitle | 3546 |
-| TutorialPanelHelpContent1 | 3547 |
-| AudioOptionsChatAlertVolumeLabel | 3548 |
-| ConsoleMarketPanelLegendSearchNavigation | 3549 |
-| ConsoleMarketPanelLegendChangeSearchOption | 3550 |
-| ConsoleMarketPanelLegendSearch | 3551 |
-| ConsoleMarketPanelLegendNext | 3552 |
-| ConsoleCategorySelectWindowInfo | 3553 |
-| ConsoleCategorySelectAll | 3554 |
-| ConsoleOfferPageShowItemPopup | 3555 |
-| ConsoleMarketMakeOffer | 3556 |
-| ConsoleSetItemNoteLabel | 3557 |
-| ConsoleNext | 3558 |
-| ConsolePrevious | 3559 |
-| ReminderTextFreeze | 3560 |
-| ReminderTextIgnite | 3561 |
-| ReminderTextIgniteNonHitNoDuration | 3562 |
-| LabyrinthRequiredLevel | 3563 |
-| AtlasNodePantheonText | 3564 |
-| XboxPlayerContextMenuInvite | 3565 |
-| XboxPlayerContextMenuLeave | 3566 |
-| XboxPlayerContextMenuMute | 3567 |
-| XboxPlayerContextMenuViewProfile | 3568 |
-| XboxPlayerContextMenuVisitHideout | 3569 |
-| XboxPlayerContextMenuTrade | 3570 |
-| XboxPlayerContextMenuKick | 3571 |
-| PantheonTabPopupRequirementsNotMet | 3572 |
-| TencentHudEventButtonLabel | 3573 |
-| TencentHubEventButtonHover | 3574 |
-| OptionsGraphicsTabLightingQualityDescription | 3575 |
-| OptionsGraphicsTabLightingQualityOptionLow | 3576 |
-| OptionsGraphicsTabLightingQualityOptionMedium | 3577 |
-| OptionsGraphicsTabLightingQualityOptionHigh | 3578 |
-| TutorialPanelAscendanciesContent2 | 3579 |
-| TutorialPanelAscendanciesVideo1 | 3580 |
-| TutorialPanelHideoutTitle | 3581 |
-| TutorialPanelHideoutContent1 | 3582 |
-| TutorialPanelHideoutContent2 | 3583 |
-| TutorialPanelHideoutContent3 | 3584 |
-| TutorialPanelHideoutContent4 | 3585 |
-| TutorialPanelHideoutVideo1 | 3586 |
-| TutorialPanelHideoutVideo2 | 3587 |
-| UnholySubBossDomainDoedre | 3588 |
-| UnholySubBossDomainMaligaro | 3589 |
-| UnholySubBossDomainShavronne | 3590 |
-| MtxPopupGiftedBy | 3591 |
-| ConsoleEnterHideoutEditMode | 3592 |
-| ConsoleExitHideoutEditMode | 3593 |
-| ConsoleSelectDoodad | 3594 |
-| ConsoleOpenHideoutStash | 3595 |
-| ConsoleHideoutChangeVariation | 3596 |
-| TutorialPanelHarbinger | 3597 |
-| TutorialPanelHarbingerTitle | 3598 |
-| TutorialPanelHarbingerContent1 | 3599 |
-| TutorialPanelHarbingerContent2 | 3600 |
-| TutorialPanelHarbingerVideo1 | 3601 |
-| XboxTradeMarketLegendNextTab | 3602 |
-| XboxTradeMarketSystemPreviousTab | 3603 |
-| XboxTradeMarketSystemSearchError | 3604 |
-| XboxTradeNotification | 3605 |
-| XboxTradeCurrencyOnlyError | 3606 |
-| ConsoleChallengesExpandLabel | 3607 |
-| ConsoleChallengesExpandAllLabel | 3608 |
-| ConsoleChallengesToggleCompleted | 3609 |
-| ConsoleChallengesUnavailable | 3610 |
-| ConsoleOfferProfanityError | 3611 |
-| ShopPanelPurchaseSuccessful | 3612 |
-| ShopPanelPurchaseFailed | 3613 |
-| ShopPanelPurchaseFailedWithError | 3614 |
-| ShopPanelProductNotAvailable | 3615 |
-| XboxShopPanelFailedToGetCatalogDetails | 3616 |
-| PassiveSkillTreePlannerKeystoneTitle | 3617 |
-| PassiveSkillTreePlannerJewelTitle | 3618 |
-| PassiveSkillTreePlannerEmptyJewelSocket | 3619 |
-| TencentTradeableMicrotransationPopupMessage | 3620 |
-| TrencentTradeableMicrotransactionConfirmationMessage | 3621 |
-| ArenaNameKitava2 | 3622 |
-| HarbingerDisplayInfoStringTotem1 | 3623 |
-| HarbingerDisplayInfoStringTotem2 | 3624 |
-| ArenaNameTolmanAnkh | 3625 |
-| ArenaNameGarukhan | 3626 |
-| ArenaNameGeneralAdus | 3627 |
-| TencentTutorialPassiveSkillTreeNotable | 3628 |
-| PassiveSkillTreePlannerStatsTitle | 3629 |
-| TradeMarketAllSubcategory | 3630 |
-| TradeMarketCategorySelectionWindow | 3631 |
-| MapSummitValley | 3632 |
-| ConsoleReorderTabsPrompt | 3633 |
-| ArenaNameShakari | 3634 |
-| ArenaNameShakari2 | 3635 |
-| ArenaNameShakari3 | 3636 |
-| ConsolePantheonPanelToggleLegend | 3637 |
-| TradeMarketSearchWindowTitle | 3638 |
-| Act6DefiledProclamationObject | 3639 |
-| MtxCategorySkinAndMask | 3640 |
-| TutorialPanelHelpfulTipsSubtitle9 | 3641 |
-| TutorialPanelHelpfulTipsContent10 | 3642 |
-| HelpPanelLegendSelectCategory | 3643 |
-| HelpPanelLegendScrollCateogry | 3644 |
-| ConsoleChallengesPanelScroll | 3645 |
-| ConsoleCompleteChallengeNotificationTitle | 3646 |
-| ConsoleCompleteChallengeElementNotificationTitle | 3647 |
-| ReminderTextMalachaisEndurance | 3648 |
-| ReminderTextMalachaisFrenzy | 3649 |
-| ReminderTextMalachaisPower | 3650 |
-| TencentEventPointsDisplay | 3651 |
-| TencentGradingTabTitle | 3652 |
-| TencentNotificationAddingEventEnergy | 3653 |
-| SaveCurrentPassiveTreeBuildConfirmation | 3654 |
-| ConsoleCadiroConfermationMessage | 3655 |
-| TencentXPPenaltyPopupText | 3656 |
-| TencentCharacterPanelBrowserButton | 3657 |
-| TwilightTempleSolarisNameString | 3658 |
-| TwilightTempleLunarisNameString | 3659 |
-| DivCardFailureCharacterTooLowLevel | 3660 |
-| ShapedMap | 3661 |
-| ElderMap | 3662 |
-| AtlasShapedMap | 3663 |
-| AtlasElderMap | 3664 |
-| TutorialPanelEssences | 3665 |
-| TutorialPanelBreaches | 3666 |
-| PortalScrollTutorial | 3667 |
-| ReturnToCoastTutorial | 3668 |
-| ReturnToCoastSelectDestinationTutorial | 3669 |
-| TemplarLabSealedDoorway | 3670 |
-| ShopThisUpdateContains | 3671 |
-| XboxShopPanelFailedToGetInventoryItemDetails | 3672 |
-| PassivePlannerAdditionalPassivePoints | 3673 |
-| PassivePlannerSkillPointsRequired | 3674 |
-| PassivePlannerAscendanyPointsRequired | 3675 |
-| ItemOnCursorErrorMessage | 3676 |
-| ConfirmationWindowWarningTitle | 3677 |
-| ConsoleSkinTransferLegend | 3678 |
-| ConsoleCancelSkinTransferLegend | 3679 |
-| MapStairAlternativeTunnel | 3680 |
-| ConsoleSendItemToOffer | 3681 |
-| ConsoleMapPanelSameAreaError | 3682 |
-| ConsoleMapPanelNoWayPointError | 3683 |
-| AtlasNodeHoverHasElderGuardian | 3684 |
-| AtlasNodeHoverHasElderGuardianFire | 3685 |
-| AtlasNodeHoverHasElderGuardianLightning | 3686 |
-| AtlasNodeHoverHasElderGuardianChaos | 3687 |
-| AtlasNodeHoverHasElderGuardianHoly | 3688 |
-| ReminderTextHerEmbrace | 3689 |
-| ReminderTextEquippedItems | 3690 |
-| MTXCombineWindowTitle | 3691 |
-| MTXCombineWindowButton | 3692 |
-| ItemDisplayAbyssalJewel | 3693 |
-| ReminderTextAbyssalSockets | 3694 |
-| TencentGuildQQNumberLabel | 3695 |
-| TencentGuildIntroTextLabel | 3696 |
-| TencentGuildPublicCheckboxLabel | 3697 |
-| TencentGuildIntroTextDefault | 3698 |
-| TencentGuildWebsiteButtonLabel | 3699 |
-| ItemNoteEditorOptionDoNotIndex | 3700 |
-| Skip | 3701 |
-| LadderPanelTitle | 3702 |
-| LeagueStandardAbyss | 3703 |
-| LeagueHardcoreAbyss | 3704 |
-| LeagueStandardSSFAbyss | 3705 |
-| LeagueHardcoreSSFAbyss | 3706 |
-| LeagueStandard | 3707 |
-| LeagueHardcore | 3708 |
-| LeagueStandardSSF | 3709 |
-| LeagueHardcoreSSF | 3710 |
-| CombineMicrotransactionsWarning | 3711 |
-| StashTabEditorMapSeriesLabel | 3712 |
-| StashTabEditorMapSeriesInventoryContainsItemsError | 3713 |
-| StashTabEditorMapSeriesConfirmationWindow | 3714 |
-| TutorialPanelAbyss | 3715 |
-| TutorialPanelAbyssTitle | 3716 |
-| TutorialPanelAbyssContent1 | 3717 |
-| TutorialPanelAbyssContent2 | 3718 |
-| TutorialPanelAbyssContent3 | 3719 |
-| TutorialPanelAbyssContent4 | 3720 |
-| TutorialPanelAbyssVideo1 | 3721 |
-| TutorialPanelAbyssCaption1 | 3722 |
-| TutorialPanelAbyssCaption2 | 3723 |
-| TutorialPanelAbyssImage1 | 3724 |
-| TutorialPanelAbyssImage2 | 3725 |
-| QuestRewardsWindowTakeNPCItem | 3726 |
-| ReminderTextAttributes | 3727 |
-| MapsStashChildStashesDifferPopupText | 3728 |
-| ItemPopupShaperItem | 3729 |
-| ItemPopupElderItem | 3730 |
-| MapStashTierTabEditorUniqueMaps | 3731 |
-| ModDescriptionLineImplicit | 3732 |
-| ModDescriptionLineEnchantmentImplicit | 3733 |
-| ModDescriptionLineCorruptedImplicit | 3734 |
-| ModDescriptionLinePrefix | 3735 |
-| ModDescriptionLineCraftedPrefix | 3736 |
-| ModDescriptionLineSuffix | 3737 |
-| ModDescriptionLineCraftedSuffix | 3738 |
-| ModDescriptionLineUnique | 3739 |
-| OptionsPanelAdvanceModDescriptions | 3740 |
-| OptionsPanelAdvanceModDescriptionsHover | 3741 |
-| ArchetypeSelectionWindowTitle | 3742 |
-| ArchetypeSelectionWindowDescription | 3743 |
-| ArchetypeSelectionWindowNoArchetypeButton | 3744 |
-| ArchetypeSelectWindowConfirmation | 3745 |
-| TencentLevelUpTutorialArchetypeMessage | 3746 |
-| TencentLevelUpTutorialArchetypeDirected | 3747 |
-| TencentArchetypeReward | 3748 |
-| TencentInventoryExpansionBuyMore | 3749 |
-| CraftingBenchNoOptionsAvaliable | 3750 |
-| TencentInventoryExpansionConfirmationTitle | 3751 |
-| TencentInventoryExpansionConfirmationMessage | 3752 |
-| TencentInventoryExpansionPurchaseSuccess | 3753 |
-| TencentInventoryExpansionFirstColumnFreeMessage | 3754 |
-| TencentGuildRequestNotificationMessage | 3755 |
-| TencentGuildRequestNotificationToast | 3756 |
-| TencentGuildAcceptGuildMember | 3757 |
-| TencentGuildRejectGuildMember | 3758 |
-| TencentGuildPublicGuildListTitle | 3759 |
-| TencentGuildPublicGuildListSearch | 3760 |
-| TencentGuildPublicGuildListWebsite | 3761 |
-| TencentGuildRequestsSentPlural | 3762 |
-| TencentGuildRequestsSent | 3763 |
-| OfferNotificationViewButtonText | 3764 |
-| TencentGuildRequestsRecieved | 3765 |
-| TencentGuildRequestsRecievedPlural | 3766 |
-| ConsoleResetSearchBar | 3767 |
-| ConsoleEnterSearchBar | 3768 |
-| BestiaryChallengesPanelTabName | 3769 |
-| LeagueStandardBestiary | 3770 |
-| LeagueHardcoreBestiary | 3771 |
-| LeagueStandardSSFBestiary | 3772 |
-| LeagueHardcoreSSFBestiary | 3773 |
-| MarketPanelSearchListingsEnd | 3774 |
-| AtlasSextantNumberPopupInfo1 | 3775 |
-| AtlasSextantNumberPopupInfo2 | 3776 |
-| AtlasSextantNumberPopupBonus1 | 3777 |
-| AtlasSextantNumberPopupBonus2 | 3778 |
-| AtlasSextantNumberPopupBonus3 | 3779 |
-| AtlasSextantNumberPopupBonus4 | 3780 |
-| BestiaryCraftingWindowAnySpeciesIngredient | 3781 |
-| BestiaryCraftingWindowSpeciesIngredient | 3782 |
-| BestiaryCraftingWindowSubSpeciesIngredient | 3783 |
-| AtlasOldestSextantWorldAreaName | 3784 |
-| BestiaryCraftingBenchIngredientFamily | 3785 |
-| BestiaryCraftingBenchIngredientGroup | 3786 |
-| BestiaryCraftingBenchTitle | 3787 |
-| BestiaryContextMenuOptionPopupLevel | 3788 |
-| BestiaryContextMenuTitle | 3789 |
-| MenagerieTiger | 3790 |
-| MenagerieLynx | 3791 |
-| MenagerieIceHellion | 3792 |
-| MenagerieFireHellion | 3793 |
-| MenagerieGoatman | 3794 |
-| MenagerieMonkeyRanged | 3795 |
-| MenagerieChieftain | 3796 |
-| MenageriePitbull | 3797 |
-| MenagerieHound | 3798 |
-| MenagerieWolf | 3799 |
-| MenagerieDropBear | 3800 |
-| MenagerieBeast | 3801 |
-| MenagerieSpiker | 3802 |
-| MenagerieBull | 3803 |
-| MenagerieTigerKingSpirit | 3804 |
-| MenagerieRhex | 3805 |
-| MenagerieRhoa | 3806 |
-| MenagerieVulture | 3807 |
-| MenagerieKiweth | 3808 |
-| MenagerieIguana | 3809 |
-| MenagerieSandSnake | 3810 |
-| MenagerieForestSnake | 3811 |
-| MenagerieFeatheredRhexSpirit | 3812 |
-| MenagerieDevourer | 3813 |
-| MenagerieSandLeaper | 3814 |
-| MenagerieCarrionQueen | 3815 |
-| MenagerieScorpion | 3816 |
-| MenagerieNewSpider | 3817 |
-| MenageriePlatedSpider | 3818 |
-| MenageriePlagueSpider | 3819 |
-| MenagerieScorpionSpiderSpirit | 3820 |
-| MenagerieSquid | 3821 |
-| MenagerieSirenSpawn | 3822 |
-| MenagerieParasiticSquid | 3823 |
-| MenagerieAlternateCrabVisual | 3824 |
-| MenagerieClassicCrabVisual | 3825 |
-| MenagerieSandSpitter | 3826 |
-| MenagerieShieldCrab | 3827 |
-| MenagerieGemFrog | 3828 |
-| MenagerieFrog | 3829 |
-| MenagerieNessCrabSpirit | 3830 |
-| ReminderTextRage | 3831 |
-| ReminderTextRageDecay | 3832 |
-| TreasureHunterMissionFindMaster | 3833 |
-| TreasureHunterMissionFindCave | 3834 |
-| TreasureHunterMissionEnteredCave | 3835 |
-| TreasureHunterMissionDefeatBoss | 3836 |
-| TreasureHunterMissionOpenChest | 3837 |
-| TreasureHunterMissionPickupKey | 3838 |
-| TreasureHunterMissionBonusObjective | 3839 |
-| TreasureHunterPrimaryComplete | 3840 |
-| TreasureHunterSecondaryComplete | 3841 |
-| TreasureHunterSpeakToMaster | 3842 |
-| ReminderTextRageMaximum | 3843 |
-| MapStashBonusComplete | 3844 |
-| MapStashMapComplete | 3845 |
-| BestiaryTabRecipesPage | 3846 |
-| BestiaryTabCapturedPage | 3847 |
-| BestiaryTabTitle | 3848 |
-| TencentModifierGuildButtonLabel | 3849 |
-| ActionThrowNet | 3850 |
-| SkillPopupThrowNetDescription | 3851 |
-| BestiaryCraftingBenchIngredientRarityFamily | 3852 |
-| BestiaryCraftingBenchIngredientRarityGroup | 3853 |
-| MenagerieParasite | 3854 |
-| MenagerieRoosterDemon | 3855 |
-| MenageriePurgeHound | 3856 |
-| TencentTradeMarketNoteLabel | 3857 |
-| ReminderTextMalediction | 3858 |
-| BestiaryRecipeFilterNoMatches | 3859 |
-| BestiaryRecipesUsableRecipes | 3860 |
-| BestiaryFilterRecipesLabel | 3861 |
-| BestiaryUsableRecipesCheckboxLabel | 3862 |
-| ReminderTextAdrenaline | 3863 |
-| ReminderTextArcaneSurge | 3864 |
-| EquipBesitaryNetConfirmation | 3865 |
-| BestiaryCraftingLegendNavigateRecipies | 3866 |
-| BestiaryCraftingLegendNavigateInventory | 3867 |
-| BestiaryCraftingLegendSelectRecipe | 3868 |
-| BestiaryCraftingLegendContextMenu | 3869 |
-| BestiaryCraftingLegendContextMenuNavigate | 3870 |
-| BestiaryCraftingLegendFilter | 3871 |
-| BestiaryCraftingLegendClearFilter | 3872 |
-| BestiaryBookChangeTabs | 3873 |
-| BestiaryBookNavigate | 3874 |
-| BestiaryBookSelectGroup | 3875 |
-| BestiartBookBack | 3876 |
-| WorldPanelBestiaryPinActiveHover | 3877 |
-| WorldPanelBestiaryPinInactiveHover | 3878 |
-| WorldPanelBestiaryPinInfoHover | 3879 |
-| NetTier | 3880 |
-| BestiaryCatpureNotificationText | 3881 |
-| PlayerContextMenuVisitMenagerie | 3882 |
-| ErrorMenagerieNotUnlocked | 3883 |
-| BestiaryRecipeUnlockNotification | 3884 |
-| BestiaryRecipeComponentRequiresMod | 3885 |
-| BestiaryRecipeComponentRequiresLevel | 3886 |
-| BestiaryRecipeComponentRequiresRarity | 3887 |
-| TutorialPanelBestiary | 3888 |
-| MapStairAlternativeBridge | 3889 |
-| MapStairAlternativeRaft | 3890 |
-| NotifyOfUnboundActionsMessage | 3891 |
-| NotifyOfUnboundActionsGoToOptionsButton | 3892 |
-| NotifyOfUnboundActionsLaterButton | 3893 |
-| XboxPlayerContextMenuVisitMenagerie | 3894 |
-| BestiaryCraftingGenusText | 3895 |
-| HUDNoAllocatedAscendancySkillsMessageText | 3896 |
-| BestiaryAnyCreatureRarity | 3897 |
-| BestiaryNewCreature | 3898 |
-| CaptureTutorialText | 3899 |
-| TutorialPanelBestiaryTitle | 3900 |
-| TutorialPanelBestiaryContent1 | 3901 |
-| TutorialPanelBestiaryContent2 | 3902 |
-| TutorialPanelBestiaryContent3 | 3903 |
-| TutorialPanelBestiaryVideo1 | 3904 |
-| TutorialPanelBestiaryVideo2 | 3905 |
-| BestiaryFilterBeasts | 3906 |
-| BestiaryCraftingEncounterLevelDisplay | 3907 |
-| BestiaryCraftingEncounterLevelDisplayPopup | 3908 |
-| BestiaryNoRecipesUnlocked | 3909 |
-| ConsoleItemiseBeastConfirmationMessage | 3910 |
-| ConsoleActionItemiseBeast | 3911 |
-| ReminderTextUnarmed | 3912 |
-| ReminderTextUnarmedAttacks | 3913 |
-| TutorialPanelStrongboxesTitle | 3914 |
-| TutorialPanelStrongboxesContent1 | 3915 |
-| TutorialPanelStrongboxesContent2 | 3916 |
-| TutorialPanelStrongboxesImage1 | 3917 |
-| TutorialPanelStrongboxesImage2 | 3918 |
-| TutorialPanelFlasksTitle | 3919 |
-| TutorialPanelFlasksContent1 | 3920 |
-| TutorialPanelFlasksContent2 | 3921 |
-| TutorialPanelFlasksContent3 | 3922 |
-| TutorialPanelFlasksImage1 | 3923 |
-| TutorialPanelFlasksImage2 | 3924 |
-| TutorialPanelFlasksImage3 | 3925 |
-| TutorialPanelFlasksCaption1 | 3926 |
-| TutorialPanelFlasksCaption2 | 3927 |
-| TutorialPanelFlasksCaption3 | 3928 |
-| TutorialPanelEssencesTitle | 3929 |
-| TutorialPanelEssencesContent1 | 3930 |
-| TutorialPanelEssencesContent2 | 3931 |
-| TutorialPanelEssencesImage1 | 3932 |
-| TutorialPanelEssencesCaption1 | 3933 |
-| CannotCaptureNonBeast | 3934 |
-| GenusCapturedText | 3935 |
-| CannotCaptureEnragedBeast | 3936 |
-| ShowAtlasInformation | 3937 |
-| CaptureTutorialTextUnbound | 3938 |
-| MapLegendLabyrinth | 3939 |
-| MapLegendMenagerie | 3940 |
-| ItemDisplayMonsterGenus | 3941 |
-| ItemDisplayMonsterGroup | 3942 |
-| ItemDisplayMonsterFamily | 3943 |
-| ChatBoxInvalidItem | 3944 |
-| ModDescriptionLineMonster | 3945 |
-| ItemErrorBenchAlreadyFull | 3946 |
-| MicrotransactionShopNoSpecials | 3947 |
-| MicrotransactionShopImageRetrievalFailText | 3948 |
-| BeastSuccessfullyCaptured | 3949 |
-| MenagerieCapacityWarning | 3950 |
-| TradeMarketOfferReportBuyer | 3951 |
-| TradeMarketOfferReportSeller | 3952 |
-| CannotUseItemInSsfLeague | 3953 |
-| RareBestairyRecipes | 3954 |
-| RoyaleWaitingForPlayers | 3955 |
-| RoyaleGameInProgress | 3956 |
-| ConsoleCharacterSelectionStateEventsTitle | 3957 |
-| UseBestiaryOrbWarning | 3958 |
-| MenagerieCapacityReached | 3959 |
-| AlwaysAttackInPlaceSkillListLabel | 3960 |
-| IncursionPortalName | 3961 |
-| RoyaleMatchEnded | 3962 |
-| RoyaleMatchEndedWon | 3963 |
-| CharacterSelectionAccountNotVerified | 3964 |
-| CharacterSelectionVerifyButton | 3965 |
-| LeagueStandardIncursion | 3966 |
-| LeagueHardcoreIncursion | 3967 |
-| LeagueStandardSSFIncursion | 3968 |
-| LeagueHardcoreSSFIncursion | 3969 |
-| ConsoleTradePanelOfferItem | 3970 |
-| ConsoleTradePanelPickupPlace | 3971 |
-| IncursionBarDisplayName | 3972 |
-| EnterIncursionButton | 3973 |
-| AlwaysAttackInPlaceMovementSkillHover | 3974 |
-| ShopPanelHomeButtonHover | 3975 |
-| ShopPanelAlreadyOwnedItem | 3976 |
-| IncursionMapConnectionClosed | 3977 |
-| IncursionMapConnectionOpen | 3978 |
-| IncursionTempleBlueprintWindowTitle | 3979 |
-| OpenTempleBlueprintUIButton | 3980 |
-| KillSwapArchitectPopup | 3981 |
-| KillUpgradeArchitectPopup | 3982 |
-| IncursionsRemainingText | 3983 |
-| IncursionLockedDoor | 3984 |
-| BlueprintOpenTempleButton | 3985 |
-| IncursionCorruptionCraftingWindowTitle | 3986 |
-| IncursionCorruptionDescriptionRoomI | 3987 |
-| IncursionCorruptionDescriptionRoomII | 3988 |
-| IncursionSacrificeCraftingWindowTitle | 3989 |
-| IncursionSacrificeDescriptionRoomI | 3990 |
-| IncursionSacrificeDescriptionRoomII | 3991 |
-| IncursionSacrificeDescriptionRoomIII | 3992 |
-| IncursionDestructibleDoor | 3993 |
-| ConsoleActionCorrupt | 3994 |
-| IncursionRemainingText | 3995 |
-| SkillPopupSoulPrevention | 3996 |
-| SacrificeCraftingBenchCraftButton | 3997 |
-| IncursionRoomPopupTier | 3998 |
-| IncursionRoomPopupUpgrades | 3999 |
-| IncursionGemCraftingWindowTitle | 4000 |
-| IncursionGemCraftingDescriptionText | 4001 |
-| IncursionKeyDescription | 4002 |
-| IncursionBombDescription | 4003 |
-| TutorialPanelIncursion | 4004 |
-| KillSwapArchitectPreviewWindowText | 4005 |
-| KillUpgradeArchitectPreviewWindowText | 4006 |
-| TutorialPanelIncursionTitle | 4007 |
-| TutorialPanelIncursionSubtitle1 | 4008 |
-| TutorialPanelIncursionSubtitle2 | 4009 |
-| TutorialPanelIncursionSubtitle3 | 4010 |
-| TutorialPanelIncursionSubtitle4 | 4011 |
-| TutorialPanelIncursionSubtitle5 | 4012 |
-| TutorialPanelIncursionContent1 | 4013 |
-| TutorialPanelIncursionContent2 | 4014 |
-| TutorialPanelIncursionContent3 | 4015 |
-| TutorialPanelIncursionContent4 | 4016 |
-| TutorialPanelIncursionContent5 | 4017 |
-| TutorialPanelIncursionContent6 | 4018 |
-| TutorialPanelIncursionImage1 | 4019 |
-| TutorialPanelIncursionImage2 | 4020 |
-| TutorialPanelIncursionImage3 | 4021 |
-| TutorialPanelIncursionCaption1 | 4022 |
-| TutorialPanelIncursionCaption2 | 4023 |
-| TutorialPanelIncursionCaption3 | 4024 |
-| TencentShaperBountyMapHoverText | 4025 |
-| IncursionBossArenaName | 4026 |
-| NPCTalkOptionWithHotKey | 4027 |
-| TencentLimitedTimeArcetype | 4028 |
-| PartyModifierInfoHoverLoot | 4029 |
-| PartyModifierInfoHoverMonsterHealth | 4030 |
-| AtlasHoverSuperShaperInfluence | 4031 |
-| AtlasHoverUnknownText | 4032 |
-| GraphicsOptionsScreenspaceEffects | 4033 |
-| WorldPanelDelvePinInactiveHover | 4034 |
-| ObjectDisplayTextDelveEncounter12 | 4035 |
-| ObjectDisplayTextMachinariumFireBasher | 4036 |
-| TutorialPanelDelveSubtitle3 | 4037 |
-| DelveUpgradeTabDepthLightHover | 4038 |
-| GraphicsTabShadowGIPopup | 4039 |
-| GraphicsOptionsScreenspaceEffectsOff | 4040 |
-| GraphicsOptionsScreenspaceEffectsGI | 4041 |
-| GraphicsOptionsSSSTooltip | 4042 |
-| SocialPanelPartyOptionsAllowFriendsToJoin | 4043 |
-| ObjectDisplayTextDelveEncounter18 | 4044 |
-| ObjectDisplayTextMachinariumColdMinion | 4045 |
-| TutorialPanelDelveContent6 | 4046 |
-| LeagueInfoButtonName | 4047 |
-| GraphicsTabNumberOfLightsPopup | 4048 |
-| GraphicsOptionsScreenspaceEffectsSSS | 4049 |
-| GraphicsOptionsScreenspaceResolution | 4050 |
-| GraphicsOptionsScreenspaceResolutionMedium | 4051 |
-| GraphicsOptionsScreenspaceResolutionTooltip | 4052 |
-| MissionTrackStrDexIntFailedAbyss | 4053 |
-| MissionTrackStrDexIntWarbandN | 4054 |
-| MissionTrackStrDexIntEssenceN | 4055 |
-| MissionTrackStrDexIntHarbingerN | 4056 |
-| MissionTrackStrDexIntTimeDecreases | 4057 |
-| MissionTrackStrDexIntElder | 4058 |
-| ObjectDisplayTextMachinariumFire | 4059 |
-| ObjectDisplayTextDelveEncounter39 | 4060 |
-| DelveUpgradeTabFailedPurchace | 4061 |
-| FlareDisplayHover | 4062 |
-| GraphicsTabModePopup | 4063 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | GameName | 0 |  |
+|  | Error | 1 |  |
+|  | FatalError | 2 |  |
+|  | Exception | 3 |  |
+|  | PassiveInfo1 | 4 |  |
+|  | PassiveInfo2 | 5 |  |
+|  | PassiveInfo3 | 6 |  |
+|  | PassiveInfo4 | 7 |  |
+|  | PassiveInfo5 | 8 |  |
+|  | PassiveInfo6 | 9 |  |
+|  | BugReportInstructions | 10 |  |
+|  | NoLocalPlayer | 11 |  |
+|  | PvPTeam1 | 12 |  |
+|  | PvPTeam2 | 13 |  |
+|  | PvPTeam3 | 14 |  |
+|  | PvPGainPoint | 15 |  |
+|  | PvPWinMatch | 16 |  |
+|  | PvPRoundDraw | 17 |  |
+|  | PvPMatchDraw | 18 |  |
+|  | PvPMatchPointChange | 19 |  |
+|  | PvPMatchRatingChange | 20 |  |
+|  | PvPMatchLeoReputationGained | 21 |  |
+|  | PvPTimeLeft | 22 |  |
+|  | PvPRoundXOfY | 23 |  |
+|  | PvPFlagTaken | 24 |  |
+|  | PvPFlagCaptured | 25 |  |
+|  | PvPFlagReturned | 26 |  |
+|  | PositiveNumber | 27 |  |
+|  | NegativeNumber | 28 |  |
+|  | Percentage | 29 |  |
+|  | NumberRange | 30 |  |
+|  | TimeS | 31 |  |
+|  | TimeMS | 32 |  |
+|  | TimeHMS | 33 |  |
+|  | TimeDHMS | 34 |  |
+|  | TimeSeconds1 | 35 |  |
+|  | TimeSecondsN | 36 |  |
+|  | TimeMinutes1 | 37 |  |
+|  | TimeMinutesN | 38 |  |
+|  | TimeHours1 | 39 |  |
+|  | TimeHoursN | 40 |  |
+|  | TimeDays1 | 41 |  |
+|  | TimeDaysN | 42 |  |
+|  | Stairs | 43 |  |
+|  | MerveilArenaName | 44 |  |
+|  | BrutusArenaName | 45 |  |
+|  | BrutusAreaName | 46 |  |
+|  | OversoulArenaName | 47 |  |
+|  | WeaverArenaName | 48 |  |
+|  | MapWeaverArenaName | 49 |  |
+|  | MapTropicalIslandCave | 50 |  |
+|  | MapDungeonTransition | 51 |  |
+|  | ChatSuppressionToggled | 52 |  |
+|  | ON | 53 |  |
+|  | OFF | 54 |  |
+|  | OK | 55 |  |
+|  | ActionFlask | 56 |  |
+|  | ActionSkill | 57 |  |
+|  | ActionAttackInPlace | 58 |  |
+|  | ActionWeaponSwap | 59 |  |
+|  | ActionDetonateMines | 60 |  |
+|  | ActionHighlightStuff | 61 |  |
+|  | ActionToggleHighlighting | 62 |  |
+|  | ActionEnableCorpseTargeting | 63 |  |
+|  | ActionChat | 64 |  |
+|  | ActionToggleOverlayMap | 65 |  |
+|  | ActionOpenOptionsPanel | 66 |  |
+|  | ActionOpenCharacterPanel | 67 |  |
+|  | ActionOpenSocialPanel | 68 |  |
+|  | ActionOpenLadderPanel | 69 |  |
+|  | ActionOpenInventoryPanel | 70 |  |
+|  | ActionOpenChallengePanel | 71 |  |
+|  | ActionOpenEventsPanel | 72 |  |
+|  | ActionOpenWorldPanel | 73 |  |
+|  | ActionOpenPassivePanel | 74 |  |
+|  | ActionOpenMtxStash | 75 |  |
+|  | ActionOpenMarketPanel | 76 |  |
+|  | ActionOpenGuidebookPanel | 77 |  |
+|  | ActionCloseAllPanels | 78 |  |
+|  | ActionScreenshot | 79 |  |
+|  | ActionZoomIn | 80 |  |
+|  | ActionZoomOut | 81 |  |
+|  | ActionTogglePerfGraphs | 82 |  |
+|  | ActionEnableKeyPickup | 83 |  |
+|  | UIOpenPanelDescription | 84 |  |
+|  | UIOpenPanelDescriptionNoKey | 85 |  |
+|  | UIOpenChatDescription | 86 |  |
+|  | EternalLaboratoryName | 87 |  |
+|  | WeaponSwapFailed | 88 |  |
+|  | CorpseSuffix | 89 |  |
+|  | PlayerHighlight | 90 |  |
+|  | ResistsElemental | 91 |  |
+|  | ResistsFire | 92 |  |
+|  | ResistsCold | 93 |  |
+|  | ResistsLightning | 94 |  |
+|  | ResistsChaos | 95 |  |
+|  | VulnerableToElemental | 96 |  |
+|  | VulnerableToFire | 97 |  |
+|  | VulnerableToCold | 98 |  |
+|  | VulnerableToLightning | 99 |  |
+|  | VulnerableToChaos | 100 |  |
+|  | PvPFlagDropped | 101 |  |
+|  | Portal | 102 |  |
+|  | Enter | 103 |  |
+|  | AtziriArenaName | 104 |  |
+|  | Arena | 105 |  |
+|  | Cancel | 106 |  |
+|  | Yes | 107 |  |
+|  | No | 108 |  |
+|  | Back | 109 |  |
+|  | ClickToLevelGemText | 110 |  |
+|  | ClickToLevelGemLabel | 111 |  |
+|  | CannotLevelGemText | 112 |  |
+|  | CannotLevelGemLabel | 113 |  |
+|  | OrbLifeValue | 114 |  |
+|  | OrbShieldValue | 115 |  |
+|  | OrbManaValue | 116 |  |
+|  | OrbReservedLifeValue | 117 |  |
+|  | OrbReservedManaValue | 118 |  |
+|  | HUDPassivePoint | 119 |  |
+|  | HUDPassivePoints | 120 |  |
+|  | HUDPassiveAllocation | 121 |  |
+|  | HUDPassiveAllocations | 122 |  |
+|  | HUDPassiveRefund | 123 |  |
+|  | HUDPassiveRefunds | 124 |  |
+|  | PassiveTreePanelTitle | 125 |  |
+|  | PassiveTreeRefundLeft | 126 |  |
+|  | PassiveTreeRefundsLeft | 127 |  |
+|  | PassiveTreePointLeft | 128 |  |
+|  | PassiveTreePointsLeft | 129 |  |
+|  | PassiveTreeAscendancyPointLeft | 130 |  |
+|  | PassiveTreeAscendancyPointsLeft | 131 |  |
+|  | PassiveTreeApplyPoints | 132 |  |
+|  | PassiveTreeApplyRefunds | 133 |  |
+|  | PassiveTreeRefundMode | 134 |  |
+|  | PassiveTreeResetButton | 135 |  |
+|  | PassiveTreeResetButtonWarning | 136 |  |
+|  | PassiveTreeResetMessageTitle | 137 |  |
+|  | PassiveTreeResetMessageDescription | 138 |  |
+|  | PassiveTreeResetApplyWarning | 139 |  |
+|  | PassiveTreeStrengthRequired | 140 |  |
+|  | PassiveTreeDexterityRequired | 141 |  |
+|  | PassiveTreeIntelligenceRequired | 142 |  |
+|  | PassiveTreeItemRequirements | 143 |  |
+|  | PassiveTreeChangeConfirmation | 144 |  |
+|  | PassiveTreeConfirmation | 145 |  |
+|  | PassiveNodeAllocate | 146 |  |
+|  | PassiveNodeUnallocate | 147 |  |
+|  | PassiveNodeRequirementsNotMet | 148 |  |
+|  | PassiveNodeUnallocated | 149 |  |
+|  | PassiveTreeSaveBuild | 150 |  |
+|  | PassiveTreeSaveAllocated | 151 |  |
+|  | PassiveTreeModifyBuild | 152 |  |
+|  | PassiveTreeClearBuild | 153 |  |
+|  | PassiveTreeErrorWrongClass | 154 |  |
+|  | PassiveTreeErrorPassiveDoesNotExist | 155 |  |
+|  | PassiveTreeBuildLoaded | 156 |  |
+|  | PassiveTreeBuildSaved | 157 |  |
+|  | Level | 158 |  |
+|  | Experience | 159 |  |
+|  | StrengthDescription | 160 |  |
+|  | DexterityDescription | 161 |  |
+|  | IntelligenceDescription | 162 |  |
+|  | Strength | 163 |  |
+|  | Dexterity | 164 |  |
+|  | Intelligence | 165 |  |
+|  | StrengthShort | 166 |  |
+|  | DexterityShort | 167 |  |
+|  | IntelligenceShort | 168 |  |
+|  | CharacterPanelTitle | 169 |  |
+|  | ExperienceBarPopup1 | 170 |  |
+|  | ExperienceBarPopup2 | 171 |  |
+|  | ExperienceBarPopup3 | 172 |  |
+|  | MapOverlayMonsterLevel | 173 |  |
+|  | MapOverlayLeague | 174 |  |
+|  | MapOverlayRealm | 175 |  |
+|  | Continue | 176 |  |
+|  | Goodbye | 177 |  |
+|  | Quality | 178 |  |
+|  | ItemViewSocketsNotShown | 179 |  |
+|  | ItemViewSkillGemReadyToLevel | 180 |  |
+|  | ItemLevelPopup | 181 |  |
+|  | WorldPanelTitle | 182 |  |
+|  | WorldPanelAct | 183 |  |
+|  | WorldPanelPart | 184 |  |
+|  | MapLegendTitle | 185 |  |
+|  | MapLegendCurrentLocation | 186 |  |
+|  | MapLegendTown | 187 |  |
+|  | MapLegendUnknownArea | 188 |  |
+|  | MapLegendKnownArea | 189 |  |
+|  | MapLegendKnownAreaWaypoint | 190 |  |
+|  | MapLegendKnownAreaWaypointEnabled | 191 |  |
+|  | MapLegendQuestLocation | 192 |  |
+|  | MapLegendConnection | 193 |  |
+|  | MapLegendCannotTravel | 194 |  |
+|  | MapLegendHideout | 195 |  |
+|  | ChatErrorUnknownRealm | 196 |  |
+|  | ChatTimeoutMessage | 197 |  |
+|  | ChatTimeoutMessageChannel | 198 |  |
+|  | ChatTimeoutMessageTrade | 199 |  |
+|  | ChatTimeoutMessageGlobal | 200 |  |
+|  | ChatBoxChannelNameGlobal | 201 |  |
+|  | ChatBoxChannelNameLocal | 202 |  |
+|  | ChatBoxChannelNameTrade | 203 |  |
+|  | ChatBoxChannelNameParty | 204 |  |
+|  | ChatBoxChannelNameWhisper | 205 |  |
+|  | ChatBoxChannelNameGuild | 206 |  |
+|  | ChatBoxChannelNameTwitch | 207 |  |
+|  | ChatBoxChannelNameServer | 208 |  |
+|  | ChatBoxGlobalCheckboxLabel | 209 |  |
+|  | ChatBoxTradeCheckboxLabel | 210 |  |
+|  | ChatBoxGuildCheckboxLabel | 211 |  |
+|  | ChatBoxChannelPopupJoining | 212 |  |
+|  | ChatBoxChannelPopupJoiningWithLanguage | 213 |  |
+|  | ChatBoxChannelPopupNotConnected | 214 |  |
+|  | ChatBoxChannelPopupConnectedTo | 215 |  |
+|  | ChatBoxChannelPopupConnectedToWithLanguage | 216 |  |
+|  | WhisperHelp | 217 |  |
+|  | WeaponClassDisplayNameOneHandedSword | 218 |  |
+|  | WeaponClassDisplayNameTwoHandedSword | 219 |  |
+|  | WeaponClassDisplayNameOneHandedMace | 220 |  |
+|  | WeaponClassDisplayNameTwoHandedMace | 221 |  |
+|  | WeaponClassDisplayNameWand | 222 |  |
+|  | WeaponClassDisplayNameOneHandedAxe | 223 |  |
+|  | WeaponClassDisplayNameTwoHandedAxe | 224 |  |
+|  | WeaponClassDisplayNameBow | 225 |  |
+|  | WeaponClassDisplayNameDagger | 226 |  |
+|  | WeaponClassDisplayNameStaff | 227 |  |
+|  | WeaponClassDisplayNameClaw | 228 |  |
+|  | WeaponClassDisplayNameShield | 229 |  |
+|  | WeaponClassDisplayNameUnarmed | 230 |  |
+|  | WeaponClassDisplayNameFishingRod | 231 |  |
+|  | WeaponClassDisplayNameNotWeapon | 232 |  |
+|  | ItemDisplayMapTier | 233 |  |
+|  | ItemDisplayTalismanTier | 234 |  |
+|  | ItemDisplayMapQuantityIncrease | 235 |  |
+|  | ItemDisplaySkillGemLevel | 236 |  |
+|  | ItemDisplaySkillGemMaxLevel | 237 |  |
+|  | ItemDisplaySkillGemPlusLevelFromItem | 238 |  |
+|  | ItemDisplaySkillGemPlusLevelsFromItem | 239 |  |
+|  | ItemDisplaySkillGemPlusLevelFromSupport | 240 |  |
+|  | ItemDisplaySkillGemPlusLevelsFromSupport | 241 |  |
+|  | ItemDisplaySkillGemPlusQualityFromItem | 242 |  |
+|  | ItemDisplaySkillGemPlusQualityFromSupport | 243 |  |
+|  | ItemDisplaySkillGemExperience | 244 |  |
+|  | ItemDisplaySkillGemManaMultiplier | 245 |  |
+|  | ItemDisplaySkillGemManaReserved | 246 |  |
+|  | ItemDisplaySkillGemManaCost | 247 |  |
+|  | ItemDisplaySkillGemCastTime | 248 |  |
+|  | ItemDisplaySkillGemCastTimeValue | 249 |  |
+|  | ItemDisplaySkillGemCriticalStrikeChance | 250 |  |
+|  | ItemDisplaySkillGemCooldownTime | 251 |  |
+|  | ItemDisplaySkillGemCooldownValue | 252 |  |
+|  | ItemDisplaySkillGemCooldownValueCount | 253 |  |
+|  | ItemDisplaySkillGemSoulsPerUse | 254 |  |
+|  | ItemDisplaySkillGemPreventSoulGainDuration | 255 |  |
+|  | ItemDisplaySkillGemSoulsCanStoreUse | 256 |  |
+|  | ItemDisplaySkillGemSoulsCanStoreUses | 257 |  |
+|  | ItemDisplaySkillGemDamageEffectiveness | 258 |  |
+|  | ItemDisplayFlaskLifeRecovery1Second | 259 |  |
+|  | ItemDisplayFlaskLifeRecoveryNSeconds | 260 |  |
+|  | ItemDisplayFlaskManaRecovery1Second | 261 |  |
+|  | ItemDisplayFlaskManaRecoveryNSeconds | 262 |  |
+|  | ItemDisplayFlaskBuffDuration1Second | 263 |  |
+|  | ItemDisplayFlaskBuffDurationNSeconds | 264 |  |
+|  | ItemDisplayChargesConsumptionOnUse1Charge | 265 |  |
+|  | ItemDisplayChargesConsumptionOnUseNCharges | 266 |  |
+|  | ItemDisplayCharges1Charge | 267 |  |
+|  | ItemDisplayChargesNCharges | 268 |  |
+|  | ItemDisplayWeaponPhysicalDamage | 269 |  |
+|  | ItemDisplayWeaponElementalDamage | 270 |  |
+|  | ItemDisplayWeaponChaosDamage | 271 |  |
+|  | ItemDisplayWeaponCriticalStrikeChance | 272 |  |
+|  | ItemDisplayWeaponAttacksPerSecond | 273 |  |
+|  | ItemDisplayShieldBlockChance | 274 |  |
+|  | ItemDisplayArmourArmour | 275 |  |
+|  | ItemDisplayArmourEvasionRating | 276 |  |
+|  | ItemDisplayArmourEnergyShield | 277 |  |
+|  | ItemDisplayStackSize | 278 |  |
+|  | ItemDisplayStackSizeValue | 279 |  |
+|  | ItemDisplayStackDescription | 280 |  |
+|  | ItemDisplayHasEffect | 281 |  |
+|  | ItemDisplayHasReskin | 282 |  |
+|  | ItemDisplayImprintImprinted | 283 |  |
+|  | ItemDisplayImprintUnidentified | 284 |  |
+|  | ItemDisplayRequirementFromGem | 285 |  |
+|  | ItemDisplayRequirementFromJewel | 286 |  |
+|  | ItemPopupCannotUseItem | 287 |  |
+|  | ItemPopupCannotTradeOrModify | 288 |  |
+|  | ItemPopupLockedToAccount | 289 |  |
+|  | ItemPopupUnidentified | 290 |  |
+|  | ItemPopupMirrored | 291 |  |
+|  | ItemPopupCorrupted | 292 |  |
+|  | ItemPopupDroppedInMaps | 293 |  |
+|  | ItemPopupNextLevel | 294 |  |
+|  | LoadingScreenMessage | 295 |  |
+|  | GraphicsOptionsApplySettings | 296 |  |
+|  | GraphicsOptionsApplySettingsPopup | 297 |  |
+|  | GraphicsOptionsAdapterLabel | 298 |  |
+|  | GraphicsOptionsDisplayModeLabel | 299 |  |
+|  | GraphicsOptionsDisplayModeWindowed | 300 |  |
+|  | GraphicsOptionsDisplayModeFullscreen | 301 |  |
+|  | GraphicsOptionsDisplayModeWindowedFullscreen | 302 |  |
+|  | GraphicsOptionsResolutionLabel | 303 |  |
+|  | GraphicsOptionsResolutionCustom | 304 |  |
+|  | GraphicsOptionsVSyncLabel | 305 |  |
+|  | GraphicsOptionsDynamicResolution | 306 |  |
+|  | GraphicsOptionsTargetFps | 307 |  |
+|  | GraphicsOptionsTargetFpsTooltip | 308 |  |
+|  | GraphicsOptionsWaterDetail | 309 |  |
+|  | GraphicsOptionsWaterDetailDownscaled | 310 |  |
+|  | GraphicsOptionsWaterDetailFullres | 311 |  |
+|  | GraphicsOptionsGlobalIllumination | 312 |  |
+|  | GraphicsOptionsGlobalIlluminationOff | 313 |  |
+|  | GraphicsOptionsGlobalIlluminationLow | 314 |  |
+|  | GraphicsOptionsGlobalIlluminationHigh | 315 |  |
+|  | GraphicsOptionsShadowQualityLabel | 316 |  |
+|  | GraphicsOptionsShadowQualityOff | 317 |  |
+|  | GraphicsOptionsShadowQualityLow | 318 |  |
+|  | GraphicsOptionsShadowQualityHigh | 319 |  |
+|  | GraphicsOptionsShadowQualityOLDVariance | 320 |  |
+|  | GraphicsOptionsShadowQualityOLDBasic | 321 |  |
+|  | GraphicsOptionsAntialiasingLabel | 322 |  |
+|  | GraphicsOptionsDX9SMAAOff | 323 |  |
+|  | GraphicsOptionsDX9SMAAMedium | 324 |  |
+|  | GraphicsOptionsDX9SMAAHigh | 325 |  |
+|  | GraphicsOptionsDX11MSAAOff | 326 |  |
+|  | GraphicsOptionsDX11MSAA4 | 327 |  |
+|  | GraphicsOptionsDX11MSAA8 | 328 |  |
+|  | GraphicsOptionsTextureQualityLabel | 329 |  |
+|  | GraphicsOptionsTextureQualityMedium | 330 |  |
+|  | GraphicsOptionsTextureQualityHigh | 331 |  |
+|  | GraphicsOptionsTextureFilteringLabel | 332 |  |
+|  | GraphicsOptionsTextureFilteringTrilinear | 333 |  |
+|  | GraphicsOptionsTextureFilteringAnisotropic | 334 |  |
+|  | GraphicsOptionsPostProcessingLabel | 335 |  |
+|  | GraphicsOptionsScreenShakeLabel | 336 |  |
+|  | AudioOptionsDeviceLabel | 337 |  |
+|  | AudioOptionsDeviceDefault | 338 |  |
+|  | AudioOptionsDeviceNoDevices | 339 |  |
+|  | AudioOptionsEffectsVolumeLabel | 340 |  |
+|  | AudioOptionsMusicVolumeLabel | 341 |  |
+|  | AudioOptionsAmbientVolumeLabel | 342 |  |
+|  | AudioOptionsDialogueVolumeLabel | 343 |  |
+|  | AudioOptionsItemFilterAlertVolumeLabel | 344 |  |
+|  | AudioOptionsReverbLabel | 345 |  |
+|  | AudioOptionsMuteInBackgroundLabel | 346 |  |
+|  | AudioOptionsMuteInBackgroundDescription | 347 |  |
+|  | AudioOptionsWarningNoSoundDriver | 348 |  |
+|  | AudioOptionsWarningSoundDriverInitialisationFailed | 349 |  |
+|  | OptionsCornerMapLabel | 350 |  |
+|  | OptionsCornerMapPopup | 351 |  |
+|  | OptionsAutoCenterMapLabel | 352 |  |
+|  | OptionsAutoCenterMapPopup | 353 |  |
+|  | OptionsMapTransparencyLabel | 354 |  |
+|  | OptionsAlwaysHighlightLabel | 355 |  |
+|  | OptionsAlwaysHighlightPopup | 356 |  |
+|  | OptionsAlwaysShowSocketsLabel | 357 |  |
+|  | OptionsKeyPickupLabel | 358 |  |
+|  | OptionsKeyPickupDisabled | 359 |  |
+|  | OptionsKeyPickupUseHighlightKey | 360 |  |
+|  | OptionsKeyPickupUseBoundKey | 361 |  |
+|  | OptionsShowFullDescriptionsLabel | 362 |  |
+|  | OptionsShowFullDescriptionsPopup | 363 |  |
+|  | OptionsShowLifeManaLevelsLabel | 364 |  |
+|  | OptionsShowLifeManaLevelsPopup | 365 |  |
+|  | OptionsCorpseTargetingLabel | 366 |  |
+|  | OptionsCorpseTargetingAlways | 367 |  |
+|  | OptionsCorpseTargetingWhenKeyHeld | 368 |  |
+|  | OptionsJoinGlobalChatLabel | 369 |  |
+|  | OptionsJoinTradeChatLabel | 370 |  |
+|  | OptionsShowGuildChatLabel | 371 |  |
+|  | OptionsShowLifeBarsOnAlliesLabel | 372 |  |
+|  | OptionsShowLifeBarsOnAlliesPopup | 373 |  |
+|  | OptionsShowLifeBarsOnEnemiesLabel | 374 |  |
+|  | OptionsShowLifeBarsOnEnemiesPopup | 375 |  |
+|  | OptionsShowLifeBarOnPlayerLabel | 376 |  |
+|  | OptionsShowLifeBarOnPlayerPopup | 377 |  |
+|  | OptionsShowAllyNamesOnMapLabel | 378 |  |
+|  | OptionsShowAllyNamesOnMapPopup | 379 |  |
+|  | OptionsUseNextFlaskWithChargesLabel | 380 |  |
+|  | OptionsUseNextFlaskWithChargesPopup | 381 |  |
+|  | OptionsShowClockLabel | 382 |  |
+|  | OptionsShowClockPopup | 383 |  |
+|  | OptionsAutoEquipLabel | 384 |  |
+|  | OptionsAutoEquipPopup | 385 |  |
+|  | OptionsAlwaysAttackInPlaceLabel | 386 |  |
+|  | OptionsAlwaysAttackInPlacePopup | 387 |  |
+|  | OptionsAttackInPlaceKeyStopsMoveLabel | 388 |  |
+|  | OptionsAttackInPlaceKeyStopsMovePopup | 389 |  |
+|  | OptionsMousewheelZoomLabel | 390 |  |
+|  | OptionsMousewheelZoomPopup | 391 |  |
+|  | OptionsRestrictCursorToWindowLabel | 392 |  |
+|  | OptionsRestrictCursorToWindowPopup | 393 |  |
+|  | OptionsDefaultLootAllocation | 394 |  |
+|  | OptionsChatFontSize | 395 |  |
+|  | OptionsChatFontOptionSmall | 396 |  |
+|  | OptionsChatFontOptionNormal | 397 |  |
+|  | OptionsChatWidthLabel | 398 |  |
+|  | OptionsChatHeightLabel | 399 |  |
+|  | OptionsEnableQuestTracking | 400 |  |
+|  | OptionsEnableQuestTrackingPopup | 401 |  |
+|  | OptionsReloadItemFiltersButton | 402 |  |
+|  | OptionsItemFilterFileList | 403 |  |
+|  | OptionsNoFilter | 404 |  |
+|  | OptionsLanguageOption | 405 |  |
+|  | OptionsLanguageChange | 406 |  |
+|  | OptionsChatLanguageOption | 407 |  |
+|  | OptionsChatLanguageOptionDefault | 408 |  |
+|  | OptionsDialogueInChatLabel | 409 |  |
+|  | OptionsDialogueInChatPopup | 410 |  |
+|  | OptionsNetworkingMode | 411 |  |
+|  | OptionsNetworkingModeCannotChange | 412 |  |
+|  | OptionsNetworkingModeLockstep | 413 |  |
+|  | OptionsNetworkingModePredictive | 414 |  |
+|  | OptionsNetworkingModeAuto | 415 |  |
+|  | OptionsNetworkingModeAutoSelected | 416 |  |
+|  | OptionsShowFlaskBuffs | 417 |  |
+|  | OptionsShowFlaskBuffsPopup | 418 |  |
+|  | OptionsShowAuraIcons | 419 |  |
+|  | OptionsShowAuraIconsPopup | 420 |  |
+|  | InputOptionsDescription | 421 |  |
+|  | OptionsResetToDefaults | 422 |  |
+|  | OptionsReset | 423 |  |
+|  | InputOptionsActionsNotSet | 424 |  |
+|  | InputOptionsHint | 425 |  |
+|  | InputOptionsNotSet | 426 |  |
+|  | InputOptionsEntryPopup | 427 |  |
+|  | StreamingOptionsUsernameLabel | 428 |  |
+|  | StreamingOptionsUsernameEmptyMessage | 429 |  |
+|  | StreamingOptionsPasswordLabel | 430 |  |
+|  | StreamingOptionsPasswordEmptyMessage | 431 |  |
+|  | StreamingOptionsLinkAccountsButtonText | 432 |  |
+|  | StreamingOptionsLinkAccountsLabel | 433 |  |
+|  | StreamingOptionsLinkAccountsTip | 434 |  |
+|  | StreamingOptionsStreamTitleLabel | 435 |  |
+|  | StreamingOptionsQualityLabel | 436 |  |
+|  | StreamingOptionsQualityAuto | 437 |  |
+|  | StreamingOptionsQualityEntry | 438 |  |
+|  | StreamingOptionsBitrateLabel | 439 |  |
+|  | StreamingOptionsBitrateAuto | 440 |  |
+|  | StreamingOptionsServerLabel | 441 |  |
+|  | StreamingOptionsServerLogIn | 442 |  |
+|  | StreamingOptionsWebcamLabel | 443 |  |
+|  | StreamingOptionsWebcamNoWebcams | 444 |  |
+|  | StreamingOptionsWebcamSize | 445 |  |
+|  | StreamingOptionsShowWebcam | 446 |  |
+|  | StreamingOptionsShowWebcamPopup | 447 |  |
+|  | StreamingOptionsStopStreamButtonText | 448 |  |
+|  | StreamingOptionsStartStreamButtonText | 449 |  |
+|  | StreamingOptionsStatusText | 450 |  |
+|  | StreamingOptionsStatusTextStreaming | 451 |  |
+|  | StreamingOptionsLogInButtonText | 452 |  |
+|  | StreamingOptionsLogOutButtonText | 453 |  |
+|  | StreamingOptionsEnableWebcamButtonText | 454 |  |
+|  | StreamingOptionsDisableWebcamButtonText | 455 |  |
+|  | StreamingStatusTextLogInToStream | 456 |  |
+|  | StreamingStatusTextLoggingIn | 457 |  |
+|  | StreamingStatusTextFetchingServerList | 458 |  |
+|  | StreamingStatusTextReadyToStream | 459 |  |
+|  | StreamingStatusTextTestingConnection | 460 |  |
+|  | StreamingStatusTextConnectionTested | 461 |  |
+|  | StreamingStatusTextStreaming | 462 |  |
+|  | StreamingStatusTextStreamPaused | 463 |  |
+|  | StreamingStatusTextStoppingStream | 464 |  |
+|  | OptionsPanelTitle | 465 |  |
+|  | OptionsPanelSaveButtonText | 466 |  |
+|  | OptionsPanelCloseButtonText | 467 |  |
+|  | OptionsPanelCancelButtonText | 468 |  |
+|  | OptionsPanelDefaultsButtonText | 469 |  |
+|  | OptionsPanelSaveChangesText | 470 |  |
+|  | OptionsPanelCancelChangesText | 471 |  |
+|  | OptionsPanelResetToDefaultsText | 472 |  |
+|  | OptionsPanelGraphicsTabTitle | 473 |  |
+|  | OptionsPanelSoundTabTitle | 474 |  |
+|  | OptionsPanelUITabTitle | 475 |  |
+|  | OptionsPanelNotificationsTabTitle | 476 |  |
+|  | OptionsPanelNotificationsTabDisplayLocationsNone | 477 |  |
+|  | OptionsPanelInputTabTitle | 478 |  |
+|  | OptionsPanelStreamingTabTitle | 479 |  |
+|  | NotificationOptionsTypeHeader | 480 |  |
+|  | NotificationOptionsShowPopupHeader | 481 |  |
+|  | NotificationOptionsObeyDNDHeader | 482 |  |
+|  | LoginScreenLogInButtonText | 483 |  |
+|  | SteamLoginScreenLogInButtonTip | 484 |  |
+|  | LoginScreenOptionsButtonText | 485 |  |
+|  | LoginScreenCreditsButtonText | 486 |  |
+|  | LoginScreenExitButtonText | 487 |  |
+|  | LoginScreenGatewayLabel | 488 |  |
+|  | LoginScreenEmailLabel | 489 |  |
+|  | LoginScreenPasswordLabel | 490 |  |
+|  | LoginScreenSaveLoginDetailsText | 491 |  |
+|  | LoginScreenCreateButtonText | 492 |  |
+|  | LoginScreenCreateButtonTip | 493 |  |
+|  | LoginScreenLostPasswordButtonText | 494 |  |
+|  | LoginScreenLostPasswordButtonTip | 495 |  |
+|  | LoginScreenGatewayListGatewayTitle | 496 |  |
+|  | LoginScreenGatewayListPingTitle | 497 |  |
+|  | LoginScreenGatewayListPing | 498 |  |
+|  | LoginScreenGatewayListAutoSelectGateway | 499 |  |
+|  | LoginScreenGatewayListFindingGateway | 500 |  |
+|  | LoginScreenGatewayListGatewayAutoSelected | 501 |  |
+|  | GarenaLoginScreenPlayButtonText | 502 |  |
+|  | CharacterSelectionScreenEntryText | 503 |  |
+|  | CharacterPanelNextLevelExperience | 504 |  |
+|  | CharacterPanelMaxLevel | 505 |  |
+|  | CharacterPanelMaxLevelBrackets | 506 |  |
+|  | SkillPopupManaCost | 507 |  |
+|  | SkillPopupManaReserved | 508 |  |
+|  | SkillPopupCastTime | 509 |  |
+|  | SkillPopupAttackTime | 510 |  |
+|  | SkillPopupSecond | 511 |  |
+|  | SkillPopupSeconds | 512 |  |
+|  | SkillPopupDPS | 513 |  |
+|  | SkillPopupAverageDamage | 514 |  |
+|  | SkillPopupSouls | 515 |  |
+|  | SkillPopupLevel | 516 |  |
+|  | MicrotransactionPanelTitle | 517 |  |
+|  | MicrotransactionPanelReclaimMTX | 518 |  |
+|  | MicrotransactionPanelReclaimMTXPopup | 519 |  |
+|  | MicrotransactionPanelCancelReclaimMTX | 520 |  |
+|  | MicrotransactionPanelCancelReclaimMTXPopup | 521 |  |
+|  | MicrotransactionPanelReclaimPet | 522 |  |
+|  | MicrotransactionPanelReclaimPetPopup | 523 |  |
+|  | MicrotransactionPanelCancelReclaimPet | 524 |  |
+|  | MicrotransactionPanelReclaimCursorNotEmpty | 525 |  |
+|  | MicrotransactionPanelShopButton | 526 |  |
+|  | MicrotransactionPanelShopButtonPopup | 527 |  |
+|  | MicrotransactionPanelOnlineShopButton | 528 |  |
+|  | MicrotransactionPanelOnlineShopButtonPopup | 529 |  |
+|  | MicrotransactionPanelReclaimMTXMessage | 530 |  |
+|  | ShopPanelTitle | 531 |  |
+|  | ShopPanelBuyButton | 532 |  |
+|  | ShopPanelBuyButtonPopup | 533 |  |
+|  | ShopPanelYouSave | 534 |  |
+|  | ShopPanelBuyPointsButton | 535 |  |
+|  | ShopPanelBuyPointsButtonPopup | 536 |  |
+|  | ShopPanelGivePointsToGuildButton | 537 |  |
+|  | ShopPanelGivePointsToGuildButtonPopup | 538 |  |
+|  | ShopPanelGuildPointInfoLabel | 539 |  |
+|  | ShopPanelHomeButton | 540 |  |
+|  | ShopPanelDailyDealShortName | 541 |  |
+|  | ShopPanelHourlyDealShortName | 542 |  |
+|  | ShopPanelPercentOffEverything | 543 |  |
+|  | ShopPanelLoading | 544 |  |
+|  | ShopPanelError | 545 |  |
+|  | EscapeMenuResume | 546 |  |
+|  | EscapeMenuOptions | 547 |  |
+|  | EscapeMenuShop | 548 |  |
+|  | EscapeMenuExitToLogin | 549 |  |
+|  | EscapeMenuExitToCharacterSelect | 550 |  |
+|  | EscapeMenuExitToDesktop | 551 |  |
+|  | LoginStateConnectingToLoginServer | 552 |  |
+|  | LoginStateDefaultGatewayText | 553 |  |
+|  | LoginStateLoginMessageTitle | 554 |  |
+|  | LoginStateAbnormalDisconnectMessageTitle | 555 |  |
+|  | LoginStateDisconnectedMessageTitle | 556 |  |
+|  | LoginStateUnlockedMessageTitle | 557 |  |
+|  | LoginStateContactingServer | 558 |  |
+|  | LoginStateMOTDDownloading | 559 |  |
+|  | LoginStateMOTDError | 560 |  |
+|  | LoginStateNoGatewaySelected | 561 |  |
+|  | LoginStateAuthenticatingUser | 562 |  |
+|  | LoginStateFailedToLoadLoginDetails | 563 |  |
+|  | LoginStateFailedToLoadLoginDetailsMessageBox | 564 |  |
+|  | LoginStateAuthenticated | 565 |  |
+|  | LoginStateUnlockedMessageBox | 566 |  |
+|  | LoginStateQueuedServersNotOnline | 567 |  |
+|  | LoginStateQueuedServersFull | 568 |  |
+|  | LoginStateQueuedNumberInQueue | 569 |  |
+|  | LoginStatePasswordSavedDetailsEmptyMessage | 570 |  |
+|  | LoginStatePasswordEmptyMessage | 571 |  |
+|  | LoginStateSteamNetworkProblem | 572 |  |
+|  | LoginStateSteamLoginsExceeded | 573 |  |
+|  | LoginStateSteamDuplicateLogin | 574 |  |
+|  | LoginStateSteamNoConnection | 575 |  |
+|  | LoginStateSteamUnexpectedError | 576 |  |
+|  | LoginStateSteamUnableToGetAppTicket | 577 |  |
+|  | LoginStateWarnAboutHacks | 578 |  |
+|  | ClientLoginSessionUnableToConnect | 579 |  |
+|  | ClientLoginSessionConnected | 580 |  |
+|  | CharacterCreationScreenLeagueButtonText | 581 |  |
+|  | CharacterCreationScreenNameLabel | 582 |  |
+|  | CharacterCreationScreenPasswordLabel | 583 |  |
+|  | CharacterCreationScreenTitle | 584 |  |
+|  | WaitingStateContactingServer | 585 |  |
+|  | InventoryPanelTitle | 586 |  |
+|  | SocialPanelTitle | 587 |  |
+|  | SocialPanelFriendPageName | 588 |  |
+|  | SocialPanelGuildPageName | 589 |  |
+|  | SocialPanelCurrentPartyPageName | 590 |  |
+|  | SocialPanelCreatePartyPageName | 591 |  |
+|  | SocialPanelPublicPartyPageName | 592 |  |
+|  | SocialPanelGuildInviteLabel | 593 |  |
+|  | SocialPanelGuildInviteBox | 594 |  |
+|  | SocialPanelGuildInvitePopup | 595 |  |
+|  | SocialPanelFriendInviteLabel | 596 |  |
+|  | SocialPanelFriendInviteBox | 597 |  |
+|  | SocialPanelFriendInvitePopup | 598 |  |
+|  | SocialPanelPartyInviteLabel | 599 |  |
+|  | SocialPanelPartyInviteBox | 600 |  |
+|  | SocialPanelPartyInvitePopup | 601 |  |
+|  | SocialPanelPartySearchBarBox | 602 |  |
+|  | SocialPanelPartySearchBarUpdateButton | 603 |  |
+|  | SocialPanelFriendsPageOnline | 604 |  |
+|  | SocialPanelFriendsPageInvitationsRecieved | 605 |  |
+|  | SocialPanelFriendsPageOffline | 606 |  |
+|  | SocialPanelFriendsPageNotePopup | 607 |  |
+|  | SocialPanelGuildBarDefaultNameBox | 608 |  |
+|  | SocialPanelGuildBarCreateGuildButton | 609 |  |
+|  | SocialPanelGuildOptionsDefaultStatusBox | 610 |  |
+|  | SocialPanelGuildOptionsDefaultTag | 611 |  |
+|  | SocialPanelGuildOptionsStatusLabel | 612 |  |
+|  | SocialPanelGuildOptionsStatusUpdateButton | 613 |  |
+|  | SocialPanelGuildOptionsTagLabel | 614 |  |
+|  | SocialPanelGuildOptionsEditTagButton | 615 |  |
+|  | SocialPanelGuildOptionsEditTagPopup | 616 |  |
+|  | SocialPanelGuildOptionsUpdateStatusPopup | 617 |  |
+|  | SocialPanelGuildOptionsUpdateStatusPopupEmpty | 618 |  |
+|  | SocialPanelGuildPageGuildNameLabel | 619 |  |
+|  | LeaveGuildConfirmation | 620 |  |
+|  | Leave | 621 |  |
+|  | CancelGuildInviteConfirmation | 622 |  |
+|  | SocialPanelGuildPageLeaveGuildButton | 623 |  |
+|  | SocialPanelGuildPageCancelInviteButton | 624 |  |
+|  | SocialPanelGuildPageLeaderTitle | 625 |  |
+|  | SocialPanelGuildPageInvitationSent | 626 |  |
+|  | SocialPanelGuildPageInvitationsSent | 627 |  |
+|  | SocialPanelGuildPageInvitationReceived | 628 |  |
+|  | SocialPanelGuildPageInvitationsReceived | 629 |  |
+|  | SocialPanelGuildPageMember | 630 |  |
+|  | SocialPanelGuildPageMembers | 631 |  |
+|  | SocialPanelGuildPageOfficer | 632 |  |
+|  | SocialPanelGuildPageOfficers | 633 |  |
+|  | SocialPanelPartyNameBarDefaultBox | 634 |  |
+|  | SocialPanelPartyNameBarRenameButton | 635 |  |
+|  | SocialPanelPartyNameBarRenamePopup | 636 |  |
+|  | SocialPanelPartyNameBarMakePrivateButton | 637 |  |
+|  | SocialPanelPartyNameBarMakePrivatePopup | 638 |  |
+|  | SocialPanelPartyNameBarCancelButton | 639 |  |
+|  | SocialPanelPartyNameBarCancelPopup | 640 |  |
+|  | SocialPanelPartyNameBarCreatePublicButton | 641 |  |
+|  | SocialPanelPartyNameBarCreatePublicPopup | 642 |  |
+|  | SocialPanelMakePublicButton | 643 |  |
+|  | SocialPanelMakePublicPopup | 644 |  |
+|  | SocialPanelMakePrivateButton | 645 |  |
+|  | SocialPanelMakePrivatePopup | 646 |  |
+|  | SocialPanelCancelPartyButton | 647 |  |
+|  | SocialPanelCancelPartyPopup | 648 |  |
+|  | SocialPanelPartyOptionsAllocationMode | 649 |  |
+|  | SocialPanelPartyPageMessage | 650 |  |
+|  | SocialPanelPartyPageLeaderTitle | 651 |  |
+|  | SocialPanelPartyPageMember | 652 |  |
+|  | SocialPanelPartyPageMembers | 653 |  |
+|  | SocialPanelPartyPageInvitationSent | 654 |  |
+|  | SocialPanelPartyPageInvitationsSent | 655 |  |
+|  | SocialPanelPartyPageInvitationReceived | 656 |  |
+|  | SocialPanelPartyPageInvitationsReceived | 657 |  |
+|  | SocialPanelPartyPageLeaveButton | 658 |  |
+|  | SocialPanelPartyPageLeavePopup | 659 |  |
+|  | SocialPanelPartyPageCancelInviteButton | 660 |  |
+|  | SocialPanelPartyPageCancelInvitePopup | 661 |  |
+|  | Kick | 662 |  |
+|  | SocialPanelPartyPageKickPopup | 663 |  |
+|  | SocialPanelPublicPartyPlayerCount | 664 |  |
+|  | SocialPanelPublicPartyLevel | 665 |  |
+|  | SocialPanelPublicPartyLootPopupFFA | 666 |  |
+|  | SocialPanelPublicPartyLootPopupSA | 667 |  |
+|  | SocialPanelPublicPartyLootPopupPA | 668 |  |
+|  | SocialPanelPublicPartyPageNoParties | 669 |  |
+|  | SocialPanelPublicPartyPageNoMatches | 670 |  |
+|  | SocialPanelStatusBarDefaultMessage | 671 |  |
+|  | SocialPanelStatusBarSetStatusButton | 672 |  |
+|  | CharacterSelectionScreenShowAll | 673 |  |
+|  | CharacterSelectionJoinButtonText | 674 |  |
+|  | CharacterSelectionRegisterIn | 675 |  |
+|  | CharacterSelectionStartsIn | 676 |  |
+|  | CharacterSelectionEndsIn | 677 |  |
+|  | CharacterSelectionRegisterNow | 678 |  |
+|  | CharacterSelectionRunningNow | 679 |  |
+|  | CharacterSelectionExitButtonText | 680 |  |
+|  | CharacterSelectionLogoutButtonText | 681 |  |
+|  | CharacterSelectionOptionButtonText | 682 |  |
+|  | CharacterSelectionPasswordButtonText | 683 |  |
+|  | CharacterSelectionPlayButtonText | 684 |  |
+|  | CharacterSelectionDeleteButtonText | 685 |  |
+|  | CharacterSelectionCreateButtonText | 686 |  |
+|  | CharacterSelectionLoadingCharacters | 687 |  |
+|  | CharacterSelectionCreateCharacterTip | 688 |  |
+|  | CharacterSelectionLeagueLabel | 689 |  |
+|  | ChallengesPanelTitle | 690 |  |
+|  | GemLevelUpButton | 691 |  |
+|  | GemLevelUpButtonNotMet | 692 |  |
+|  | ItemRequirementsLabel | 693 |  |
+|  | HUDChangingAreaMessage | 694 |  |
+|  | HUDNoAllocatedSkillsMessageTitle | 695 |  |
+|  | HUDNoAllocatedSkillsMessageText | 696 |  |
+|  | HUDGemReadyToLevel | 697 |  |
+|  | HUDQuitTimerTitle | 698 |  |
+|  | HUDWaitingForPlayerTrade | 699 |  |
+|  | HUDContactAccountAndCharacter | 700 |  |
+|  | HUDContactAccount | 701 |  |
+|  | HUDContactOnline | 702 |  |
+|  | HUDContactOffline | 703 |  |
+|  | HUDContactAreaChanged | 704 |  |
+|  | HUDContactCharacterLevelChanged | 705 |  |
+|  | HUDContactChangedStatus | 706 |  |
+|  | HUDJoinedPartyMessage | 707 |  |
+|  | HUDLeftPartyMessage | 708 |  |
+|  | HUDCharacterInvitedToParty | 709 |  |
+|  | HUDCharacterJoinedParty | 710 |  |
+|  | HUDCharacterLeftParty | 711 |  |
+|  | HUDCharacterPromotedToPartyLeader | 712 |  |
+|  | HUDAccountInvitedToGuild | 713 |  |
+|  | HUDAccountJoinedGuild | 714 |  |
+|  | HUDAccountLeftGuild | 715 |  |
+|  | HUDJoinedGuildMessage | 716 |  |
+|  | HUDLeftGuildMessage | 717 |  |
+|  | GuildMemberTypeInvited | 718 |  |
+|  | GuildMemberTypeMember | 719 |  |
+|  | GuildMemberTypeOfficer | 720 |  |
+|  | GuildMemberTypeLeader | 721 |  |
+|  | HUDGuildDemotedMessage | 722 |  |
+|  | HUDGuildPromotedMessage | 723 |  |
+|  | HUDGuildMemberDemotedMessage | 724 |  |
+|  | HUDGuildMemberPromotedMessage | 725 |  |
+|  | HUDAchievementItemCompleteMessage | 726 |  |
+|  | HUDDeathMessageExitButton | 727 |  |
+|  | HUDDeathMessageExitButtonPopup | 728 |  |
+|  | HUDDeathMessageResurrectButton | 729 |  |
+|  | HUDDeathMessageResurrectInTownButton | 730 |  |
+|  | HUDDeathMessageResurrectAtCheckpointButton | 731 |  |
+|  | HUDStreamDisconnected | 732 |  |
+|  | HUDStreamConnected | 733 |  |
+|  | WorldPanelPinPopupClickToTravel | 734 |  |
+|  | WorldPanelPinPopupMonsterLevel | 735 |  |
+|  | WorldPanelPinPopupTown | 736 |  |
+|  | DailyDealLoading | 737 |  |
+|  | HourlyDealLoading | 738 |  |
+|  | DailyDealBalance | 739 |  |
+|  | DailyDealShopButtonPopup | 740 |  |
+|  | DailyDealShopNow | 741 |  |
+|  | DailyDealBuyNow | 742 |  |
+|  | DailyDealPercentOff | 743 |  |
+|  | HourlyDealPercentOff | 744 |  |
+|  | DailyDealTodaysPrice | 745 |  |
+|  | DailyDealPrice | 746 |  |
+|  | DailyDealBuyPointsNow | 747 |  |
+|  | InstanceChooserTitle | 748 |  |
+|  | InstanceChooserPlayersColumnHeading | 749 |  |
+|  | InstanceChooserPlayersColumnSubheading | 750 |  |
+|  | InstanceChooserTimeColumnHeading | 751 |  |
+|  | InstanceChooserTimeColumnSubheading | 752 |  |
+|  | InstanceChooserCreatedColumnHeading | 753 |  |
+|  | InstanceChooserRealmColumnHeading | 754 |  |
+|  | InstanceChooserLabel | 755 |  |
+|  | InstanceChooserEnterButton | 756 |  |
+|  | InstanceChooserNewButton | 757 |  |
+|  | InstanceChooserNewText | 758 |  |
+|  | InstanceChooserNewTimeText | 759 |  |
+|  | InstanceChooserNoPlayers | 760 |  |
+|  | InstanceChooserCreateTimeSameDay | 761 |  |
+|  | InstanceChooserCreateTimeOtherDay | 762 |  |
+|  | InstanceChooserClosed | 763 |  |
+|  | InstanceChooserTimeDay | 764 |  |
+|  | InstanceChooserTimeDays | 765 |  |
+|  | InstanceChooserTimeHour | 766 |  |
+|  | InstanceChooserTimeHours | 767 |  |
+|  | InstanceChooserTimeMinute | 768 |  |
+|  | InstanceChooserTimeMinutes | 769 |  |
+|  | LootOptionFreeForAll | 770 |  |
+|  | LootOptionFreeForAllDescription | 771 |  |
+|  | LootOptionShortAllocation | 772 |  |
+|  | LootOptionShortAllocationDescription | 773 |  |
+|  | LootOptionPermanentAllocation | 774 |  |
+|  | LootOptionPermanentAllocationDescription | 775 |  |
+|  | RewardWindowTitle | 776 |  |
+|  | RewardWindowInfo | 777 |  |
+|  | RewardWindowClosePopup | 778 |  |
+|  | ReportWindowTitle | 779 |  |
+|  | ReportWindowChoose | 780 |  |
+|  | ReportWindowHateSpeech | 781 |  |
+|  | ReportWindowOffensiveCharacterName | 782 |  |
+|  | ReportWindowHarassment | 783 |  |
+|  | ReportWindowSpam | 784 |  |
+|  | ReportWindowDisclaimer | 785 |  |
+|  | ReportWindowCharacterLabel | 786 |  |
+|  | ReportWindowMessageLabel | 787 |  |
+|  | ReportWindowAbuseTypeLabel | 788 |  |
+|  | ReportWindowAdditionalInfoLabel | 789 |  |
+|  | ReportWindowSubmitButtonText | 790 |  |
+|  | ReportWindowReportSent | 791 |  |
+|  | AchievementCompleteAchievement | 792 |  |
+|  | AchievementCompleteChallenge | 793 |  |
+|  | TwitchAPIFailedToInitialise | 794 |  |
+|  | TwitchAPIErrorLoggingIn | 795 |  |
+|  | TwitchAPIInvalidBitrate | 796 |  |
+|  | TwitchAPIInvalidFPS | 797 |  |
+|  | TwitchAPIInvalidFrameHeight | 798 |  |
+|  | TwitchAPIFailedToStartServerTest | 799 |  |
+|  | TwitchAPIErrorStoppingStream | 800 |  |
+|  | TwitchAPIErrorPausingStream | 801 |  |
+|  | TwitchAPIFrameQueueTooLong | 802 |  |
+|  | TwitchAPIErrorSendingFrame | 803 |  |
+|  | TwitchAPIErrorSendingFrameDisconnect | 804 |  |
+|  | TwitchAPIErrorStartingStream | 805 |  |
+|  | TwitchAPIFailedToSendVideoDuringServerTest | 806 |  |
+|  | TwitchAPIFailedToDetermineBitrateToServer | 807 |  |
+|  | TwitchAPIErrorDuringServerTest | 808 |  |
+|  | TwitchAPIFailedToStartStreaming | 809 |  |
+|  | TwitchAPIInvalidLogIn | 810 |  |
+|  | TwitchAPIFailedToReceiveServerList | 811 |  |
+|  | TwitchChatAPIConnecting | 812 |  |
+|  | TwitchChatAPIConnected | 813 |  |
+|  | TwitchChatAPIFailedToConnect | 814 |  |
+|  | TwitchChatAPILostConnection | 815 |  |
+|  | TwitchChatAPIUserLeftChannel | 816 |  |
+|  | TwitchChatAPIUserJoinedChannel | 817 |  |
+|  | PlayerContextMenuWaitingForDetails | 818 |  |
+|  | PlayerContextMenuLeavePartyButton | 819 |  |
+|  | PlayerContextMenuLeaveGuildButton | 820 |  |
+|  | PlayerContextMenuWhisper | 821 |  |
+|  | PlayerContextMenuTrade | 822 |  |
+|  | PlayerContextMenuEditNote | 823 |  |
+|  | PlayerContextMenuUnfriend | 824 |  |
+|  | PlayerContextMenuAddFriend | 825 |  |
+|  | PlayerContextMenuIgnore | 826 |  |
+|  | PlayerContextMenuUnignore | 827 |  |
+|  | PlayerContextMenuReport | 828 |  |
+|  | PlayerContextMenuPartyInvite | 829 |  |
+|  | PlayerContextMenuPartyKick | 830 |  |
+|  | PlayerContextMenuGuildInvite | 831 |  |
+|  | PlayerContextMenuGuildInviteCancel | 832 |  |
+|  | PlayerContextMenuGuildKick | 833 |  |
+|  | PlayerContextMenuGuildPromoteOfficer | 834 |  |
+|  | PlayerContextMenuGuildPromoteLeader | 835 |  |
+|  | PlayerContextMenuGuildDemoteFromOfficer | 836 |  |
+|  | PlayerContextMenuDuel | 837 |  |
+|  | PlayerContextMenuSectionModeration | 838 |  |
+|  | PlayerContextMenuCopyAccountName | 839 |  |
+|  | PlayerContextMenuCopyCharacterName | 840 |  |
+|  | PlayerContextMenuNoOptions | 841 |  |
+|  | PlayerContextMenuUnfriendConfirmation | 842 |  |
+|  | PlayerContextMenuGuildKickConfirmation | 843 |  |
+|  | Promote | 844 |  |
+|  | PlayerContextMenuGuildPromoteLeaderComfirmation | 845 |  |
+|  | ItemPopupRequirements | 846 |  |
+|  | TradeNoSpace | 847 |  |
+|  | TradeMouseEachItem | 848 |  |
+|  | TradeWindowAccept | 849 |  |
+|  | TradeWindowAccepted | 850 |  |
+|  | TradeWindowCancelAccept | 851 |  |
+|  | TradeWindowYourOffer | 852 |  |
+|  | TradeWindowOtherOffer | 853 |  |
+|  | TradeWindowPlaceItemsHere | 854 |  |
+|  | SkillPopupNotEnoughSouls | 855 |  |
+|  | SkillPopupNotEnoughLife | 856 |  |
+|  | SkillPopupNotEnoughMana | 857 |  |
+|  | SkillPopupSkillUnusable | 858 |  |
+|  | SkillPopupDisabledInTown | 859 |  |
+|  | SkillPopupDetonateMinesDescription | 860 |  |
+|  | SkillPopupClearThisSlot | 861 |  |
+|  | SkillPopupMoveOnly | 862 |  |
+|  | ChatBoxChannelPopupGlobal | 863 |  |
+|  | ChatBoxChannelPopupTrade | 864 |  |
+|  | ChatBoxChannelLabel | 865 |  |
+|  | ChatBoxChannelLabelRealm | 866 |  |
+|  | InGameStateCannotDestroyCosmetic | 867 |  |
+|  | InGameStateCannotDropInTown | 868 |  |
+|  | InGameStateCannotDropCosmetic | 869 |  |
+|  | InGameStateWarningDestroyItemWithGems | 870 |  |
+|  | InGameStateWarningDropItemWithGems | 871 |  |
+|  | InGameStateDrop | 872 |  |
+|  | InGameStateDestroy | 873 |  |
+|  | InGameStateKeep | 874 |  |
+|  | ScreenshotSaved | 875 |  |
+|  | DeathScreenTitle | 876 |  |
+|  | TooLowLevelToSendChatTrade | 877 |  |
+|  | TooLowLevelToSendChatGlobal | 878 |  |
+|  | ItemDescriptionFlask | 879 |  |
+|  | ItemDescriptionFlaskUtility1 | 880 |  |
+|  | ItemDescriptionSkillGem | 881 |  |
+|  | ItemDescriptionActiveSkillGem | 882 |  |
+|  | ItemDescriptionSupportSkillGem | 883 |  |
+|  | ItemDescriptionMapFragment | 884 |  |
+|  | ItemDescriptionPantheonVessel | 885 |  |
+|  | ItemDescriptionPantheonSoul | 886 |  |
+|  | ItemDescriptionLabyrinthMapItem | 887 |  |
+|  | ItemDescriptionBreachMapItem | 888 |  |
+|  | ItemDescriptionBreachMapItemChaos | 889 |  |
+|  | ItemDescriptionBreachMapItemFire | 890 |  |
+|  | ItemDescriptionBreachMapItemCold | 891 |  |
+|  | ItemDescriptionBreachMapItemLightning | 892 |  |
+|  | ItemDescriptionBreachMapItemPhysical | 893 |  |
+|  | ItemDescriptionMap | 894 |  |
+|  | ItemDescriptionBanditRespecAlira | 895 |  |
+|  | ItemDescriptionBanditRespecEramir | 896 |  |
+|  | ItemDescriptionBanditRespecKraityn | 897 |  |
+|  | ItemDescriptionBanditRespecOak | 898 |  |
+|  | ItemDescriptionBookPassivePoint | 899 |  |
+|  | ItemDescriptionBook2RespecPoints | 900 |  |
+|  | ItemDescriptionBookPassivePointAnd2RespecPoints | 901 |  |
+|  | ItemDescriptionBook2PassivePoints | 902 |  |
+|  | ItemDescriptionBookDelevel | 903 |  |
+|  | ItemFunctionBanditRespecAlira | 904 |  |
+|  | ItemFunctionBanditRespecEramir | 905 |  |
+|  | ItemFunctionBanditRespecKraityn | 906 |  |
+|  | ItemFunctionBanditRespecOak | 907 |  |
+|  | ItemFunctionPassivePoint | 908 |  |
+|  | ItemFunction2PassivePoints | 909 |  |
+|  | ItemFunction2RespecPoints | 910 |  |
+|  | ItemFunctionPassivePointAnd2RespecPoints | 911 |  |
+|  | ItemFunctionDelevel | 912 |  |
+|  | QualityMax | 913 |  |
+|  | TradeItemWithGemsWarning | 914 |  |
+|  | TradeItemHasGem | 915 |  |
+|  | TradeItemGemConfirmation | 916 |  |
+|  | TradeItemCosmetic | 917 |  |
+|  | ItemAlreadyHasCosmetic | 918 |  |
+|  | CannotApplyCosmeticBecauseUreclaimable | 919 |  |
+|  | CannotApplyCosmeticMustReclaim | 920 |  |
+|  | SkinTransferExplanation | 921 |  |
+|  | Apply | 922 |  |
+|  | CreateCharacterStateTitlebarHintChooseLeague | 923 |  |
+|  | CreateCharacterStateTitlebarHintChooseClass | 924 |  |
+|  | CreateCharacterStateTitlebarHintChooseName | 925 |  |
+|  | CreateCharacterStateNoClassSelected | 926 |  |
+|  | CreateCharacterStateHardcoreWarning | 927 |  |
+|  | CreateCharacterStateHardcore | 928 |  |
+|  | CreateCharacterStateAwaitingResponse | 929 |  |
+|  | CreateCharacterStateHardcoreConfirmationTitle | 930 |  |
+|  | CreateCharacterStateHardcoreConfirmationText | 931 |  |
+|  | CreateCharacterStateLeaguePasswordEmptyText | 932 |  |
+|  | CreateCharacterStateChallengeLeaguesTitle | 933 |  |
+|  | CreateCharacterStateChallengeLeagueDescriptionGarena | 934 |  |
+|  | CreateCharacterStateChallengeLeagueDescription | 935 |  |
+|  | CreateCharacterStateNextChallengeLeagueDescriptionGarena | 936 |  |
+|  | CreateCharacterStateNextChallengeLeagueDescription | 937 |  |
+|  | CreateCharacterStatePVPOnly | 938 |  |
+|  | ObjectDisplayTextPlayer | 939 |  |
+|  | ObjectDisplayTextChest | 940 |  |
+|  | ObjectDisplayTextChestDescent1 | 941 |  |
+|  | ObjectDisplayTextChestDescent2 | 942 |  |
+|  | ObjectDisplayTextChestProvisions | 943 |  |
+|  | ObjectDisplayTextStash | 944 |  |
+|  | ObjectDisplayTextChestSarcophagus | 945 |  |
+|  | ObjectDisplayTextAltar | 946 |  |
+|  | ObjectDisplayTextAreaTransition | 947 |  |
+|  | ObjectDisplayTextDoor | 948 |  |
+|  | ObjectDisplayTextFountain | 949 |  |
+|  | ObjectDisplayTextGuildStash | 950 |  |
+|  | ObjectDisplayTextMapDevice | 951 |  |
+|  | ObjectDisplayTextMapPortal | 952 |  |
+|  | ObjectDisplayTextDailyMissionPortal | 953 |  |
+|  | ObjectDisplayTextMapReturnPortal | 954 |  |
+|  | ObjectDisplayTextNoticeboard | 955 |  |
+|  | ObjectDisplayTextPvPNoticeboard | 956 |  |
+|  | ObjectDisplayTextTownPortal | 957 |  |
+|  | ObjectDisplayTextTownReturnPortal | 958 |  |
+|  | ObjectDisplayTextWaypoint | 959 |  |
+|  | ObjectDisplayTextNPC | 960 |  |
+|  | ObjectDisplayTextDarkAltar | 961 |  |
+|  | ObjectDisplayTextScionCage | 962 |  |
+|  | ObjectDisplayTextMineEntranceSeal | 963 |  |
+|  | ObjectDisplayTextLockedDoor | 964 |  |
+|  | ObjectDisplayTextSceptreOfGod | 965 |  |
+|  | ObjectDisplayTextAncientSeal | 966 |  |
+|  | ObjectDisplayTextPoisonTree | 967 |  |
+|  | ObjectDisplayTextLooseCandle | 968 |  |
+|  | ObjectDisplayTextPortal | 969 |  |
+|  | ObjectDisplayTextBlockage | 970 |  |
+|  | ObjectDisplayTextLooseGrate | 971 |  |
+|  | ObjectDisplayTextSewerGrating | 972 |  |
+|  | ObjectDisplayTextThaumeticSeal | 973 |  |
+|  | ObjectDisplayTextGlyphWall | 974 |  |
+|  | ObjectDisplayTextShrine | 975 |  |
+|  | ObjectDisplayTextLegendsGlyph1 | 976 |  |
+|  | ObjectDisplayTextLegendsGlyph2 | 977 |  |
+|  | ObjectDisplayTextLegendsGlyph3 | 978 |  |
+|  | ObjectDisplayTextLegendsGlyph4 | 979 |  |
+|  | ObjectDisplayTextLegendsGlyphMain | 980 |  |
+|  | ObjectDisplayTextLockedChest | 981 |  |
+|  | ObjectDisplayTextFairgravesTreasureIsland | 982 |  |
+|  | ObjectDisplayTextBlueFlag | 983 |  |
+|  | ObjectDisplayTextRedFlag | 984 |  |
+|  | ObjectDisplayTextGreenFlag | 985 |  |
+|  | ObjectDisplayTextHakuSpirit | 986 |  |
+|  | ObjectDisplayTextVinktarStaffHolder | 987 |  |
+|  | ObjectDisplayTextDarkshrine | 988 |  |
+|  | ObjectDisplayTextLabyrinthDarkshrine | 989 |  |
+|  | ObjectDisplayTextStatue | 990 |  |
+|  | ObjectDisplayTextAscendancyPlaque | 991 |  |
+|  | ObjectDisplayTextTrialOfAscendancyPlaque | 992 |  |
+|  | ObjectDisplayTextChargeDisruptors | 993 |  |
+|  | PlayerAccountOptionsPopup | 994 |  |
+|  | QualityItem | 995 |  |
+|  | ChangePasswordStateChangePasswordButton | 996 |  |
+|  | ChangePasswordStateRetypePassword | 997 |  |
+|  | ChangePasswordStateNewPassword | 998 |  |
+|  | ChangePasswordStateOldPassword | 999 |  |
+|  | ChangePasswordStateMessageEnterOldPassword | 1000 |  |
+|  | ChangePasswordStateMessageEnterNewPassword | 1001 |  |
+|  | ChangePasswordStateMessageOldAndNewMustDiffer | 1002 |  |
+|  | ChangePasswordStateMessageRetypeNewPassword | 1003 |  |
+|  | ChangePasswordStateMessageNewAndRetypeMustMatch | 1004 |  |
+|  | SaveChangesPromptMessage | 1005 |  |
+|  | SaveChangesPromptSave | 1006 |  |
+|  | SaveChangesPromptDontSave | 1007 |  |
+|  | DeleteCharacterStatePrompt | 1008 |  |
+|  | DeleteCharacterStateStashWarning | 1009 |  |
+|  | DeleteCharacterStateWaitingForResponse | 1010 |  |
+|  | MapDeviceWindowTitle | 1011 |  |
+|  | LabyrinthAscendancyWindowTitle | 1012 |  |
+|  | CadiroOfferWindowTitle | 1013 |  |
+|  | LabyrinthCraftingWindowTitle | 1014 |  |
+|  | LabyrinthCraftingWindowDescription | 1015 |  |
+|  | LabyrinthCraftingWindowDescriptionCruel | 1016 |  |
+|  | LabyrinthCraftingWindowDescriptionMerciless | 1017 |  |
+|  | LabyrinthCraftingWindowDescriptionMap | 1018 |  |
+|  | TalismanWindowTitle | 1019 |  |
+|  | TalismanWindowButton | 1020 |  |
+|  | TalismanWindowDescription | 1021 |  |
+|  | AscendancyMapWindowTitle | 1022 |  |
+|  | AscendancyMapAreaNotComplete | 1023 |  |
+|  | AscendancyMapAreaComplete | 1024 |  |
+|  | AscendancyMapUnknownArea | 1025 |  |
+|  | AscendancyClassSelectorWindowDescription | 1026 |  |
+|  | AscendancyClassSelectorWindowNextButton | 1027 |  |
+|  | AscendancyClassSelectorWindowBackButton | 1028 |  |
+|  | AscendancyClassSelectorWindowSelectButton | 1029 |  |
+|  | AscendancyClassSelectorWindowChangeButton | 1030 |  |
+|  | AscendancyClassSelectorWindowChangeButtonHoverCanChange | 1031 |  |
+|  | AscendancyClassSelectorWindowChangeButtonHoverCannotChange | 1032 |  |
+|  | AscendancyClassSelectorWindowCloseButtonHover | 1033 |  |
+|  | MapDeviceWindowActivateButton | 1034 |  |
+|  | CadiroOfferWindowActivateButton | 1035 |  |
+|  | CadiroOfferWindowItemOnCursorError | 1036 |  |
+|  | DefaultPortalEffect | 1037 |  |
+|  | DefaultPortraitFrame | 1038 |  |
+|  | DefaultCharacterPortrait | 1039 |  |
+|  | StashPanelTitle | 1040 |  |
+|  | StashPanelSearchLabel | 1041 |  |
+|  | StashPanelSearchTextboxDefault | 1042 |  |
+|  | StashPanelSearchInfo | 1043 |  |
+|  | StashTabRemoveOnly | 1044 |  |
+|  | StashTabRemoveOnlyDescription | 1045 |  |
+|  | StashTabPremiumPopup | 1046 |  |
+|  | RevertDisplayScreenKeepChangesButton | 1047 |  |
+|  | RevertDisplayScreenRevertChangesButton | 1048 |  |
+|  | RevertDisplayScreenApplyingDisplaySettings | 1049 |  |
+|  | RevertDisplayScreenKeepChangesPrompt | 1050 |  |
+|  | RevertDisplayScreenRevertTimer | 1051 |  |
+|  | MicrotransactionPreviewWindowPurchaseSuccessful | 1052 |  |
+|  | MicrotransactionPreviewWindowYouSaveLabel | 1053 |  |
+|  | MicrotransactionPreviewWindowBuyPointsButton | 1054 |  |
+|  | MicrotransactionPreviewWindowGivePointsToGuildButton | 1055 |  |
+|  | MicrotransactionPreviewWindowBuyPointsButtonPopup | 1056 |  |
+|  | MicrotransactionPreviewWindowGivePointsToGuildButtonPopup | 1057 |  |
+|  | MicrotransactionPreviewWindowBuyButton | 1058 |  |
+|  | MicrotransactionPreviewWindowPurchasing | 1059 |  |
+|  | MicrotransactionPreviewWindowMustPurchaseFromWebsite | 1060 |  |
+|  | MicrotransactionPreviewWindowPreviewVideo | 1061 |  |
+|  | MicrotransactionPreviewWindowPreviewVideoPopup | 1062 |  |
+|  | MicrotransactionPreviewWindowBuyFor | 1063 |  |
+|  | MicrotransactionPreviewWindowMyself | 1064 |  |
+|  | GuildStashPanelTitle | 1065 |  |
+|  | GuildStashPanelEmptyLeader | 1066 |  |
+|  | GuildStashPanelEmpty | 1067 |  |
+|  | SellWindowTitle | 1068 |  |
+|  | SellWindowEmptyMessage | 1069 |  |
+|  | Accept | 1070 |  |
+|  | Decline | 1071 |  |
+|  | BuyWindowTitle | 1072 |  |
+|  | BuyWindowText | 1073 |  |
+|  | GuildTagEditorTitle | 1074 |  |
+|  | GuildTagEditorDescription | 1075 |  |
+|  | GuildTagEditorUpdateButton | 1076 |  |
+|  | GuildTagEditorConfirmation1 | 1077 |  |
+|  | GuildTagEditorConfirmation2 | 1078 |  |
+|  | GuildTagEditorTagNotSet | 1079 |  |
+|  | GuildTagEditorNewTag | 1080 |  |
+|  | FriendInviteNotification | 1081 |  |
+|  | PartyInviteNotification | 1082 |  |
+|  | TradeRequestNotification | 1083 |  |
+|  | ItemNoCosmeticsReclaim | 1084 |  |
+|  | GuildInviteNotification | 1085 |  |
+|  | GemOnGroundLevel | 1086 |  |
+|  | PVPQueueChallengeTitle | 1087 |  |
+|  | PVPQueueMatchmakingTitle | 1088 |  |
+|  | PVPQueueCancelButton | 1089 |  |
+|  | PVPQueueWithdraw | 1090 |  |
+|  | WaitingForAccept | 1091 |  |
+|  | PVPQueueOtherPlayer | 1092 |  |
+|  | PVPQueueOtherPlayers | 1093 |  |
+|  | PVPQueueFindingMatchFor | 1094 |  |
+|  | PVPQueueWaitingForNextRound | 1095 |  |
+|  | PVPMatchListJoinButton | 1096 |  |
+|  | PVPMatchQueued | 1097 |  |
+|  | PVPMatchListTitle | 1098 |  |
+|  | PVPMatchListCannotJoin | 1099 |  |
+|  | PVPMatchListCannotJoinLevelTooHigh | 1100 |  |
+|  | PVPMatchListCannotJoinTeamTooLarge | 1101 |  |
+|  | PVPMatchListCannotJoinLevel1 | 1102 |  |
+|  | PVPMatchListCannotJoinWrongLeague | 1103 |  |
+|  | PVPMatchListCannotJoinQuestCap | 1104 |  |
+|  | PVPMatchListCategoryName | 1105 |  |
+|  | PVPMatchListCategoryLevelCap | 1106 |  |
+|  | PVPMatchListCategoryNumberInQueue | 1107 |  |
+|  | PVPReadyForNextRound | 1108 |  |
+|  | PVPLeaveSpectating | 1109 |  |
+|  | PlayerCharacterInfoLevelClass | 1110 |  |
+|  | PlayerCharacterInfoLevel | 1111 |  |
+|  | PlayerCharacterInfoClass | 1112 |  |
+|  | FriendNoteEditorTitle | 1113 |  |
+|  | FriendNoteEditorUpdateButton | 1114 |  |
+|  | FriendNoteEditorLabel | 1115 |  |
+|  | GuildTabPermissionsTitle | 1116 |  |
+|  | GuildTabPermissionsMemberType | 1117 |  |
+|  | GuildTabPermissionsAdd | 1118 |  |
+|  | GuildTabPermissionsView | 1119 |  |
+|  | GuildTabPermissionsRemove | 1120 |  |
+|  | StashTabEditorNameLabel | 1121 |  |
+|  | StashTabEditorPubliclyListedLabel | 1122 |  |
+|  | TabContainerAddTabPopupText | 1123 |  |
+|  | ItemCosmeticGuildStash | 1124 |  |
+|  | ItemGuildStashConfirmation | 1125 |  |
+|  | PvPNotificationStatusMessageParty | 1126 |  |
+|  | PvPNotificationStatusMessageYou | 1127 |  |
+|  | PvPNotificationSystemChallenge | 1128 |  |
+|  | MagicNamePrefix | 1129 |  |
+|  | MagicNameSuffix | 1130 |  |
+|  | MagicNamePrefixSuffix | 1131 |  |
+|  | ShopPanelOnSale | 1132 |  |
+|  | MicrotransactionPanelTip | 1133 |  |
+|  | CreditsLeadDesigner | 1134 |  |
+|  | CreditsLeadProgrammer | 1135 |  |
+|  | CreditsLeadArtist | 1136 |  |
+|  | CreditsProgramming | 1137 |  |
+|  | CreditsAdditionalProgramming | 1138 |  |
+|  | CreditsArt | 1139 |  |
+|  | CreditsAdditionalArt | 1140 |  |
+|  | CreditsDesign | 1141 |  |
+|  | CreditsAdditionalDesign | 1142 |  |
+|  | CreditsLevelDesign | 1143 |  |
+|  | CreditsAudio | 1144 |  |
+|  | CreditsAdditionalAudio | 1145 |  |
+|  | CreditsMusic | 1146 |  |
+|  | CreditsAdditionalMusic | 1147 |  |
+|  | CreditsWriting | 1148 |  |
+|  | CreditsAdditionalWriting | 1149 |  |
+|  | CreditsProduction | 1150 |  |
+|  | CreditsQualityAssurance | 1151 |  |
+|  | CreditsAdditionalQualityAssurance | 1152 |  |
+|  | CreditsServerAdministration | 1153 |  |
+|  | CreditsVoiceActingDirectorAndProducer | 1154 |  |
+|  | CreditsVoiceActors | 1155 |  |
+|  | CreditsSpecialThanks | 1156 |  |
+|  | CreditsFounderManagingDirector | 1157 |  |
+|  | CreditsFounderTechnicalDirector | 1158 |  |
+|  | CreditsFounderCreativeDirector | 1159 |  |
+|  | CreditsFounder | 1160 |  |
+|  | CreditsMarketingDirector | 1161 |  |
+|  | CreditsCustomerSupportManager | 1162 |  |
+|  | CreditsCustomerSupportSupervisor | 1163 |  |
+|  | CreditsITAdministration | 1164 |  |
+|  | CreditsAccounting | 1165 |  |
+|  | CreditsOfficeManagement | 1166 |  |
+|  | CreditsCustomerSupport | 1167 |  |
+|  | CreditsCommunitySupporters | 1168 |  |
+|  | CreateCharacterStateChallengeLeagueAdvertisementHardcore | 1169 |  |
+|  | CreateCharacterStateChallengeLeagueAdvertisement | 1170 |  |
+|  | Month1 | 1171 |  |
+|  | Month2 | 1172 |  |
+|  | Month3 | 1173 |  |
+|  | Month4 | 1174 |  |
+|  | Month5 | 1175 |  |
+|  | Month6 | 1176 |  |
+|  | Month7 | 1177 |  |
+|  | Month8 | 1178 |  |
+|  | Month9 | 1179 |  |
+|  | Month10 | 1180 |  |
+|  | Month11 | 1181 |  |
+|  | Month12 | 1182 |  |
+|  | PVPDisplayFight | 1183 |  |
+|  | PVPDisplayWaiting | 1184 |  |
+|  | PVPDisplaySpectating | 1185 |  |
+|  | PVPDisplayStarting | 1186 |  |
+|  | PVPDisplayRound | 1187 |  |
+|  | CreateCharacterStateChallengeLeagueAdvertisementGarena | 1188 |  |
+|  | CreateCharacterStateChallengeLeagueAdvertisementHardcoreGarena | 1189 |  |
+|  | ItemPopupExpiresIn | 1190 |  |
+|  | ItemPopupItemExpired | 1191 |  |
+|  | ItemPopupEffectExpired | 1192 |  |
+|  | ItemErrorItemInTrade | 1193 |  |
+|  | ItemErrorLockedToCharacter | 1194 |  |
+|  | ItemErrorLockedToAccount | 1195 |  |
+|  | ItemErrorItemUnusable | 1196 |  |
+|  | ItemErrorTargetCorrupted | 1197 |  |
+|  | ItemErrorItemCannotBeCorrupted | 1198 |  |
+|  | ItemErrorFailedToCorrupt | 1199 |  |
+|  | ItemErrorItemInRemoveOnlyTab | 1200 |  |
+|  | ItemErrorItemEquipped | 1201 |  |
+|  | ItemErrorNoTargetItem | 1202 |  |
+|  | ItemErrorNoTargetChest | 1203 |  |
+|  | ItemErrorTargetTooFarAway | 1204 |  |
+|  | ItemErrorTargetNotIdentified | 1205 |  |
+|  | ItemErrorTargetAlreadyIdentified | 1206 |  |
+|  | ItemErrorItemCannotBeIdentified | 1207 |  |
+|  | ItemErrorItemNotWeapon | 1208 |  |
+|  | ItemErrorItemNotArmour | 1209 |  |
+|  | ItemErrorItemNotFlask | 1210 |  |
+|  | ItemErrorItemNotMap | 1211 |  |
+|  | ItemErrorItemNotAtlasMap | 1212 |  |
+|  | ItemErrorItemNotSkillGem | 1213 |  |
+|  | ItemErrorNotDivinationCard | 1214 |  |
+|  | ItemErrorNotFullStackOfDivinationCards | 1215 |  |
+|  | ItemErrorItemMirrored | 1216 |  |
+|  | ItemErrorItemCannotBeMirrored | 1217 |  |
+|  | ItemErrorItemAtMaxQuality | 1218 |  |
+|  | ItemErrorItemNoSockets | 1219 |  |
+|  | ItemErrorItemFixedSockets | 1220 |  |
+|  | ItemErrorFailedToRerollSockets | 1221 |  |
+|  | ItemErrorSocketsNotEmpty | 1222 |  |
+|  | ItemErrorItemAlreadyFullyLinked | 1223 |  |
+|  | ItemErrorItemAlreadyFullSockets | 1224 |  |
+|  | ItemErrorItemCannotIncreaseRarity | 1225 |  |
+|  | ItemErrorTargetNotNormal | 1226 |  |
+|  | ItemErrorTargetNotMagic | 1227 |  |
+|  | ItemErrorTargetNotRare | 1228 |  |
+|  | ItemErrorTargetNotMagicOrRare | 1229 |  |
+|  | ItemErrorTargetNoMods | 1230 |  |
+|  | ItemErrorCannotApplyToThisStrongbox | 1231 |  |
+|  | ItemErrorCannotApplyToStrongbox | 1232 |  |
+|  | ItemErrorNotInThisLeague | 1233 |  |
+|  | ItemErrorCannotApplyToTarget | 1234 |  |
+|  | ItemErrorTargetHasExistingMtx | 1235 |  |
+|  | ItemErrorCannotBeUsedInTown | 1236 |  |
+|  | ItemErrorMustBeUsedInTownOrHideout | 1237 |  |
+|  | ItemErrorCannotBeUsedInPVP | 1238 |  |
+|  | ItemErrorFailedToPlacePortal | 1239 |  |
+|  | ItemErrorFailedToGenerateMod | 1240 |  |
+|  | ItemErrorNotEnoughCharges | 1241 |  |
+|  | ItemErrorNoEffect | 1242 |  |
+|  | ItemErrorItemOnCursor | 1243 |  |
+|  | ItemErrorWrongDanceClass | 1244 |  |
+|  | ItemErrorItemCannotBeImprinted | 1245 |  |
+|  | ItemErrorItemImprintMismatch | 1246 |  |
+|  | ItemErrorBanditQuestIncomplete | 1247 |  |
+|  | ItemErrorBanditNoPassive | 1248 |  |
+|  | ItemErrorBanditAlreadyAlira | 1249 |  |
+|  | ItemErrorBanditAlreadyOak | 1250 |  |
+|  | ItemErrorBanditAlreadyKraityn | 1251 |  |
+|  | ItemErrorBanditAlreadyEramir | 1252 |  |
+|  | ItemErrorDelevelNoPassive | 1253 |  |
+|  | ItemErrorDelevelLevelTooLow | 1254 |  |
+|  | ItemErrorCannotReskin | 1255 |  |
+|  | ItemErrorReskinTypeMismatch | 1256 |  |
+|  | ItemErrorItemTooManyMods | 1257 |  |
+|  | ItemErrorWrongBaseType | 1258 |  |
+|  | ItemErrorNotStrongbox | 1259 |  |
+|  | ItemErrorStrongboxOpen | 1260 |  |
+|  | ItemErrorStrongboxLocked | 1261 |  |
+|  | ItemErrorFailedRerollImplicit | 1262 |  |
+|  | ItemErrorFailedChance | 1263 |  |
+|  | ItemErrorFailedRerollLinks | 1264 |  |
+|  | ItemErrorFailedRerollSockets | 1265 |  |
+|  | ItemErrorGenericFailure | 1266 |  |
+|  | ItemErrorMustBeInHideout | 1267 |  |
+|  | ItemErrorMustBeInIzaroObjective | 1268 |  |
+|  | ItemErrorHasExpiryHideoutDoodad | 1269 |  |
+|  | ItemErrorDoodadCanNotBePlacedHere | 1270 |  |
+|  | ItemErrorTargetHasMtx | 1271 |  |
+|  | ItemErrorMapAlreadyUpgraded | 1272 |  |
+|  | ItemErrorMapAlreadyHasMod | 1273 |  |
+|  | ItemErrorMapTooHighLevel | 1274 |  |
+|  | ItemErrorMapIncorrectTier | 1275 |  |
+|  | ItemErrorNoValidUnique | 1276 |  |
+|  | OptionsEnableTutorialsPopup | 1277 |  |
+|  | OptionsEnableTutorialsLabel | 1278 |  |
+|  | EventsPanelTitle | 1279 |  |
+|  | EventsPanelScheduleTabTitle | 1280 |  |
+|  | EventsPanelMatchmakingTabTitle | 1281 |  |
+|  | EventsPanelNotificationOptionsShortcut | 1282 |  |
+|  | EventsPanelNotificationOptionsShortcutPopup | 1283 |  |
+|  | EventsPanelJoinLeagueEventMessage | 1284 |  |
+|  | EventsPanelNoEvents | 1285 |  |
+|  | EventsPanelNoMatchmaking | 1286 |  |
+|  | EventsPanelScheduleLink | 1287 |  |
+|  | EventsPanelScheduleLinkHover | 1288 |  |
+|  | OptionsPanelEventsPanelShortcut | 1289 |  |
+|  | OptionsPanelEventsPanelShortcutPopup | 1290 |  |
+|  | ShopButton | 1291 |  |
+|  | NPCExperienceBarLevel | 1292 |  |
+|  | NPCExperienceBarMaxLevel | 1293 |  |
+|  | NPCExperienceBarXP | 1294 |  |
+|  | QuestTrackingGoTo1 | 1295 |  |
+|  | QuestTrackingGoTo2 | 1296 |  |
+|  | QuestTrackingGoTo3 | 1297 |  |
+|  | QuestTrackerOptional | 1298 |  |
+|  | TimeYears1 | 1299 |  |
+|  | TimeYearsN | 1300 |  |
+|  | TimeMonths1 | 1301 |  |
+|  | TimeMonthsN | 1302 |  |
+|  | TimeWeeks1 | 1303 |  |
+|  | TimeWeeksN | 1304 |  |
+|  | ItemErrorFirstItemHasMtx | 1305 |  |
+|  | WitchMissionCorpseText | 1306 |  |
+|  | ObjectDisplayTextStrCraftingBench | 1307 |  |
+|  | ObjectDisplayTextStrIntCraftingBench | 1308 |  |
+|  | ObjectDisplayTextDexCraftingBench | 1309 |  |
+|  | ObjectDisplayTextIntCraftingBench | 1310 |  |
+|  | ObjectDisplayTextStrDexCraftingBench | 1311 |  |
+|  | ObjectDisplayTextDexIntCraftingBench | 1312 |  |
+|  | ObjectDisplayTextStrDexIntMappingDevice | 1313 |  |
+|  | ObjectDisplayTextPvPCraftingBench | 1314 |  |
+|  | ItemPopupCost | 1315 |  |
+|  | ArenaScoreboard | 1316 |  |
+|  | TutorialFirstSkillGemOpenMenu | 1317 |  |
+|  | TutorialFirstSkillGemClickOnInventoryButton | 1318 |  |
+|  | TutorialFirstSkillGemHowToSocket | 1319 |  |
+|  | TutorialGemLevelUpClickButton | 1320 |  |
+|  | TutorialIdentification | 1321 |  |
+|  | TutorialLevelUp | 1322 |  |
+|  | TutorialLowLife | 1323 |  |
+|  | TutorialMove | 1324 |  |
+|  | TutorialQuestRewardActiveSkillGem | 1325 |  |
+|  | TutorialQuestRewardSupportGem | 1326 |  |
+|  | TutorialRemoveGem | 1327 |  |
+|  | TutorialShowMap | 1328 |  |
+|  | TutorialWaypointsExplanation | 1329 |  |
+|  | TutorialWaypointsClickToActivate | 1330 |  |
+|  | Edit | 1331 |  |
+|  | CraftingWindowTitle | 1332 |  |
+|  | CraftingWindowCraftButton | 1333 |  |
+|  | BanditRespecConfirmation | 1334 |  |
+|  | BanditRespecDiffText | 1335 |  |
+|  | GainLosePassive | 1336 |  |
+|  | GainLosePassives | 1337 |  |
+|  | GainLoseRespec | 1338 |  |
+|  | GainLoseRespecs | 1339 |  |
+|  | GainLosePointCombo | 1340 |  |
+|  | ItemDisplayNumDoodadVariationsN | 1341 |  |
+|  | ItemDisplayNumDoodadVariations1 | 1342 |  |
+|  | TabContainerClickToShowTabList | 1343 |  |
+|  | CreateSteamAccountWindowMessage | 1344 |  |
+|  | CreateSteamAccountWindowTitleLabel | 1345 |  |
+|  | CreateSteamAccountWindowAccountNameTextboxEmptyString | 1346 |  |
+|  | CreateSteamAccountWindowAccountNameLabel | 1347 |  |
+|  | CreateSteamAccountWindowCreateButton | 1348 |  |
+|  | CreateSteamAccountWindowLinkExistingAccount | 1349 |  |
+|  | CreateSteamAccountWindowEmailAddressTextboxEmptyString | 1350 |  |
+|  | CreateSteamAccountWindowEmailLabel | 1351 |  |
+|  | CreateSteamAccountWindowPasswordTextboxEmptyString | 1352 |  |
+|  | CreateSteamAccountWindowPasswordLabel | 1353 |  |
+|  | CreateSteamAccountWindowLinkButton | 1354 |  |
+|  | TermsOfUseWindowIAgree | 1355 |  |
+|  | TermsOfUseWindowIDisagree | 1356 |  |
+|  | TermsOfUseWindowPopupTip | 1357 |  |
+|  | TermsOfUseWindowTitle | 1358 |  |
+|  | TermsOfUseWindowDecideLater | 1359 |  |
+|  | TermsOfUseWindowDescription | 1360 |  |
+|  | UnlockWindowMessage | 1361 |  |
+|  | UnlockWindowCodeTextboxEmptyText | 1362 |  |
+|  | UnlockWindowUnlockButton | 1363 |  |
+|  | UnlockWindowCancelButton | 1364 |  |
+|  | UnlockWindowCancelButtonPopupTip | 1365 |  |
+|  | UnlockWindowResendEmailButton | 1366 |  |
+|  | UnlockWindowInvalidActivationCode | 1367 |  |
+|  | CharacterSelectionPanelEntryLeague | 1368 |  |
+|  | OwnedPortalDescription | 1369 |  |
+|  | HUDMenuButton | 1370 |  |
+|  | TradeWindowTitle | 1371 |  |
+|  | ShopPanelComingSoon | 1372 |  |
+|  | ItemErrorCraftingBenchLevelTooLow | 1373 |  |
+|  | ItemErrorCannotBeUnique | 1374 |  |
+|  | ItemErrorHasModOfFamily | 1375 |  |
+|  | ItemErrorTooManySuffixes | 1376 |  |
+|  | ItemErrorTooManyPrefixes | 1377 |  |
+|  | ItemErrorCannotHaveThisNumberOfSockets | 1378 |  |
+|  | ItemErrorAlreadyHasThisManySockets | 1379 |  |
+|  | ItemErrorNotEnoughSockets | 1380 |  |
+|  | ItemErrorAlreadyHasThisLinkGroup | 1381 |  |
+|  | QuestVerbBrutus | 1382 |  |
+|  | QuestVerbMedicineChest | 1383 |  |
+|  | QuestVerbFairgraves | 1384 |  |
+|  | QuestVerbDeepDweller | 1385 |  |
+|  | QuestVerbSwigOfHope | 1386 |  |
+|  | QuestVerbFixtureOfFate | 1387 |  |
+|  | QuestVerbDominus | 1388 |  |
+|  | QuestVerbMerveil | 1389 |  |
+|  | QuestVerbVaalOversoul | 1390 |  |
+|  | QuestVerbPiety | 1391 |  |
+|  | QuestVerbDescent2Boss1 | 1392 |  |
+|  | QuestVerbDescent2Boss2 | 1393 |  |
+|  | QuestVerbDescent2Boss3 | 1394 |  |
+|  | QuestVerbDescent2Boss4 | 1395 |  |
+|  | QuestVerbDescent2Boss5 | 1396 |  |
+|  | QuestVerbKaom | 1397 |  |
+|  | QuestVerbDaresso | 1398 |  |
+|  | QuestVerbMalachai | 1399 |  |
+|  | QuestVerbDescentBoss1 | 1400 |  |
+|  | QuestVerbIzaro | 1401 |  |
+|  | ChatBoxStaleLink | 1402 |  |
+|  | HideoutStashPanelTitle | 1403 |  |
+|  | MissionTrackStrEnter | 1404 |  |
+|  | MissionTrackStrFind | 1405 |  |
+|  | MissionTrackStrFindTime | 1406 |  |
+|  | MissionTrackStrReturn | 1407 |  |
+|  | MissionTrackStrReturnTime | 1408 |  |
+|  | MissionTrackStrTalk | 1409 |  |
+|  | MissionTrackStrComplete | 1410 |  |
+|  | MissionTrackStrFailedTime1 | 1411 |  |
+|  | MissionTrackStrFailedTime2 | 1412 |  |
+|  | HUDHideoutStashButton | 1413 |  |
+|  | Done | 1414 |  |
+|  | MissionTrackDexHunt | 1415 |  |
+|  | MissionTrackDexHuntScore | 1416 |  |
+|  | MissionTrackDexEnter | 1417 |  |
+|  | MissionTrackDexEnter2 | 1418 |  |
+|  | MissionTrackDexTalk | 1419 |  |
+|  | MissionTrackDexComplete | 1420 |  |
+|  | MissionTrackDexTrackingCorpses | 1421 |  |
+|  | MissionTrackDexTrackingPools | 1422 |  |
+|  | MissionTrackIntFailed | 1423 |  |
+|  | MissionTrackIntComplete | 1424 |  |
+|  | MissionTrackIntTalk | 1425 |  |
+|  | MissionTrackIntFindRevive1 | 1426 |  |
+|  | MissionTrackIntFindReviveN | 1427 |  |
+|  | MissionTrackIntRevive1 | 1428 |  |
+|  | MissionTrackIntReviveN | 1429 |  |
+|  | MissionTrackIntReturn1 | 1430 |  |
+|  | MissionTrackIntReturnN | 1431 |  |
+|  | MissionTrackIntKill1 | 1432 |  |
+|  | MissionTrackIntKillN | 1433 |  |
+|  | MissionTrackIntFeed1 | 1434 |  |
+|  | MissionTrackIntFeedN | 1435 |  |
+|  | MissionTrackIntEscort1 | 1436 |  |
+|  | MissionTrackIntEscortN | 1437 |  |
+|  | MissionTrackIntReviveDefeated1 | 1438 |  |
+|  | MissionTrackIntReviveDefeatedN | 1439 |  |
+|  | MissionTrackDexIntComplete | 1440 |  |
+|  | MissionTrackDexIntTalk | 1441 |  |
+|  | MissionTrackDexIntKill | 1442 |  |
+|  | MissionTrackDexIntKillTime | 1443 |  |
+|  | MissionTrackDexIntKillGuards | 1444 |  |
+|  | MissionTrackDexIntKillGuardsScore | 1445 |  |
+|  | MissionTrackDexIntLowLife | 1446 |  |
+|  | MissionTrackDexIntOpenChest | 1447 |  |
+|  | MissionTrackDexIntSaveOneGuard | 1448 |  |
+|  | MissionTrackDexIntSaveOneGuardScore | 1449 |  |
+|  | MissionTrackDexIntSaveAllGuards | 1450 |  |
+|  | MissionTrackDexIntSaveTarget | 1451 |  |
+|  | MissionTrackDexIntSaveHostage | 1452 |  |
+|  | MissionTrackDexIntFailedTargetDead | 1453 |  |
+|  | MissionTrackDexIntFailedGuardDead | 1454 |  |
+|  | MissionTrackDexIntFailedHostageDead | 1455 |  |
+|  | MissionTrackDexIntFailedGuardsAllDead | 1456 |  |
+|  | MissionTrackDexIntFailedTimeRanOut | 1457 |  |
+|  | CraftingWindowLevel | 1458 |  |
+|  | CraftingWindowCost | 1459 |  |
+|  | CraftingWindowCantAffordError | 1460 |  |
+|  | MissionTrackStrDexEnter | 1461 |  |
+|  | MissionTrackStrDexFind | 1462 |  |
+|  | MissionTrackStrDexFight | 1463 |  |
+|  | MissionTrackStrDexFightTime | 1464 |  |
+|  | MissionTrackStrDexDummies | 1465 |  |
+|  | MissionTrackStrDexDummiesScore | 1466 |  |
+|  | MissionTrackStrDexTalk | 1467 |  |
+|  | MissionTrackStrDexTalkDummies | 1468 |  |
+|  | MissionTrackStrDexFailedDummies | 1469 |  |
+|  | MissionTrackStrDexFailedTime | 1470 |  |
+|  | MissionTrackStrDexComplete | 1471 |  |
+|  | MissionTrackStrDexCompleteDummies | 1472 |  |
+|  | MissionTrackStrIntFailedTime | 1473 |  |
+|  | MissionTrackStrIntFailedDeath | 1474 |  |
+|  | MissionTrackStrIntComplete1 | 1475 |  |
+|  | MissionTrackStrIntCompleteN | 1476 |  |
+|  | MissionTrackStrIntTalk | 1477 |  |
+|  | MissionTrackStrIntDefend1 | 1478 |  |
+|  | MissionTrackStrIntDefendN | 1479 |  |
+|  | MissionTrackStrIntDestroy1 | 1480 |  |
+|  | MissionTrackStrIntDestroyN | 1481 |  |
+|  | MissionTrackStrIntDestroyTime1 | 1482 |  |
+|  | MissionTrackStrIntDestroyTimeN | 1483 |  |
+|  | MissionTrackStrIntFeed1 | 1484 |  |
+|  | MissionTrackStrIntFeedN | 1485 |  |
+|  | MissionTrackStrDexIntTalk | 1486 |  |
+|  | MissionTrackStrDexIntEnter | 1487 |  |
+|  | MissionTrackStrDexIntFailedTime | 1488 |  |
+|  | MissionTrackStrDexIntFailedMission | 1489 |  |
+|  | MissionTrackStrDexIntFailedDeath | 1490 |  |
+|  | MissionTrackStrDexIntFailedLockedOut | 1491 |  |
+|  | MissionTrackStrDexIntComplete | 1492 |  |
+|  | MissionTrackStrDexIntTag | 1493 |  |
+|  | MissionTrackStrDexIntTagScore | 1494 |  |
+|  | MissionTrackStrDexIntKillBoss1 | 1495 |  |
+|  | MissionTrackStrDexIntKillBossN | 1496 |  |
+|  | MissionTrackStrDexIntKillBossNScore | 1497 |  |
+|  | MissionTrackStrDexIntKillMonsters | 1498 |  |
+|  | MissionTrackStrDexIntKillMonstersScore | 1499 |  |
+|  | MissionTrackStrDexIntMap | 1500 |  |
+|  | MissionTrackStrDexIntUnique | 1501 |  |
+|  | MissionTrackStrDexIntDivCard | 1502 |  |
+|  | MissionTrackStrDexIntVaalFragment | 1503 |  |
+|  | MissionTrackStrDexIntMission | 1504 |  |
+|  | MissionTrackStrDexIntCompleteMap | 1505 |  |
+|  | MissionTrackStrDexIntCompleteLabTrial | 1506 |  |
+|  | MissionTrackStrDexIntCompleteAbyss1 | 1507 |  |
+|  | MissionTrackStrDexIntCompleteAbyssN | 1508 |  |
+|  | MissionTrackStrDexIntCompleteAbyssScore | 1509 |  |
+|  | MissionTrackStrDexIntExiles | 1510 |  |
+|  | MissionTrackStrDexIntExilesScore | 1511 |  |
+|  | MissionTrackStrDexIntBeyond | 1512 |  |
+|  | MissionTrackStrDexIntWarband | 1513 |  |
+|  | MissionTrackStrDexIntWarbandScore | 1514 |  |
+|  | MissionTrackStrDexIntEssence | 1515 |  |
+|  | MissionTrackStrDexIntEssenceScore | 1516 |  |
+|  | MissionTrackStrDexIntInvasionBoss1 | 1517 |  |
+|  | MissionTrackStrDexIntInvasionBossN | 1518 |  |
+|  | MissionTrackStrDexIntInvasionBossScore | 1519 |  |
+|  | MissionTrackStrDexIntHarbinger | 1520 |  |
+|  | MissionTrackStrDexIntHarbingerScore | 1521 |  |
+|  | MissionTrackStrDexIntUniqueStrongbox | 1522 |  |
+|  | MissionTrackStrDexIntBreach1 | 1523 |  |
+|  | MissionTrackStrDexIntBreachN | 1524 |  |
+|  | MissionTrackStrDexIntBreachScore | 1525 |  |
+|  | MissionTrackStrDexIntTime | 1526 |  |
+|  | MissionTrackStrDexIntTimeUp | 1527 |  |
+|  | MissionTrackStrDexIntTimeDown | 1528 |  |
+|  | MissionTrackStrDexIntTimeItems | 1529 |  |
+|  | MissionTrackStrDexIntLimitedPortals | 1530 |  |
+|  | MissionTrackFishQuestRare | 1531 |  |
+|  | MissionTrackFishQuestExotic | 1532 |  |
+|  | MissionTrackFishQuestRedHerring | 1533 |  |
+|  | MissionTrackFishQuestUniqueBoots | 1534 |  |
+|  | MissionTrackAbandoned | 1535 |  |
+|  | RampageDisplayKills | 1536 |  |
+|  | TelemetryLatency | 1537 |  |
+|  | TelemetryFPS | 1538 |  |
+|  | TelemetryFrameTime | 1539 |  |
+|  | TelemetryServerFrameTime | 1540 |  |
+|  | FriendContextMenuSpectatePvP | 1541 |  |
+|  | WorldPanelHideoutPinInactiveHover | 1542 |  |
+|  | ItemPopupFavourCost | 1543 |  |
+|  | BuyWindowFavour | 1544 |  |
+|  | BuyWindowConfirmDoodadPurchaseTitle | 1545 |  |
+|  | BuyWindowConfirmDoodadPurchaseText | 1546 |  |
+|  | QuestRewardWindowConfirmTakeTitle | 1547 |  |
+|  | QuestRewardWindowConfirmTakeText | 1548 |  |
+|  | ClientInstanceRestrictionMessage | 1549 |  |
+|  | CommandLineOptionNoPack | 1550 |  |
+|  | CommandLineOptionOnlyGenerated | 1551 |  |
+|  | CommandLineOptionNoPatch | 1552 |  |
+|  | CommandLineOptionNoPreload | 1553 |  |
+|  | CommandLineOptionLoginPort | 1554 |  |
+|  | CommandLineOptionPatchingServer | 1555 |  |
+|  | CommandLineOptionPatchingAuth | 1556 |  |
+|  | CommandLineOptionPrevProcId | 1557 |  |
+|  | CommandLineOptionRequireLaunch | 1558 |  |
+|  | CommandLineOptionFail | 1559 |  |
+|  | CommandLineOptionFailMessage | 1560 |  |
+|  | CommandLineOptionGarbageGenerations | 1561 |  |
+|  | CommandLineOptionNoSound | 1562 |  |
+|  | CommandLineOptionSoftwareAudio | 1563 |  |
+|  | CommandLineOptionLanguage | 1564 |  |
+|  | CommandLineOptionMovieDirectory | 1565 |  |
+|  | CommandLineOptionUseDefaults | 1566 |  |
+|  | CommandLineOptionLogTerrainGeneration | 1567 |  |
+|  | CommandLineOptionTestingMaster | 1568 |  |
+|  | CommandLineOptionEnableReportForRevision | 1569 |  |
+|  | ErrorCommandLineFormat | 1570 |  |
+|  | ErrorPatchingTimeout | 1571 |  |
+|  | ErrorContentFileCorrupt | 1572 |  |
+|  | ErrorContentFileIncorrectVersion | 1573 |  |
+|  | ErrorContentFileUnableToOpen | 1574 |  |
+|  | ErrorFailedToInitialise | 1575 |  |
+|  | ErrorFailedToInitialiseRendererSubsystem | 1576 |  |
+|  | ErrorDXUTCreateDeviceFailed | 1577 |  |
+|  | ErrorNoLoginTokenSpecified | 1578 |  |
+|  | ErrorGarbageGenerationLessThan1 | 1579 |  |
+|  | ErrorLoadingShader | 1580 |  |
+|  | WorldPanelHideoutPinActiveHover | 1581 |  |
+|  | NPCWindowDismissMasterConfirmationTitle | 1582 |  |
+|  | NPCWindowDismissMasterConfirmationText | 1583 |  |
+|  | NPCWindowDismissNPCConfirmationTitle | 1584 |  |
+|  | NPCWindowDismissNPCConfirmationText | 1585 |  |
+|  | ItemErrorNoCraftedMods | 1586 |  |
+|  | PlayerContextMenuVisitHideout | 1587 |  |
+|  | HideoutStashPanelFriendsCanVisit | 1588 |  |
+|  | HideoutStashPanelGuildCanVisit | 1589 |  |
+|  | ItemErrorHasCraftedMod | 1590 |  |
+|  | BuyWindowInfufficientFavourWarning | 1591 |  |
+|  | BuyWindowInfufficientCurrencyWarning | 1592 |  |
+|  | HideoutStashPanelPartyCanVisit | 1593 |  |
+|  | DailyMissionNotReady | 1594 |  |
+|  | DailyMissionInProgress | 1595 |  |
+|  | TooManyMastersForNewHideout | 1596 |  |
+|  | TooManyMastersInCurrentHideout | 1597 |  |
+|  | StrDexIntMissionGoalObject | 1598 |  |
+|  | StrDexIntMissionTimeObject | 1599 |  |
+|  | CraftingWindowCanBeAppliedTo | 1600 |  |
+|  | HUDHideoutEditingBannerText | 1601 |  |
+|  | HUDHideoutInformationHoverText | 1602 |  |
+|  | ObjectDisplayTextHallOfGrandmasters | 1603 |  |
+|  | ObjectDisplayTextHallOfGrandmastersHall1 | 1604 |  |
+|  | ObjectDisplayTextHallOfGrandmastersHall2 | 1605 |  |
+|  | ObjectDisplayTextHallOfGrandmastersHall3 | 1606 |  |
+|  | ObjectDisplayTextHallOfGrandmastersHall4 | 1607 |  |
+|  | ObjectDisplayTextHallOfGrandmastersHall5 | 1608 |  |
+|  | ObjectDisplayTextHallOfGrandmastersHall6 | 1609 |  |
+|  | ObjectDisplayTextHallOfGrandmastersHall7 | 1610 |  |
+|  | ObjectDisplayTextHallOfGrandmastersHall8 | 1611 |  |
+|  | ActionOTPCode | 1612 |  |
+|  | GiftFrom | 1613 |  |
+|  | GiftReceivedNotification | 1614 |  |
+|  | GiftReceivedAtLoginNotification | 1615 |  |
+|  | GiftReceivedNotificationViewGift | 1616 |  |
+|  | GiftReceivedNotificationDismiss | 1617 |  |
+|  | ShroudedMonsterName | 1618 |  |
+|  | MonsterCorrupted | 1619 |  |
+|  | PVPChangingArenas | 1620 |  |
+|  | LadderColumnRank | 1621 |  |
+|  | LadderColumnName | 1622 |  |
+|  | LadderColumnClass | 1623 |  |
+|  | LadderColumnLevel | 1624 |  |
+|  | LadderColumnPoints | 1625 |  |
+|  | LadderColumnRating | 1626 |  |
+|  | LadderColumnResistance | 1627 |  |
+|  | LadderColumnRounds | 1628 |  |
+|  | LadderColumnGamesPlayed | 1629 |  |
+|  | LadderColumnDeaths | 1630 |  |
+|  | LadderLink | 1631 |  |
+|  | LadderLinkHover | 1632 |  |
+|  | MissionTrackFishTalk | 1633 |  |
+|  | MissionTrackFishComplete | 1634 |  |
+|  | MissionTrackPVPTalk | 1635 |  |
+|  | CharacterClassPrefixThe | 1636 |  |
+|  | CharacterClassListSeparator | 1637 |  |
+|  | CharacterClassList2 | 1638 |  |
+|  | CharacterClassListNOr | 1639 |  |
+|  | LeoDailyReminder | 1640 |  |
+|  | LeoPVPOnlyCharTitle | 1641 |  |
+|  | LeoPVPOnlyCharDescription | 1642 |  |
+|  | PVPOnlyCannotDaily | 1643 |  |
+|  | ShopLoadError | 1644 |  |
+|  | PVPMatchDualLeagues | 1645 |  |
+|  | ItemDescriptionPassiveJewel | 1646 |  |
+|  | ItemDescriptionAbyssJewel | 1647 |  |
+|  | ErrorCannotChatInDNDMode | 1648 |  |
+|  | WhisperEchoDNDSuffix | 1649 |  |
+|  | DefaultDNDMessage | 1650 |  |
+|  | DefaultAFKMessage | 1651 |  |
+|  | AutoReplyPrefix | 1652 |  |
+|  | ChatSenderSuffix | 1653 |  |
+|  | ChatSenderStaff | 1654 |  |
+|  | ChatSenderDev | 1655 |  |
+|  | ChatSenderMod | 1656 |  |
+|  | ItemFilterLoadOutOfDate | 1657 |  |
+|  | ItemFilterLoadFailure | 1658 |  |
+|  | ItemFilterLoadSuccess | 1659 |  |
+|  | KaomArenaName | 1660 |  |
+|  | DaressoArenaName | 1661 |  |
+|  | KaomDaressoReturn | 1662 |  |
+|  | DoedreArenaName | 1663 |  |
+|  | ShavronneArenaName | 1664 |  |
+|  | MaligaroArenaName | 1665 |  |
+|  | PietyBellyArenaName | 1666 |  |
+|  | MalachaiArenaName1 | 1667 |  |
+|  | MalachaiArenaName2 | 1668 |  |
+|  | JewelRadiusLabel | 1669 |  |
+|  | JewelRadiusLarge | 1670 |  |
+|  | JewelRadiusMedium | 1671 |  |
+|  | JewelRadiusSmall | 1672 |  |
+|  | RareNameFormat2Words | 1673 |  |
+|  | RareNameFormat3Words | 1674 |  |
+|  | ObjectDisplayTextDeshretSpirit | 1675 |  |
+|  | SkillPopupNotEnoughEnergyShieldAndMana | 1676 |  |
+|  | JewelItemLimit | 1677 |  |
+|  | JackTheAxeName | 1678 |  |
+|  | GoddessUnleashedName | 1679 |  |
+|  | DivinationWindowTitle | 1680 |  |
+|  | DivinationWindowTradeButton | 1681 |  |
+|  | GrandArenaExterior | 1682 |  |
+|  | GrandArenaInterior | 1683 |  |
+|  | SteamPointsPointLabel | 1684 |  |
+|  | SteamPointsNewCostLabel | 1685 |  |
+|  | SteamPointsVideo1 | 1686 |  |
+|  | SteamPointsVideo2 | 1687 |  |
+|  | SteamPointsVideo3 | 1688 |  |
+|  | SteamPointsVideo4 | 1689 |  |
+|  | SteamPointsVideo5 | 1690 |  |
+|  | SteamPointsPackageDescription | 1691 |  |
+|  | SteamPointsPointPackLabel | 1692 |  |
+|  | SteamPointsCostExceedsSteamWallet | 1693 |  |
+|  | SteamPointsSteamPurchaseFailed | 1694 |  |
+|  | SteamPointsPurchaseSuccess | 1695 |  |
+|  | SteamPointsWaitingForSteamInfo | 1696 |  |
+|  | SteamPointsWaitingSteamInfoError | 1697 |  |
+|  | SteamPointsWaitingSteamInfoErrorRetryButton | 1698 |  |
+|  | AchievementItemProgress | 1699 |  |
+|  | ItemDisplayMapRarityIncrease | 1700 |  |
+|  | ItemDisplayMapPackSizeIncrease | 1701 |  |
+|  | CharacterNameExpiredPopup | 1702 |  |
+|  | CharacterRenameSuccess | 1703 |  |
+|  | CharacterRenameWindowDetails | 1704 |  |
+|  | CharacterRenameWindowCancelButton | 1705 |  |
+|  | CharacterRenameWindowRenameButton | 1706 |  |
+|  | CharacterRenameWindowTextboxEmptyText | 1707 |  |
+|  | ObjectDisplayTextLabyrinthTrialDoor | 1708 |  |
+|  | DarkShrineWindowTitle | 1709 |  |
+|  | UseDarkShrineButton | 1710 |  |
+|  | DarkShrineHover | 1711 |  |
+|  | LabyrinthMapWindowTitle | 1712 |  |
+|  | LabyrinthMapWindowYouAreHere | 1713 |  |
+|  | ObjectDisplayTextLabyrinthGoldenChest | 1714 |  |
+|  | ObjectDisplayTextLabyrinthSilverChest | 1715 |  |
+|  | ObjectDisplayTextLabyrinthBronzeChest | 1716 |  |
+|  | ObjectDisplayTextGoldenDoor | 1717 |  |
+|  | ObjectDisplayTextSilverDoor | 1718 |  |
+|  | ObjectDisplayTextBronzeDoor | 1719 |  |
+|  | AscendencyChamberDoor | 1720 |  |
+|  | ObjectDisplayTextStoneCircleDevice | 1721 |  |
+|  | ObjectDisplayTextLever | 1722 |  |
+|  | ObjectDisplayTextSwitch | 1723 |  |
+|  | ObjectDisplayTextCrank | 1724 |  |
+|  | ItemDisplaySkillGemManaCostOverride | 1725 |  |
+|  | ItemDisplaySkillGemManaReservationOverride | 1726 |  |
+|  | RandomItem20Quality | 1727 |  |
+|  | RandomItem0Quality | 1728 |  |
+|  | AlchemyInventoryItem | 1729 |  |
+|  | ScourInventoryItemsGiveCurrency | 1730 |  |
+|  | IdentifyAll | 1731 |  |
+|  | RandomMonsterDropsUnique | 1732 |  |
+|  | WeaponsDropWtih20Quality | 1733 |  |
+|  | RandomChestDrops20QualityGem | 1734 |  |
+|  | AddMapToMapDevice | 1735 |  |
+|  | AddJewelToJewelInventory | 1736 |  |
+|  | DropRegalAfterTime | 1737 |  |
+|  | RaresDropUniquesForShortTime | 1738 |  |
+|  | AddItemToCharacterStats | 1739 |  |
+|  | AllMonstersGainVaalFragmentChance | 1740 |  |
+|  | FillFlasks | 1741 |  |
+|  | EmptyFlasks | 1742 |  |
+|  | Beyond | 1743 |  |
+|  | Rampage | 1744 |  |
+|  | AddNemesisToAll | 1745 |  |
+|  | HalfOfMonstersChangeToPlayerTeam | 1746 |  |
+|  | SetCorruptedEnvironment | 1747 |  |
+|  | MonstersSetZeroActionSpeed | 1748 |  |
+|  | MonstersSet1Life | 1749 |  |
+|  | SpawnStrExile | 1750 |  |
+|  | SpawnStrDexExile | 1751 |  |
+|  | SpawnDexExile | 1752 |  |
+|  | SpawnStrDexIntExile | 1753 |  |
+|  | SpawnDexIntExile | 1754 |  |
+|  | SpawnStrIntExile | 1755 |  |
+|  | SpawnIntExile | 1756 |  |
+|  | SpawnInvasionBossInLevel | 1757 |  |
+|  | SpawnFireWarband | 1758 |  |
+|  | SpawnColdWarband | 1759 |  |
+|  | SpawnLightningWarband | 1760 |  |
+|  | SpawnChaosWarband | 1761 |  |
+|  | SpawnFireColdLightningWarband | 1762 |  |
+|  | SpawnRareMonsterAtShrine | 1763 |  |
+|  | SpawnMagicMonstersAtShrine | 1764 |  |
+|  | SpawnPackAtShrine | 1765 |  |
+|  | SpawnKaomTotems | 1766 |  |
+|  | SpawnAbaxoth | 1767 |  |
+|  | CloneAllMagicMonsters | 1768 |  |
+|  | CloneAllRareMonsters | 1769 |  |
+|  | AllMonstersTouched | 1770 |  |
+|  | RandomDarkshrineEffect | 1771 |  |
+|  | RaiseWeaponsOnGround | 1772 |  |
+|  | ItemsOnGroundExchangedForSellPrice | 1773 |  |
+|  | IncreaseRandomMasterLevel | 1774 |  |
+|  | ResetMasterDailyMissions | 1775 |  |
+|  | OpenTownPortal | 1776 |  |
+|  | ConsumeItem | 1777 |  |
+|  | DoNothing | 1778 |  |
+|  | FillVaalSouls | 1779 |  |
+|  | EmptyAllShops | 1780 |  |
+|  | FishingMessageInGlobal | 1781 |  |
+|  | FishingMessageInSocialText | 1782 |  |
+|  | FishingPublicParty | 1783 |  |
+|  | FishingFirstEnterWindingPier | 1784 |  |
+|  | FishingKrilsonAsFriend | 1785 |  |
+|  | FishingMutesPlayer | 1786 |  |
+|  | FishingMapsAddedToGuildNameSlot | 1787 |  |
+|  | GivesHeadhunterMod | 1788 |  |
+|  | SpawnQualityCurrencyFountain | 1789 |  |
+|  | SpawnCloneToHelp | 1790 |  |
+|  | SpawnDevourers | 1791 |  |
+|  | FillInventoryWithWisdomScraps | 1792 |  |
+|  | SpawnGrandmasterInLevel | 1793 |  |
+|  | SpawnGrandmasterAlly | 1794 |  |
+|  | PlayerAccellerationShrine | 1795 |  |
+|  | PlayerBrutalShrine | 1796 |  |
+|  | PlayerCriticalShrine | 1797 |  |
+|  | PlayerDivineShrine | 1798 |  |
+|  | PlayerEchoingShrine | 1799 |  |
+|  | PlayerReplenishingShrine | 1800 |  |
+|  | PlayerImpenetrableShrine | 1801 |  |
+|  | PlayerShroudedShrine | 1802 |  |
+|  | PlayerMassiveShrine | 1803 |  |
+|  | MapModEnfeeble | 1804 |  |
+|  | MapModElementalWeakness | 1805 |  |
+|  | MapModVulnerability | 1806 |  |
+|  | MapModAOE | 1807 |  |
+|  | MapModCannotBeStunned | 1808 |  |
+|  | MapModChaining | 1809 |  |
+|  | MapModColdResist | 1810 |  |
+|  | MapModCriticalStrikes | 1811 |  |
+|  | MapModFireResist | 1812 |  |
+|  | MapModFrenzyCharges | 1813 |  |
+|  | MapModLightningResist | 1814 |  |
+|  | MapModPhysicalResist | 1815 |  |
+|  | MapModPlayerExperience | 1816 |  |
+|  | MapModMonsterLife | 1817 |  |
+|  | MapModMonsterDamage | 1818 |  |
+|  | MapModFastMonsters | 1819 |  |
+|  | MapModColdDamage | 1820 |  |
+|  | MapModLightningDamage | 1821 |  |
+|  | MapModFireDamage | 1822 |  |
+|  | MapModPoisoning | 1823 |  |
+|  | MapModFracturing | 1824 |  |
+|  | MapModMinusMaxResist | 1825 |  |
+|  | MapModMultipleProjectiles | 1826 |  |
+|  | MapModReducedRegeneration | 1827 |  |
+|  | MapModTempestEchoingStorm | 1828 |  |
+|  | MapModTempestCorruptedDrops | 1829 |  |
+|  | MapModTempestCurses | 1830 |  |
+|  | MapModTempestFireSkills | 1831 |  |
+|  | MapModTempestLightningSkills | 1832 |  |
+|  | MapModTempestColdSkills | 1833 |  |
+|  | MapModTempestPhysicalSkills | 1834 |  |
+|  | MapModTempestColdDamage | 1835 |  |
+|  | MapModTempestFireDamage | 1836 |  |
+|  | MapModTempestLightningDamage | 1837 |  |
+|  | DropDivinationCard | 1838 |  |
+|  | DropChanceOrbs | 1839 |  |
+|  | DropVaalOrbs | 1840 |  |
+|  | DropAlchemyOrbs | 1841 |  |
+|  | DropArmourShards | 1842 |  |
+|  | DropChisels | 1843 |  |
+|  | DropChaosOrbs | 1844 |  |
+|  | DropWhetstones | 1845 |  |
+|  | DropDivineOrb | 1846 |  |
+|  | DropAlterations | 1847 |  |
+|  | DropTransmutes | 1848 |  |
+|  | RandomMonsterDrops10Currency | 1849 |  |
+|  | RandomMonsterDrops10Rares | 1850 |  |
+|  | RandomMonsterDrops100Scrolls | 1851 |  |
+|  | RandomMonsterDrops5RareAmulets | 1852 |  |
+|  | RandomMonsterDrops5RareBelts | 1853 |  |
+|  | RandomMonsterDrops5RareBows | 1854 |  |
+|  | RandomMonsterDrops5RareClaws | 1855 |  |
+|  | RandomMonsterDrops5RareDaggers | 1856 |  |
+|  | RandomMonsterDrops5RareOneHandMaces | 1857 |  |
+|  | RandomMonsterDrops5RareOneHandSwords | 1858 |  |
+|  | RandomMonsterDrops5RareRings | 1859 |  |
+|  | RandomMonsterDrops5RareScepters | 1860 |  |
+|  | RandomMonsterDrops5RareShields | 1861 |  |
+|  | RandomMonsterDrops5RareStaves | 1862 |  |
+|  | RandomMonsterDrops5RareTwoHandAxes | 1863 |  |
+|  | RandomMonsterDrops5RareTwoHandMaces | 1864 |  |
+|  | RandomMonsterDrops5RareTwoHandSwords | 1865 |  |
+|  | RandomMonsterDrops5RareWands | 1866 |  |
+|  | RandomMonsterDrops5RareJewels | 1867 |  |
+|  | SpawnADarkshrine | 1868 |  |
+|  | SpawnBarrelOfSpiders | 1869 |  |
+|  | SpawnEmpyreanApparatus | 1870 |  |
+|  | SpawnKaomsCache | 1871 |  |
+|  | SpawnPerandusBank | 1872 |  |
+|  | SpawnArcanistStrongbox | 1873 |  |
+|  | SpawnArmoryStrongbox | 1874 |  |
+|  | SpawnArsenalStrongbox | 1875 |  |
+|  | SpawnArtisanStrongbox | 1876 |  |
+|  | SpawnCartographersStrongbox | 1877 |  |
+|  | SpawnChemistStrongbox | 1878 |  |
+|  | SpawnGemcutterStrongbox | 1879 |  |
+|  | SpawnJewellerStrongbox | 1880 |  |
+|  | SpawnLargeStrongbox | 1881 |  |
+|  | SpawnOrnateStrongbox | 1882 |  |
+|  | SpawnStrongbox | 1883 |  |
+|  | SpawnTormentedArsonist | 1884 |  |
+|  | SpawnTormentedCorrupter | 1885 |  |
+|  | SpawnTormentedCounterfeiter | 1886 |  |
+|  | SpawnTormentedEmbezzler | 1887 |  |
+|  | SpawnTormentedLibrarian | 1888 |  |
+|  | SpawnTormentedNecromancer | 1889 |  |
+|  | SpawnTormentedPoisoner | 1890 |  |
+|  | SpawnTormentedExperimenter | 1891 |  |
+|  | SpawnTormentedFreezer | 1892 |  |
+|  | SpawnTormentedThug | 1893 |  |
+|  | DropNormalJewels | 1894 |  |
+|  | ChanceAllGroundItems | 1895 |  |
+|  | MaxAnImplicit | 1896 |  |
+|  | OpenCorruptedAreaPortals | 1897 |  |
+|  | AddRareSkinTransferToInventoryItem | 1898 |  |
+|  | MaxAndMinAnExplicitMod | 1899 |  |
+|  | SpawnUniqueSellingVendor | 1900 |  |
+|  | OpenVaultsOfAtziri | 1901 |  |
+|  | OpenCowardsTrial | 1902 |  |
+|  | OpenObasTrial | 1903 |  |
+|  | OpenOlmecsSanctum | 1904 |  |
+|  | OpenDeathAndTaxes | 1905 |  |
+|  | OpenWhakawairuaTuahu | 1906 |  |
+|  | OpenUntaintedParadise | 1907 |  |
+|  | OpenPoorjoysAsylum | 1908 |  |
+|  | OpenMaelstromOfChaos | 1909 |  |
+|  | OpenActonsNightmare | 1910 |  |
+|  | OpenMaoKun | 1911 |  |
+|  | ElreonsTrial | 1912 |  |
+|  | TorasTrial | 1913 |  |
+|  | HakusTrial | 1914 |  |
+|  | CatarinasTrial | 1915 |  |
+|  | LeosTrial | 1916 |  |
+|  | VagansTrial | 1917 |  |
+|  | ColdWarbandTrial | 1918 |  |
+|  | FireWarbandTrial | 1919 |  |
+|  | LightningWarbandTrial | 1920 |  |
+|  | SkillsCostNoMana | 1921 |  |
+|  | ImmunityToAilments | 1922 |  |
+|  | CannotBeStunned | 1923 |  |
+|  | SecretPassage | 1924 |  |
+|  | TalismanErrorNotEnoughTalismans | 1925 |  |
+|  | TalismanErrorMustBeDifferentTypes | 1926 |  |
+|  | TalismanErrorNotATalisman | 1927 |  |
+|  | TalismanErrorMustBeSameTier | 1928 |  |
+|  | ErrorPortalsDisabled | 1929 |  |
+|  | ShaperPortalsDisabled | 1930 |  |
+|  | OptionsLanguageChangeNoRestart | 1931 |  |
+|  | ChallengesInformation | 1932 |  |
+|  | ReminderTextConsecutive | 1933 |  |
+|  | ReminderTextCounterAttack | 1934 |  |
+|  | ReminderTextUnaffectedBy | 1935 |  |
+|  | ReminderTextElementalConflux | 1936 |  |
+|  | ReminderTextSavageHit | 1937 |  |
+|  | ReminderTextOnslaught | 1938 |  |
+|  | ReminderTextPoison | 1939 |  |
+|  | ReminderTextBleeding | 1940 |  |
+|  | ReminderTextCullingStrike | 1941 |  |
+|  | ReminderTextPhasing | 1942 |  |
+|  | ReminderTextBlind | 1943 |  |
+|  | ReminderTextMaim | 1944 |  |
+|  | ReminderTextFortify | 1945 |  |
+|  | ReminderTextSmokeCloud | 1946 |  |
+|  | ReminderTextConsecratedGround | 1947 |  |
+|  | ReminderTextDefences | 1948 |  |
+|  | ReminderTextDebilitatingPresence | 1949 |  |
+|  | ReminderTextIntimidate | 1950 |  |
+|  | ReminderTextTailwind | 1951 |  |
+|  | SteamOverlayNotAvailable | 1952 |  |
+|  | ItemNoteEditorOptionNote | 1953 |  |
+|  | ItemNoteEditorOptionNewNote | 1954 |  |
+|  | ItemNoteEditorOptionPrice | 1955 |  |
+|  | ItemNoteEditorOptionFixed | 1956 |  |
+|  | ItemNoteEditorOptionQuantity | 1957 |  |
+|  | ItemNoteEditorOptionCurrency | 1958 |  |
+|  | ItemNoteEditorOptionOffer | 1959 |  |
+|  | ItemNoteEditorOptionInvalidQuantity | 1960 |  |
+|  | ItemNoteEditorOptionInvalidOfferQuantity | 1961 |  |
+|  | StashNoteEditorOptionNoPrice | 1962 |  |
+|  | StashNoteEditorOptionSetPriceOnAllItems | 1963 |  |
+|  | StashNoteEditorOptionSetExactPriceOnAllItems | 1964 |  |
+|  | PassiveNodeGrantsPassivePoints | 1965 |  |
+|  | PassiveNodeGrantsPassivePoint | 1966 |  |
+|  | ReminderTextAscendantChooseOneOfThree | 1967 |  |
+|  | LabyrinthChargeDisruptorInfoString | 1968 |  |
+|  | LabyrinthToggleStatueFireInfoString | 1969 |  |
+|  | LabyrinthToggleStatueColdInfoString | 1970 |  |
+|  | LabyrinthToggleStatueLightningInfoString | 1971 |  |
+|  | LabyrinthToggleStatueFireInfoStringDoodad | 1972 |  |
+|  | LabyrinthToggleStatueColdInfoStringDoodad | 1973 |  |
+|  | LabyrinthToggleStatueLightningInfoStringDoodad | 1974 |  |
+|  | LabyrinthToggleStatueFireNameString | 1975 |  |
+|  | LabyrinthToggleStatueColdNameString | 1976 |  |
+|  | LabyrinthToggleStatueLightningNameString | 1977 |  |
+|  | LabyrinthChargeDisruptorCount | 1978 |  |
+|  | ReminderTextDamageTypes | 1979 |  |
+|  | LabyrinthElementalsFireInfoString | 1980 |  |
+|  | LabyrinthElementalsColdInfoString | 1981 |  |
+|  | LabyrinthElementalsLightningInfoString | 1982 |  |
+|  | LabyrinthChronoStatueFireInfoString | 1983 |  |
+|  | LabyrinthChronoStatueColdInfoString | 1984 |  |
+|  | LabyrinthChronoStatueLightningInfoString | 1985 |  |
+|  | LabyrinthChronoStatueFireInfoStringPhase2 | 1986 |  |
+|  | LabyrinthChronoStatueColdInfoStringPhase2 | 1987 |  |
+|  | LabyrinthChronoStatueLightningInfoStringPhase2 | 1988 |  |
+|  | LabyrinthChronoStatueNameString | 1989 |  |
+|  | LabyrinthPortalsInfoString | 1990 |  |
+|  | LabyrinthGargoylesSpeedInfoString | 1991 |  |
+|  | LabyrinthGargoylesDamageInfoString | 1992 |  |
+|  | LabyrinthGargoylesDamageTakenInfoString | 1993 |  |
+|  | LabyrinthPylonsTemporalChainsInfoString | 1994 |  |
+|  | LabyrinthPylonsVulnerabilityInfoString | 1995 |  |
+|  | LabyrinthPylonsElementalWeaknessInfoString | 1996 |  |
+|  | LabyrinthPylonsTemporalChainsNameString | 1997 |  |
+|  | LabyrinthPylonsVulnerabilityNameString | 1998 |  |
+|  | LabyrinthPylonsElementalWeaknessNameString | 1999 |  |
+|  | LabyrinthPylonsTemporalChainsInfoStringDoodad | 2000 |  |
+|  | LabyrinthPylonsVulnerabilityInfoStringDoodad | 2001 |  |
+|  | LabyrinthPylonsElementalWeaknessInfoStringDoodad | 2002 |  |
+|  | MonsterEnragesInfoString | 2003 |  |
+|  | MonsterCastsDamageReflectionInfoString | 2004 |  |
+|  | ReminderTextRecently | 2005 |  |
+|  | ReminderTextAscendantMarauderNodes | 2006 |  |
+|  | ReminderTextAscendantRangerNodes | 2007 |  |
+|  | ReminderTextAscendantWitchNodes | 2008 |  |
+|  | ReminderTextAscendantDuelistNodes | 2009 |  |
+|  | ReminderTextAscendantTemplarNodes | 2010 |  |
+|  | ReminderTextAscendantShadowNodes | 2011 |  |
+|  | AbandonLabyrinthMessage | 2012 |  |
+|  | AbandonLabyrinthUnascendedMessage | 2013 |  |
+|  | GoldenKeyDescription | 2014 |  |
+|  | SilverKeyDescription | 2015 |  |
+|  | TreasureKeyDescription | 2016 |  |
+|  | ReminderTextIgnoreResistances | 2017 |  |
+|  | ItemDisplayStringRarity | 2018 |  |
+|  | ItemDisplayStringMagic | 2019 |  |
+|  | ItemDisplayStringRare | 2020 |  |
+|  | ItemDisplayStringUnique | 2021 |  |
+|  | ItemDisplayStringGem | 2022 |  |
+|  | ItemDisplayStringCurrency | 2023 |  |
+|  | ItemDisplayStringNormal | 2024 |  |
+|  | ItemDisplayStringSockets | 2025 |  |
+|  | ItemDisplayStringItemLevel | 2026 |  |
+|  | ItemDisplayStringTalismanTier | 2027 |  |
+|  | ItemDisplayStringNextLevelRequirements | 2028 |  |
+|  | ItemDisplayStringNote | 2029 |  |
+|  | GrandmasterSaveFailed | 2030 |  |
+|  | CreateTencentAccountWindowMessage | 2031 |  |
+|  | CreateTencentAccountWindowTitleLabel | 2032 |  |
+|  | CreateTencentAccountWindowAccountNameTextboxEmptyString | 2033 |  |
+|  | CreateTencentAccountWindowAccountNameLabel | 2034 |  |
+|  | CreateTencentAccountWindowCreateButton | 2035 |  |
+|  | Price | 2036 |  |
+|  | ExactPrice | 2037 |  |
+|  | PurchaseMTXResultTimeout | 2038 |  |
+|  | PurchasePackageResultTimeout | 2039 |  |
+|  | HealthyGamingNotice | 2040 |  |
+|  | ItemDescriptionItemisedProphecy | 2041 |  |
+|  | ItemDescriptionItemisedCapturedMonster | 2042 |  |
+|  | ProphecyTabItemiseButton | 2043 |  |
+|  | ProphecyTabName | 2044 |  |
+|  | ItemWarningApplyingAccountBoundCurrency | 2045 |  |
+|  | MonsterGoatmanFireShamanChampionInfoString | 2046 |  |
+|  | MonsterBanditMeleeChampionInfoString | 2047 |  |
+|  | MonsterBanditRangedChampionInfoString | 2048 |  |
+|  | MonsterGhostPirateChampionInfoString | 2049 |  |
+|  | TutorialQuestRewardJewellersOrbTutorial | 2050 |  |
+|  | TutorialQuestRewardFusingOrbTutorial | 2051 |  |
+|  | ReminderTextTaunt | 2052 |  |
+|  | TabContainerClickToHideTabList | 2053 |  |
+|  | SocialPanelPublicPartyJoin | 2054 |  |
+|  | ProphecyQuestTrackerComplete | 2055 |  |
+|  | ProphecyQuestTrackerHaku | 2056 |  |
+|  | ProphecyQuestTrackerTora | 2057 |  |
+|  | ProphecyQuestTrackerCatarina | 2058 |  |
+|  | ProphecyQuestTrackerVagan | 2059 |  |
+|  | ProphecyQuestTrackerElreon | 2060 |  |
+|  | ProphecyQuestTrackerVorici | 2061 |  |
+|  | ProphecyQuestTrackerZana | 2062 |  |
+|  | ProphecyQuestTrackerRareZombies | 2063 |  |
+|  | ProphecyQuestTrackerMagicNecromancers | 2064 |  |
+|  | ProphecyQuestTrackerWickedKing1 | 2065 |  |
+|  | ProphecyQuestTrackerWickedKing1b | 2066 |  |
+|  | ProphecyQuestTrackerWickedKing2 | 2067 |  |
+|  | ProphecyQuestTrackerWickedKing3 | 2068 |  |
+|  | ProphecyQuestTrackerWickedKing4 | 2069 |  |
+|  | ProphecyQuestTrackerWickedKing5 | 2070 |  |
+|  | ProphecyQuestTrackerShadowQueen1 | 2071 |  |
+|  | ProphecyQuestTrackerShadowQueen2 | 2072 |  |
+|  | ProphecyQuestTrackerShadowQueen3 | 2073 |  |
+|  | ProphecyQuestTrackerShadowQueen4 | 2074 |  |
+|  | ProphecyQuestTrackerShadowQueen5 | 2075 |  |
+|  | ProphecyQuestTrackerVerdantKing1 | 2076 |  |
+|  | ProphecyQuestTrackerVerdantKing2 | 2077 |  |
+|  | ProphecyQuestTrackerVerdantKing3 | 2078 |  |
+|  | ProphecyQuestTrackerVerdantKing4 | 2079 |  |
+|  | ProphecyQuestTrackerVerdantKing5 | 2080 |  |
+|  | ProphecyQuestTrackerHollowQueen1 | 2081 |  |
+|  | ProphecyQuestTrackerHollowQueen2 | 2082 |  |
+|  | ProphecyQuestTrackerHollowQueen3 | 2083 |  |
+|  | ProphecyQuestTrackerHollowQueen4 | 2084 |  |
+|  | ProphecyQuestTrackerHollowQueen5 | 2085 |  |
+|  | ProphecyQuestTrackerThaumaturgists1 | 2086 |  |
+|  | ProphecyQuestTrackerThaumaturgists2 | 2087 |  |
+|  | ProphecyQuestTrackerThaumaturgists3 | 2088 |  |
+|  | ProphecyQuestTrackerThaumaturgists4 | 2089 |  |
+|  | ProphecyQuestTrackerAncientRivalries1 | 2090 |  |
+|  | ProphecyQuestTrackerAncientRivalries2 | 2091 |  |
+|  | ProphecyQuestTrackerAncientRivalries3 | 2092 |  |
+|  | ProphecyQuestTrackerAncientRivalries4 | 2093 |  |
+|  | ProphecyQuestTrackerAmbitiousBandit1 | 2094 |  |
+|  | ProphecyQuestTrackerAmbitiousBandit2 | 2095 |  |
+|  | ProphecyQuestTrackerAmbitiousBandit3 | 2096 |  |
+|  | ProphecyQuestTrackerDeadlyRivalry1 | 2097 |  |
+|  | ProphecyQuestTrackerDeadlyRivalry2 | 2098 |  |
+|  | ProphecyQuestTrackerDeadlyRivalry3 | 2099 |  |
+|  | ProphecyQuestTrackerDeadlyRivalry4 | 2100 |  |
+|  | ProphecyQuestTrackerDeadlyRivalry5 | 2101 |  |
+|  | ProphecyQuestTrackerCraftingRitual1 | 2102 |  |
+|  | ProphecyQuestTrackerCraftingRitual2 | 2103 |  |
+|  | ProphecyQuestTrackerCraftingRitual3 | 2104 |  |
+|  | ProphecyQuestTrackerCraftingRitual4 | 2105 |  |
+|  | ProphecyQuestTrackerKeeperOfThePeace1 | 2106 |  |
+|  | ProphecyQuestTrackerKeeperOfThePeace2 | 2107 |  |
+|  | ProphecyQuestTrackerKeeperOfThePeace3 | 2108 |  |
+|  | ProphecyQuestTrackerKeeperOfThePeace4 | 2109 |  |
+|  | ProphecyQuestTrackerBeyondCult1 | 2110 |  |
+|  | ProphecyQuestTrackerBeyondCult1b | 2111 |  |
+|  | ProphecyQuestTrackerBeyondCult2 | 2112 |  |
+|  | ProphecyQuestTrackerBeyondCult2b | 2113 |  |
+|  | ProphecyQuestTrackerAnarchysEnd1 | 2114 |  |
+|  | ProphecyQuestTrackerAnarchysEnd2 | 2115 |  |
+|  | ProphecyQuestTrackerAnarchysEnd3 | 2116 |  |
+|  | ProphecyQuestTrackerAnarchysEnd4 | 2117 |  |
+|  | ProphecyQuestTrackerDayOfSacrifice1 | 2118 |  |
+|  | ProphecyQuestTrackerDayOfSacrifice2 | 2119 |  |
+|  | ProphecyQuestTrackerDayOfSacrifice3 | 2120 |  |
+|  | ProphecyQuestTrackerDayOfSacrifice4 | 2121 |  |
+|  | ProphecyQuestTrackerTwinnedMapBosses | 2122 |  |
+|  | ProphecyQuestTrackerExtraRogueExiles | 2123 |  |
+|  | ProphecyQuestTrackerExtraStrongboxes | 2124 |  |
+|  | ProphecyQuestTrackerExtraVaalSideArea | 2125 |  |
+|  | ItemErrorProphecyNoSpace | 2126 |  |
+|  | ItemErrorProphecyFamilyConflict | 2127 |  |
+|  | ItemErrorProphecyChainConflict | 2128 |  |
+|  | ProphecyQuestTrackerMapShavronneBrutus | 2129 |  |
+|  | ProphecyQuestTrackerMapKoleBrutus | 2130 |  |
+|  | ProphecyQuestTrackerMapDoedreStoneCircle | 2131 |  |
+|  | ProphecyQuestTrackerMapKadakaKuduku | 2132 |  |
+|  | ProphecyQuestTrackerMapMaligaroFidelitas | 2133 |  |
+|  | ProphecyQuestTrackerMapDaressoMerveil | 2134 |  |
+|  | ProphecyQuestTrackerMapExtraHaku | 2135 |  |
+|  | ProphecyQuestTrackerMapExtraTora | 2136 |  |
+|  | ProphecyQuestTrackerMapExtraCatarina | 2137 |  |
+|  | ProphecyQuestTrackerMapExtraVagan | 2138 |  |
+|  | ProphecyQuestTrackerMapExtraElreon | 2139 |  |
+|  | ProphecyQuestTrackerMapExtraVorici | 2140 |  |
+|  | ProphecyQuestTrackerMapExtraZana | 2141 |  |
+|  | ProphecyQuestTrackerMysteriousInvaders | 2142 |  |
+|  | ProphecyQuestTrackerUndeadSpawnInOldFields | 2143 |  |
+|  | ProphecyQuestTrackerMapTwinned | 2144 |  |
+|  | NavaliNotEnoughCoinsToSeek | 2145 |  |
+|  | NavaliNotEnoughCoinsToSeal | 2146 |  |
+|  | ProphecySealConfirmationText | 2147 |  |
+|  | ProphecySealConfirmationTextPlural | 2148 |  |
+|  | NavaliPropheciesFull | 2149 |  |
+|  | ProphecyQuestTrackerUniqueFireGolemAtFireFurysCamp | 2150 |  |
+|  | ProphecyQuestTrackerFarmerSkeletonsAtRuinedHouse | 2151 |  |
+|  | ProphecyQuestTrackerKaruiWarriorsNearWeatheredCarvings | 2152 |  |
+|  | ProphecyQuestTrackerWeaponsRiseUpAroundLioneyesStandard | 2153 |  |
+|  | ProphecyQuestTrackerGoldenWaterElementalsRiseFromGoldPiles | 2154 |  |
+|  | ProphecyQuestTrackerChildOfLunarisAppearsInChapel | 2155 |  |
+|  | ProphecyQuestTrackerArmyOfUndeadSoldiersAppearInRuinedFortress | 2156 |  |
+|  | ProphecyQuestTrackerTheStockkeeperAppears | 2157 |  |
+|  | ProphecyQuestTrackerUniqueLightningGolemAppearsOutsideBubble | 2158 |  |
+|  | ProphecyQuestTrackerTwoUniqueBlackguardCaptainsAppearAtFarEnd | 2159 |  |
+|  | ProphecyQuestTrackerUniqueZombieBlackguardAtRuinedCart | 2160 |  |
+|  | ProphecyQuestTrackerRareLunarisMiscreationsAppearAtScionCage | 2161 |  |
+|  | ProphecyQuestTrackerTier1MapsSpawnedAtMapDevice | 2162 |  |
+|  | ProphecyQuestTrackerAreaAllRaresAreCloned | 2163 |  |
+|  | ProphecyQuestTrackerAreaAllUniquesArePossessedByTormentedSpirits | 2164 |  |
+|  | ProphecyQuestTrackerMapTempest | 2165 |  |
+|  | ProphecyCompleteTitle | 2166 |  |
+|  | ProphecyQuestTrackerAreaSpawnsUndead | 2167 |  |
+|  | ProphecyQuestTrackerAreaSpawnsInsectsAndQueens | 2168 |  |
+|  | ProphecyQuestTrackerAreaSpawnsSeaWitchesAndSpawn | 2169 |  |
+|  | ProphecyQuestTrackerAreaSpawnsRareDevourers | 2170 |  |
+|  | ProphecyQuestTrackerRatFlood | 2171 |  |
+|  | ProphecyQuestTrackerFrogFlood | 2172 |  |
+|  | ProphecyQuestTrackerVaalInvasion | 2173 |  |
+|  | ProphecyQuestTrackerAreaContainsWashedUpCorpses | 2174 |  |
+|  | ProphecyQuestTrackerMapContainsTrial | 2175 |  |
+|  | ProphecyQuestTrackerKillingKaomWithKaomsSignAddsSpecificMod | 2176 |  |
+|  | ProphecyQuestTrackerKillingGemlingLegionareWithKaruiWardAddsSpecificMod | 2177 |  |
+|  | ProphecyQuestTrackerKillingDaressoWithBramblejackAddsSpecificMod | 2178 |  |
+|  | ProphecyQuestTrackerKillingShavronneWithShavronnesPaceAddsSpecificMod | 2179 |  |
+|  | ProphecyQuestTrackerKillingNightwaneWithDeathsHarpAddsSpecificMod | 2180 |  |
+|  | ProphecyQuestTrackerKillingBeyondUniqueWithBlackheartAddsSpecificMod | 2181 |  |
+|  | ProphecyQuestTrackerKillingGneissWithCragheadAddsSpecificMod | 2182 |  |
+|  | ProphecyQuestTrackerKillingHatebeatWithBlackgleamAddsSpecificMod | 2183 |  |
+|  | ProphecyQuestTrackerKillingTorchoakGroveWithArakuTikiAddsSpecificMod | 2184 |  |
+|  | ProphecyQuestTrackerKillingHailrakeWithHrimsorrowAddsSpecificMod | 2185 |  |
+|  | ProphecyQuestTrackerKillingShavronneWithCrownOfThornsAddsSpecificMod | 2186 |  |
+|  | ProphecyQuestTrackerKillingGemlingLegionnaireWithEzomytePeakAddsSpecificMod | 2187 |  |
+|  | ProphecyQuestTrackerKillingGraviciusWithDeidbellAddsSpecificMod | 2188 |  |
+|  | ProphecyQuestTrackerKillingDoedreWithChaliceOfHorrorsAddsSpecificMod | 2189 |  |
+|  | ProphecyQuestTrackerKillingCalafHeadstaverWithSpringleafAddsSpecificMod | 2190 |  |
+|  | ProphecyQuestTrackerKillingChattersWithKaltenhaltAddsSpecificMod | 2191 |  |
+|  | ProphecyQuestTrackerKillingHundredFootShadowWithScreamingEagleAddsSpecificMod | 2192 |  |
+|  | ProphecyQuestTrackerKillingHammerstormWithLimbsplitAddsSpecificMod | 2193 |  |
+|  | ProphecyQuestTrackerKillingVaalOversoulWithDoomfletchAddsSpecificMod | 2194 |  |
+|  | ProphecyQuestTrackerKillingKalFoxflyWithSilverbranchAddsSpecificMod | 2195 |  |
+|  | ProphecyQuestTrackerKillingFidelitasWithStormCloudAddsSpecificMod | 2196 |  |
+|  | ProphecyQuestTrackerKillingSoulmournWithHrimnorsHymnAddsSpecificMod | 2197 |  |
+|  | ProphecyQuestTrackerKillingPietyWithReverberationRodAddsSpecificMod | 2198 |  |
+|  | ProphecyQuestTrackerKillingGeofriWithRealmshaperAddsSpecificMod | 2199 |  |
+|  | ProphecyQuestTrackerKillingBoneQueenWithQueensDecreeAddsSpecificMod | 2200 |  |
+|  | CreditsCreditsThirdParty | 2201 |  |
+|  | ProphecyPathOfTheThaumaturgistCount1 | 2202 |  |
+|  | ProphecyPathOfTheThaumaturgistCount2 | 2203 |  |
+|  | ProphecyPathOfTheThaumaturgistCount3 | 2204 |  |
+|  | ProphecyThaumaturgistFinal | 2205 |  |
+|  | ProphecyPlaguemawAmbush | 2206 |  |
+|  | ProphecyWarbandFromExile | 2207 |  |
+|  | ProphecyExileFromStrongbox | 2208 |  |
+|  | ProphecyBloodElemental | 2209 |  |
+|  | ProphecyNormalRevivesAsRare | 2210 |  |
+|  | ProphecyMonsterSpawnsMagicPack | 2211 |  |
+|  | ProphecyDestroyTome | 2212 |  |
+|  | ProphecyEnchantmentDevice2ndUse1 | 2213 |  |
+|  | ProphecyEnchantmentDevice2ndUse2 | 2214 |  |
+|  | ProphecyPopupSealCost | 2215 |  |
+|  | ProphecyQuestTrackerInvadingMonster | 2216 |  |
+|  | OptionsChannelCountLow | 2217 |  |
+|  | OptionsChannelCountMedium | 2218 |  |
+|  | OptionsChannelCountHigh | 2219 |  |
+|  | OptionsChannelCount | 2220 |  |
+|  | InsaneWorldArea1 | 2221 |  |
+|  | InsaneWorldArea2 | 2222 |  |
+|  | InsaneWorldArea3 | 2223 |  |
+|  | InsaneWorldArea4 | 2224 |  |
+|  | InsaneWorldArea5 | 2225 |  |
+|  | InsaneWorldArea6 | 2226 |  |
+|  | InsaneWorldArea7 | 2227 |  |
+|  | InsaneWorldArea8 | 2228 |  |
+|  | InsaneWorldArea9 | 2229 |  |
+|  | InsaneWorldArea10 | 2230 |  |
+|  | InsaneDifficulty | 2231 |  |
+|  | InsaneMessage1 | 2232 |  |
+|  | InsaneMessage2 | 2233 |  |
+|  | InsaneMessage3 | 2234 |  |
+|  | InsaneMessage4 | 2235 |  |
+|  | InsaneMessage5 | 2236 |  |
+|  | InsaneMessage6 | 2237 |  |
+|  | OptionsChannelCountRestart | 2238 |  |
+|  | ProphecyFortuneTellerChest | 2239 |  |
+|  | ItemDisplayStringDivinationCard | 2240 |  |
+|  | ItemErrorNotMonolith | 2241 |  |
+|  | AtlasScreenTitle | 2242 |  |
+|  | ChatBoxTo | 2243 |  |
+|  | ChatBoxFrom | 2244 |  |
+|  | OptionsShowChatTimestamps | 2245 |  |
+|  | OptionsOpenFiltersFolderButton | 2246 |  |
+|  | OptionsOpenFiltersFolderButtonPopup | 2247 |  |
+|  | CraftingWindowCraftWithBoundCurrencyButton | 2248 |  |
+|  | TutorialShiftAttack | 2249 |  |
+|  | TutorialWeaponSwap | 2250 |  |
+|  | TutorialCTRLClick | 2251 |  |
+|  | TutorialUnsocket | 2252 |  |
+|  | EssenceCategoryClaw | 2253 |  |
+|  | EssenceCategoryDagger | 2254 |  |
+|  | EssenceCategoryOneHandSword | 2255 |  |
+|  | EssenceCategoryThrustingOneHandSword | 2256 |  |
+|  | EssenceCategoryOneHandAxe | 2257 |  |
+|  | EssenceCategoryOneHandMace | 2258 |  |
+|  | EssenceCategorySceptre | 2259 |  |
+|  | EssenceCategoryStaff | 2260 |  |
+|  | EssenceCategoryTwoHandSword | 2261 |  |
+|  | EssenceCategoryTwoHandAxe | 2262 |  |
+|  | EssenceCategoryTwoHandMace | 2263 |  |
+|  | EssenceCategoryWand | 2264 |  |
+|  | EssenceCategoryBow | 2265 |  |
+|  | EssenceCategoryQuiver | 2266 |  |
+|  | EssenceCategoryAmulet | 2267 |  |
+|  | EssenceCategoryRing | 2268 |  |
+|  | EssenceCategoryBelt | 2269 |  |
+|  | EssenceCategoryGloves | 2270 |  |
+|  | EssenceCategoryBoots | 2271 |  |
+|  | EssenceCategoryBodyArmour | 2272 |  |
+|  | EssenceCategoryHelmet | 2273 |  |
+|  | EssenceCategoryShield | 2274 |  |
+|  | EssenceCategoryArmour | 2275 |  |
+|  | EssenceCategoryMeleeWeapon | 2276 |  |
+|  | EssenceCategoryRangedWeapon | 2277 |  |
+|  | EssenceCategoryOneHandWeapon | 2278 |  |
+|  | EssenceCategoryTwoHandWeapon | 2279 |  |
+|  | EssenceCategoryTwoHandMeleeWeapon | 2280 |  |
+|  | EssenceCategoryWeapon | 2281 |  |
+|  | EssenceCategoryJewellery | 2282 |  |
+|  | OptionsDisableGameplayEventVoices | 2283 |  |
+|  | DeliveryDetailsEditorNameLabel | 2284 |  |
+|  | DeliveryDetailsEditorAddress1Label | 2285 |  |
+|  | DeliveryDetailsEditorAddress2Label | 2286 |  |
+|  | DeliveryDetailsEditorZipOrPostCodeLabel | 2287 |  |
+|  | DeliveryDetailsEditorCityLabel | 2288 |  |
+|  | DeliveryDetailsEditorStateLabel | 2289 |  |
+|  | DeliveryDetailsEditorCountryLabel | 2290 |  |
+|  | DeliveryDetailsEditorShirtSizeLabel | 2291 |  |
+|  | DeliveryDetailsEditorShirtSizeSelectASize | 2292 |  |
+|  | DeliveryDetailsEditorOptOutLabel | 2293 |  |
+|  | DeliveryDetailsEditorOptOutHover | 2294 |  |
+|  | DeliveryDetailsEditorMandatoryNotice | 2295 |  |
+|  | DeliveryDetailsEditorTitle | 2296 |  |
+|  | DeliveryDetailsEditorDescription | 2297 |  |
+|  | DeliveryDetailsEditorConfirmButton | 2298 |  |
+|  | DeliveryDetailsEditorOptOutNotice | 2299 |  |
+|  | MapRhoaNestNameString | 2300 |  |
+|  | MapRhoaNestInfoString | 2301 |  |
+|  | MapUndeadRhoaNestInfoString | 2302 |  |
+|  | MapRhoaBossInfoString | 2303 |  |
+|  | MonolithHelperText | 2304 |  |
+|  | EssenceModLevelRestriction | 2305 |  |
+|  | CreateCharacterButtonMaxCharactersReachedPopup | 2306 |  |
+|  | ItemErrorCannotApplyToMonolith | 2307 |  |
+|  | AtlasModUsesRemaining | 2308 |  |
+|  | AtlasModUsesRemainingPlural | 2309 |  |
+|  | ActionOpenAtlasScreen | 2310 |  |
+|  | ItemErrorTargetNotNormalOrRare | 2311 |  |
+|  | MapStairAlternativeTombExit | 2312 |  |
+|  | MapStairAlternativeTombEntrance | 2313 |  |
+|  | MapStairAlternativeCaveExit | 2314 |  |
+|  | MapStairAlternativePassage | 2315 |  |
+|  | EssenceCategoryOther | 2316 |  |
+|  | EssenceCategoryItems | 2317 |  |
+|  | WorldPanelHideoutPinInfoHover | 2318 |  |
+|  | AscendancyTrialHelp | 2319 |  |
+|  | BoundCurrencyCheckboxLabel | 2320 |  |
+|  | EssenceLeagueInformationLabel | 2321 |  |
+|  | UIOpenMapDescription | 2322 |  |
+|  | MapUpgradeFunctionTier1 | 2323 |  |
+|  | MapUpgradeFunctionTier2 | 2324 |  |
+|  | MapUpgradeFunctionTier3 | 2325 |  |
+|  | MapUpgradeFunctionTier4 | 2326 |  |
+|  | MapUpgradeFunctionTier5 | 2327 |  |
+|  | MapUpgradeFunctionTier6 | 2328 |  |
+|  | MapUpgradeFunctionTier7 | 2329 |  |
+|  | MapUpgradeFunctionTier8 | 2330 |  |
+|  | MapUpgradeFunctionTier9 | 2331 |  |
+|  | MapUpgradeFunctionTier10 | 2332 |  |
+|  | MapUpgradeFunctionTierTo16 | 2333 |  |
+|  | MapUpgradeDescriptionText | 2334 |  |
+|  | MapSuperUpgradeDescriptionText | 2335 |  |
+|  | LoginScreenMigrationLabel | 2336 |  |
+|  | ItemErrorMapNotUpgraded | 2337 |  |
+|  | OptionsEngineMultithreadingModes | 2338 |  |
+|  | OptionsEngineMultithreadingDisabled | 2339 |  |
+|  | OptionsEngineMultithreadingEnabled | 2340 |  |
+|  | ItemErrorMapNotCompleted | 2341 |  |
+|  | CISItemMessage | 2342 |  |
+|  | ItemErrorMapIsUnique | 2343 |  |
+|  | MapStairAlternativeGauntlet | 2344 |  |
+|  | AtlasPopupTier | 2345 |  |
+|  | ReminderTextElementalConfluxes | 2346 |  |
+|  | PlayerAccountLastOnlineYearsN | 2347 |  |
+|  | PlayerAccountLastOnlineYears1 | 2348 |  |
+|  | PlayerAccountLastOnlineMonthsN | 2349 |  |
+|  | PlayerAccountLastOnlineMonths1 | 2350 |  |
+|  | PlayerAccountLastOnlineWeeksN | 2351 |  |
+|  | PlayerAccountLastOnlineWeeks1 | 2352 |  |
+|  | PlayerAccountLastOnlineDaysN | 2353 |  |
+|  | PlayerAccountLastOnlineDays1 | 2354 |  |
+|  | PlayerAccountLastOnlineHoursN | 2355 |  |
+|  | PlayerAccountLastOnlineHours1 | 2356 |  |
+|  | PlayerAccountLastOnlineMinutesN | 2357 |  |
+|  | PlayerAccountLastOnlineMinutes1 | 2358 |  |
+|  | PlayerAccountLastOnlineSecondsN | 2359 |  |
+|  | PlayerAccountLastOnlineSeconds1 | 2360 |  |
+|  | AtlasNodeHoverAreaHasShaperMemoryFragment | 2361 |  |
+|  | PlayerAccountLastOnlineUnknown | 2362 |  |
+|  | AtlasNodeHoverObjectiveMagic | 2363 |  |
+|  | AtlasNodeHoverObjectiveRare | 2364 |  |
+|  | AtlasNodeHoverObjectiveCorruptedRare | 2365 |  |
+|  | AtlasNodeHoverObjectiveUnique | 2366 |  |
+|  | AtlasProgressBarHover1 | 2367 |  |
+|  | AtlasProgressBarHover2 | 2368 |  |
+|  | CraftingWindowShowAtlasButton | 2369 |  |
+|  | DailyDealTimeRemainingCountdown | 2370 |  |
+|  | PlayerContextMenuViewCharacter | 2371 |  |
+|  | PlayerContextMenuViewCharacterPopup | 2372 |  |
+|  | PlayerKilledBy | 2373 |  |
+|  | AtlasScreenSearchLabel | 2374 |  |
+|  | AtlasScreenSearchInfo | 2375 |  |
+|  | AtlasScreenSearchTextboxDefault | 2376 |  |
+|  | GuildTutorialReachedLevel20 | 2377 |  |
+|  | GuildTutorialOpenedSocialPanel | 2378 |  |
+|  | GuildTutorialOpenedGuildTab | 2379 |  |
+|  | CreateHideoutByLevelingMasterTutorial | 2380 |  |
+|  | ClaimHideoutTutorial | 2381 |  |
+|  | AccountBoundCurrencyMergeWarning | 2382 |  |
+|  | RenameGuildButton | 2383 |  |
+|  | OffersDefaultUserMessageText | 2384 |  |
+|  | PrepaidMessageWindowDescription | 2385 |  |
+|  | PrepaidMessageWindowSendButton | 2386 |  |
+|  | PrepaidMessageWindowCancelButton | 2387 |  |
+|  | ItemErrorTargetNotUnique | 2388 |  |
+|  | ItemErrorWrongUnique | 2389 |  |
+|  | ChatBoxWhispersCheckboxLabel | 2390 |  |
+|  | ChatBoxPartyCheckboxLabel | 2391 |  |
+|  | ChatBoxLocalCheckboxLabel | 2392 |  |
+|  | MarketPanelTitle | 2393 |  |
+|  | MarketSearchPageTitle | 2394 |  |
+|  | MarketBookmarkPageTitle | 2395 |  |
+|  | MarketSellingPageTitle | 2396 |  |
+|  | MarketOffersPageTitle | 2397 |  |
+|  | MarketSendOffersPageTitle | 2398 |  |
+|  | MarketSearchPageSearchButton | 2399 |  |
+|  | MarketSearchPageNextButton | 2400 |  |
+|  | MarketMakeOfferMenuItem | 2401 |  |
+|  | MarketOfferAcceptButton | 2402 |  |
+|  | MarketOfferRejectButton | 2403 |  |
+|  | MarketOfferWithdrawButton | 2404 |  |
+|  | MarketOfferSubmitButton | 2405 |  |
+|  | MarketOfferCategoryCurrent | 2406 |  |
+|  | MarketOfferCategoryAccepted | 2407 |  |
+|  | MarketOfferCategoryRejected | 2408 |  |
+|  | MarketOfferCategoryHistory | 2409 |  |
+|  | ReminderTextChill | 2410 |  |
+|  | ReminderTextChillNonHit | 2411 |  |
+|  | ReminderTextChillNonHitNoDuration | 2412 |  |
+|  | ReminderTextShock | 2413 |  |
+|  | ReminderTextShockNonHit | 2414 |  |
+|  | ReminderTextShockNonHitNoDuration | 2415 |  |
+|  | ReminderTextChilledGround | 2416 |  |
+|  | ReminderTextDesecratedGround | 2417 |  |
+|  | ReminderTextImplicitMod | 2418 |  |
+|  | ReminderTextKnockback | 2419 |  |
+|  | ReminderTextLifeLeech | 2420 |  |
+|  | ReminderTextManaLeech | 2421 |  |
+|  | ReminderTextLowLife | 2422 |  |
+|  | ReminderTextLowMana | 2423 |  |
+|  | ReminderTextOverkill | 2424 |  |
+|  | ReminderTextRampage | 2425 |  |
+|  | ReminderTextSilence | 2426 |  |
+|  | ReminderTextSoulEater | 2427 |  |
+|  | ReminderTextElementalStatusAilments | 2428 |  |
+|  | ReminderTextStatusAilments | 2429 |  |
+|  | ReminderTextDamagingAilments | 2430 |  |
+|  | ReminderTextNonDamagingAilments | 2431 |  |
+|  | ReminderTextStunThreshold | 2432 |  |
+|  | ReminderTextUnholyMight | 2433 |  |
+|  | ReminderTextVisibility | 2434 |  |
+|  | ReminderTextFarShot | 2435 |  |
+|  | MarketOfferCancelButton | 2436 |  |
+|  | MarketMakeOfferMenuTitle | 2437 |  |
+|  | MarketOfferNoOfferedItemsPopup | 2438 |  |
+|  | MarketOfferItemsInInventoryPopup | 2439 |  |
+|  | DefaultItemFilter | 2440 |  |
+|  | MarketNotificationOfferRejected | 2441 |  |
+|  | MarketNotificationOfferExpired | 2442 |  |
+|  | MarketNotificationOfferAccepted | 2443 |  |
+|  | MarketNotificationOfferRecieved | 2444 |  |
+|  | MarketNotificationOffersWaiting | 2445 |  |
+|  | ReminderTextHinder | 2446 |  |
+|  | MarketTabBuyWindowButtonDay | 2447 |  |
+|  | MarketTabBuyWindowButtonWeek | 2448 |  |
+|  | MarketTabBuyWindowButtonMonth | 2449 |  |
+|  | MarketConfirmationWindowTitle | 2450 |  |
+|  | MarketConfirmationWindowMessage | 2451 |  |
+|  | MarketSellingTabNameRegular | 2452 |  |
+|  | MarketSellingTabNameBuyout | 2453 |  |
+|  | MarketSellingTabNamePromoted | 2454 |  |
+|  | MarketTabExpiryTime | 2455 |  |
+|  | MarketTabExtensionButtonDay | 2456 |  |
+|  | MarketTabExtensionButtonWeek | 2457 |  |
+|  | MarketTabExtensionButtonMonth | 2458 |  |
+|  | MarketSellingTabInfoRegular | 2459 |  |
+|  | MarketSellingTabInfoBuyout | 2460 |  |
+|  | MarketSellingTabInfoPromoted | 2461 |  |
+|  | MarketSellingTabInfoMessage | 2462 |  |
+|  | HUDDeathMessageReviveAtCheckpointButton | 2463 |  |
+|  | HUDDeathMessageReviveAtCheckpointButtonPopup | 2464 |  |
+|  | PurchaseReviveCoinsMessage | 2465 |  |
+|  | PurchaseReviveCoinsFailed | 2466 |  |
+|  | MarketTabExpiredTimeMessage | 2467 |  |
+|  | ReviveCoinCost | 2468 |  |
+|  | MarketNotificationOffersWaitingSingle | 2469 |  |
+|  | ReminderTextBleedingIsAttackOnly | 2470 |  |
+|  | ReminderTextKeystoneCrimsonDance | 2471 |  |
+|  | ReminderTextKeystoneSharedSuffering | 2472 |  |
+|  | ReminderTextKeystoneIronReflexes | 2473 |  |
+|  | ReminderTextKeystoneResoluteTechnique | 2474 |  |
+|  | ReminderTextKeystoneAcrobatics | 2475 |  |
+|  | ReminderTextKeystoneBloodMagic | 2476 |  |
+|  | ReminderTextKeystonePainAttunement | 2477 |  |
+|  | ReminderTextKeystoneConduit | 2478 |  |
+|  | ReminderTextKeystoneVaalPact | 2479 |  |
+|  | ReminderTextKeystoneMindOverMatter | 2480 |  |
+|  | ReminderTextKeystoneUnwaveringStance | 2481 |  |
+|  | ReminderTextKeystonePointBlank | 2482 |  |
+|  | ReminderTextLucky | 2483 |  |
+|  | ReminderTextUnlucky | 2484 |  |
+|  | InsufficientCurrencyConfimationWindowTitle | 2485 |  |
+|  | InsufficientCurrencyConfimationWindowBoundMessage | 2486 |  |
+|  | InsufficientCurrencyConfimationWindowUnboundMessage | 2487 |  |
+|  | ChatToolbarNotCurrentlyInParty | 2488 |  |
+|  | ChatToolbarNotCurrentlyInGuild | 2489 |  |
+|  | TencentElementsPricingTabString | 2490 |  |
+|  | GuideBookButton | 2491 |  |
+|  | GuideBookButtonHover | 2492 |  |
+|  | MarketConfirmationTitleBuyTab | 2493 |  |
+|  | MarketConfirmationMessageBuyTab | 2494 |  |
+|  | MarketConfirmationMessageBuyTabButton | 2495 |  |
+|  | NotificationOfferStatePreparing | 2496 |  |
+|  | NotificationOfferStateRejected | 2497 |  |
+|  | NotificationOfferStateWithdrawn | 2498 |  |
+|  | NotificationOfferStateExpired | 2499 |  |
+|  | NotificationOfferStateSending | 2500 |  |
+|  | NotificationOfferStateSubmitted | 2501 |  |
+|  | NotificationOfferStateNewOffer | 2502 |  |
+|  | NotificationOfferStateAccepting | 2503 |  |
+|  | MarketTabCostLabel | 2504 |  |
+|  | MarketSearchCategoryArmor | 2505 |  |
+|  | MarketSearchCategoryOneHanded | 2506 |  |
+|  | MarketSearchCategoryTwoHanded | 2507 |  |
+|  | MarketSearchCategoryOffhand | 2508 |  |
+|  | MarketSearchCategoryJewellery | 2509 |  |
+|  | MarketSearchCategoryGems | 2510 |  |
+|  | MarketSearchCategoryFlasks | 2511 |  |
+|  | MarketSearchCategoryOther | 2512 |  |
+|  | MarketSearchCategoryBase | 2513 |  |
+|  | OffersDefaultUserSellerMessageText | 2514 |  |
+|  | ChatBoxLocalHover | 2515 |  |
+|  | ChatBoxGlobalHover | 2516 |  |
+|  | ChatBoxPartyHover | 2517 |  |
+|  | ChatBoxWhisperHover | 2518 |  |
+|  | ChatBoxTradeHover | 2519 |  |
+|  | ChatBoxGuildHover | 2520 |  |
+|  | MarketPopupAskingPrice | 2521 |  |
+|  | MarketDisabledLevelRestrictionHoverText | 2522 |  |
+|  | MarketDisabledOutOfBoundsMessage | 2523 |  |
+|  | ItemErrorCantUseFromOffer | 2524 |  |
+|  | MarketSearchPageSpamClickLockoutMessage | 2525 |  |
+|  | OfferInventoryLabel | 2526 |  |
+|  | OfferItemLabel | 2527 |  |
+|  | TabExtensionConfirmation | 2528 |  |
+|  | OfferConfirmationTitle | 2529 |  |
+|  | OfferConfirmationMessage | 2530 |  |
+|  | TencentGuideBookTutorialText | 2531 |  |
+|  | TencentBrowserGuidebookTip | 2532 |  |
+|  | TencentBoundCurrencyCraftingConfirmationMessage | 2533 |  |
+|  | TencentBoundCurrencyCraftingConfirmationTitle | 2534 |  |
+|  | ReminderTextUncappedResist | 2535 |  |
+|  | PropheciesDisabled | 2536 |  |
+|  | OfferItemSoldLabel | 2537 |  |
+|  | OfferInventoryReceivedItemLabel | 2538 |  |
+|  | OfferInventoryReceivedItemsLabel | 2539 |  |
+|  | ReminderTextKeystoneAvatarOfFire | 2540 |  |
+|  | ReminderTextKeystoneAncestralBond | 2541 |  |
+|  | ReminderTextKeystoneEldritchBattery | 2542 |  |
+|  | ChatToolbarChatButtonChangeChannellPopup | 2543 |  |
+|  | WebBrowserLoading | 2544 |  |
+|  | ObjectDisplayTextResonator | 2545 |  |
+|  | ObjectDisplayTextOriathPortal | 2546 |  |
+|  | SGItemMessage | 2547 |  |
+|  | TutorialFirstSkillGemSocketGemOnItem | 2548 |  |
+|  | TutorialFirstSkillGemExplainSkill | 2549 |  |
+|  | TutorialLowMana | 2550 |  |
+|  | ItemDisplayWeaponRange | 2551 |  |
+|  | OptionsEnableProfanityFilter | 2552 |  |
+|  | OptionsEnableProfanityFilterPopup | 2553 |  |
+|  | ReminderTextCoveredInAsh | 2554 |  |
+|  | ReminderTextCoveredInAshNoDuration | 2555 |  |
+|  | ReminderTextKeystoneChaosInoculation | 2556 |  |
+|  | ReminderTextKeystoneElementalEquilibrium | 2557 |  |
+|  | ReminderTextKeystoneElementalOverload | 2558 |  |
+|  | ReminderTextKeystoneMinionInstability | 2559 |  |
+|  | ReminderTextKeystonePhaseAcrobatics | 2560 |  |
+|  | ReminderTextKeystoneProjectileEvasion | 2561 |  |
+|  | ReminderTextKeystoneIronGrip | 2562 |  |
+|  | ChallengeRewardsPopup | 2563 |  |
+|  | ChallengeRewardsTotemPopup | 2564 |  |
+|  | OptionsDirectXVersion | 2565 |  |
+|  | OptionsDirectXVersionAuto | 2566 |  |
+|  | OptionsDirectXVersionAutoSelected | 2567 |  |
+|  | OptionsDirectXVersion9 | 2568 |  |
+|  | OptionsDirectXVersion9Ex | 2569 |  |
+|  | OptionsDirectXVersion11 | 2570 |  |
+|  | OptionsDirectXRestartNow | 2571 |  |
+|  | OptionsDirectXRestartLater | 2572 |  |
+|  | OptionsDirectX11Crash | 2573 |  |
+|  | OptionsDirectX9Failed | 2574 |  |
+|  | ReminderTextKeystoneZealotsOath | 2575 |  |
+|  | ReminderTextKeystoneGhostReaver | 2576 |  |
+|  | ReminderTextFishBiteSensitivity | 2577 |  |
+|  | DirectX9Only | 2578 |  |
+|  | ReminderTextIronWill | 2579 |  |
+|  | ReminderTextBloodMagicCosts | 2580 |  |
+|  | DivinationStashComboboxLabel | 2581 |  |
+|  | DivinationStashAllOwnedCards | 2582 |  |
+|  | DivinationStashShowFullStacks | 2583 |  |
+|  | DivinationStashShowCollection | 2584 |  |
+|  | EssenceStashButtonText | 2585 |  |
+|  | EssenceStashButtonPopup | 2586 |  |
+|  | EssenceStashUpgradeLabel | 2587 |  |
+|  | EssenceStashUpgradeNumberError | 2588 |  |
+|  | EssenceStashUpgradeSuccessful | 2589 |  |
+|  | EssenceStashUpgradeTierError | 2590 |  |
+|  | EventFinished | 2591 |  |
+|  | EventClosed | 2592 |  |
+|  | DivinationStashShownUnownedCards | 2593 |  |
+|  | CustomItemNoteExchange | 2594 |  |
+|  | CustomItemNoteFixedPrice | 2595 |  |
+|  | CustomItemNoteFor | 2596 |  |
+|  | EventAboutToStartNotification | 2597 |  |
+|  | EventAboutToEndNotification | 2598 |  |
+|  | EventStartsNowNotification | 2599 |  |
+|  | EventNotificationTitle | 2600 |  |
+|  | PathOfEnduranceBossPortalOpen | 2601 |  |
+|  | PathOfEnduranceNextAreaPortal | 2602 |  |
+|  | PathOfEnduranceAreaComplete | 2603 |  |
+|  | TimerNotificationSeeDetails | 2604 |  |
+|  | TencentAASPopupTitle | 2605 |  |
+|  | CraftingBenchMasterLevelTooLow | 2606 |  |
+|  | PassiveTreeSearchLabel | 2607 |  |
+|  | PassiveTreeSearchInfo | 2608 |  |
+|  | TradeMarketSearchOnlineOnlyLabel | 2609 |  |
+|  | SocialPanelSearchDefaultText | 2610 |  |
+|  | SocialPanelFriendsSearchLabel | 2611 |  |
+|  | SocialPanelGuildSearchLabel | 2612 |  |
+|  | THItemMessage | 2613 |  |
+|  | PassiveTreeSearchHint | 2614 |  |
+|  | CreditsCreativeCommons | 2615 |  |
+|  | DivinationCardStashSliderLabel | 2616 |  |
+|  | ObjectDisplayTextAtlasTable | 2617 |  |
+|  | ObjectDisplayTextGreustShrine | 2618 |  |
+|  | ObjectDisplayTextCorruptionRoomDevice1 | 2619 |  |
+|  | ObjectDisplayTextCorruptionRoomDevice2 | 2620 |  |
+|  | ObjectDisplayTextSacrificeRoomDevice1 | 2621 |  |
+|  | ObjectDisplayTextSacrificeRoomDevice2 | 2622 |  |
+|  | ObjectDisplayTextSacrificeRoomDevice3 | 2623 |  |
+|  | NavaliMonkeyWrongPlayer | 2624 |  |
+|  | ActionOpenPantheonPanel | 2625 |  |
+|  | ItemDescriptionClassicVaultKey | 2626 |  |
+|  | LegacyTabName | 2627 |  |
+|  | AtlasMapCompleteNotification | 2628 |  |
+|  | AtlasMapBonusCompleteNotification | 2629 |  |
+|  | TencentActionFailedTasLock | 2630 |  |
+|  | ItemErrorModIncompatable | 2631 |  |
+|  | TelemetryLatencyMS | 2632 |  |
+|  | MTXShopItemPreviousPrice | 2633 |  |
+|  | EnchantingWarningTitle | 2634 |  |
+|  | EnchantingWarningText | 2635 |  |
+|  | EnchantingAcceptButton | 2636 |  |
+|  | ItemDisplayChargesCurrentOfMax1 | 2637 |  |
+|  | ItemDisplayChargesCurrentOfMaxN | 2638 |  |
+|  | CreateCharacterStateSSF | 2639 |  |
+|  | CreateCharacterStateSSFWarning | 2640 |  |
+|  | SSFMigrateConfirmationTitle | 2641 |  |
+|  | SSFMigrateConfirmationMessageAll | 2642 |  |
+|  | SSFMigrationConfirmationMessageChar | 2643 |  |
+|  | ItemPopupRelicUnique | 2644 |  |
+|  | LeagueStoneTabLevelRestriction | 2645 |  |
+|  | LeagueStoneTabDescription | 2646 |  |
+|  | LeagueStonePopupHelperText | 2647 |  |
+|  | SoloSelfSoundMigrateAllButton | 2648 |  |
+|  | SoloSelfFoundMigrateCharacterButton | 2649 |  |
+|  | SoloSelfFoundMigrateCharacterPopup | 2650 |  |
+|  | SoloSelfFoundMigrateAllPopup | 2651 |  |
+|  | TencentActionFailedMarketBanned | 2652 |  |
+|  | LeaguestoneMinimumAreaLevel | 2653 |  |
+|  | LeaguestoneMaximumAreaLevel | 2654 |  |
+|  | LeaguestoneMinimumMaximumAreaLevel | 2655 |  |
+|  | TencentAreaTransitionInformation | 2656 |  |
+|  | ReminderTextCreateLesserShrineCooldown | 2657 |  |
+|  | LeaguestoneTabLevelTooLowNote | 2658 |  |
+|  | LeaguestoneTabLevelTooHighNote | 2659 |  |
+|  | LeaguestoneTabGenericError | 2660 |  |
+|  | TencentTasUnlockWindowTitle | 2661 |  |
+|  | TencentTasUnlockWindowMessage | 2662 |  |
+|  | TencentTasUnlockWindowAction1Button | 2663 |  |
+|  | TencentTasUnlockWindowAction2Button | 2664 |  |
+|  | ConsoleLabyrinthCraftingWindowDescription | 2665 |  |
+|  | ConsoleLabyrinthCraftingWindowDescriptionCruel | 2666 |  |
+|  | ConsoleLabyrinthCraftingWindowDescriptionMerciless | 2667 |  |
+|  | ConsoleLabyrinthCraftingWindowDescriptionMap | 2668 |  |
+|  | AudioOptionsMasterVolumeLabel | 2669 |  |
+|  | AbandonEventMessage | 2670 |  |
+|  | EventErrorSingleEntry | 2671 |  |
+|  | ConnectErrorBadPublicKeys | 2672 |  |
+|  | ConsoleEnchantmentWarning | 2673 |  |
+|  | ObjectDisplayTextKaruiDoor | 2674 |  |
+|  | ObjectDisplayTextPuritySignSlot | 2675 |  |
+|  | TencentSwapChatChannelLabel | 2676 |  |
+|  | ObjectDisplayTextTemplarCourtDoor | 2677 |  |
+|  | XboxControllerDisconnectedMessage | 2678 |  |
+|  | PantheonPanelPopupStatLocked | 2679 |  |
+|  | PantheonPanelPopupStatUnlocked | 2680 |  |
+|  | PantheonPanelPopupUnlocks | 2681 |  |
+|  | MapStairAlternativeLadder | 2682 |  |
+|  | MicrotransactionSlotHoverItemTypeMismatchError | 2683 |  |
+|  | MicrotransactionSlotContextMenuNoMTXMessage | 2684 |  |
+|  | MicrotransactionSlotContextMenuPurchaseButton | 2685 |  |
+|  | InventoryCosmeticsButton | 2686 |  |
+|  | MtxSlotNameWeaponSkin | 2687 |  |
+|  | MtxSlotNameWeaponEffect | 2688 |  |
+|  | MtxSlotNameWeaponAddedEffect | 2689 |  |
+|  | MtxSlotNameHelmetSkin | 2690 |  |
+|  | MtxSlotNameHelmetAttachment | 2691 |  |
+|  | MtxSlotNameBodyArmourSkin | 2692 |  |
+|  | MtxSlotNameBodyArmourAttachment | 2693 |  |
+|  | MtxSlotNameGlovesSkin | 2694 |  |
+|  | MtxSlotNameBootsSkin | 2695 |  |
+|  | MtxSlotNameFootprints | 2696 |  |
+|  | MtxSlotNameCharacterEffect | 2697 |  |
+|  | MtxSlotNamePeriodicCharacterEffect | 2698 |  |
+|  | MtxSlotNamePortrait | 2699 |  |
+|  | MtxSlotNameSocialFrame | 2700 |  |
+|  | MtxSlotNamePet | 2701 |  |
+|  | MtxSlotNamePortal | 2702 |  |
+|  | MtxCategoryConsumable | 2703 |  |
+|  | MtxCategoryShieldSkin | 2704 |  |
+|  | MtxCategoryDance | 2705 |  |
+|  | MtxCategorySkillGem | 2706 |  |
+|  | MtxOptionEquipButton | 2707 |  |
+|  | MtxOptionReclaimButtom | 2708 |  |
+|  | MtxOptionInUse | 2709 |  |
+|  | MtxInventoryOpenMtxPanelButton | 2710 |  |
+|  | MtxInventoryFilterLabel | 2711 |  |
+|  | MtxPanelSortMethodCategory | 2712 |  |
+|  | MtxPanelSortMethodThemes | 2713 |  |
+|  | MtxPanelSortLabel | 2714 |  |
+|  | MicrotransactionSlotHoverEmpty | 2715 |  |
+|  | InventoryOpenShopButton | 2716 |  |
+|  | ActionOpenCosmeticsInventory | 2717 |  |
+|  | TwitchPromotionalButtonText | 2718 |  |
+|  | HideoutListPanelPlace | 2719 |  |
+|  | MicrotransactionPanelUseConsumable | 2720 |  |
+|  | XboxBetaNotification | 2721 |  |
+|  | XboxSharedGamingPrivilegeError | 2722 |  |
+|  | XboxLoginPermissionErrorTitle | 2723 |  |
+|  | XboxPermissionGeneralError | 2724 |  |
+|  | XboxPermissionBannerError | 2725 |  |
+|  | XboxPermissionRestrictedError | 2726 |  |
+|  | XboxPermissionAbortedError | 2727 |  |
+|  | XboxPermissionPurchaseRequiredError | 2728 |  |
+|  | MapStairAlternativeSewerOutlet | 2729 |  |
+|  | ObjectDisplayTextValve | 2730 |  |
+|  | TencentOptionsReport | 2731 |  |
+|  | TencentOptionsReportResult | 2732 |  |
+|  | XboxGuildNameProfanityErrorMessage | 2733 |  |
+|  | XboxCreateCharacterStateTitlebarHintChooseLeague | 2734 |  |
+|  | XboxCreateCharacterStateTitlebarHintChooseClass | 2735 |  |
+|  | XboxCreateCharacterStateTitlebarHintChooseName | 2736 |  |
+|  | XboxPassiveNodeAllocate | 2737 |  |
+|  | XboxPassiveNodeUnallocate | 2738 |  |
+|  | XboxNetworkExitedReasonNetworkFull | 2739 |  |
+|  | LabyrinthWindowName | 2740 |  |
+|  | LabyrithWindowActivateButton | 2741 |  |
+|  | TwitchShopButtonName | 2742 |  |
+|  | ObjectDisplayTextBeacon | 2743 |  |
+|  | ObjectDisplayTextBeaconSwitch | 2744 |  |
+|  | HideCompletedChallengesLabel | 2745 |  |
+|  | ConsoleLogOut | 2746 |  |
+|  | ConsoleFastLogOut | 2747 |  |
+|  | ConsoleClosePanel | 2748 |  |
+|  | ConsolePressMenuButtonToPlay | 2749 |  |
+|  | ConsoleSwitchAccount | 2750 |  |
+|  | ConsoleChangeSelection | 2751 |  |
+|  | ConsoleSelectCharacter | 2752 |  |
+|  | ConsoleDeleteCharacter | 2753 |  |
+|  | ConsoleCreateNewCharacter | 2754 |  |
+|  | ConsoleSwitchLeague | 2755 |  |
+|  | ConsoleSelectLeague | 2756 |  |
+|  | ConsoleSwitchClass | 2757 |  |
+|  | ConsoleSelectClass | 2758 |  |
+|  | ConsoleNavigate | 2759 |  |
+|  | ConsolePickUp | 2760 |  |
+|  | ConsoleCompare | 2761 |  |
+|  | ConsoleSelect | 2762 |  |
+|  | ConsoleRepeatApply | 2763 |  |
+|  | ConsoleScrollStats | 2764 |  |
+|  | ConsoleSelectSkill | 2765 |  |
+|  | ConsoleSelectBinding | 2766 |  |
+|  | ConsoleNavigateSkills | 2767 |  |
+|  | ConsoleNavigateProphecies | 2768 |  |
+|  | ConsoleSwapSkillSets | 2769 |  |
+|  | ConsoleBindSkill | 2770 |  |
+|  | ConsoleChangeWaypoint | 2771 |  |
+|  | ConsoleChangeQuest | 2772 |  |
+|  | ConsoleToggleMapLegend | 2773 |  |
+|  | ConsoleToggleInventory | 2774 |  |
+|  | ConsoleToggleStash | 2775 |  |
+|  | ConsoleToggleMTXInventory | 2776 |  |
+|  | ConsoleMove | 2777 |  |
+|  | ConsolePan | 2778 |  |
+|  | ConsoleZoom | 2779 |  |
+|  | ConsoleRefund | 2780 |  |
+|  | ConsoleReset | 2781 |  |
+|  | ConsoleAscendancyGraph | 2782 |  |
+|  | ConsoleApplyPassiveChanges | 2783 |  |
+|  | ConsoleCancelPassiveChanges | 2784 |  |
+|  | ConsolePlaceJewel | 2785 |  |
+|  | ConsoleRemoveJewel | 2786 |  |
+|  | ConsoleEventsSeeFullSchedule | 2787 |  |
+|  | ConsoleSwapTabs | 2788 |  |
+|  | ConsoleMoveToArea | 2789 |  |
+|  | ConsoleOpenSkillsPanel | 2790 |  |
+|  | ConsoleActionUse | 2791 |  |
+|  | ConsoleActionStash | 2792 |  |
+|  | ConsoleActionTakeItem | 2793 |  |
+|  | ConsoleActionUnstack | 2794 |  |
+|  | ConsoleActionChangeStackSize | 2795 |  |
+|  | ConsoleActionDiscard | 2796 |  |
+|  | ConsoleActionEquip | 2797 |  |
+|  | ConsoleActionEquipOffhand | 2798 |  |
+|  | ConsoleActionUnequip | 2799 |  |
+|  | ConsoleActionSockets | 2800 |  |
+|  | ConsoleActionSocket | 2801 |  |
+|  | ConsoleActionUnsocket | 2802 |  |
+|  | ConsoleActionStore | 2803 |  |
+|  | ConsoleActionPickupGem | 2804 |  |
+|  | ConsoleActionPickupJewel | 2805 |  |
+|  | ConsoleActionPlace | 2806 |  |
+|  | ConsoleActionBuyItem | 2807 |  |
+|  | ConsoleActionSellItem | 2808 |  |
+|  | ConsoleActionAcceptTrade | 2809 |  |
+|  | ConsoleActionCancelTrade | 2810 |  |
+|  | ConsoleActionIdentify | 2811 |  |
+|  | ConsoleActionUseOnObject | 2812 |  |
+|  | ConsoleActionEnchant | 2813 |  |
+|  | ConsoleActionMoveItem | 2814 |  |
+|  | ConsoleActionCraft | 2815 |  |
+|  | ConsoleActionNavigateMods | 2816 |  |
+|  | ConsoleActionOpenAtlas | 2817 |  |
+|  | ConsoleShopNavigate | 2818 |  |
+|  | ConsoleSwapPanels | 2819 |  |
+|  | ConsoleSelectMTXOption | 2820 |  |
+|  | ConsoleCloseLabyrinthMap | 2821 |  |
+|  | ConsoleToggleMapInformation | 2822 |  |
+|  | ConsoleCharacterPanelStats | 2823 |  |
+|  | ConsoleCharacterPanelResistances | 2824 |  |
+|  | ConsoleActionRemove | 2825 |  |
+|  | ConsoleUnbindSkillLabel | 2826 |  |
+|  | ConsoleMTXUseEquipReclaim | 2827 |  |
+|  | ConsolePantheonNavigate | 2828 |  |
+|  | ConsolePantheonActivate | 2829 |  |
+|  | ConsoleActivateMapDevice | 2830 |  |
+|  | ConsoleErrorLabyrinthIncompleteTrials | 2831 |  |
+|  | ConsoleActionOpen | 2832 |  |
+|  | ConsoleActionUseRemnant | 2833 |  |
+|  | ConsoleActionInteract | 2834 |  |
+|  | ConsoleActionUseCurrency | 2835 |  |
+|  | ConsoleReminderUseLifeFlask | 2836 |  |
+|  | ConsoleReminderUseManaFlask | 2837 |  |
+|  | ConsoleSelectPremadeBuild | 2838 |  |
+|  | ConsoleSelectBuild | 2839 |  |
+|  | XboxLowBandwidthWarning | 2840 |  |
+|  | TencentAbuseTypeCheating | 2841 |  |
+|  | TencentAbuseTypeGameFarming | 2842 |  |
+|  | TencentAbuseTypeChat | 2843 |  |
+|  | TencentAbuseTypeExploitingBug | 2844 |  |
+|  | TencentAbuseTypeMaliciousActions | 2845 |  |
+|  | TencentAbuseTypeUserLeft | 2846 |  |
+|  | TencentViewGrading | 2847 |  |
+|  | ArenaNameDominus | 2848 |  |
+|  | ArenaNameGruthkul | 2849 |  |
+|  | ArenaNameAvarius | 2850 |  |
+|  | ArenaNameKitava | 2851 |  |
+|  | ArenaNameTukohama | 2852 |  |
+|  | ArenaNameShavronne | 2853 |  |
+|  | ArenaNameAbberath1 | 2854 |  |
+|  | ArenaNameAbberath2 | 2855 |  |
+|  | ArenaNameAbberath3 | 2856 |  |
+|  | ArenaNameRyslatha | 2857 |  |
+|  | ArenaNameBrineKing | 2858 |  |
+|  | ArenaNameMaligaro | 2859 |  |
+|  | ArenaNameRalakesh | 2860 |  |
+|  | ArenaNameArakaali | 2861 |  |
+|  | ArenaNameYugul | 2862 |  |
+|  | ArenaNameDoedre | 2863 |  |
+|  | ArenaNameSolarisLunaris | 2864 |  |
+|  | ObjectDisplayTextSolarisLunaris | 2865 |  |
+|  | ReclaimMTXWindowTitle | 2866 |  |
+|  | ApplySkinTransferConfirmation | 2867 |  |
+|  | ReclaimSkinTransferConfirmation | 2868 |  |
+|  | MtxListPanelEmptyMessage | 2869 |  |
+|  | MtxHideoutPanelEmptyMessage | 2870 |  |
+|  | OptionsMapOverlayTransparencyLabel | 2871 |  |
+|  | MtxOptionSummonPet | 2872 |  |
+|  | MtxOptionDismissPet | 2873 |  |
+|  | MtxCategoryMisc | 2874 |  |
+|  | MtxOptionItemTypeMismatch | 2875 |  |
+|  | MtxOptionEquipped | 2876 |  |
+|  | MysteryBoxTitle | 2877 |  |
+|  | ObjectDisplayTextLabyrinthDifficultySelect | 2878 |  |
+|  | WorldPanelLabyrinthPinActiveHover | 2879 |  |
+|  | WorldPanelLabyrinthPinInactiveHover | 2880 |  |
+|  | EquipMXTWindow | 2881 |  |
+|  | TravellingToArea | 2882 |  |
+|  | ItemNodeEditorFor | 2883 |  |
+|  | BanditVoting | 2884 |  |
+|  | XboxPartyUIGroup | 2885 |  |
+|  | LabyrinthLockedPopup | 2886 |  |
+|  | LabyrinthLockedPopupNoCost | 2887 |  |
+|  | VanishingDyeMTXStashUse | 2888 |  |
+|  | MtxCategoryHideout | 2889 |  |
+|  | MtxReclaimWindowPrefixCharacter | 2890 |  |
+|  | MtxReclaimWindowPrefixLeague | 2891 |  |
+|  | ObjectNameMoonOrb | 2892 |  |
+|  | ObjectNameSunOrb | 2893 |  |
+|  | PatheonTabName | 2894 |  |
+|  | ActionOpenMtxListPanel | 2895 |  |
+|  | TutorialSkillGemOpenInventory | 2896 |  |
+|  | TutorialSupportGemOpenInventory | 2897 |  |
+|  | TutorialCloseInventory | 2898 |  |
+|  | TutorialTalkToFirstNPC | 2899 |  |
+|  | TutorialWeaponNotPickedUp | 2900 |  |
+|  | TutorialPlayerHasNotAttacked | 2901 |  |
+|  | TutorialSkillGemNotPickedUp | 2902 |  |
+|  | TutorialSupportGemNotPickedUp | 2903 |  |
+|  | TutorialSupportChestNotOpened | 2904 |  |
+|  | TutorialUnsocketedSkillGemInInventory | 2905 |  |
+|  | TutorialUnsocketedSupportGemInInventory | 2906 |  |
+|  | TutorialSkillGemOnCursor | 2907 |  |
+|  | TutorialSupportGemOnCursor | 2908 |  |
+|  | TutorialManaUsed | 2909 |  |
+|  | TutorialDamageTaken | 2910 |  |
+|  | TutorialExperienceGained | 2911 |  |
+|  | TutorialSupportGemPlacementFailed | 2912 |  |
+|  | TutorialSupportGemPlacementSuccess | 2913 |  |
+|  | TutorialPassiveTreeOpened | 2914 |  |
+|  | TutorialNoPassivePointsSelected | 2915 |  |
+|  | TutorialPassivePointsNotAllocated | 2916 |  |
+|  | TutorialAreaErrorNoWeaponDropping | 2917 |  |
+|  | TutorialAreaErrorNoSkillGemDropping | 2918 |  |
+|  | TutorialAreaErrorNoSupportGemDropping | 2919 |  |
+|  | TutorialAreaErrorNoWeaponSetSwapping | 2920 |  |
+|  | TutorialPanelSocial | 2921 |  |
+|  | GrandmasterExportConfirmation | 2922 |  |
+|  | UseMtxItemMessage | 2923 |  |
+|  | SteamPointsPackWindowHoverTitle | 2924 |  |
+|  | SteamPointsPackWindowHoverFreeInternationalShipping | 2925 |  |
+|  | PortraitFrameEquippedMessage | 2926 |  |
+|  | ReminderTextKeystonePerfectAgony | 2927 |  |
+|  | ConsoleQuickInventorySwitchMapDevice | 2928 |  |
+|  | KitavaWeaken1 | 2929 |  |
+|  | KitavaWeaken2 | 2930 |  |
+|  | PassiveSkillTreeBuildTitle | 2931 |  |
+|  | PassiveSkillTreeBuildDescription | 2932 |  |
+|  | PassiveSkillTreeBuildToolTipSaveBuild | 2933 |  |
+|  | PassiveSkillTreeBuildToolTipSaveAllocated | 2934 |  |
+|  | PassiveSkillTreeBuildToolTipModifyBuild | 2935 |  |
+|  | PassiveSkillTreeBuildToolTipClearBuild | 2936 |  |
+|  | PanthonInformationText | 2937 |  |
+|  | PantheonInformationMinorGod | 2938 |  |
+|  | PantheonInformationMajorGod | 2939 |  |
+|  | EpilogueTabName | 2940 |  |
+|  | EpilogueActName | 2941 |  |
+|  | MapLabyrinthTrialAct | 2942 |  |
+|  | PantheonLocationRestrictionWarning | 2943 |  |
+|  | TutorialPanelRarities | 2944 |  |
+|  | TutorialPanelStatsAndMods1 | 2945 |  |
+|  | TutorialPanelStatsAndMods2 | 2946 |  |
+|  | TutorialPanelStatusAilments | 2947 |  |
+|  | TutorialPanelStash | 2948 |  |
+|  | TutorialPanelNavigation | 2949 |  |
+|  | TutorialPanelProphecies | 2950 |  |
+|  | TutorialPanelSupportGemRequirements | 2951 |  |
+|  | TutorialPanelCraftingAndCurrency | 2952 |  |
+|  | TutorialPanelOptionsMenu | 2953 |  |
+|  | TutorialPanelHelpfulTips | 2954 |  |
+|  | TutorialPanelAurasAndHeralds | 2955 |  |
+|  | TutorialPanelJewels | 2956 |  |
+|  | TutorialPanelForsakenMasters | 2957 |  |
+|  | TutorialPanelHideouts | 2958 |  |
+|  | TutorialPanelCustomerSupport | 2959 |  |
+|  | TutorialPanelAscendancies | 2960 |  |
+|  | TutorialPanelHardcoreAndStandard | 2961 |  |
+|  | TutorialPanelLeagues | 2962 |  |
+|  | TutorialPanelDivinationCards | 2963 |  |
+|  | TutorialPanelMicrotransactions | 2964 |  |
+|  | TutorialPanelPantheon | 2965 |  |
+|  | TutorialPanelMapping | 2966 |  |
+|  | TutorialPanelLadders | 2967 |  |
+|  | TutorialPanelRaces | 2968 |  |
+|  | TutorialPanelPvP | 2969 |  |
+|  | TutorialPanelAtziri | 2970 |  |
+|  | TutorialPanelCurses | 2971 |  |
+|  | TutorialPanelWarcries | 2972 |  |
+|  | TutorialPanelMinions | 2973 |  |
+|  | TutorialPanelGlossary | 2974 |  |
+|  | TutorialPanelSkillGemBasics | 2975 |  |
+|  | AreaTransitionName | 2976 |  |
+|  | ConsoleQuickInventorySwitchDivinationTake | 2977 |  |
+|  | TencentReportButton | 2978 |  |
+|  | TencentReportResultButton | 2979 |  |
+|  | XboxPartyUIInvite | 2980 |  |
+|  | XboxPartyUILeave | 2981 |  |
+|  | XboxPartyUIGetGold | 2982 |  |
+|  | XboxPartyUIAllowJoins | 2983 |  |
+|  | TutorialPanelPassiveTree | 2984 |  |
+|  | SkipAllTutorialsLabel | 2985 |  |
+|  | ConsoleQuickInventorySwitchDivinationGive | 2986 |  |
+|  | ConsoleGemLevelUpTitle | 2987 |  |
+|  | ConsolePlayerLevelUpTitle | 2988 |  |
+|  | ConsolePlayerLevelUpText | 2989 |  |
+|  | XboxNetworkExitedOnJoinReasonRestrictedNoGold | 2990 |  |
+|  | XboxNetworkExitedReasonRestrictedNoGold | 2991 |  |
+|  | XboxNetworkExitedOnJoinReasonRestrictedGeneral | 2992 |  |
+|  | XboxNetworkExitedReasonRestrictedGeneral | 2993 |  |
+|  | XboxNetworkExitedOnJoinReasonXboxLiveTemporarilyUnavailable | 2994 |  |
+|  | XboxNetworkExitedReasonXboxLiveTemporarilyUnavailable | 2995 |  |
+|  | XboxNetworkExitedOnJoinReasonIncompatible | 2996 |  |
+|  | XboxNetworkExitedReasonIncompatible | 2997 |  |
+|  | XboxNetworkExitedReasonKicked | 2998 |  |
+|  | XboxNetworkExitedOnJoinReasonError | 2999 |  |
+|  | XboxNetworkExitedReasonError | 3000 |  |
+|  | XboxNetworkExitedOnJoinReasonXIMNetworkNoLongerExists | 3001 |  |
+|  | XboxNetworkExitedReasonXIMNetworkNoLongerExists | 3002 |  |
+|  | XboxNetworkExitedReasonJoinRestriction | 3003 |  |
+|  | TutorialPanelVendorRecipes | 3004 |  |
+|  | TutorialPanelHeaderTitle | 3005 |  |
+|  | TutorialPanelName | 3006 |  |
+|  | GemAutoLevelUpTextEnabled | 3007 |  |
+|  | GemAutoLevelUpTextDisabled | 3008 |  |
+|  | GemToggleAutoLevelLegend | 3009 |  |
+|  | GemLevelUpGemLevel | 3010 |  |
+|  | ConsoleJoinedPartyMessage | 3011 |  |
+|  | CraftItemConfirmationText | 3012 |  |
+|  | HideoutStashTitle | 3013 |  |
+|  | FailedToOpenLabyrinthTitle | 3014 |  |
+|  | FailedToOpenLabyrinthText | 3015 |  |
+|  | TutorialPanelLabyrinth | 3016 |  |
+|  | ObjectStringMummyEventChest | 3017 |  |
+|  | XboxJoiningGroup | 3018 |  |
+|  | ConsoleLeftPartyMessage | 3019 |  |
+|  | ConsolePlayerJoinedPartyMessage | 3020 |  |
+|  | ConsolePlayerLeftPartyMessage | 3021 |  |
+|  | TutorialGemLevelUpClickButtonDirected | 3022 |  |
+|  | TutorialRemoveGemDirected | 3023 |  |
+|  | TutorialShowMapDirected | 3024 |  |
+|  | TutorialUnsocketDirected | 3025 |  |
+|  | TutorialFirstSkillGemSocketGemOnItemDirected | 3026 |  |
+|  | TutorialFirstSkillGemExplainSkillDirected | 3027 |  |
+|  | TutorialTalkToFirstNPCDirected | 3028 |  |
+|  | TutorialWeaponNotPickedUpDirected | 3029 |  |
+|  | TutorialPlayerHasNotAttackedDirected | 3030 |  |
+|  | TutorialSkillGemNotPickedUpDirected | 3031 |  |
+|  | TutorialSupportGemNotPickedUpDirected | 3032 |  |
+|  | TutorialSupportChestNotOpenedDirected | 3033 |  |
+|  | TutorialUnsocketedSupportGemInInventoryDirected | 3034 |  |
+|  | TutorialSkillGemOnCursorDirected | 3035 |  |
+|  | TutorialSupportGemPlacementSuccessDirected | 3036 |  |
+|  | TutorialNoPassivePointsSelectedDirected | 3037 |  |
+|  | TutorialPassivePointsNotAllocatedDirected | 3038 |  |
+|  | ConsoleMTXReclaimLegend | 3039 |  |
+|  | ConsoleMTXHideoutPlaceLegend | 3040 |  |
+|  | ConsolePurchaseWithFavourConfirmationWindowTitle | 3041 |  |
+|  | ConsolePurchaseWithFavourConfirmationWindowMessage | 3042 |  |
+|  | ConsoleSSFMenu | 3043 |  |
+|  | TutorialPanelTrapsAndMines | 3044 |  |
+|  | TutorialPanelUpcomingContent | 3045 |  |
+|  | TutorialPanelDamageTypesAndConversion | 3046 |  |
+|  | TutorialPanelDefenses | 3047 |  |
+|  | TutorialPanelCorruption | 3048 |  |
+|  | TutorialPanelStrongboxes | 3049 |  |
+|  | TutorialPanelOtherCombatMechanics | 3050 |  |
+|  | TutorialPanelTormentedSpirits | 3051 |  |
+|  | TutorialPanelFlasks | 3052 |  |
+|  | TutorialPanelCurrentLeague | 3053 |  |
+|  | HideoutItemOnCursorError | 3054 |  |
+|  | OpenTutorialPanelButtonPopup | 3055 |  |
+|  | TermsAndConditionsPrompt | 3056 |  |
+|  | TutorialPanelSkillGemTitle | 3057 |  |
+|  | TutorialPanelSkillGemContent1 | 3058 |  |
+|  | TutorialPanelSkillGemContent2 | 3059 |  |
+|  | TutorialPanelSkillGemContent3 | 3060 |  |
+|  | TutorialPanelSkillGemImage1 | 3061 |  |
+|  | TutorialPanelSkillGemVideo1 | 3062 |  |
+|  | TutorialPanelSkillGemVideo2 | 3063 |  |
+|  | TutorialPanelSupportGemTitle | 3064 |  |
+|  | TutorialPanelSupportGemSubtitle1 | 3065 |  |
+|  | TutorialPanelSupportGemSubtitle2 | 3066 |  |
+|  | TutorialPanelSupportGemContent1 | 3067 |  |
+|  | TutorialPanelSupportGemContent2 | 3068 |  |
+|  | TutorialPanelSupportGemContent3 | 3069 |  |
+|  | TutorialPanelSupportGemContent4 | 3070 |  |
+|  | TutorialPanelSupportGemCaption1 | 3071 |  |
+|  | TutorialPanelSupportGemImage1 | 3072 |  |
+|  | TutorialPanelSupportGemVideo1 | 3073 |  |
+|  | TutorialPanelSupportGemVideo2 | 3074 |  |
+|  | LabyrinthIzaroDropsAdditionalTreasureKey | 3075 |  |
+|  | LabyrinthIzaroDropsAdditionalUnique | 3076 |  |
+|  | LabyrinthPlayersHaveShrineRowEffect | 3077 |  |
+|  | LabyrinthBossRoomTrapsAreDisabled | 3078 |  |
+|  | LabyrinthPlayersTakeReducedDamageFromLabyrinthTraps | 3079 |  |
+|  | LabyrinthDivineFontGrantsAdditionalEnchantment | 3080 |  |
+|  | LabyrinthDarkshrinePlayersHaveShrineRowEffect2 | 3081 |  |
+|  | LabyrinthDarkshrinePlayersHaveShrineRowEffect3_ | 3082 |  |
+|  | LabyrinthDarkshrinePlayersHaveShrineRowEffect4 | 3083 |  |
+|  | LabyrinthDarkshrinePlayersHaveShrineRowEffect5 | 3084 |  |
+|  | LabyrinthDarkshrinePlayersHaveShrineRowEffect6 | 3085 |  |
+|  | LabyrinthPortalToNextIzaroFight | 3086 |  |
+|  | TutorialPopupNewTutorialUnlocked | 3087 |  |
+|  | TutorialPopupMultipleUnreadTutorials | 3088 |  |
+|  | TutorialPanelPassiveSkillTreeTitle | 3089 |  |
+|  | TutorialPanelPassiveSkillTreeSubtitle1 | 3090 |  |
+|  | TutorialPanelPassiveSkillTreeSubtitle2 | 3091 |  |
+|  | TutorialPanelPassiveSkillTreeContent1 | 3092 |  |
+|  | TutorialPanelPassiveSkillTreeContent2 | 3093 |  |
+|  | TutorialPanelPassiveSkillTreeContent3 | 3094 |  |
+|  | TutorialPanelPassiveSkillTreeContent4 | 3095 |  |
+|  | TutorialPanelPassiveSkillTreeImage1 | 3096 |  |
+|  | TutorialPanelPassiveSkillTreeImage2 | 3097 |  |
+|  | TutorialPanelPassiveSkillTreeImage3 | 3098 |  |
+|  | TutorialPanelRarityTiersTitle | 3099 |  |
+|  | TutorialPanelRarityTiersSubtitle1 | 3100 |  |
+|  | TutorialPanelRarityTiersContent1 | 3101 |  |
+|  | TutorialPanelRarityTiersContent2 | 3102 |  |
+|  | TutorialPanelRarityTiersContent3 | 3103 |  |
+|  | TutorialPanelRarityTiersContent4 | 3104 |  |
+|  | TutorialPanelRarityTiersContent5 | 3105 |  |
+|  | TutorialPanelRarityTiersImage1 | 3106 |  |
+|  | TutorialPanelRarityTiersImage2 | 3107 |  |
+|  | TutorialPanelRarityTiersImage3 | 3108 |  |
+|  | TutorialPanelRarityTiersImage4 | 3109 |  |
+|  | TutorialPanelRarityTiersVideo1 | 3110 |  |
+|  | TutorialPanelRarityTiersCaption1 | 3111 |  |
+|  | TutorialPanelRarityTiersCaption2 | 3112 |  |
+|  | TutorialPanelRarityTiersCaption3 | 3113 |  |
+|  | TutorialPanelStatsAndModsCalculationsTitle | 3114 |  |
+|  | TutorialPanelStatsAndModsCalculationsSubtitle1 | 3115 |  |
+|  | TutorialPanelStatsAndModsCalculationsSubtitle2 | 3116 |  |
+|  | TutorialPanelStatsAndModsCalculationsSubtitle3 | 3117 |  |
+|  | TutorialPanelStatsAndModsCalculationsContent1 | 3118 |  |
+|  | TutorialPanelStatsAndModsCalculationsContent2 | 3119 |  |
+|  | TutorialPanelStatsAndModsCalculationsContent3 | 3120 |  |
+|  | TutorialPanelStatsAndModsCalculationsContent4 | 3121 |  |
+|  | TutorialPanelStatsAndModsCalculationsContent5 | 3122 |  |
+|  | TutorialPanelStatsAndModsCalculationsContent6 | 3123 |  |
+|  | TutorialPanelStatsAndModsCalculationsContent7 | 3124 |  |
+|  | TutorialPanelStatsAndModsCalculationsImage1 | 3125 |  |
+|  | TutorialPanelStatsAndModsCalculationsImage2 | 3126 |  |
+|  | TutorialPanelStatsAndModsCalculationsImage3 | 3127 |  |
+|  | TutorialPanelStatsAndModsCalculationsImage4 | 3128 |  |
+|  | TutorialPanelStatsAndModsCalculationsImage5 | 3129 |  |
+|  | TutorialPanelStatsAndModsCalculationsImage6 | 3130 |  |
+|  | TutorialPanelStatsAndModsCalculationsImage7 | 3131 |  |
+|  | TutorialPanelStatsAndModsCalculationsCaption1 | 3132 |  |
+|  | TutorialPanelStatsAndModsCalculationsCaption2 | 3133 |  |
+|  | TutorialPanelStatsAndModsCalculationsCaption3 | 3134 |  |
+|  | TutorialPanelStatsAndModsCalculationsCaption4 | 3135 |  |
+|  | TutorialPanelGlossaryTitle1 | 3136 |  |
+|  | TutorialPanelGlossarySubtitle1 | 3137 |  |
+|  | TutorialPanelGlossaryContent1 | 3138 |  |
+|  | TutorialPanelGlossarySubtitle2 | 3139 |  |
+|  | TutorialPanelGlossaryContent2 | 3140 |  |
+|  | TutorialPanelGlossarySubtitle3 | 3141 |  |
+|  | TutorialPanelGlossaryContent3 | 3142 |  |
+|  | TutorialPanelGlossarySubtitle4 | 3143 |  |
+|  | TutorialPanelGlossaryContent4 | 3144 |  |
+|  | TutorialPanelGlossarySubtitle5 | 3145 |  |
+|  | TutorialPanelGlossaryContent5 | 3146 |  |
+|  | TutorialPanelGlossarySubtitle6 | 3147 |  |
+|  | TutorialPanelGlossaryContent6 | 3148 |  |
+|  | TutorialPanelGlossarySubtitle7 | 3149 |  |
+|  | TutorialPanelGlossaryContent7 | 3150 |  |
+|  | TutorialPanelGlossarySubtitle8 | 3151 |  |
+|  | TutorialPanelGlossaryContent8 | 3152 |  |
+|  | TutorialPanelGlossarySubtitle9 | 3153 |  |
+|  | TutorialPanelGlossaryContent9 | 3154 |  |
+|  | TutorialPanelGlossarySubtitle10 | 3155 |  |
+|  | TutorialPanelGlossaryContent10 | 3156 |  |
+|  | TutorialPanelGlossarySubtitle11 | 3157 |  |
+|  | TutorialPanelGlossaryContent11 | 3158 |  |
+|  | TutorialPanelGlossarySubtitle12 | 3159 |  |
+|  | TutorialPanelGlossaryContent12 | 3160 |  |
+|  | TutorialPanelGlossarySubtitle13 | 3161 |  |
+|  | TutorialPanelGlossaryContent13 | 3162 |  |
+|  | TutorialPanelGlossarySubtitle14 | 3163 |  |
+|  | TutorialPanelGlossaryContent14 | 3164 |  |
+|  | TutorialPanelGlossarySubtitle15 | 3165 |  |
+|  | TutorialPanelGlossaryContent15 | 3166 |  |
+|  | TutorialPanelGlossarySubtitle16 | 3167 |  |
+|  | TutorialPanelGlossaryContent16 | 3168 |  |
+|  | TutorialPanelGlossarySubtitle17 | 3169 |  |
+|  | TutorialPanelGlossaryContent17 | 3170 |  |
+|  | TutorialPanelGlossarySubtitle18 | 3171 |  |
+|  | TutorialPanelGlossaryContent18 | 3172 |  |
+|  | TutorialPanelGlossarySubtitle19 | 3173 |  |
+|  | TutorialPanelGlossaryContent19 | 3174 |  |
+|  | TutorialPanelGlossarySubtitle20 | 3175 |  |
+|  | TutorialPanelGlossaryContent20 | 3176 |  |
+|  | TutorialPanelGlossarySubtitle21 | 3177 |  |
+|  | TutorialPanelGlossaryContent21 | 3178 |  |
+|  | TutorialPanelGlossarySubtitle22 | 3179 |  |
+|  | TutorialPanelGlossaryContent22 | 3180 |  |
+|  | TutorialPanelGlossarySubtitle23 | 3181 |  |
+|  | TutorialPanelGlossaryContent23 | 3182 |  |
+|  | TutorialPanelGlossarySubtitle24 | 3183 |  |
+|  | TutorialPanelGlossaryContent24 | 3184 |  |
+|  | TutorialPanelGlossarySubtitle26 | 3185 |  |
+|  | TutorialPanelGlossaryContent26 | 3186 |  |
+|  | TutorialPanelGlossarySubtitle27 | 3187 |  |
+|  | TutorialPanelGlossaryContent27 | 3188 |  |
+|  | TutorialPanelGlossarySubtitle28 | 3189 |  |
+|  | TutorialPanelGlossaryContent28 | 3190 |  |
+|  | TutorialPanelGlossarySubtitle29 | 3191 |  |
+|  | TutorialPanelGlossaryContent29 | 3192 |  |
+|  | TutorialPanelGlossarySubtitle30 | 3193 |  |
+|  | TutorialPanelGlossaryContent30 | 3194 |  |
+|  | TutorialPanelGlossarySubtitle31 | 3195 |  |
+|  | TutorialPanelGlossaryContent31 | 3196 |  |
+|  | TutorialPanelGlossarySubtitle32 | 3197 |  |
+|  | TutorialPanelGlossaryContent32 | 3198 |  |
+|  | TutorialPanelGlossarySubtitle33 | 3199 |  |
+|  | TutorialPanelGlossaryContent33 | 3200 |  |
+|  | TutorialPanelGlossarySubtitle25 | 3201 |  |
+|  | TutorialPanelGlossaryContent25 | 3202 |  |
+|  | TutorialPanelGlossarySubtitle34 | 3203 |  |
+|  | TutorialPanelGlossaryContent34 | 3204 |  |
+|  | TutorialPanelGlossarySubtitle35 | 3205 |  |
+|  | TutorialPanelGlossaryContent35 | 3206 |  |
+|  | TutorialPanelGlossarySubtitle36 | 3207 |  |
+|  | TutorialPanelGlossaryContent36 | 3208 |  |
+|  | TutorialPanelGlossarySubtitle37 | 3209 |  |
+|  | TutorialPanelGlossaryContent37 | 3210 |  |
+|  | TutorialPanelGlossarySubtitle38 | 3211 |  |
+|  | TutorialPanelGlossaryContent38 | 3212 |  |
+|  | TutorialPanelGlossarySubtitle39 | 3213 |  |
+|  | TutorialPanelGlossaryContent39 | 3214 |  |
+|  | TutorialPanelGlossarySubtitle40 | 3215 |  |
+|  | TutorialPanelGlossaryContent40 | 3216 |  |
+|  | TutorialPanelGlossarySubtitle41 | 3217 |  |
+|  | TutorialPanelGlossaryContent41 | 3218 |  |
+|  | TutorialPanelGlossarySubtitle42 | 3219 |  |
+|  | TutorialPanelGlossaryContent42 | 3220 |  |
+|  | TutorialPanelGlossarySubtitle43 | 3221 |  |
+|  | TutorialPanelGlossaryContent43 | 3222 |  |
+|  | TutorialPanelGlossarySubtitle44 | 3223 |  |
+|  | TutorialPanelGlossaryContent44 | 3224 |  |
+|  | TutorialPanelGlossarySubtitle45 | 3225 |  |
+|  | TutorialPanelGlossaryContent45 | 3226 |  |
+|  | TutorialPanelGlossarySubtitle46 | 3227 |  |
+|  | TutorialPanelGlossaryContent46 | 3228 |  |
+|  | TutorialPanelGlossarySubtitle47 | 3229 |  |
+|  | TutorialPanelGlossaryContent47 | 3230 |  |
+|  | TutorialPanelGlossarySubtitle48 | 3231 |  |
+|  | TutorialPanelGlossaryContent48 | 3232 |  |
+|  | TutorialPanelGlossarySubtitle49 | 3233 |  |
+|  | TutorialPanelGlossaryContent49 | 3234 |  |
+|  | TutorialPanelGlossarySubtitle50 | 3235 |  |
+|  | TutorialPanelGlossaryContent50 | 3236 |  |
+|  | TutorialPanelGlossarySubtitle107 | 3237 |  |
+|  | TutorialPanelGlossaryContent107 | 3238 |  |
+|  | TutorialPanelGlossarySubtitle51 | 3239 |  |
+|  | TutorialPanelGlossaryContent51 | 3240 |  |
+|  | TutorialPanelGlossarySubtitle52 | 3241 |  |
+|  | TutorialPanelGlossaryContent52 | 3242 |  |
+|  | TutorialPanelGlossarySubtitle53 | 3243 |  |
+|  | TutorialPanelGlossaryContent53 | 3244 |  |
+|  | TutorialPanelGlossarySubtitle54 | 3245 |  |
+|  | TutorialPanelGlossaryContent54 | 3246 |  |
+|  | TutorialPanelGlossarySubtitle55 | 3247 |  |
+|  | TutorialPanelGlossaryContent55 | 3248 |  |
+|  | TutorialPanelGlossarySubtitle56 | 3249 |  |
+|  | TutorialPanelGlossaryContent56 | 3250 |  |
+|  | TutorialPanelGlossarySubtitle57 | 3251 |  |
+|  | TutorialPanelGlossaryContent57 | 3252 |  |
+|  | TutorialPanelGlossarySubtitle58 | 3253 |  |
+|  | TutorialPanelGlossaryContent58 | 3254 |  |
+|  | TutorialPanelGlossarySubtitle59 | 3255 |  |
+|  | TutorialPanelGlossaryContent59 | 3256 |  |
+|  | TutorialPanelGlossarySubtitle60 | 3257 |  |
+|  | TutorialPanelGlossaryContent60 | 3258 |  |
+|  | TutorialPanelGlossarySubtitle61 | 3259 |  |
+|  | TutorialPanelGlossaryContent61 | 3260 |  |
+|  | TutorialPanelGlossarySubtitle62 | 3261 |  |
+|  | TutorialPanelGlossaryContent62 | 3262 |  |
+|  | TutorialPanelGlossarySubtitle63 | 3263 |  |
+|  | TutorialPanelGlossaryContent63 | 3264 |  |
+|  | TutorialPanelGlossarySubtitle64 | 3265 |  |
+|  | TutorialPanelGlossaryContent64 | 3266 |  |
+|  | TutorialPanelGlossarySubtitle65 | 3267 |  |
+|  | TutorialPanelGlossaryContent65 | 3268 |  |
+|  | TutorialPanelGlossarySubtitle66 | 3269 |  |
+|  | TutorialPanelGlossaryContent66 | 3270 |  |
+|  | TutorialPanelGlossarySubtitle67 | 3271 |  |
+|  | TutorialPanelGlossaryContent67 | 3272 |  |
+|  | TutorialPanelGlossarySubtitle68 | 3273 |  |
+|  | TutorialPanelGlossaryContent68 | 3274 |  |
+|  | TutorialPanelGlossarySubtitle69 | 3275 |  |
+|  | TutorialPanelGlossaryContent69 | 3276 |  |
+|  | TutorialPanelGlossarySubtitle70 | 3277 |  |
+|  | TutorialPanelGlossaryContent70 | 3278 |  |
+|  | TutorialPanelGlossarySubtitle71 | 3279 |  |
+|  | TutorialPanelGlossaryContent71 | 3280 |  |
+|  | TutorialPanelGlossarySubtitle72 | 3281 |  |
+|  | TutorialPanelGlossaryContent72 | 3282 |  |
+|  | TutorialPanelGlossarySubtitle73 | 3283 |  |
+|  | TutorialPanelGlossaryContent73 | 3284 |  |
+|  | TutorialPanelGlossarySubtitle74 | 3285 |  |
+|  | TutorialPanelGlossaryContent74 | 3286 |  |
+|  | TutorialPanelGlossarySubtitle75 | 3287 |  |
+|  | TutorialPanelGlossaryContent75 | 3288 |  |
+|  | TutorialPanelGlossarySubtitle76 | 3289 |  |
+|  | TutorialPanelGlossaryContent76 | 3290 |  |
+|  | TutorialPanelGlossarySubtitle78 | 3291 |  |
+|  | TutorialPanelGlossaryContent78 | 3292 |  |
+|  | TutorialPanelGlossarySubtitle79 | 3293 |  |
+|  | TutorialPanelGlossaryContent79 | 3294 |  |
+|  | TutorialPanelGlossarySubtitle80 | 3295 |  |
+|  | TutorialPanelGlossaryContent80 | 3296 |  |
+|  | TutorialPanelGlossarySubtitle81 | 3297 |  |
+|  | TutorialPanelGlossaryContent81 | 3298 |  |
+|  | TutorialPanelGlossarySubtitle82 | 3299 |  |
+|  | TutorialPanelGlossaryContent82 | 3300 |  |
+|  | TutorialPanelGlossarySubtitle83 | 3301 |  |
+|  | TutorialPanelGlossaryContent83 | 3302 |  |
+|  | TutorialPanelGlossarySubtitle84 | 3303 |  |
+|  | TutorialPanelGlossaryContent84 | 3304 |  |
+|  | TutorialPanelGlossarySubtitle85 | 3305 |  |
+|  | TutorialPanelGlossaryContent85 | 3306 |  |
+|  | TutorialPanelGlossarySubtitle86 | 3307 |  |
+|  | TutorialPanelGlossaryContent86 | 3308 |  |
+|  | TutorialPanelGlossarySubtitle87 | 3309 |  |
+|  | TutorialPanelGlossaryContent87 | 3310 |  |
+|  | TutorialPanelGlossarySubtitle88 | 3311 |  |
+|  | TutorialPanelGlossaryContent88 | 3312 |  |
+|  | TutorialPanelGlossarySubtitle89 | 3313 |  |
+|  | TutorialPanelGlossaryContent89 | 3314 |  |
+|  | TutorialPanelGlossarySubtitle90 | 3315 |  |
+|  | TutorialPanelGlossaryContent90 | 3316 |  |
+|  | TutorialPanelGlossarySubtitle91 | 3317 |  |
+|  | TutorialPanelGlossaryContent91 | 3318 |  |
+|  | TutorialPanelGlossarySubtitle92 | 3319 |  |
+|  | TutorialPanelGlossaryContent92 | 3320 |  |
+|  | TutorialPanelGlossarySubtitle93 | 3321 |  |
+|  | TutorialPanelGlossaryContent93 | 3322 |  |
+|  | TutorialPanelGlossarySubtitle94 | 3323 |  |
+|  | TutorialPanelGlossaryContent94 | 3324 |  |
+|  | TutorialPanelGlossarySubtitle95 | 3325 |  |
+|  | TutorialPanelGlossaryContent95 | 3326 |  |
+|  | TutorialPanelGlossarySubtitle96 | 3327 |  |
+|  | TutorialPanelGlossaryContent96 | 3328 |  |
+|  | TutorialPanelGlossarySubtitle97 | 3329 |  |
+|  | TutorialPanelGlossaryContent97 | 3330 |  |
+|  | TutorialPanelGlossarySubtitle98 | 3331 |  |
+|  | TutorialPanelGlossaryContent98 | 3332 |  |
+|  | TutorialPanelGlossarySubtitle99 | 3333 |  |
+|  | TutorialPanelGlossaryContent99 | 3334 |  |
+|  | TutorialPanelGlossarySubtitle100 | 3335 |  |
+|  | TutorialPanelGlossaryContent100 | 3336 |  |
+|  | TutorialPanelGlossarySubtitle101 | 3337 |  |
+|  | TutorialPanelGlossaryContent101 | 3338 |  |
+|  | TutorialPanelGlossarySubtitle102 | 3339 |  |
+|  | TutorialPanelGlossaryContent102 | 3340 |  |
+|  | TutorialPanelGlossarySubtitle103 | 3341 |  |
+|  | TutorialPanelGlossaryContent103 | 3342 |  |
+|  | TutorialPanelGlossarySubtitle104 | 3343 |  |
+|  | TutorialPanelGlossaryContent104 | 3344 |  |
+|  | TutorialPanelGlossarySubtitle105 | 3345 |  |
+|  | TutorialPanelGlossaryContent105 | 3346 |  |
+|  | TutorialPanelGlossarySubtitle106 | 3347 |  |
+|  | TutorialPanelGlossaryContent106 | 3348 |  |
+|  | TutorialPanelStatsAndModsWhatsImportantTitle1 | 3349 |  |
+|  | TutorialPanelStatsAndModsWhatsImportantContent1 | 3350 |  |
+|  | TutorialPanelStatsAndModsWhatsImportantImage1 | 3351 |  |
+|  | TutorialPanelStatsAndModsWhatsImportantCaption1 | 3352 |  |
+|  | TutorialPanelStatsAndModsWhatsImportantSubtitle1 | 3353 |  |
+|  | TutorialPanelStatsAndModsWhatsImportantContent2 | 3354 |  |
+|  | TutorialPanelStatsAndModsWhatsImportantImage2 | 3355 |  |
+|  | TutorialPanelStatsAndModsWhatsImportantCaption2 | 3356 |  |
+|  | TutorialPanelStatsAndModsWhatsImportantSubtitle2 | 3357 |  |
+|  | TutorialPanelStatsAndModsWhatsImportantContent3 | 3358 |  |
+|  | TutorialPanelStatsAndModsWhatsImportantImage3 | 3359 |  |
+|  | TutorialPanelStatsAndModsWhatsImportantCaption3 | 3360 |  |
+|  | TutorialPanelStashTitle1 | 3361 |  |
+|  | TutorialPanelStashContent1 | 3362 |  |
+|  | TutorialPanelStashImage1 | 3363 |  |
+|  | TutorialPanelStashCaption1 | 3364 |  |
+|  | TutorialPanelStashContent2 | 3365 |  |
+|  | TutorialPanelStashSubtitle1 | 3366 |  |
+|  | TutorialPanelStashContent3 | 3367 |  |
+|  | TutorialPanelStashImage2 | 3368 |  |
+|  | TutorialPanelStashCaption2 | 3369 |  |
+|  | TutorialPanelStashImage3 | 3370 |  |
+|  | TutorialPanelStashCaption3 | 3371 |  |
+|  | TutorialPanelStashImage4 | 3372 |  |
+|  | TutorialPanelStashCaption4 | 3373 |  |
+|  | TutorialPanelStashContent4 | 3374 |  |
+|  | TutorialPanelStashImage5 | 3375 |  |
+|  | TutorialPanelStashCaption5 | 3376 |  |
+|  | TutorialPanelNavigationTitle1 | 3377 |  |
+|  | TutorialPanelNavigationSubtitle1 | 3378 |  |
+|  | TutorialPanelNavigationContent1 | 3379 |  |
+|  | TutorialPanelNavigationImage1 | 3380 |  |
+|  | TutorialPanelNavigationCaption1 | 3381 |  |
+|  | TutorialPanelNavigationSubtitle2 | 3382 |  |
+|  | TutorialPanelNavigationContent2 | 3383 |  |
+|  | TutorialPanelStatusAilmentsTitle1 | 3384 |  |
+|  | TutorialPanelStatusAilmentsContent1 | 3385 |  |
+|  | TutorialPanelStatusAilmentsContent2 | 3386 |  |
+|  | TutorialPanelStatusAilmentsImage1 | 3387 |  |
+|  | TutorialPanelStatusAilmentsCaption1 | 3388 |  |
+|  | TutorialPanelStatusAilmentsSubtitle1 | 3389 |  |
+|  | TutorialPanelStatusAilmentsContent3 | 3390 |  |
+|  | TutorialPanelStatusAilmentsImage2 | 3391 |  |
+|  | TutorialPanelStatusAilmentsCaption2 | 3392 |  |
+|  | TutorialPanelStatusAilmentsContent4 | 3393 |  |
+|  | TutorialPanelStatusAilmentsVideo1 | 3394 |  |
+|  | TutorialPanelSocialTitle1 | 3395 |  |
+|  | TutorialPanelSocialContent1 | 3396 |  |
+|  | TutorialPanelSocialSubtitle1 | 3397 |  |
+|  | TutorialPanelSocialContent2 | 3398 |  |
+|  | TutorialPanelSocialImage1 | 3399 |  |
+|  | TutorialPanelSocialCaption1 | 3400 |  |
+|  | TutorialPanelSocialSubtitle2 | 3401 |  |
+|  | TutorialPanelSocialContent3 | 3402 |  |
+|  | TutorialPanelSocialImage2 | 3403 |  |
+|  | TutorialPanelSocialContent4 | 3404 |  |
+|  | TutorialPanelSocialSubtitle3 | 3405 |  |
+|  | TutorialPanelSocialContent5 | 3406 |  |
+|  | TutorialPanelSocialImage3 | 3407 |  |
+|  | TutorialPanelSocialContent6 | 3408 |  |
+|  | TutorialPanelPropheciesTitle1 | 3409 |  |
+|  | TutorialPanelPropheciesContent1 | 3410 |  |
+|  | TutorialPanelPropheciesImage1 | 3411 |  |
+|  | TutorialPanelPropheciesContent2 | 3412 |  |
+|  | TutorialPanelPropheciesImage2 | 3413 |  |
+|  | TutorialPanelPropheciesContent3 | 3414 |  |
+|  | TutorialPanelPropheciesVideo1 | 3415 |  |
+|  | TutorialPanelCraftingAndCurrencyTitle | 3416 |  |
+|  | TutorialPanelCraftingAndCurrencyContent1 | 3417 |  |
+|  | TutorialPanelCraftingAndCurrencyContent2 | 3418 |  |
+|  | TutorialPanelCraftingAndCurrencyContent3 | 3419 |  |
+|  | TutorialPanelCraftingAndCurrencyImage1 | 3420 |  |
+|  | TutorialPanelCraftingAndCurrencyImage2 | 3421 |  |
+|  | TutorialPanelCraftingAndCurrencyImage3 | 3422 |  |
+|  | TutorialPanelCraftingAndCurrencyImage4 | 3423 |  |
+|  | TutorialPanelCraftingAndCurrencyImage5 | 3424 |  |
+|  | TutorialPanelCraftingAndCurrencyImage6 | 3425 |  |
+|  | TutorialPanelCraftingAndCurrencyImage7 | 3426 |  |
+|  | TutorialPanelCraftingAndCurrencyImage8 | 3427 |  |
+|  | TutorialPanelCraftingAndCurrencyImage9 | 3428 |  |
+|  | TutorialPanelCraftingAndCurrencyImage10 | 3429 |  |
+|  | TutorialPanelCraftingAndCurrencyImage11 | 3430 |  |
+|  | TutorialPanelCraftingAndCurrencyVideo1 | 3431 |  |
+|  | TutorialPanelCraftingAndCurrencyCaption1 | 3432 |  |
+|  | TutorialPanelHelpfulTipsTitle1 | 3433 |  |
+|  | TutorialPanelHelpfulTipsContent1 | 3434 |  |
+|  | TutorialPanelHelpfulTipsSubtitle1 | 3435 |  |
+|  | TutorialPanelHelpfulTipsContent2 | 3436 |  |
+|  | TutorialPanelHelpfulTipsSubtitle2 | 3437 |  |
+|  | TutorialPanelHelpfulTipsContent3 | 3438 |  |
+|  | TutorialPanelHelpfulTipsSubtitle3 | 3439 |  |
+|  | TutorialPanelHelpfulTipsContent4 | 3440 |  |
+|  | TutorialPanelHelpfulTipsSubtitle4 | 3441 |  |
+|  | TutorialPanelHelpfulTipsContent5 | 3442 |  |
+|  | TutorialPanelHelpfulTipsSubtitle5 | 3443 |  |
+|  | TutorialPanelHelpfulTipsContent6 | 3444 |  |
+|  | TutorialPanelHelpfulTipsSubtitle6 | 3445 |  |
+|  | TutorialPanelHelpfulTipsContent7 | 3446 |  |
+|  | TutorialPanelHelpfulTipsSubtitle7 | 3447 |  |
+|  | TutorialPanelHelpfulTipsContent8 | 3448 |  |
+|  | TutorialPanelHelpfulTipsSubtitle8 | 3449 |  |
+|  | TutorialPanelHelpfulTipsContent9 | 3450 |  |
+|  | TutorialPanelHelpfulTipsVideo1 | 3451 |  |
+|  | TutorialPanelHelpfulTipsCaption1 | 3452 |  |
+|  | TutorialPanelAurasAndHeraldsTitle | 3453 |  |
+|  | TutorialPanelAurasAndHeraldsContent1 | 3454 |  |
+|  | TutorialPanelAurasAndHeraldsVideo1 | 3455 |  |
+|  | TutorialPanelAurasAndHeraldsContent2 | 3456 |  |
+|  | TutorialPanelAurasAndHeraldsContent3 | 3457 |  |
+|  | TutorialPanelAurasAndHeraldsVideo2 | 3458 |  |
+|  | TutorialPanelAurasAndHeraldsCaption1 | 3459 |  |
+|  | TutorialPanelJewelsTitle1 | 3460 |  |
+|  | TutorialPanelJewelsContent1 | 3461 |  |
+|  | TutorialPanelJewelsImage1 | 3462 |  |
+|  | TutorialPanelJewelsContent2 | 3463 |  |
+|  | TutorialPanelJewelsImage2 | 3464 |  |
+|  | TutorialPanelJewelsImage3 | 3465 |  |
+|  | TutorialPanelJewelsCaption3 | 3466 |  |
+|  | TutorialPanelJewelsContent3 | 3467 |  |
+|  | TutorialPanelForsakenMastersTitle1 | 3468 |  |
+|  | TutorialPanelForsakenMastersContent1 | 3469 |  |
+|  | TutorialPanelForsakenMastersSubtitle1 | 3470 |  |
+|  | TutorialPanelForsakenMastersContent2 | 3471 |  |
+|  | TutorialPanelForsakenMastersContent3 | 3472 |  |
+|  | TutorialPanelForsakenMastersContent4 | 3473 |  |
+|  | TutorialPanelForsakenMastersSubtitle2 | 3474 |  |
+|  | TutorialPanelForsakenMastersContent5 | 3475 |  |
+|  | TutorialPanelForsakenMastersVideo1 | 3476 |  |
+|  | TutorialPanelVendorRecipesTitle1 | 3477 |  |
+|  | TutorialPanelVendorRecipesContent1 | 3478 |  |
+|  | TutorialPanelVendorRecipesImage1 | 3479 |  |
+|  | TutorialPanelVendorRecipesImage2 | 3480 |  |
+|  | TutorialPanelVendorRecipesImage3 | 3481 |  |
+|  | TutorialPanelVendorRecipesImage4 | 3482 |  |
+|  | TutorialPanelVendorRecipesImage5 | 3483 |  |
+|  | TutorialPanelVendorRecipesImage6 | 3484 |  |
+|  | TutorialPanelVendorRecipesImage7 | 3485 |  |
+|  | TutorialPanelVendorRecipesImage8 | 3486 |  |
+|  | TutorialPanelVendorRecipesContent2 | 3487 |  |
+|  | TutorialPanelTheLabyrinthTitle | 3488 |  |
+|  | TutorialPanelTheLabyrinthContent1 | 3489 |  |
+|  | TutorialPanelTheLabyrinthVideo1 | 3490 |  |
+|  | TutorialPanelTheLabyrinthCaption1 | 3491 |  |
+|  | TutorialPanelTheLabyrinthContent2 | 3492 |  |
+|  | TutorialPanelTheLabyrinthImage1 | 3493 |  |
+|  | TutorialPanelTheLabyrinthCaption2 | 3494 |  |
+|  | TutorialPanelTheLabyrinthContent3 | 3495 |  |
+|  | TutorialPanelAscendanciesTitle | 3496 |  |
+|  | TutorialPanelAscendanciesContent1 | 3497 |  |
+|  | TutorialPanelParentLeaguesTitle | 3498 |  |
+|  | TutorialPanelParentLeaguesContent1 | 3499 |  |
+|  | TutorialPanelParentLeaguesContent2 | 3500 |  |
+|  | TutorialPanelParentLeaguesImage1 | 3501 |  |
+|  | TutorialPanelParentLeaguesImage2 | 3502 |  |
+|  | TutorialPanelChallengeLeaguesTitle1 | 3503 |  |
+|  | TutorialPanelChallengeLeaguesContent1 | 3504 |  |
+|  | TutorialPanelChallengeLeaguesImage1 | 3505 |  |
+|  | TutorialPanelChallengeLeaguesCaption1 | 3506 |  |
+|  | TutorialPanelChallengeLeaguesContent2 | 3507 |  |
+|  | TutorialPanelChallengeLeaguesImage2 | 3508 |  |
+|  | TutorialPanelChallengeLeaguesCaption2 | 3509 |  |
+|  | TutorialPanelDivinationCardsTitle | 3510 |  |
+|  | TutorialPanelDivinationCardsContent1 | 3511 |  |
+|  | TutorialPanelDivinationCardsImage1 | 3512 |  |
+|  | TutorialPanelDivinationCardsContent2 | 3513 |  |
+|  | TutorialPanelDivinationCardsVideo1 | 3514 |  |
+|  | TutorialPanelMicrotransactionsTitle1 | 3515 |  |
+|  | TutorialPanelMicrotransactionsContent1 | 3516 |  |
+|  | TutorialPanelMicrotransactionsContent2 | 3517 |  |
+|  | TutorialPanelMicrotransactionsSubtitle1 | 3518 |  |
+|  | TutorialPanelMicrotransactionsImage1 | 3519 |  |
+|  | TutorialPanelMicrotransactionsCaption1 | 3520 |  |
+|  | TutorialPanelMicrotransactionsContent3 | 3521 |  |
+|  | TutorialPanelMicrotransactionsVideo1 | 3522 |  |
+|  | TutorialPanelPantheonTitle1 | 3523 |  |
+|  | TutorialPanelPantheonContent1 | 3524 |  |
+|  | TutorialPanelPantheonSubtitle1 | 3525 |  |
+|  | TutorialPanelPantheonContent2 | 3526 |  |
+|  | TutorialPanelPantheonImage1 | 3527 |  |
+|  | TutorialPanelPantheonCaption1 | 3528 |  |
+|  | TutorialPanelMappingTitle1 | 3529 |  |
+|  | TutorialPanelMappingContent1 | 3530 |  |
+|  | TutorialPanelMappingSubtitle1 | 3531 |  |
+|  | TutorialPanelMappingContent2 | 3532 |  |
+|  | TutorialPanelMappingSubtitle2 | 3533 |  |
+|  | TutorialPanelMappingContent3 | 3534 |  |
+|  | TutorialPanelMappingContent4 | 3535 |  |
+|  | TutorialPanelMappingVideo1 | 3536 |  |
+|  | TutorialPanelMappingVideo2 | 3537 |  |
+|  | TutorialPanelPvPTitle1 | 3538 |  |
+|  | TutorialPanelPvPContent1 | 3539 |  |
+|  | TutorialPanelCustomerSupportTitle1 | 3540 |  |
+|  | TutorialPanelCustomerSupportContent1 | 3541 |  |
+|  | MtxPopupCountLabel | 3542 |  |
+|  | ObjectDisplayTextAreaTransitionOssuary | 3543 |  |
+|  | ItemDescriptionUniqueFragment | 3544 |  |
+|  | TutorialPanelHelpIntro | 3545 |  |
+|  | TutorialPanelHelpTitle | 3546 |  |
+|  | TutorialPanelHelpContent1 | 3547 |  |
+|  | AudioOptionsChatAlertVolumeLabel | 3548 |  |
+|  | ConsoleMarketPanelLegendSearchNavigation | 3549 |  |
+|  | ConsoleMarketPanelLegendChangeSearchOption | 3550 |  |
+|  | ConsoleMarketPanelLegendSearch | 3551 |  |
+|  | ConsoleMarketPanelLegendNext | 3552 |  |
+|  | ConsoleCategorySelectWindowInfo | 3553 |  |
+|  | ConsoleCategorySelectAll | 3554 |  |
+|  | ConsoleOfferPageShowItemPopup | 3555 |  |
+|  | ConsoleMarketMakeOffer | 3556 |  |
+|  | ConsoleSetItemNoteLabel | 3557 |  |
+|  | ConsoleNext | 3558 |  |
+|  | ConsolePrevious | 3559 |  |
+|  | ReminderTextFreeze | 3560 |  |
+|  | ReminderTextIgnite | 3561 |  |
+|  | ReminderTextIgniteNonHitNoDuration | 3562 |  |
+|  | LabyrinthRequiredLevel | 3563 |  |
+|  | AtlasNodePantheonText | 3564 |  |
+|  | XboxPlayerContextMenuInvite | 3565 |  |
+|  | XboxPlayerContextMenuLeave | 3566 |  |
+|  | XboxPlayerContextMenuMute | 3567 |  |
+|  | XboxPlayerContextMenuViewProfile | 3568 |  |
+|  | XboxPlayerContextMenuVisitHideout | 3569 |  |
+|  | XboxPlayerContextMenuTrade | 3570 |  |
+|  | XboxPlayerContextMenuKick | 3571 |  |
+|  | PantheonTabPopupRequirementsNotMet | 3572 |  |
+|  | TencentHudEventButtonLabel | 3573 |  |
+|  | TencentHubEventButtonHover | 3574 |  |
+|  | OptionsGraphicsTabLightingQualityDescription | 3575 |  |
+|  | OptionsGraphicsTabLightingQualityOptionLow | 3576 |  |
+|  | OptionsGraphicsTabLightingQualityOptionMedium | 3577 |  |
+|  | OptionsGraphicsTabLightingQualityOptionHigh | 3578 |  |
+|  | TutorialPanelAscendanciesContent2 | 3579 |  |
+|  | TutorialPanelAscendanciesVideo1 | 3580 |  |
+|  | TutorialPanelHideoutTitle | 3581 |  |
+|  | TutorialPanelHideoutContent1 | 3582 |  |
+|  | TutorialPanelHideoutContent2 | 3583 |  |
+|  | TutorialPanelHideoutContent3 | 3584 |  |
+|  | TutorialPanelHideoutContent4 | 3585 |  |
+|  | TutorialPanelHideoutVideo1 | 3586 |  |
+|  | TutorialPanelHideoutVideo2 | 3587 |  |
+|  | UnholySubBossDomainDoedre | 3588 |  |
+|  | UnholySubBossDomainMaligaro | 3589 |  |
+|  | UnholySubBossDomainShavronne | 3590 |  |
+|  | MtxPopupGiftedBy | 3591 |  |
+|  | ConsoleEnterHideoutEditMode | 3592 |  |
+|  | ConsoleExitHideoutEditMode | 3593 |  |
+|  | ConsoleSelectDoodad | 3594 |  |
+|  | ConsoleOpenHideoutStash | 3595 |  |
+|  | ConsoleHideoutChangeVariation | 3596 |  |
+|  | TutorialPanelHarbinger | 3597 |  |
+|  | TutorialPanelHarbingerTitle | 3598 |  |
+|  | TutorialPanelHarbingerContent1 | 3599 |  |
+|  | TutorialPanelHarbingerContent2 | 3600 |  |
+|  | TutorialPanelHarbingerVideo1 | 3601 |  |
+|  | XboxTradeMarketLegendNextTab | 3602 |  |
+|  | XboxTradeMarketSystemPreviousTab | 3603 |  |
+|  | XboxTradeMarketSystemSearchError | 3604 |  |
+|  | XboxTradeNotification | 3605 |  |
+|  | XboxTradeCurrencyOnlyError | 3606 |  |
+|  | ConsoleChallengesExpandLabel | 3607 |  |
+|  | ConsoleChallengesExpandAllLabel | 3608 |  |
+|  | ConsoleChallengesToggleCompleted | 3609 |  |
+|  | ConsoleChallengesUnavailable | 3610 |  |
+|  | ConsoleOfferProfanityError | 3611 |  |
+|  | ShopPanelPurchaseSuccessful | 3612 |  |
+|  | ShopPanelPurchaseFailed | 3613 |  |
+|  | ShopPanelPurchaseFailedWithError | 3614 |  |
+|  | ShopPanelProductNotAvailable | 3615 |  |
+|  | XboxShopPanelFailedToGetCatalogDetails | 3616 |  |
+|  | PassiveSkillTreePlannerKeystoneTitle | 3617 |  |
+|  | PassiveSkillTreePlannerJewelTitle | 3618 |  |
+|  | PassiveSkillTreePlannerEmptyJewelSocket | 3619 |  |
+|  | TencentTradeableMicrotransationPopupMessage | 3620 |  |
+|  | TrencentTradeableMicrotransactionConfirmationMessage | 3621 |  |
+|  | ArenaNameKitava2 | 3622 |  |
+|  | HarbingerDisplayInfoStringTotem1 | 3623 |  |
+|  | HarbingerDisplayInfoStringTotem2 | 3624 |  |
+|  | ArenaNameTolmanAnkh | 3625 |  |
+|  | ArenaNameGarukhan | 3626 |  |
+|  | ArenaNameGeneralAdus | 3627 |  |
+|  | TencentTutorialPassiveSkillTreeNotable | 3628 |  |
+|  | PassiveSkillTreePlannerStatsTitle | 3629 |  |
+|  | TradeMarketAllSubcategory | 3630 |  |
+|  | TradeMarketCategorySelectionWindow | 3631 |  |
+|  | MapSummitValley | 3632 |  |
+|  | ConsoleReorderTabsPrompt | 3633 |  |
+|  | ArenaNameShakari | 3634 |  |
+|  | ArenaNameShakari2 | 3635 |  |
+|  | ArenaNameShakari3 | 3636 |  |
+|  | ConsolePantheonPanelToggleLegend | 3637 |  |
+|  | TradeMarketSearchWindowTitle | 3638 |  |
+|  | Act6DefiledProclamationObject | 3639 |  |
+|  | MtxCategorySkinAndMask | 3640 |  |
+|  | TutorialPanelHelpfulTipsSubtitle9 | 3641 |  |
+|  | TutorialPanelHelpfulTipsContent10 | 3642 |  |
+|  | HelpPanelLegendSelectCategory | 3643 |  |
+|  | HelpPanelLegendScrollCateogry | 3644 |  |
+|  | ConsoleChallengesPanelScroll | 3645 |  |
+|  | ConsoleCompleteChallengeNotificationTitle | 3646 |  |
+|  | ConsoleCompleteChallengeElementNotificationTitle | 3647 |  |
+|  | ReminderTextMalachaisEndurance | 3648 |  |
+|  | ReminderTextMalachaisFrenzy | 3649 |  |
+|  | ReminderTextMalachaisPower | 3650 |  |
+|  | TencentEventPointsDisplay | 3651 |  |
+|  | TencentGradingTabTitle | 3652 |  |
+|  | TencentNotificationAddingEventEnergy | 3653 |  |
+|  | SaveCurrentPassiveTreeBuildConfirmation | 3654 |  |
+|  | ConsoleCadiroConfermationMessage | 3655 |  |
+|  | TencentXPPenaltyPopupText | 3656 |  |
+|  | TencentCharacterPanelBrowserButton | 3657 |  |
+|  | TwilightTempleSolarisNameString | 3658 |  |
+|  | TwilightTempleLunarisNameString | 3659 |  |
+|  | DivCardFailureCharacterTooLowLevel | 3660 |  |
+|  | ShapedMap | 3661 |  |
+|  | ElderMap | 3662 |  |
+|  | AtlasShapedMap | 3663 |  |
+|  | AtlasElderMap | 3664 |  |
+|  | TutorialPanelEssences | 3665 |  |
+|  | TutorialPanelBreaches | 3666 |  |
+|  | PortalScrollTutorial | 3667 |  |
+|  | ReturnToCoastTutorial | 3668 |  |
+|  | ReturnToCoastSelectDestinationTutorial | 3669 |  |
+|  | TemplarLabSealedDoorway | 3670 |  |
+|  | ShopThisUpdateContains | 3671 |  |
+|  | XboxShopPanelFailedToGetInventoryItemDetails | 3672 |  |
+|  | PassivePlannerAdditionalPassivePoints | 3673 |  |
+|  | PassivePlannerSkillPointsRequired | 3674 |  |
+|  | PassivePlannerAscendanyPointsRequired | 3675 |  |
+|  | ItemOnCursorErrorMessage | 3676 |  |
+|  | ConfirmationWindowWarningTitle | 3677 |  |
+|  | ConsoleSkinTransferLegend | 3678 |  |
+|  | ConsoleCancelSkinTransferLegend | 3679 |  |
+|  | MapStairAlternativeTunnel | 3680 |  |
+|  | ConsoleSendItemToOffer | 3681 |  |
+|  | ConsoleMapPanelSameAreaError | 3682 |  |
+|  | ConsoleMapPanelNoWayPointError | 3683 |  |
+|  | AtlasNodeHoverHasElderGuardian | 3684 |  |
+|  | AtlasNodeHoverHasElderGuardianFire | 3685 |  |
+|  | AtlasNodeHoverHasElderGuardianLightning | 3686 |  |
+|  | AtlasNodeHoverHasElderGuardianChaos | 3687 |  |
+|  | AtlasNodeHoverHasElderGuardianHoly | 3688 |  |
+|  | ReminderTextHerEmbrace | 3689 |  |
+|  | ReminderTextEquippedItems | 3690 |  |
+|  | MTXCombineWindowTitle | 3691 |  |
+|  | MTXCombineWindowButton | 3692 |  |
+|  | ItemDisplayAbyssalJewel | 3693 |  |
+|  | ReminderTextAbyssalSockets | 3694 |  |
+|  | TencentGuildQQNumberLabel | 3695 |  |
+|  | TencentGuildIntroTextLabel | 3696 |  |
+|  | TencentGuildPublicCheckboxLabel | 3697 |  |
+|  | TencentGuildIntroTextDefault | 3698 |  |
+|  | TencentGuildWebsiteButtonLabel | 3699 |  |
+|  | ItemNoteEditorOptionDoNotIndex | 3700 |  |
+|  | Skip | 3701 |  |
+|  | LadderPanelTitle | 3702 |  |
+|  | LeagueStandardAbyss | 3703 |  |
+|  | LeagueHardcoreAbyss | 3704 |  |
+|  | LeagueStandardSSFAbyss | 3705 |  |
+|  | LeagueHardcoreSSFAbyss | 3706 |  |
+|  | LeagueStandard | 3707 |  |
+|  | LeagueHardcore | 3708 |  |
+|  | LeagueStandardSSF | 3709 |  |
+|  | LeagueHardcoreSSF | 3710 |  |
+|  | CombineMicrotransactionsWarning | 3711 |  |
+|  | StashTabEditorMapSeriesLabel | 3712 |  |
+|  | StashTabEditorMapSeriesInventoryContainsItemsError | 3713 |  |
+|  | StashTabEditorMapSeriesConfirmationWindow | 3714 |  |
+|  | TutorialPanelAbyss | 3715 |  |
+|  | TutorialPanelAbyssTitle | 3716 |  |
+|  | TutorialPanelAbyssContent1 | 3717 |  |
+|  | TutorialPanelAbyssContent2 | 3718 |  |
+|  | TutorialPanelAbyssContent3 | 3719 |  |
+|  | TutorialPanelAbyssContent4 | 3720 |  |
+|  | TutorialPanelAbyssVideo1 | 3721 |  |
+|  | TutorialPanelAbyssCaption1 | 3722 |  |
+|  | TutorialPanelAbyssCaption2 | 3723 |  |
+|  | TutorialPanelAbyssImage1 | 3724 |  |
+|  | TutorialPanelAbyssImage2 | 3725 |  |
+|  | QuestRewardsWindowTakeNPCItem | 3726 |  |
+|  | ReminderTextAttributes | 3727 |  |
+|  | MapsStashChildStashesDifferPopupText | 3728 |  |
+|  | ItemPopupShaperItem | 3729 |  |
+|  | ItemPopupElderItem | 3730 |  |
+|  | MapStashTierTabEditorUniqueMaps | 3731 |  |
+|  | ModDescriptionLineImplicit | 3732 |  |
+|  | ModDescriptionLineEnchantmentImplicit | 3733 |  |
+|  | ModDescriptionLineCorruptedImplicit | 3734 |  |
+|  | ModDescriptionLinePrefix | 3735 |  |
+|  | ModDescriptionLineCraftedPrefix | 3736 |  |
+|  | ModDescriptionLineSuffix | 3737 |  |
+|  | ModDescriptionLineCraftedSuffix | 3738 |  |
+|  | ModDescriptionLineUnique | 3739 |  |
+|  | OptionsPanelAdvanceModDescriptions | 3740 |  |
+|  | OptionsPanelAdvanceModDescriptionsHover | 3741 |  |
+|  | ArchetypeSelectionWindowTitle | 3742 |  |
+|  | ArchetypeSelectionWindowDescription | 3743 |  |
+|  | ArchetypeSelectionWindowNoArchetypeButton | 3744 |  |
+|  | ArchetypeSelectWindowConfirmation | 3745 |  |
+|  | TencentLevelUpTutorialArchetypeMessage | 3746 |  |
+|  | TencentLevelUpTutorialArchetypeDirected | 3747 |  |
+|  | TencentArchetypeReward | 3748 |  |
+|  | TencentInventoryExpansionBuyMore | 3749 |  |
+|  | CraftingBenchNoOptionsAvaliable | 3750 |  |
+|  | TencentInventoryExpansionConfirmationTitle | 3751 |  |
+|  | TencentInventoryExpansionConfirmationMessage | 3752 |  |
+|  | TencentInventoryExpansionPurchaseSuccess | 3753 |  |
+|  | TencentInventoryExpansionFirstColumnFreeMessage | 3754 |  |
+|  | TencentGuildRequestNotificationMessage | 3755 |  |
+|  | TencentGuildRequestNotificationToast | 3756 |  |
+|  | TencentGuildAcceptGuildMember | 3757 |  |
+|  | TencentGuildRejectGuildMember | 3758 |  |
+|  | TencentGuildPublicGuildListTitle | 3759 |  |
+|  | TencentGuildPublicGuildListSearch | 3760 |  |
+|  | TencentGuildPublicGuildListWebsite | 3761 |  |
+|  | TencentGuildRequestsSentPlural | 3762 |  |
+|  | TencentGuildRequestsSent | 3763 |  |
+|  | OfferNotificationViewButtonText | 3764 |  |
+|  | TencentGuildRequestsRecieved | 3765 |  |
+|  | TencentGuildRequestsRecievedPlural | 3766 |  |
+|  | ConsoleResetSearchBar | 3767 |  |
+|  | ConsoleEnterSearchBar | 3768 |  |
+|  | BestiaryChallengesPanelTabName | 3769 |  |
+|  | LeagueStandardBestiary | 3770 |  |
+|  | LeagueHardcoreBestiary | 3771 |  |
+|  | LeagueStandardSSFBestiary | 3772 |  |
+|  | LeagueHardcoreSSFBestiary | 3773 |  |
+|  | MarketPanelSearchListingsEnd | 3774 |  |
+|  | AtlasSextantNumberPopupInfo1 | 3775 |  |
+|  | AtlasSextantNumberPopupInfo2 | 3776 |  |
+|  | AtlasSextantNumberPopupBonus1 | 3777 |  |
+|  | AtlasSextantNumberPopupBonus2 | 3778 |  |
+|  | AtlasSextantNumberPopupBonus3 | 3779 |  |
+|  | AtlasSextantNumberPopupBonus4 | 3780 |  |
+|  | BestiaryCraftingWindowAnySpeciesIngredient | 3781 |  |
+|  | BestiaryCraftingWindowSpeciesIngredient | 3782 |  |
+|  | BestiaryCraftingWindowSubSpeciesIngredient | 3783 |  |
+|  | AtlasOldestSextantWorldAreaName | 3784 |  |
+|  | BestiaryCraftingBenchIngredientFamily | 3785 |  |
+|  | BestiaryCraftingBenchIngredientGroup | 3786 |  |
+|  | BestiaryCraftingBenchTitle | 3787 |  |
+|  | BestiaryContextMenuOptionPopupLevel | 3788 |  |
+|  | BestiaryContextMenuTitle | 3789 |  |
+|  | MenagerieTiger | 3790 |  |
+|  | MenagerieLynx | 3791 |  |
+|  | MenagerieIceHellion | 3792 |  |
+|  | MenagerieFireHellion | 3793 |  |
+|  | MenagerieGoatman | 3794 |  |
+|  | MenagerieMonkeyRanged | 3795 |  |
+|  | MenagerieChieftain | 3796 |  |
+|  | MenageriePitbull | 3797 |  |
+|  | MenagerieHound | 3798 |  |
+|  | MenagerieWolf | 3799 |  |
+|  | MenagerieDropBear | 3800 |  |
+|  | MenagerieBeast | 3801 |  |
+|  | MenagerieSpiker | 3802 |  |
+|  | MenagerieBull | 3803 |  |
+|  | MenagerieTigerKingSpirit | 3804 |  |
+|  | MenagerieRhex | 3805 |  |
+|  | MenagerieRhoa | 3806 |  |
+|  | MenagerieVulture | 3807 |  |
+|  | MenagerieKiweth | 3808 |  |
+|  | MenagerieIguana | 3809 |  |
+|  | MenagerieSandSnake | 3810 |  |
+|  | MenagerieForestSnake | 3811 |  |
+|  | MenagerieFeatheredRhexSpirit | 3812 |  |
+|  | MenagerieDevourer | 3813 |  |
+|  | MenagerieSandLeaper | 3814 |  |
+|  | MenagerieCarrionQueen | 3815 |  |
+|  | MenagerieScorpion | 3816 |  |
+|  | MenagerieNewSpider | 3817 |  |
+|  | MenageriePlatedSpider | 3818 |  |
+|  | MenageriePlagueSpider | 3819 |  |
+|  | MenagerieScorpionSpiderSpirit | 3820 |  |
+|  | MenagerieSquid | 3821 |  |
+|  | MenagerieSirenSpawn | 3822 |  |
+|  | MenagerieParasiticSquid | 3823 |  |
+|  | MenagerieAlternateCrabVisual | 3824 |  |
+|  | MenagerieClassicCrabVisual | 3825 |  |
+|  | MenagerieSandSpitter | 3826 |  |
+|  | MenagerieShieldCrab | 3827 |  |
+|  | MenagerieGemFrog | 3828 |  |
+|  | MenagerieFrog | 3829 |  |
+|  | MenagerieNessCrabSpirit | 3830 |  |
+|  | ReminderTextRage | 3831 |  |
+|  | ReminderTextRageDecay | 3832 |  |
+|  | TreasureHunterMissionFindMaster | 3833 |  |
+|  | TreasureHunterMissionFindCave | 3834 |  |
+|  | TreasureHunterMissionEnteredCave | 3835 |  |
+|  | TreasureHunterMissionDefeatBoss | 3836 |  |
+|  | TreasureHunterMissionOpenChest | 3837 |  |
+|  | TreasureHunterMissionPickupKey | 3838 |  |
+|  | TreasureHunterMissionBonusObjective | 3839 |  |
+|  | TreasureHunterPrimaryComplete | 3840 |  |
+|  | TreasureHunterSecondaryComplete | 3841 |  |
+|  | TreasureHunterSpeakToMaster | 3842 |  |
+|  | ReminderTextRageMaximum | 3843 |  |
+|  | MapStashBonusComplete | 3844 |  |
+|  | MapStashMapComplete | 3845 |  |
+|  | BestiaryTabRecipesPage | 3846 |  |
+|  | BestiaryTabCapturedPage | 3847 |  |
+|  | BestiaryTabTitle | 3848 |  |
+|  | TencentModifierGuildButtonLabel | 3849 |  |
+|  | ActionThrowNet | 3850 |  |
+|  | SkillPopupThrowNetDescription | 3851 |  |
+|  | BestiaryCraftingBenchIngredientRarityFamily | 3852 |  |
+|  | BestiaryCraftingBenchIngredientRarityGroup | 3853 |  |
+|  | MenagerieParasite | 3854 |  |
+|  | MenagerieRoosterDemon | 3855 |  |
+|  | MenageriePurgeHound | 3856 |  |
+|  | TencentTradeMarketNoteLabel | 3857 |  |
+|  | ReminderTextMalediction | 3858 |  |
+|  | BestiaryRecipeFilterNoMatches | 3859 |  |
+|  | BestiaryRecipesUsableRecipes | 3860 |  |
+|  | BestiaryFilterRecipesLabel | 3861 |  |
+|  | BestiaryUsableRecipesCheckboxLabel | 3862 |  |
+|  | ReminderTextAdrenaline | 3863 |  |
+|  | ReminderTextArcaneSurge | 3864 |  |
+|  | EquipBesitaryNetConfirmation | 3865 |  |
+|  | BestiaryCraftingLegendNavigateRecipies | 3866 |  |
+|  | BestiaryCraftingLegendNavigateInventory | 3867 |  |
+|  | BestiaryCraftingLegendSelectRecipe | 3868 |  |
+|  | BestiaryCraftingLegendContextMenu | 3869 |  |
+|  | BestiaryCraftingLegendContextMenuNavigate | 3870 |  |
+|  | BestiaryCraftingLegendFilter | 3871 |  |
+|  | BestiaryCraftingLegendClearFilter | 3872 |  |
+|  | BestiaryBookChangeTabs | 3873 |  |
+|  | BestiaryBookNavigate | 3874 |  |
+|  | BestiaryBookSelectGroup | 3875 |  |
+|  | BestiartBookBack | 3876 |  |
+|  | WorldPanelBestiaryPinActiveHover | 3877 |  |
+|  | WorldPanelBestiaryPinInactiveHover | 3878 |  |
+|  | WorldPanelBestiaryPinInfoHover | 3879 |  |
+|  | NetTier | 3880 |  |
+|  | BestiaryCatpureNotificationText | 3881 |  |
+|  | PlayerContextMenuVisitMenagerie | 3882 |  |
+|  | ErrorMenagerieNotUnlocked | 3883 |  |
+|  | BestiaryRecipeUnlockNotification | 3884 |  |
+|  | BestiaryRecipeComponentRequiresMod | 3885 |  |
+|  | BestiaryRecipeComponentRequiresLevel | 3886 |  |
+|  | BestiaryRecipeComponentRequiresRarity | 3887 |  |
+|  | TutorialPanelBestiary | 3888 |  |
+|  | MapStairAlternativeBridge | 3889 |  |
+|  | MapStairAlternativeRaft | 3890 |  |
+|  | NotifyOfUnboundActionsMessage | 3891 |  |
+|  | NotifyOfUnboundActionsGoToOptionsButton | 3892 |  |
+|  | NotifyOfUnboundActionsLaterButton | 3893 |  |
+|  | XboxPlayerContextMenuVisitMenagerie | 3894 |  |
+|  | BestiaryCraftingGenusText | 3895 |  |
+|  | HUDNoAllocatedAscendancySkillsMessageText | 3896 |  |
+|  | BestiaryAnyCreatureRarity | 3897 |  |
+|  | BestiaryNewCreature | 3898 |  |
+|  | CaptureTutorialText | 3899 |  |
+|  | TutorialPanelBestiaryTitle | 3900 |  |
+|  | TutorialPanelBestiaryContent1 | 3901 |  |
+|  | TutorialPanelBestiaryContent2 | 3902 |  |
+|  | TutorialPanelBestiaryContent3 | 3903 |  |
+|  | TutorialPanelBestiaryVideo1 | 3904 |  |
+|  | TutorialPanelBestiaryVideo2 | 3905 |  |
+|  | BestiaryFilterBeasts | 3906 |  |
+|  | BestiaryCraftingEncounterLevelDisplay | 3907 |  |
+|  | BestiaryCraftingEncounterLevelDisplayPopup | 3908 |  |
+|  | BestiaryNoRecipesUnlocked | 3909 |  |
+|  | ConsoleItemiseBeastConfirmationMessage | 3910 |  |
+|  | ConsoleActionItemiseBeast | 3911 |  |
+|  | ReminderTextUnarmed | 3912 |  |
+|  | ReminderTextUnarmedAttacks | 3913 |  |
+|  | TutorialPanelStrongboxesTitle | 3914 |  |
+|  | TutorialPanelStrongboxesContent1 | 3915 |  |
+|  | TutorialPanelStrongboxesContent2 | 3916 |  |
+|  | TutorialPanelStrongboxesImage1 | 3917 |  |
+|  | TutorialPanelStrongboxesImage2 | 3918 |  |
+|  | TutorialPanelFlasksTitle | 3919 |  |
+|  | TutorialPanelFlasksContent1 | 3920 |  |
+|  | TutorialPanelFlasksContent2 | 3921 |  |
+|  | TutorialPanelFlasksContent3 | 3922 |  |
+|  | TutorialPanelFlasksImage1 | 3923 |  |
+|  | TutorialPanelFlasksImage2 | 3924 |  |
+|  | TutorialPanelFlasksImage3 | 3925 |  |
+|  | TutorialPanelFlasksCaption1 | 3926 |  |
+|  | TutorialPanelFlasksCaption2 | 3927 |  |
+|  | TutorialPanelFlasksCaption3 | 3928 |  |
+|  | TutorialPanelEssencesTitle | 3929 |  |
+|  | TutorialPanelEssencesContent1 | 3930 |  |
+|  | TutorialPanelEssencesContent2 | 3931 |  |
+|  | TutorialPanelEssencesImage1 | 3932 |  |
+|  | TutorialPanelEssencesCaption1 | 3933 |  |
+|  | CannotCaptureNonBeast | 3934 |  |
+|  | GenusCapturedText | 3935 |  |
+|  | CannotCaptureEnragedBeast | 3936 |  |
+|  | ShowAtlasInformation | 3937 |  |
+|  | CaptureTutorialTextUnbound | 3938 |  |
+|  | MapLegendLabyrinth | 3939 |  |
+|  | MapLegendMenagerie | 3940 |  |
+|  | ItemDisplayMonsterGenus | 3941 |  |
+|  | ItemDisplayMonsterGroup | 3942 |  |
+|  | ItemDisplayMonsterFamily | 3943 |  |
+|  | ChatBoxInvalidItem | 3944 |  |
+|  | ModDescriptionLineMonster | 3945 |  |
+|  | ItemErrorBenchAlreadyFull | 3946 |  |
+|  | MicrotransactionShopNoSpecials | 3947 |  |
+|  | MicrotransactionShopImageRetrievalFailText | 3948 |  |
+|  | BeastSuccessfullyCaptured | 3949 |  |
+|  | MenagerieCapacityWarning | 3950 |  |
+|  | TradeMarketOfferReportBuyer | 3951 |  |
+|  | TradeMarketOfferReportSeller | 3952 |  |
+|  | CannotUseItemInSsfLeague | 3953 |  |
+|  | RareBestairyRecipes | 3954 |  |
+|  | RoyaleWaitingForPlayers | 3955 |  |
+|  | RoyaleGameInProgress | 3956 |  |
+|  | ConsoleCharacterSelectionStateEventsTitle | 3957 |  |
+|  | UseBestiaryOrbWarning | 3958 |  |
+|  | MenagerieCapacityReached | 3959 |  |
+|  | AlwaysAttackInPlaceSkillListLabel | 3960 |  |
+|  | IncursionPortalName | 3961 |  |
+|  | RoyaleMatchEnded | 3962 |  |
+|  | RoyaleMatchEndedWon | 3963 |  |
+|  | CharacterSelectionAccountNotVerified | 3964 |  |
+|  | CharacterSelectionVerifyButton | 3965 |  |
+|  | LeagueStandardIncursion | 3966 |  |
+|  | LeagueHardcoreIncursion | 3967 |  |
+|  | LeagueStandardSSFIncursion | 3968 |  |
+|  | LeagueHardcoreSSFIncursion | 3969 |  |
+|  | ConsoleTradePanelOfferItem | 3970 |  |
+|  | ConsoleTradePanelPickupPlace | 3971 |  |
+|  | IncursionBarDisplayName | 3972 |  |
+|  | EnterIncursionButton | 3973 |  |
+|  | AlwaysAttackInPlaceMovementSkillHover | 3974 |  |
+|  | ShopPanelHomeButtonHover | 3975 |  |
+|  | ShopPanelAlreadyOwnedItem | 3976 |  |
+|  | IncursionMapConnectionClosed | 3977 |  |
+|  | IncursionMapConnectionOpen | 3978 |  |
+|  | IncursionTempleBlueprintWindowTitle | 3979 |  |
+|  | OpenTempleBlueprintUIButton | 3980 |  |
+|  | KillSwapArchitectPopup | 3981 |  |
+|  | KillUpgradeArchitectPopup | 3982 |  |
+|  | IncursionsRemainingText | 3983 |  |
+|  | IncursionLockedDoor | 3984 |  |
+|  | BlueprintOpenTempleButton | 3985 |  |
+|  | IncursionCorruptionCraftingWindowTitle | 3986 |  |
+|  | IncursionCorruptionDescriptionRoomI | 3987 |  |
+|  | IncursionCorruptionDescriptionRoomII | 3988 |  |
+|  | IncursionSacrificeCraftingWindowTitle | 3989 |  |
+|  | IncursionSacrificeDescriptionRoomI | 3990 |  |
+|  | IncursionSacrificeDescriptionRoomII | 3991 |  |
+|  | IncursionSacrificeDescriptionRoomIII | 3992 |  |
+|  | IncursionDestructibleDoor | 3993 |  |
+|  | ConsoleActionCorrupt | 3994 |  |
+|  | IncursionRemainingText | 3995 |  |
+|  | SkillPopupSoulPrevention | 3996 |  |
+|  | SacrificeCraftingBenchCraftButton | 3997 |  |
+|  | IncursionRoomPopupTier | 3998 |  |
+|  | IncursionRoomPopupUpgrades | 3999 |  |
+|  | IncursionGemCraftingWindowTitle | 4000 |  |
+|  | IncursionGemCraftingDescriptionText | 4001 |  |
+|  | IncursionKeyDescription | 4002 |  |
+|  | IncursionBombDescription | 4003 |  |
+|  | TutorialPanelIncursion | 4004 |  |
+|  | KillSwapArchitectPreviewWindowText | 4005 |  |
+|  | KillUpgradeArchitectPreviewWindowText | 4006 |  |
+|  | TutorialPanelIncursionTitle | 4007 |  |
+|  | TutorialPanelIncursionSubtitle1 | 4008 |  |
+|  | TutorialPanelIncursionSubtitle2 | 4009 |  |
+|  | TutorialPanelIncursionSubtitle3 | 4010 |  |
+|  | TutorialPanelIncursionSubtitle4 | 4011 |  |
+|  | TutorialPanelIncursionSubtitle5 | 4012 |  |
+|  | TutorialPanelIncursionContent1 | 4013 |  |
+|  | TutorialPanelIncursionContent2 | 4014 |  |
+|  | TutorialPanelIncursionContent3 | 4015 |  |
+|  | TutorialPanelIncursionContent4 | 4016 |  |
+|  | TutorialPanelIncursionContent5 | 4017 |  |
+|  | TutorialPanelIncursionContent6 | 4018 |  |
+|  | TutorialPanelIncursionImage1 | 4019 |  |
+|  | TutorialPanelIncursionImage2 | 4020 |  |
+|  | TutorialPanelIncursionImage3 | 4021 |  |
+|  | TutorialPanelIncursionCaption1 | 4022 |  |
+|  | TutorialPanelIncursionCaption2 | 4023 |  |
+|  | TutorialPanelIncursionCaption3 | 4024 |  |
+|  | TencentShaperBountyMapHoverText | 4025 |  |
+|  | IncursionBossArenaName | 4026 |  |
+|  | NPCTalkOptionWithHotKey | 4027 |  |
+|  | TencentLimitedTimeArcetype | 4028 |  |
+|  | PartyModifierInfoHoverLoot | 4029 |  |
+|  | PartyModifierInfoHoverMonsterHealth | 4030 |  |
+|  | AtlasHoverSuperShaperInfluence | 4031 |  |
+|  | AtlasHoverUnknownText | 4032 |  |
+|  | GraphicsOptionsScreenspaceEffects | 4033 |  |
+|  | WorldPanelDelvePinInactiveHover | 4034 |  |
+|  | ObjectDisplayTextDelveEncounter12 | 4035 |  |
+|  | ObjectDisplayTextMachinariumFireBasher | 4036 |  |
+|  | TutorialPanelDelveSubtitle3 | 4037 |  |
+|  | DelveUpgradeTabDepthLightHover | 4038 |  |
+|  | GraphicsTabShadowGIPopup | 4039 |  |
+|  | GraphicsOptionsScreenspaceEffectsOff | 4040 |  |
+|  | GraphicsOptionsScreenspaceEffectsGI | 4041 |  |
+|  | GraphicsOptionsSSSTooltip | 4042 |  |
+|  | SocialPanelPartyOptionsAllowFriendsToJoin | 4043 |  |
+|  | ObjectDisplayTextDelveEncounter18 | 4044 |  |
+|  | ObjectDisplayTextMachinariumColdMinion | 4045 |  |
+|  | TutorialPanelDelveContent6 | 4046 |  |
+|  | LeagueInfoButtonName | 4047 |  |
+|  | GraphicsTabNumberOfLightsPopup | 4048 |  |
+|  | GraphicsOptionsScreenspaceEffectsSSS | 4049 |  |
+|  | GraphicsOptionsScreenspaceResolution | 4050 |  |
+|  | GraphicsOptionsScreenspaceResolutionMedium | 4051 |  |
+|  | GraphicsOptionsScreenspaceResolutionTooltip | 4052 |  |
+|  | MissionTrackStrDexIntFailedAbyss | 4053 |  |
+|  | MissionTrackStrDexIntWarbandN | 4054 |  |
+|  | MissionTrackStrDexIntEssenceN | 4055 |  |
+|  | MissionTrackStrDexIntHarbingerN | 4056 |  |
+|  | MissionTrackStrDexIntTimeDecreases | 4057 |  |
+|  | MissionTrackStrDexIntElder | 4058 |  |
+|  | ObjectDisplayTextMachinariumFire | 4059 |  |
+|  | ObjectDisplayTextDelveEncounter39 | 4060 |  |
+|  | DelveUpgradeTabFailedPurchace | 4061 |  |
+|  | FlareDisplayHover | 4062 |  |
+|  | GraphicsTabModePopup | 4063 |  |

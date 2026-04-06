@@ -1,5 +1,6 @@
 # LowestAflicY Field
 
+**Вложено элементов:** 0  
 
 | GridExplorer AflictionDataClass LowestAflicY Field |
 | --- |

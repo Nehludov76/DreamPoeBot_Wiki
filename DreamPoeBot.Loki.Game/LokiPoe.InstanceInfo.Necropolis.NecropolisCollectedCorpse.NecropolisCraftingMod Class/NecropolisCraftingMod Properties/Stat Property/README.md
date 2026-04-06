@@ -1,5 +1,6 @@
 # Stat Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo Necropolis NecropolisCollectedCorpse NecropolisCraftingMod Stat Property |
 | --- |

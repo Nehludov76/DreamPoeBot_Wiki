@@ -1,5 +1,6 @@
 # Monster Property 
 
+**Вложено элементов:** 0  
 
 | LanternOfArimorElement MonsterContainer Monster Property |
 | --- |

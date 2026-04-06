@@ -1,5 +1,6 @@
 # HideoutMusicPannel Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements HideoutMusicPannel Property |
 | --- |

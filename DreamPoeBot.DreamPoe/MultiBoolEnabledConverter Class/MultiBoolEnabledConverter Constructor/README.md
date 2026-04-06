@@ -1,5 +1,6 @@
 # MultiBoolEnabledConverter Constructor 
 
+**Вложено элементов:** 0  
 
 | MultiBoolEnabledConverter Constructor |
 | --- |

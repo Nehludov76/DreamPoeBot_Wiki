@@ -1,5 +1,6 @@
 # Subtraction Operator 
 
+**Вложено элементов:** 0  
 
 | Vector2 Subtraction Operator |
 | --- |

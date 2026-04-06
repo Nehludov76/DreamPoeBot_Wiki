@@ -1,5 +1,6 @@
 # Hierophant Property 
 
+**Вложено элементов:** 0  
 
 | AscendUIElement Hierophant Property |
 | --- |

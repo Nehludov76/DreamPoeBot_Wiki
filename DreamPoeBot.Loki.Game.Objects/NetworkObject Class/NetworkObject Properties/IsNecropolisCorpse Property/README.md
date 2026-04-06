@@ -1,5 +1,6 @@
 # IsNecropolisCorpse Property 
 
+**Вложено элементов:** 0  
 
 | NetworkObject IsNecropolisCorpse Property |
 | --- |

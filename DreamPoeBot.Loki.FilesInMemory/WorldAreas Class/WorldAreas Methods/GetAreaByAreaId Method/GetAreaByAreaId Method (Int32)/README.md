@@ -1,5 +1,6 @@
 # GetAreaByAreaId Method (Int32)
 
+**Вложено элементов:** 0  
 
 | WorldAreas GetAreaByAreaId Method (Int32) |
 | --- |

@@ -1,5 +1,6 @@
 # MapToWorld Method (Vector2)
 
+**Вложено элементов:** 0  
 
 | CoordinateExtensions MapToWorld Method (Vector2) |
 | --- |

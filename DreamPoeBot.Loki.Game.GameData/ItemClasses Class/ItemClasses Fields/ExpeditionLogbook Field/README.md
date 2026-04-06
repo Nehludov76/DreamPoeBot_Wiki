@@ -1,5 +1,6 @@
 # ExpeditionLogbook Field
 
+**Вложено элементов:** 0  
 
 | ItemClasses ExpeditionLogbook Field |
 | --- |

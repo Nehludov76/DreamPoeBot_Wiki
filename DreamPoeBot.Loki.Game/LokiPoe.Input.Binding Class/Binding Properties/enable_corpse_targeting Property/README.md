@@ -1,5 +1,6 @@
 # enable_corpse_targeting Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input Binding enable_corpse_targeting Property |
 | --- |

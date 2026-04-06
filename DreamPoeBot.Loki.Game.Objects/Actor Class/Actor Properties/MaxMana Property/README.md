@@ -1,5 +1,6 @@
 # MaxMana Property 
 
+**Вложено элементов:** 0  
 
 | Actor MaxMana Property |
 | --- |

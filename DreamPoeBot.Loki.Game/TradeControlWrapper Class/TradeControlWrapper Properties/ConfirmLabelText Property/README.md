@@ -1,5 +1,6 @@
 # ConfirmLabelText Property 
 
+**Вложено элементов:** 0  
 
 | TradeControlWrapper ConfirmLabelText Property |
 | --- |

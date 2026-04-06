@@ -1,5 +1,6 @@
 # NotificationType Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState NotificationData NotificationType Property |
 | --- |

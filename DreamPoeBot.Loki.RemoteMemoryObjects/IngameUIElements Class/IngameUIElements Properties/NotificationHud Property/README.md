@@ -1,5 +1,6 @@
 # NotificationHud Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements NotificationHud Property |
 | --- |

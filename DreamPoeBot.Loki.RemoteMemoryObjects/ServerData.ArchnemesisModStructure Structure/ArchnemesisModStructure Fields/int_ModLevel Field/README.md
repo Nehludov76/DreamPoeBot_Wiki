@@ -1,5 +1,6 @@
 # int_ModLevel Field
 
+**Вложено элементов:** 0  
 
 | ServerData ArchnemesisModStructure int_ModLevel Field |
 | --- |

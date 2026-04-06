@@ -1,5 +1,6 @@
 # StatsCount Field
 
+**Вложено элементов:** 0  
 
 | DatPassiveSkillMasteryEffectsWrapper PassiveSkillMasteryEffectsStructure StatsCount Field |
 | --- |

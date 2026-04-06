@@ -1,5 +1,6 @@
 # SelectedMinute Property 
 
+**Вложено элементов:** 0  
 
 | TimePicker SelectedMinute Property |
 | --- |

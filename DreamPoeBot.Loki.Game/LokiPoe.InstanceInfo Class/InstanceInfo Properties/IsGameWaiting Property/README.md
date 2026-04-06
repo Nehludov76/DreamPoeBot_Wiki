@@ -1,5 +1,6 @@
 # IsGameWaiting Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo IsGameWaiting Property |
 | --- |

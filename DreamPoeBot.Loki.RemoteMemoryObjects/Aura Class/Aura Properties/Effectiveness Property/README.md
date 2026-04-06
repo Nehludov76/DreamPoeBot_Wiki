@@ -1,5 +1,6 @@
 # Effectiveness Property 
 
+**Вложено элементов:** 0  
 
 | Aura Effectiveness Property |
 | --- |

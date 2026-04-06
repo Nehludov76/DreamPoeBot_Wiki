@@ -1,5 +1,6 @@
 # BotInstances Property 
 
+**Вложено элементов:** 0  
 
 | ThirdPartyInstance BotInstances Property |
 | --- |

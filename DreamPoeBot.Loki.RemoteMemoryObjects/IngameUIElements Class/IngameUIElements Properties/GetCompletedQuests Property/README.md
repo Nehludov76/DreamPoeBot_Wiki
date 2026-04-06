@@ -1,5 +1,6 @@
 # GetCompletedQuests Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements GetCompletedQuests Property |
 | --- |

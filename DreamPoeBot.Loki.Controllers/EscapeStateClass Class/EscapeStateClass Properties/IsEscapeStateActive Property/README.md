@@ -1,5 +1,6 @@
 # IsEscapeStateActive Property 
 
+**Вложено элементов:** 0  
 
 | EscapeStateClass IsEscapeStateActive Property |
 | --- |

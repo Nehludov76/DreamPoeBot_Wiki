@@ -1,5 +1,6 @@
 # PartyHudUIElement.PartyInfo Constructor 
 
+**Вложено элементов:** 0  
 
 | PartyHudUIElement PartyInfo Constructor |
 | --- |

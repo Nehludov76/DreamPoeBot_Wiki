@@ -1,5 +1,6 @@
 # ClearSearchText Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ChallengesUi BestiaryPanelUi ClearSearchText Method |
 | --- |

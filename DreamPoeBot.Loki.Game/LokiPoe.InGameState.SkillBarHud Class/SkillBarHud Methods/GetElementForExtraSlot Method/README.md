@@ -1,5 +1,6 @@
 # GetElementForExtraSlot Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SkillBarHud GetElementForExtraSlot Method |
 | --- |

@@ -1,5 +1,6 @@
 # GetLabyrinthTrialByArea Method 
 
+**Вложено элементов:** 0  
 
 | LabyrinthTrials GetLabyrinthTrialByArea Method |
 | --- |

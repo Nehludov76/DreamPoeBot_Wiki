@@ -1,5 +1,6 @@
 # StandardLeague Property 
 
+**Вложено элементов:** 0  
 
 | LeagueSelectionElement StandardLeague Property |
 | --- |

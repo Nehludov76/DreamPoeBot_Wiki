@@ -1,5 +1,6 @@
 # SelectMap Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState StashUi MapsTab SelectMap Method |
 | --- |

@@ -1,5 +1,6 @@
 # AscendancyClass Property 
 
+**Вложено элементов:** 0  
 
 | CharacterEntry AscendancyClass Property |
 | --- |

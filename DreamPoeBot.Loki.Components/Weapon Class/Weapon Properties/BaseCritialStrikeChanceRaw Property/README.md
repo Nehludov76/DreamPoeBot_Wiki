@@ -1,5 +1,6 @@
 # BaseCritialStrikeChanceRaw Property 
 
+**Вложено элементов:** 0  
 
 | Weapon BaseCritialStrikeChanceRaw Property |
 | --- |

@@ -1,5 +1,6 @@
 # AllGameStates Field
 
+**Вложено элементов:** 0  
 
 | GameStateController AllGameStates Field |
 | --- |

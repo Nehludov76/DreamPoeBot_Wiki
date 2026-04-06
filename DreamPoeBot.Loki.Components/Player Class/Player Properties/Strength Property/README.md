@@ -1,5 +1,6 @@
 # Strength Property 
 
+**Вложено элементов:** 0  
 
 | Player Strength Property |
 | --- |

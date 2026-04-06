@@ -1,5 +1,6 @@
 # StateName Property 
 
+**Вложено элементов:** 0  
 
 | GameState StateName Property |
 | --- |

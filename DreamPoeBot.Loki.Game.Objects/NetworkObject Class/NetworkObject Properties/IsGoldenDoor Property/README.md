@@ -1,5 +1,6 @@
 # IsGoldenDoor Property 
 
+**Вложено элементов:** 0  
 
 | NetworkObject IsGoldenDoor Property |
 | --- |

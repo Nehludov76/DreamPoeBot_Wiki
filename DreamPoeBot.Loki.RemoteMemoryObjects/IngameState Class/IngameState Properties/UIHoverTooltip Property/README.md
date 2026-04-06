@@ -1,5 +1,6 @@
 # UIHoverTooltip Property 
 
+**Вложено элементов:** 0  
 
 | IngameState UIHoverTooltip Property |
 | --- |

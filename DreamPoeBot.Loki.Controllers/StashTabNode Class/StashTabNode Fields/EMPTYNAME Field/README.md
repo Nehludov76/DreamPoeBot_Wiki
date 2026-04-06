@@ -1,5 +1,6 @@
 # EMPTYNAME Field
 
+**Вложено элементов:** 0  
 
 | StashTabNode EMPTYNAME Field |
 | --- |

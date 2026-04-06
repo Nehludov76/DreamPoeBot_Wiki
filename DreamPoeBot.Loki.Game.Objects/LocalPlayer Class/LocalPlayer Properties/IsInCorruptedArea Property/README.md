@@ -1,5 +1,6 @@
 # IsInCorruptedArea Property 
 
+**Вложено элементов:** 0  
 
 | LocalPlayer IsInCorruptedArea Property |
 | --- |

@@ -1,5 +1,6 @@
 # ConfirmElement Property 
 
+**Вложено элементов:** 0  
 
 | TradeUiElement ConfirmElement Property |
 | --- |

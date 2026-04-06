@@ -1,5 +1,6 @@
 # SentinelsElement Property 
 
+**Вложено элементов:** 0  
 
 | HudUIElement SentinelsElement Property |
 | --- |

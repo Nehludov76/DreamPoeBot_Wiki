@@ -1,5 +1,6 @@
 # InventorySlotUiElement Constructor (Int64, StashType, LokiPoe.InGameState.SentinelLockerUi.SentinelType, String)
 
+**Вложено элементов:** 0  
 
 | InventorySlotUiElement Constructor (Int64, StashType, LokiPoe InGameState SentinelLockerUi SentinelType, String) |
 | --- |

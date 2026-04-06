@@ -1,5 +1,6 @@
 # IntPtr_0 Property 
 
+**Вложено элементов:** 0  
 
 | DatWorldAreaWrapper IntPtr_0 Property |
 | --- |

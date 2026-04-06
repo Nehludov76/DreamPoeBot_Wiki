@@ -1,5 +1,6 @@
 # BestiaryElement Property 
 
+**Вложено элементов:** 0  
 
 | ChallengesPannelElement BestiaryElement Property |
 | --- |

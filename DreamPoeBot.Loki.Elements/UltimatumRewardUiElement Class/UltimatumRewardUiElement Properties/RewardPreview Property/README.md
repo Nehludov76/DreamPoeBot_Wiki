@@ -1,5 +1,6 @@
 # RewardPreview Property 
 
+**Вложено элементов:** 0  
 
 | UltimatumRewardUiElement RewardPreview Property |
 | --- |

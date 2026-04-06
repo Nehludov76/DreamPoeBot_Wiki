@@ -1,5 +1,6 @@
 # Ring Field
 
+**Вложено элементов:** 0  
 
 | ItemClasses Ring Field |
 | --- |

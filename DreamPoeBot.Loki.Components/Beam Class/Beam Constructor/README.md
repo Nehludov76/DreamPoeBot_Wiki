@@ -1,5 +1,6 @@
 # Beam Constructor 
 
+**Вложено элементов:** 0  
 
 | Beam Constructor |
 | --- |

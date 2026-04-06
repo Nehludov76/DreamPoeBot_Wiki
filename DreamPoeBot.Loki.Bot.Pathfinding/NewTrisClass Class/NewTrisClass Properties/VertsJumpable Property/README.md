@@ -1,5 +1,6 @@
 # VertsJumpable Property 
 
+**Вложено элементов:** 0  
 
 | NewTrisClass VertsJumpable Property |
 | --- |

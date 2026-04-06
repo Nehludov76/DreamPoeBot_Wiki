@@ -1,5 +1,6 @@
 # MercenaryName Property 
 
+**Вложено элементов:** 0  
 
 | Mercenary MercenaryName Property |
 | --- |

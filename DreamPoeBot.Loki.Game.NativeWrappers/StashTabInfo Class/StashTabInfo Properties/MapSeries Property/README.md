@@ -1,5 +1,6 @@
 # MapSeries Property 
 
+**Вложено элементов:** 0  
 
 | StashTabInfo MapSeries Property |
 | --- |

@@ -1,5 +1,6 @@
 # Offsets Property 
 
+**Вложено элементов:** 0  
 
 | RemoteMemoryObject Offsets Property |
 | --- |

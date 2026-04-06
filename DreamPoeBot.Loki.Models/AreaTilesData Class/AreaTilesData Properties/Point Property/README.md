@@ -1,5 +1,6 @@
 # Point Property 
 
+**Вложено элементов:** 0  
 
 | AreaTilesData Point Property |
 | --- |

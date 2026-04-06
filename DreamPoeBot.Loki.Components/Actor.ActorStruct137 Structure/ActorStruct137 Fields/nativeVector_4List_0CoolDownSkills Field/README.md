@@ -1,5 +1,6 @@
 # nativeVector_4List_0CoolDownSkills Field
 
+**Вложено элементов:** 0  
 
 | Actor ActorStruct137 nativeVector_4List_0CoolDownSkills Field |
 | --- |

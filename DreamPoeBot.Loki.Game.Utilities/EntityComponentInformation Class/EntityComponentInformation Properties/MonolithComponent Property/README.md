@@ -1,5 +1,6 @@
 # MonolithComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation MonolithComponent Property |
 | --- |

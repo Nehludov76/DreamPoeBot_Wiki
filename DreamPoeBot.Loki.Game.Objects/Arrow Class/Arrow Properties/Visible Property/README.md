@@ -1,5 +1,6 @@
 # Visible Property 
 
+**Вложено элементов:** 0  
 
 | Arrow Visible Property |
 | --- |

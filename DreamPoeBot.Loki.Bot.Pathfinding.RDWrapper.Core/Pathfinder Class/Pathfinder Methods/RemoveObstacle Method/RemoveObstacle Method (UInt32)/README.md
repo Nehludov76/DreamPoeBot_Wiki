@@ -1,5 +1,6 @@
 # RemoveObstacle Method (UInt32)
 
+**Вложено элементов:** 0  
 
 | Pathfinder RemoveObstacle Method (UInt32) |
 | --- |

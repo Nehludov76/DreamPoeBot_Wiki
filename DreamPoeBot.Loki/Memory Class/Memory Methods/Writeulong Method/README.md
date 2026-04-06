@@ -1,5 +1,6 @@
 # Writeulong Method 
 
+**Вложено элементов:** 0  
 
 | Memory Writeulong Method |
 | --- |

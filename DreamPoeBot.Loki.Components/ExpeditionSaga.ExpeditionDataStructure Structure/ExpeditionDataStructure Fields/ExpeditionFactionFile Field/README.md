@@ -1,5 +1,6 @@
 # ExpeditionFactionFile Field
 
+**Вложено элементов:** 0  
 
 | ExpeditionSaga ExpeditionDataStructure ExpeditionFactionFile Field |
 | --- |

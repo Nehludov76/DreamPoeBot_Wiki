@@ -1,5 +1,6 @@
 # Values Property 
 
+**Вложено элементов:** 0  
 
 | DiagnosticElement Values Property |
 | --- |

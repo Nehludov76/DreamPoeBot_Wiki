@@ -1,5 +1,6 @@
 # IsAscendPassive Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SkillsUi IsAscendPassive Method |
 | --- |

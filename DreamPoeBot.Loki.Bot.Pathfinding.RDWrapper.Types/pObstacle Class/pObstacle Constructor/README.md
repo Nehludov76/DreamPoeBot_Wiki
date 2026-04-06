@@ -1,5 +1,6 @@
 # pObstacle Constructor 
 
+**Вложено элементов:** 0  
 
 | pObstacle Constructor |
 | --- |

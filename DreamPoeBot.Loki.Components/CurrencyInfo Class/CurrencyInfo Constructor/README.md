@@ -1,5 +1,6 @@
 # CurrencyInfo Constructor 
 
+**Вложено элементов:** 0  
 
 | CurrencyInfo Constructor |
 | --- |

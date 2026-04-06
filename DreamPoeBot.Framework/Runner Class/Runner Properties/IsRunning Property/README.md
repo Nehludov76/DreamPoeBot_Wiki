@@ -1,5 +1,6 @@
 # IsRunning Property 
 
+**Вложено элементов:** 0  
 
 | Runner IsRunning Property |
 | --- |

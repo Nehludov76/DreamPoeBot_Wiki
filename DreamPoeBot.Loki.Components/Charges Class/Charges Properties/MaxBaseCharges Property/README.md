@@ -1,5 +1,6 @@
 # MaxBaseCharges Property 
 
+**Вложено элементов:** 0  
 
 | Charges MaxBaseCharges Property |
 | --- |

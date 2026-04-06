@@ -1,5 +1,6 @@
 # GetNavMeshDebugData Method 
 
+**Вложено элементов:** 0  
 
 | Pathfinder GetNavMeshDebugData Method |
 | --- |

@@ -1,5 +1,6 @@
 # StalkerSentinels Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SentinelLockerUi StalkerSentinels Property |
 | --- |

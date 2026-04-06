@@ -1,5 +1,6 @@
 # minimapIconNativeVector Field
 
+**Вложено элементов:** 0  
 
 | ServerData StructNewServerData minimapIconNativeVector Field |
 | --- |

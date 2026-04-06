@@ -1,5 +1,6 @@
 # StdNativeStringWCustom_intHashMap(TKey, TValue) Method 
 
+**Вложено элементов:** 0  
 
 | Containers StdNativeStringWCustom_intHashMap TKey , TValue Method |
 | --- |

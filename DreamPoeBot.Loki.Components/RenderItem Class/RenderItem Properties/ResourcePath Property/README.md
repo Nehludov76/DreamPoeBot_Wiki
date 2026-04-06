@@ -1,5 +1,6 @@
 # ResourcePath Property 
 
+**Вложено элементов:** 0  
 
 | RenderItem ResourcePath Property |
 | --- |

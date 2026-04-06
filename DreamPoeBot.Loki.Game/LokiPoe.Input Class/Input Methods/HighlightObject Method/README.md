@@ -1,5 +1,6 @@
 # HighlightObject Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input HighlightObject Method |
 | --- |

@@ -1,5 +1,6 @@
 # Timer Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation Timer Property |
 | --- |

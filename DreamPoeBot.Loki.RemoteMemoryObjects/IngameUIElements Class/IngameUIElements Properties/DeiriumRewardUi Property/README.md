@@ -1,5 +1,6 @@
 # DeiriumRewardUi Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements DeiriumRewardUi Property |
 | --- |

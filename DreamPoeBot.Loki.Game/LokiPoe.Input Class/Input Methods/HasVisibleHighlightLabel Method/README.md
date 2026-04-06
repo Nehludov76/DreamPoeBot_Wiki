@@ -1,5 +1,6 @@
 # HasVisibleHighlightLabel Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input HasVisibleHighlightLabel Method |
 | --- |

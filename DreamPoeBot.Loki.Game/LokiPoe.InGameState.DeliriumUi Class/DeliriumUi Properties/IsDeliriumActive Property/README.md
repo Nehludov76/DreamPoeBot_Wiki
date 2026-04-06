@@ -1,5 +1,6 @@
 # IsDeliriumActive Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState DeliriumUi IsDeliriumActive Property |
 | --- |

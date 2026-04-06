@@ -1,5 +1,6 @@
 # IsOnFirstTab Property 
 
+**Вложено элементов:** 0  
 
 | TabControlWrapper IsOnFirstTab Property |
 | --- |

@@ -1,5 +1,6 @@
 # LargeMapDefaultShiftY Property 
 
+**Вложено элементов:** 0  
 
 | MapElement LargeMapDefaultShiftY Property |
 | --- |

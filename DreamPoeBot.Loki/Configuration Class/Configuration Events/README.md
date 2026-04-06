@@ -1,5 +1,6 @@
 # Configuration Events
 
+**Вложено элементов:** 1  
 
 | Configuration Events |
 | --- |
@@ -10,6 +11,9 @@
 The Configuration type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| OnSaveAll |
+|  | Name | Description |
+| --- | --- | --- |
+|  | OnSaveAll |  |
+
+## Дочерние разделы
+- [**OnSaveAll Event**](./OnSaveAll Event/README.md)

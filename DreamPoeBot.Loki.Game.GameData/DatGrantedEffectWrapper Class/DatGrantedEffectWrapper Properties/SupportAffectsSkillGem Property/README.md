@@ -1,5 +1,6 @@
 # SupportAffectsSkillGem Property 
 
+**Вложено элементов:** 0  
 
 | DatGrantedEffectWrapper SupportAffectsSkillGem Property |
 | --- |

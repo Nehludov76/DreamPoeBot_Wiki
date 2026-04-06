@@ -1,5 +1,6 @@
 # TradeControl Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState TradeUi TradeControl Property |
 | --- |

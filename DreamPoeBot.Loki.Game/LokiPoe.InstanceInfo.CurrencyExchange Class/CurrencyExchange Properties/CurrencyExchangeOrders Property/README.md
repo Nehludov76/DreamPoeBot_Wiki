@@ -1,5 +1,6 @@
 # CurrencyExchangeOrders Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo CurrencyExchange CurrencyExchangeOrders Property |
 | --- |

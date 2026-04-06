@@ -1,5 +1,6 @@
 # Class Property 
 
+**Вложено элементов:** 0  
 
 | PlayerClass Class Property |
 | --- |

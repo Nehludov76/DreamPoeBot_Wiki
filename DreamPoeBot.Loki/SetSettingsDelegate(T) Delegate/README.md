@@ -1,5 +1,6 @@
 # SetSettingsDelegate(T) Delegate
 
+**Вложено элементов:** 0  
 
 | SetSettingsDelegate T Delegate |
 | --- |

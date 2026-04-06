@@ -1,5 +1,6 @@
 # LokiPoe.ConfigManager.LanguageType Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe ConfigManager LanguageType Enumeration |
 | --- |
@@ -30,9 +31,9 @@ public enum class LanguageType
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| Unknown | 0 |
-| EN | 1 |
-| BR | 2 |
-| RU | 3 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | Unknown | 0 |  |
+|  | EN | 1 |  |
+|  | BR | 2 |  |
+|  | RU | 3 |  |

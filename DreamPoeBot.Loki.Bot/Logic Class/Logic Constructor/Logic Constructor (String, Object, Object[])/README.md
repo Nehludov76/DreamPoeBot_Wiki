@@ -1,5 +1,6 @@
 # Logic Constructor (String, Object, Object[])
 
+**Вложено элементов:** 0  
 
 | Logic Constructor (String, Object, Object ) |
 | --- |

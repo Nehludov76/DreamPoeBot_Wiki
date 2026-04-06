@@ -1,5 +1,6 @@
 # PartyStatusType Property 
 
+**Вложено элементов:** 0  
 
 | ServerData PartyStatusType Property |
 | --- |

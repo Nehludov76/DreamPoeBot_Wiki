@@ -1,5 +1,6 @@
 # AllMaps Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState BloodCrucibleUi Crucible AllMaps Property |
 | --- |

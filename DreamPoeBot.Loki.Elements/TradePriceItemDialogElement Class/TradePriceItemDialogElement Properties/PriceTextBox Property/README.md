@@ -1,5 +1,6 @@
 # PriceTextBox Property 
 
+**Вложено элементов:** 0  
 
 | TradePriceItemDialogElement PriceTextBox Property |
 | --- |

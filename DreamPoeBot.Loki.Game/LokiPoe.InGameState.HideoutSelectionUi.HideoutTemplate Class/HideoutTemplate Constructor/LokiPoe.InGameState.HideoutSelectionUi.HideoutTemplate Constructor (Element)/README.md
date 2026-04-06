@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.HideoutSelectionUi.HideoutTemplate Constructor (Element)
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState HideoutSelectionUi HideoutTemplate Constructor (Element) |
 | --- |

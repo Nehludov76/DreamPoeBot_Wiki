@@ -1,5 +1,6 @@
 # Zone Property 
 
+**Вложено элементов:** 0  
 
 | PartyHudUIElement PartyInfo Zone Property |
 | --- |

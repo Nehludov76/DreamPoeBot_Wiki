@@ -1,5 +1,6 @@
 # Count Field
 
+**Вложено элементов:** 0  
 
 | MapSubInventoryInfo Count Field |
 | --- |

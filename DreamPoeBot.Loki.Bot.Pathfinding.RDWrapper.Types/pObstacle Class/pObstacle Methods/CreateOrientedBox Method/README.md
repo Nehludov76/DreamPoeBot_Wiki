@@ -1,5 +1,6 @@
 # CreateOrientedBox Method 
 
+**Вложено элементов:** 0  
 
 | pObstacle CreateOrientedBox Method |
 | --- |

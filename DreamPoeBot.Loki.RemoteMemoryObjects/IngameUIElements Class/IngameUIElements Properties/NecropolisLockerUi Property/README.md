@@ -1,5 +1,6 @@
 # NecropolisLockerUi Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements NecropolisLockerUi Property |
 | --- |

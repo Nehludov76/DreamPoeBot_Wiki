@@ -1,5 +1,6 @@
 # IsInventoryLocked Property 
 
+**Вложено элементов:** 0  
 
 | MasterDeviceElement IsInventoryLocked Property |
 | --- |

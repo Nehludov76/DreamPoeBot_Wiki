@@ -1,5 +1,6 @@
 # HeistTarget Property 
 
+**Вложено элементов:** 0  
 
 | HeistContract HeistTarget Property |
 | --- |

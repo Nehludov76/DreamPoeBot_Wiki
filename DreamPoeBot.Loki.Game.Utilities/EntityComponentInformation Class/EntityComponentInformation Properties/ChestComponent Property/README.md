@@ -1,5 +1,6 @@
 # ChestComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation ChestComponent Property |
 | --- |

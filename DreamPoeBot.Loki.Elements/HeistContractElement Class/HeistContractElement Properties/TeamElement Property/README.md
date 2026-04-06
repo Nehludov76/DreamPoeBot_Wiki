@@ -1,5 +1,6 @@
 # TeamElement Property 
 
+**Вложено элементов:** 0  
 
 | HeistContractElement TeamElement Property |
 | --- |

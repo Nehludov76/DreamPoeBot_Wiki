@@ -1,5 +1,6 @@
 # Ui Property 
 
+**Вложено элементов:** 0  
 
 | HeistInteractableDoor Ui Property |
 | --- |

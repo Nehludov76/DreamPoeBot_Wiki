@@ -1,5 +1,6 @@
 # AddCircleObstacle Method (Vector2i, Single)
 
+**Вложено элементов:** 0  
 
 | Pathfinder AddCircleObstacle Method (Vector2i, Single) |
 | --- |

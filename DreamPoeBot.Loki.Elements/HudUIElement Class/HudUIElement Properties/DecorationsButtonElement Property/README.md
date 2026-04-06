@@ -1,5 +1,6 @@
 # DecorationsButtonElement Property 
 
+**Вложено элементов:** 0  
 
 | HudUIElement DecorationsButtonElement Property |
 | --- |

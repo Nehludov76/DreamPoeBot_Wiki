@@ -1,5 +1,6 @@
 # HasSpeciesBeenNettedAlready Property 
 
+**Вложено элементов:** 0  
 
 | Monster HasSpeciesBeenNettedAlready Property |
 | --- |

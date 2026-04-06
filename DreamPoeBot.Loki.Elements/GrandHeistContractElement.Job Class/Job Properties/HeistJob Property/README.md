@@ -1,5 +1,6 @@
 # HeistJob Property 
 
+**Вложено элементов:** 0  
 
 | GrandHeistContractElement Job HeistJob Property |
 | --- |

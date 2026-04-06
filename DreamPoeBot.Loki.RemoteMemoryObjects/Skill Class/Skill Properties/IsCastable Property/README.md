@@ -1,5 +1,6 @@
 # IsCastable Property 
 
+**Вложено элементов:** 0  
 
 | Skill IsCastable Property |
 | --- |

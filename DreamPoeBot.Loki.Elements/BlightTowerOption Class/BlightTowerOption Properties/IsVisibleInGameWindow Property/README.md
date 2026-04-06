@@ -1,5 +1,6 @@
 # IsVisibleInGameWindow Property 
 
+**Вложено элементов:** 0  
 
 | BlightTowerOption IsVisibleInGameWindow Property |
 | --- |

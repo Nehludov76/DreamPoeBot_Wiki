@@ -1,5 +1,6 @@
 # Pickup Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState LanternOfArimorUi NecropolisInventoryControlWrapper Pickup Method |
 | --- |

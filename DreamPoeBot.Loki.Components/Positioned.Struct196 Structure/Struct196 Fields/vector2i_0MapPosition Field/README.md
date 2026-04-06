@@ -1,5 +1,6 @@
 # vector2i_0MapPosition Field
 
+**Вложено элементов:** 0  
 
 | Positioned Struct196 vector2i_0MapPosition Field |
 | --- |

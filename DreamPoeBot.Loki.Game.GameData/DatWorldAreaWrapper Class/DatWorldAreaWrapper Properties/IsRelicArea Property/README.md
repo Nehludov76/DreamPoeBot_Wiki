@@ -1,5 +1,6 @@
 # IsRelicArea Property 
 
+**Вложено элементов:** 0  
 
 | DatWorldAreaWrapper IsRelicArea Property |
 | --- |

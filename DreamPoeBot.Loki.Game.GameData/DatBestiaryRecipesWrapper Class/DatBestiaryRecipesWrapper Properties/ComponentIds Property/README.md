@@ -1,5 +1,6 @@
 # ComponentIds Property 
 
+**Вложено элементов:** 0  
 
 | DatBestiaryRecipesWrapper ComponentIds Property |
 | --- |

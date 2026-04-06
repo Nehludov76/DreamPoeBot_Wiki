@@ -1,5 +1,6 @@
 # CurrentLeague Property 
 
+**Вложено элементов:** 0  
 
 | LeagueSelectionElement CurrentLeague Property |
 | --- |

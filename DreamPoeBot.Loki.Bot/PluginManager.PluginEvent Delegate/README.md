@@ -1,5 +1,6 @@
 # PluginManager.PluginEvent Delegate
 
+**Вложено элементов:** 0  
 
 | PluginManager PluginEvent Delegate |
 | --- |

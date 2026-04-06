@@ -1,5 +1,6 @@
 # CapturedMonsters Property 
 
+**Вложено элементов:** 0  
 
 | ServerData CapturedMonsters Property |
 | --- |

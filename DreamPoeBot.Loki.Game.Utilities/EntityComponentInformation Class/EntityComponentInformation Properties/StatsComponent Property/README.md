@@ -1,5 +1,6 @@
 # StatsComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation StatsComponent Property |
 | --- |

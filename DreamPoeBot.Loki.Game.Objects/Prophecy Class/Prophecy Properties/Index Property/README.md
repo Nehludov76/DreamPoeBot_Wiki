@@ -1,5 +1,6 @@
 # Index Property 
 
+**Вложено элементов:** 0  
 
 | Prophecy Index Property |
 | --- |

@@ -1,5 +1,6 @@
 # IsZero Property 
 
+**Вложено элементов:** 0  
 
 | Vector3 IsZero Property |
 | --- |

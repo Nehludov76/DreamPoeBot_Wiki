@@ -1,5 +1,6 @@
 # PendingPartyInvite Property 
 
+**Вложено элементов:** 0  
 
 | ServerData PendingPartyInvite Property |
 | --- |

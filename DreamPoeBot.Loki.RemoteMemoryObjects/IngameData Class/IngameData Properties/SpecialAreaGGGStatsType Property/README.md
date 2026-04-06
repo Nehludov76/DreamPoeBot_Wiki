@@ -1,5 +1,6 @@
 # SpecialAreaGGGStatsType Property 
 
+**Вложено элементов:** 0  
 
 | IngameData SpecialAreaGGGStatsType Property |
 | --- |

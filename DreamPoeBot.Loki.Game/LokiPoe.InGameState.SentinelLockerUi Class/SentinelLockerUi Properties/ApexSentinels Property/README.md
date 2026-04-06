@@ -1,5 +1,6 @@
 # ApexSentinels Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SentinelLockerUi ApexSentinels Property |
 | --- |

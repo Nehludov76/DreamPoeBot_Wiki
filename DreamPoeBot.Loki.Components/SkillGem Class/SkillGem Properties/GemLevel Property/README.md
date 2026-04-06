@@ -1,5 +1,6 @@
 # GemLevel Property 
 
+**Вложено элементов:** 0  
 
 | SkillGem GemLevel Property |
 | --- |

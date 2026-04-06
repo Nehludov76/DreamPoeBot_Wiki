@@ -1,5 +1,6 @@
 # TradePriceItemDialog Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements TradePriceItemDialog Property |
 | --- |

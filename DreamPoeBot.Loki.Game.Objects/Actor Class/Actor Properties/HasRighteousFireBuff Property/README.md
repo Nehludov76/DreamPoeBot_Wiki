@@ -1,5 +1,6 @@
 # HasRighteousFireBuff Property 
 
+**Вложено элементов:** 0  
 
 | Actor HasRighteousFireBuff Property |
 | --- |

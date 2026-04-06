@@ -1,5 +1,6 @@
 # IndicesJumpable Property 
 
+**Вложено элементов:** 0  
 
 | NewTrisClass IndicesJumpable Property |
 | --- |

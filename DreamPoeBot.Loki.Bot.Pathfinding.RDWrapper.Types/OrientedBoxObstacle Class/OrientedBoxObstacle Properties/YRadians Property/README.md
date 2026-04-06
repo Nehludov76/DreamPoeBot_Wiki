@@ -1,5 +1,6 @@
 # YRadians Property 
 
+**Вложено элементов:** 0  
 
 | OrientedBoxObstacle YRadians Property |
 | --- |

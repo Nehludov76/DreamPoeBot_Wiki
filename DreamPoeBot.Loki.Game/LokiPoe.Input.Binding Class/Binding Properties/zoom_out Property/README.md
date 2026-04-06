@@ -1,5 +1,6 @@
 # zoom_out Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input Binding zoom_out Property |
 | --- |

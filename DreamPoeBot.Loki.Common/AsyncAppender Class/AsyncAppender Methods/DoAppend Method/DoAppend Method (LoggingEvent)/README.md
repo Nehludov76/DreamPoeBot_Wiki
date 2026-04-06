@@ -1,5 +1,6 @@
 # DoAppend Method (LoggingEvent)
 
+**Вложено элементов:** 0  
 
 | AsyncAppender DoAppend Method (LoggingEvent) |
 | --- |

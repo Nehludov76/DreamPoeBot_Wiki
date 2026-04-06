@@ -1,5 +1,6 @@
 # MapsTabElement.StructureMapButton Structure
 
+**Вложено элементов:** 3  
 
 | MapsTabElement StructureMapButton Structure |
 | --- |
@@ -32,14 +33,18 @@ public value class StructureMapButton
 The MapsTabElement StructureMapButton type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Equals | Indicates whether this instance and a specified object are equal. (Inherited from ValueType .) |
-| GetHashCode | Returns the hash code for this instance. (Inherited from ValueType .) |
-| GetType | Gets the Type of the current instance. (Inherited from Object .) |
-| ToString | Returns the fully qualified type name of this instance. (Inherited from ValueType .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Equals | Indicates whether this instance and a specified object are equal. (Inherited from ValueType .) |
+|  | GetHashCode | Returns the hash code for this instance. (Inherited from ValueType .) |
+|  | GetType | Gets the Type of the current instance. (Inherited from Object .) |
+|  | ToString | Returns the fully qualified type name of this instance. (Inherited from ValueType .) |
 
 
-| Name | Description |
-| --- | --- |
-| name |
+|  | Name | Description |
+| --- | --- | --- |
+|  | name |  |
+
+## Дочерние разделы
+- [**StructureMapButton Methods**](./StructureMapButton Methods/README.md)
+- [**StructureMapButton Fields**](./StructureMapButton Fields/README.md)

@@ -1,5 +1,6 @@
 # TempleLockedDoorRadiusOverride Property 
 
+**Вложено элементов:** 0  
 
 | ExilePather TempleLockedDoorRadiusOverride Property |
 | --- |

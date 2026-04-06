@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.GuildStashUi.BlightTab Class
 
+**Вложено элементов:** 26  
 
 | LokiPoe InGameState GuildStashUi BlightTab Class |
 | --- |
@@ -32,33 +33,37 @@ public ref class BlightTab abstract sealed
 The LokiPoe InGameState GuildStashUi BlightTab type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| All |
-| AmberOil |
-| AzureOil |
-| BlackOil |
-| ClearOil |
-| CrimsonOil |
-| GoldenOil |
-| IndigoOil |
-| IsUpgradeEnabled | Return true if the Upgrade state is enabled. |
-| Maps |
-| OilExtractor |
-| Oils |
-| OpalescentOil |
-| PrismaticOil |
-| ReflectiveOil |
-| SepiaOil |
-| SilverOil |
-| SpecialOils |
-| TaintedOil |
-| TealOil |
-| VerdantOil |
-| VioletOil |
+|  | Name | Description |
+| --- | --- | --- |
+|  | All |  |
+|  | AmberOil |  |
+|  | AzureOil |  |
+|  | BlackOil |  |
+|  | ClearOil |  |
+|  | CrimsonOil |  |
+|  | GoldenOil |  |
+|  | IndigoOil |  |
+|  | IsUpgradeEnabled | Return true if the Upgrade state is enabled. |
+|  | Maps |  |
+|  | OilExtractor |  |
+|  | Oils |  |
+|  | OpalescentOil |  |
+|  | PrismaticOil |  |
+|  | ReflectiveOil |  |
+|  | SepiaOil |  |
+|  | SilverOil |  |
+|  | SpecialOils |  |
+|  | TaintedOil |  |
+|  | TealOil |  |
+|  | VerdantOil |  |
+|  | VioletOil |  |
 
 
-| Name | Description |
-| --- | --- |
-| ClickUpgradeButton | Click the Uprage button. |
-| GetInventoryControlForMetadata |
+|  | Name | Description |
+| --- | --- | --- |
+|  | ClickUpgradeButton | Click the Uprage button. |
+|  | GetInventoryControlForMetadata |  |
+
+## Дочерние разделы
+- [**BlightTab Properties**](./BlightTab Properties/README.md)
+- [**BlightTab Methods**](./BlightTab Methods/README.md)

@@ -1,5 +1,6 @@
 # IsCursingWithPunishment Property 
 
+**Вложено элементов:** 0  
 
 | Actor IsCursingWithPunishment Property |
 | --- |

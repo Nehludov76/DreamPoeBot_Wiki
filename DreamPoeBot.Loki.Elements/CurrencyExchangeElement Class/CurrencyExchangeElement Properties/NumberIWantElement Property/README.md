@@ -1,5 +1,6 @@
 # NumberIWantElement Property 
 
+**Вложено элементов:** 0  
 
 | CurrencyExchangeElement NumberIWantElement Property |
 | --- |

@@ -1,5 +1,6 @@
 # IsIconic Method 
 
+**Вложено элементов:** 0  
 
 | WinApi IsIconic Method |
 | --- |

@@ -1,5 +1,6 @@
 # Mod Property 
 
+**Вложено элементов:** 0  
 
 | BestiaryCapturedMonsterMod Mod Property |
 | --- |

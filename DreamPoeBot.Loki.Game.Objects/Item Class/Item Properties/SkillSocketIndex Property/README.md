@@ -1,5 +1,6 @@
 # SkillSocketIndex Property 
 
+**Вложено элементов:** 0  
 
 | Item SkillSocketIndex Property |
 | --- |

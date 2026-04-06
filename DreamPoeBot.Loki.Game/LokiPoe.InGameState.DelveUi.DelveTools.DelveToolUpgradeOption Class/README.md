@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.DelveUi.DelveTools.DelveToolUpgradeOption Class
 
+**Вложено элементов:** 7  
 
 | LokiPoe InGameState DelveUi DelveTools DelveToolUpgradeOption Class |
 | --- |
@@ -32,20 +33,24 @@ public ref class DelveToolUpgradeOption
 The LokiPoe InGameState DelveUi DelveTools DelveToolUpgradeOption type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| ActualValue | Return a string that rapresent this upgrade actual value. |
-| Cost | Return a string that rapresent this upgrade cost. |
-| IsButtonEnabled | Return true if the button can be pressed. |
-| Name | Return the name of this upgrade. |
+|  | Name | Description |
+| --- | --- | --- |
+|  | ActualValue | Return a string that rapresent this upgrade actual value. |
+|  | Cost | Return a string that rapresent this upgrade cost. |
+|  | IsButtonEnabled | Return true if the button can be pressed. |
+|  | Name | Return the name of this upgrade. |
 
 
-| Name | Description |
-| --- | --- |
-| Equals | Determines whether the specified object is equal to the current object. (Inherited from Object .) |
-| Finalize | Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection. (Inherited from Object .) |
-| GetHashCode | Serves as the default hash function. (Inherited from Object .) |
-| GetType | Gets the Type of the current instance. (Inherited from Object .) |
-| MemberwiseClone | Creates a shallow copy of the current Object . (Inherited from Object .) |
-| ToString | Returns a string that represents the current object. (Inherited from Object .) |
-| Upgrade | Click the upgrade button. |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Equals | Determines whether the specified object is equal to the current object. (Inherited from Object .) |
+|  | Finalize | Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection. (Inherited from Object .) |
+|  | GetHashCode | Serves as the default hash function. (Inherited from Object .) |
+|  | GetType | Gets the Type of the current instance. (Inherited from Object .) |
+|  | MemberwiseClone | Creates a shallow copy of the current Object . (Inherited from Object .) |
+|  | ToString | Returns a string that represents the current object. (Inherited from Object .) |
+|  | Upgrade | Click the upgrade button. |
+
+## Дочерние разделы
+- [**DelveToolUpgradeOption Properties**](./DelveToolUpgradeOption Properties/README.md)
+- [**DelveToolUpgradeOption Methods**](./DelveToolUpgradeOption Methods/README.md)

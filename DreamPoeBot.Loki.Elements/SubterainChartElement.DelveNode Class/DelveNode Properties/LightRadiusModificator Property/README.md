@@ -1,5 +1,6 @@
 # LightRadiusModificator Property 
 
+**Вложено элементов:** 0  
 
 | SubterainChartElement DelveNode LightRadiusModificator Property |
 | --- |

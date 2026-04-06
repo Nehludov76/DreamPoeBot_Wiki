@@ -1,5 +1,6 @@
 # MapRawItemRarity Property 
 
+**Вложено элементов:** 0  
 
 | Item MapRawItemRarity Property |
 | --- |

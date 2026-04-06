@@ -1,5 +1,6 @@
 # PressCreateCharacter Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe SelectCharacterState PressCreateCharacter Method |
 | --- |

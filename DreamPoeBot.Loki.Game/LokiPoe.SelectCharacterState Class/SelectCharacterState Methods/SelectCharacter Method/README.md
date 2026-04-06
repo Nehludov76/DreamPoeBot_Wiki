@@ -1,5 +1,6 @@
 # SelectCharacter Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe SelectCharacterState SelectCharacter Method |
 | --- |

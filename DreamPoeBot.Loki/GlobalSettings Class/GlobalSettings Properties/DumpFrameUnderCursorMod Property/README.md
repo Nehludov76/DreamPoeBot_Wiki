@@ -1,5 +1,6 @@
 # DumpFrameUnderCursorMod Property 
 
+**Вложено элементов:** 0  
 
 | GlobalSettings DumpFrameUnderCursorMod Property |
 | --- |

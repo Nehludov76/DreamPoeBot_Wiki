@@ -1,5 +1,6 @@
 # ItemsOnGroundLabelElement Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements ItemsOnGroundLabelElement Property |
 | --- |

@@ -1,5 +1,6 @@
 # ActivateClickLocation Property 
 
+**Вложено элементов:** 0  
 
 | LabyrinthUiElement ActivateClickLocation Property |
 | --- |

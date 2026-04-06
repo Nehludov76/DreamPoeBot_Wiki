@@ -1,5 +1,6 @@
 # dictionary_0 Field
 
+**Вложено элементов:** 0  
 
 | BITC dictionary_0 Field |
 | --- |

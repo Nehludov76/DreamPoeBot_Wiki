@@ -1,5 +1,6 @@
 # IsPositionInSyndacate Method 
 
+**Вложено элементов:** 0  
 
 | GridExplorer SyndacateDataClass IsPositionInSyndacate Method |
 | --- |

@@ -1,5 +1,6 @@
 # TabControlType Enumeration
 
+**Вложено элементов:** 0  
 
 | TabControlType Enumeration |
 | --- |
@@ -30,14 +31,14 @@ public enum class TabControlType
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| Stash | 0 |
-| World | 1 |
-| Parchase | 2 |
-| Social | 3 |
-| ExpeditionDealer | 4 |
-| BloodCrucible | 5 |
-| Trade | 6 |
-| MapTab | 7 |
-| Merchant | 8 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | Stash | 0 |  |
+|  | World | 1 |  |
+|  | Parchase | 2 |  |
+|  | Social | 3 |  |
+|  | ExpeditionDealer | 4 |  |
+|  | BloodCrucible | 5 |  |
+|  | Trade | 6 |  |
+|  | MapTab | 7 |  |
+|  | Merchant | 8 |  |

@@ -1,5 +1,6 @@
 # LifeMultiplier Property 
 
+**Вложено элементов:** 0  
 
 | MonsterVariety LifeMultiplier Property |
 | --- |

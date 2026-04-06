@@ -1,5 +1,6 @@
 # WaitTimer Class
 
+**Вложено элементов:** 19  
 
 | WaitTimer Class |
 | --- |
@@ -32,38 +33,44 @@ public ref class WaitTimer
 The WaitTimer type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| WaitTimer | Initializes a new instance of the WaitTimer class |
+|  | Name | Description |
+| --- | --- | --- |
+|  | WaitTimer | Initializes a new instance of the WaitTimer class |
 
 
-| Name | Description |
-| --- | --- |
-| EndTime |
-| FiveSeconds |
-| IsFinished |
-| OneSecond |
-| StartTime |
-| TenSeconds |
-| ThirtySeconds |
-| TimeLeft |
-| WaitTime |
+|  | Name | Description |
+| --- | --- | --- |
+|  | EndTime |  |
+|  | FiveSeconds |  |
+|  | IsFinished |  |
+|  | OneSecond |  |
+|  | StartTime |  |
+|  | TenSeconds |  |
+|  | ThirtySeconds |  |
+|  | TimeLeft |  |
+|  | WaitTime |  |
 
 
-| Name | Description |
-| --- | --- |
-| Equals | Determines whether the specified object is equal to the current object. (Inherited from Object .) |
-| Finalize | Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection. (Inherited from Object .) |
-| GetHashCode | Serves as the default hash function. (Inherited from Object .) |
-| GetType | Gets the Type of the current instance. (Inherited from Object .) |
-| MemberwiseClone | Creates a shallow copy of the current Object . (Inherited from Object .) |
-| Reset |
-| Reset(TimeSpan) |
-| Stop |
-| ToString | Returns a string that represents the current object. (Inherited from Object .) |
-| Update |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Equals | Determines whether the specified object is equal to the current object. (Inherited from Object .) |
+|  | Finalize | Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection. (Inherited from Object .) |
+|  | GetHashCode | Serves as the default hash function. (Inherited from Object .) |
+|  | GetType | Gets the Type of the current instance. (Inherited from Object .) |
+|  | MemberwiseClone | Creates a shallow copy of the current Object . (Inherited from Object .) |
+|  | Reset |  |
+|  | Reset(TimeSpan) |  |
+|  | Stop |  |
+|  | ToString | Returns a string that represents the current object. (Inherited from Object .) |
+|  | Update |  |
 
 
-| Name | Description |
-| --- | --- |
-| Finished |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Finished |  |
+
+## Дочерние разделы
+- [**WaitTimer Constructor **](./WaitTimer Constructor/README.md)
+- [**WaitTimer Properties**](./WaitTimer Properties/README.md)
+- [**WaitTimer Methods**](./WaitTimer Methods/README.md)
+- [**WaitTimer Events**](./WaitTimer Events/README.md)

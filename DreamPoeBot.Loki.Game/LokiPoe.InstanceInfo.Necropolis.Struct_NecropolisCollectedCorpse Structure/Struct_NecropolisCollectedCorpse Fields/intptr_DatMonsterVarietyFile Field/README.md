@@ -1,5 +1,6 @@
 # intptr_DatMonsterVarietyFile Field
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo Necropolis Struct_NecropolisCollectedCorpse intptr_DatMonsterVarietyFile Field |
 | --- |

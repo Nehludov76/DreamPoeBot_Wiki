@@ -1,5 +1,6 @@
 # Normalize Method 
 
+**Вложено элементов:** 0  
 
 | Vector2i Normalize Method |
 | --- |

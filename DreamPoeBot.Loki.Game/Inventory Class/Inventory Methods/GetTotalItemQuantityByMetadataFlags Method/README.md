@@ -1,5 +1,6 @@
 # GetTotalItemQuantityByMetadataFlags Method 
 
+**Вложено элементов:** 0  
 
 | Inventory GetTotalItemQuantityByMetadataFlags Method |
 | --- |

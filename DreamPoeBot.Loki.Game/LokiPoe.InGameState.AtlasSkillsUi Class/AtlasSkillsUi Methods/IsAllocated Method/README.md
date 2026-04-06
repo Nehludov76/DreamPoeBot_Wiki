@@ -1,5 +1,6 @@
 # IsAllocated Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState AtlasSkillsUi IsAllocated Method |
 | --- |

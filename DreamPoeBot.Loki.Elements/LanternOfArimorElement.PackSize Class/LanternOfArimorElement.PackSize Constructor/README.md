@@ -1,5 +1,6 @@
 # LanternOfArimorElement.PackSize Constructor 
 
+**Вложено элементов:** 0  
 
 | LanternOfArimorElement PackSize Constructor |
 | --- |

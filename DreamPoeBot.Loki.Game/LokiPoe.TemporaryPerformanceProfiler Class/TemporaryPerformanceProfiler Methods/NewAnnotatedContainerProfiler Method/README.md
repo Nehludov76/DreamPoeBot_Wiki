@@ -1,5 +1,6 @@
 # NewAnnotatedContainerProfiler Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe TemporaryPerformanceProfiler NewAnnotatedContainerProfiler Method |
 | --- |

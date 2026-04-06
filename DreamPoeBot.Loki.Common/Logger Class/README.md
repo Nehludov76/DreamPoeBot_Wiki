@@ -1,5 +1,6 @@
 # Logger Class
 
+**Вложено элементов:** 13  
 
 | Logger Class |
 | --- |
@@ -32,20 +33,24 @@ public ref class Logger abstract sealed
 The Logger type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| DropRepeatMessageDelayMs |
-| FileName |
-| Instance |
+|  | Name | Description |
+| --- | --- | --- |
+|  | DropRepeatMessageDelayMs |  |
+|  | FileName |  |
+|  | Instance |  |
 
 
-| Name | Description |
-| --- | --- |
-| AddWpfListener |
-| ChangeFileLogFilterLevel |
-| ChangeLogFilterLevel |
-| ChangeWindowLogFilterLevel |
-| Clear |
-| GetLoggerInstanceForName |
-| GetLoggerInstanceForType |
-| OpenLogFile |
+|  | Name | Description |
+| --- | --- | --- |
+|  | AddWpfListener |  |
+|  | ChangeFileLogFilterLevel |  |
+|  | ChangeLogFilterLevel |  |
+|  | ChangeWindowLogFilterLevel |  |
+|  | Clear |  |
+|  | GetLoggerInstanceForName |  |
+|  | GetLoggerInstanceForType |  |
+|  | OpenLogFile |  |
+
+## Дочерние разделы
+- [**Logger Properties**](./Logger Properties/README.md)
+- [**Logger Methods**](./Logger Methods/README.md)

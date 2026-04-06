@@ -1,5 +1,6 @@
 # CurLatency Property 
 
+**Вложено элементов:** 0  
 
 | IngameState CurLatency Property |
 | --- |

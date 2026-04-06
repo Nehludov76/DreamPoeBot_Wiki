@@ -1,5 +1,6 @@
 # open_map Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input Binding open_map Property |
 | --- |

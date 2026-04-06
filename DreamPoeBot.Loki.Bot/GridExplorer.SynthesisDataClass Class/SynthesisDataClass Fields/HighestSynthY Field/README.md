@@ -1,5 +1,6 @@
 # HighestSynthY Field
 
+**Вложено элементов:** 0  
 
 | GridExplorer SynthesisDataClass HighestSynthY Field |
 | --- |

@@ -1,5 +1,6 @@
 # YOffset Property 
 
+**Вложено элементов:** 0  
 
 | FragmentStashTabLayouts FragmentStashTabLayoutJson YOffset Property |
 | --- |

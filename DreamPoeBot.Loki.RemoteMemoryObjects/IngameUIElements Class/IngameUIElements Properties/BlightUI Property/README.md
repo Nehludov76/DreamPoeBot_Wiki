@@ -1,5 +1,6 @@
 # BlightUI Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements BlightUI Property |
 | --- |

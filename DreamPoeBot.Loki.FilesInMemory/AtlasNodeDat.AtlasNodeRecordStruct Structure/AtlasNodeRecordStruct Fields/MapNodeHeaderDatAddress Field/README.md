@@ -1,5 +1,6 @@
 # MapNodeHeaderDatAddress Field
 
+**Вложено элементов:** 0  
 
 | AtlasNodeDat AtlasNodeRecordStruct MapNodeHeaderDatAddress Field |
 | --- |

@@ -1,5 +1,6 @@
 # UnveilingElement Properties
 
+**Вложено элементов:** 3  
 
 | UnveilingElement Properties |
 | --- |
@@ -10,39 +11,44 @@
 The UnveilingElement type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Address | (Inherited from RemoteMemoryObject .) |
-| ChildCount | (Inherited from Element .) |
-| Children | (Inherited from Element .) |
-| ConfirmButtonElement |
-| ControlType | (Inherited from Element .) |
-| DeltaX | (Inherited from Element .) |
-| DeltaY | (Inherited from Element .) |
-| ElementZoom | (Inherited from Element .) |
-| Game | (Inherited from RemoteMemoryObject .) |
-| GuiControlType | (Inherited from Element .) |
-| Height | (Inherited from Element .) |
-| IdLabel | (Inherited from Element .) |
-| IsEnable | (Inherited from Element .) |
-| IsItemTransparent | (Inherited from Element .) |
-| IsValid | (Inherited from RemoteMemoryObject .) |
-| IsVisible | (Inherited from Element .) |
-| IsVisibleLocal | (Inherited from Element .) |
-| M | (Inherited from RemoteMemoryObject .) |
-| MainInventory |
-| Offsets | (Inherited from RemoteMemoryObject .) |
-| Parent | (Inherited from Element .) |
-| Root | (Inherited from Element .) |
-| Scale | (Inherited from Element .) |
-| Text | (Inherited from Element .) |
-| Tooltip | (Inherited from Element .) |
-| Tooltips | (Inherited from Element .) |
-| UnveilButtonElement |
-| vTable | (Inherited from Element .) |
-| Width | (Inherited from Element .) |
-| X | (Inherited from Element .) |
-| XAddress | (Inherited from Element .) |
-| Y | (Inherited from Element .) |
-| YAddress | (Inherited from Element .) |
-| zoomAddress | (Inherited from Element .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Address | (Inherited from RemoteMemoryObject .) |
+|  | ChildCount | (Inherited from Element .) |
+|  | Children | (Inherited from Element .) |
+|  | ConfirmButtonElement |  |
+|  | ControlType | (Inherited from Element .) |
+|  | DeltaX | (Inherited from Element .) |
+|  | DeltaY | (Inherited from Element .) |
+|  | ElementZoom | (Inherited from Element .) |
+|  | Game | (Inherited from RemoteMemoryObject .) |
+|  | GuiControlType | (Inherited from Element .) |
+|  | Height | (Inherited from Element .) |
+|  | IdLabel | (Inherited from Element .) |
+|  | IsEnable | (Inherited from Element .) |
+|  | IsItemTransparent | (Inherited from Element .) |
+|  | IsValid | (Inherited from RemoteMemoryObject .) |
+|  | IsVisible | (Inherited from Element .) |
+|  | IsVisibleLocal | (Inherited from Element .) |
+|  | M | (Inherited from RemoteMemoryObject .) |
+|  | MainInventory |  |
+|  | Offsets | (Inherited from RemoteMemoryObject .) |
+|  | Parent | (Inherited from Element .) |
+|  | Root | (Inherited from Element .) |
+|  | Scale | (Inherited from Element .) |
+|  | Text | (Inherited from Element .) |
+|  | Tooltip | (Inherited from Element .) |
+|  | Tooltips | (Inherited from Element .) |
+|  | UnveilButtonElement |  |
+|  | vTable | (Inherited from Element .) |
+|  | Width | (Inherited from Element .) |
+|  | X | (Inherited from Element .) |
+|  | XAddress | (Inherited from Element .) |
+|  | Y | (Inherited from Element .) |
+|  | YAddress | (Inherited from Element .) |
+|  | zoomAddress | (Inherited from Element .) |
+
+## Дочерние разделы
+- [**ConfirmButtonElement Property **](./ConfirmButtonElement Property/README.md)
+- [**MainInventory Property **](./MainInventory Property/README.md)
+- [**UnveilButtonElement Property **](./UnveilButtonElement Property/README.md)

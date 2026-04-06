@@ -1,5 +1,6 @@
 # HasCurseFrom Method (ActiveSkillsEnum)
 
+**Вложено элементов:** 0  
 
 | Actor HasCurseFrom Method (ActiveSkillsEnum) |
 | --- |

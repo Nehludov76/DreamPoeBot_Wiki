@@ -1,5 +1,6 @@
 # Right Field
 
+**Вложено элементов:** 0  
 
 | Interop RectWin32 Right Field |
 | --- |

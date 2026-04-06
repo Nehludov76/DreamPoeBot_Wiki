@@ -1,5 +1,6 @@
 # frames2 Field
 
+**Вложено элементов:** 0  
 
 | ServerData StructNewServerData frames2 Field |
 | --- |

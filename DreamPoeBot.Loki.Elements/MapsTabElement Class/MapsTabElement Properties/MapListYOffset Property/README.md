@@ -1,5 +1,6 @@
 # MapListYOffset Property 
 
+**Вложено элементов:** 0  
 
 | MapsTabElement MapListYOffset Property |
 | --- |

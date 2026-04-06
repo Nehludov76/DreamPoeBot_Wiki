@@ -1,5 +1,6 @@
 # Desc Property 
 
+**Вложено элементов:** 0  
 
 | DatBestiaryRecipesWrapper Desc Property |
 | --- |

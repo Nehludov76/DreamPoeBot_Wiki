@@ -1,5 +1,6 @@
 # use_bound_skill2_combo Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input Binding use_bound_skill2_combo Property |
 | --- |

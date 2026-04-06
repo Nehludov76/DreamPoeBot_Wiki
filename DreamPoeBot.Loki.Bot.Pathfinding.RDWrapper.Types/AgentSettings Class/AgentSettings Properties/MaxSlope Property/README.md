@@ -1,5 +1,6 @@
 # MaxSlope Property 
 
+**Вложено элементов:** 0  
 
 | AgentSettings MaxSlope Property |
 | --- |

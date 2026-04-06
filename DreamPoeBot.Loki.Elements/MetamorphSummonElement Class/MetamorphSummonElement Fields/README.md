@@ -1,5 +1,6 @@
 # MetamorphSummonElement Fields
 
+**Вложено элементов:** 0  
 
 | MetamorphSummonElement Fields |
 | --- |
@@ -10,6 +11,6 @@
 The MetamorphSummonElement type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| NeedUpdate | (Inherited from RemoteMemoryObject .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | NeedUpdate | (Inherited from RemoteMemoryObject .) |

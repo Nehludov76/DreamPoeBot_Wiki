@@ -1,5 +1,6 @@
 # GetByName Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState StashUi CurrencyTab GetByName Method |
 | --- |

@@ -1,5 +1,6 @@
 # IsBeyondPortal Property 
 
+**Вложено элементов:** 0  
 
 | NetworkObject IsBeyondPortal Property |
 | --- |

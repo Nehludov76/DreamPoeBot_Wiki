@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.MicrotansactionShopPannelUi Class
 
+**Вложено элементов:** 2  
 
 | LokiPoe InGameState MicrotansactionShopPannelUi Class |
 | --- |
@@ -30,6 +31,9 @@ public ref class MicrotansactionShopPannelUi abstract sealed
 The LokiPoe InGameState MicrotansactionShopPannelUi type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| IsOpened |
+|  | Name | Description |
+| --- | --- | --- |
+|  | IsOpened |  |
+
+## Дочерние разделы
+- [**MicrotansactionShopPannelUi Properties**](./MicrotansactionShopPannelUi Properties/README.md)

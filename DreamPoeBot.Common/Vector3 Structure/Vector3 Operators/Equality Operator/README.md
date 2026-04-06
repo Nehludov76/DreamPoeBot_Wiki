@@ -1,5 +1,6 @@
 # Equality Operator 
 
+**Вложено элементов:** 0  
 
 | Vector3 Equality Operator |
 | --- |

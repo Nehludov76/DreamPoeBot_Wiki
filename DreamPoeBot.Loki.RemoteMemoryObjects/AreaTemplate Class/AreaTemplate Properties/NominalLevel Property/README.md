@@ -1,5 +1,6 @@
 # NominalLevel Property 
 
+**Вложено элементов:** 0  
 
 | AreaTemplate NominalLevel Property |
 | --- |

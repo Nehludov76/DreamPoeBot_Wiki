@@ -1,5 +1,6 @@
 # SupportGems Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState MercenaryEncounterUi MercenarySkill SupportGems Property |
 | --- |

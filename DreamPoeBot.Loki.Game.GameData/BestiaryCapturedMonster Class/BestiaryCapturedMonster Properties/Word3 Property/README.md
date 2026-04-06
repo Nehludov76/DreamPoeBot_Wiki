@@ -1,5 +1,6 @@
 # Word3 Property 
 
+**Вложено элементов:** 0  
 
 | BestiaryCapturedMonster Word3 Property |
 | --- |

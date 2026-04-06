@@ -1,5 +1,6 @@
 # Offert Property 
 
+**Вложено элементов:** 0  
 
 | RewardElement Offert Property |
 | --- |

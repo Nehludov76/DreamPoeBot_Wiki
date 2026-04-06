@@ -1,5 +1,6 @@
 # IsRightTabsContainerElementVisible Property 
 
+**Вложено элементов:** 0  
 
 | TabControlWrapper IsRightTabsContainerElementVisible Property |
 | --- |

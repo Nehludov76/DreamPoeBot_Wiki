@@ -1,5 +1,6 @@
 # IsPandemoniumSentinelSlotVisible Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState InventoryUi Sentinels IsPandemoniumSentinelSlotVisible Property |
 | --- |

@@ -1,5 +1,6 @@
 # BorderSize Property 
 
+**Вложено элементов:** 0  
 
 | RecastMeshSettings BorderSize Property |
 | --- |

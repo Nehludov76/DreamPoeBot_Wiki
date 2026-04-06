@@ -1,5 +1,6 @@
 # IsStartingNode Field
 
+**Вложено элементов:** 0  
 
 | AtlasNodeDat AtlasNodeRecord IsStartingNode Field |
 | --- |

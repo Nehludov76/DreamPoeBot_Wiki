@@ -1,5 +1,6 @@
 # CollectedCorpse Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo Necropolis CollectedCorpse Property |
 | --- |

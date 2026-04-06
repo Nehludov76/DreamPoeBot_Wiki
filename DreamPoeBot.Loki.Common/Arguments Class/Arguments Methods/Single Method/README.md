@@ -1,5 +1,6 @@
 # Single Method 
 
+**Вложено элементов:** 0  
 
 | Arguments Single Method |
 | --- |

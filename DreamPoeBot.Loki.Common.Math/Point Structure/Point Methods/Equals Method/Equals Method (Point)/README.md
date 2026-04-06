@@ -1,5 +1,6 @@
 # Equals Method (Point)
 
+**Вложено элементов:** 0  
 
 | Point Equals Method (Point) |
 | --- |

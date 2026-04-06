@@ -1,5 +1,6 @@
 # DivineOrb Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState StashUi CurrencyTab DivineOrb Property |
 | --- |

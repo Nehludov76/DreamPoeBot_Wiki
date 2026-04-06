@@ -1,5 +1,6 @@
 # PerFrameLecker Constructor 
 
+**Вложено элементов:** 0  
 
 | PerFrameLecker Constructor |
 | --- |

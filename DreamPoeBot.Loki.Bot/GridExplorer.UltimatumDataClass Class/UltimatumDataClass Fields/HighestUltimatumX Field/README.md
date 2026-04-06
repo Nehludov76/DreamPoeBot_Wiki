@@ -1,5 +1,6 @@
 # HighestUltimatumX Field
 
+**Вложено элементов:** 0  
 
 | GridExplorer UltimatumDataClass HighestUltimatumX Field |
 | --- |

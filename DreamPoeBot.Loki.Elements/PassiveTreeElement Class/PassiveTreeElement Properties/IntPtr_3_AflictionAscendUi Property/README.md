@@ -1,5 +1,6 @@
 # IntPtr_3_AflictionAscendUi Property 
 
+**Вложено элементов:** 0  
 
 | PassiveTreeElement IntPtr_3_AflictionAscendUi Property |
 | --- |

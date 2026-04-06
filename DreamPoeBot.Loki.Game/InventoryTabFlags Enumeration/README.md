@@ -1,5 +1,6 @@
 # InventoryTabFlags Enumeration
 
+**Вложено элементов:** 0  
 
 | InventoryTabFlags Enumeration |
 | --- |
@@ -30,13 +31,13 @@
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| RemoveOnly | 1 |
-| Unavailable | 2 |
-| Premium | 4 |
-| Todo8 | 8 |
-| Todo10 | 16 |
-| Public | 32 |
-| MapSeries | 64 |
-| Hidden | 128 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | RemoveOnly | 1 |  |
+|  | Unavailable | 2 |  |
+|  | Premium | 4 |  |
+|  | Todo8 | 8 |  |
+|  | Todo10 | 16 |  |
+|  | Public | 32 |  |
+|  | MapSeries | 64 |  |
+|  | Hidden | 128 |  |

@@ -1,5 +1,6 @@
 # Buf Field
 
+**Вложено элементов:** 0  
 
 | NativeStringA Buf Field |
 | --- |

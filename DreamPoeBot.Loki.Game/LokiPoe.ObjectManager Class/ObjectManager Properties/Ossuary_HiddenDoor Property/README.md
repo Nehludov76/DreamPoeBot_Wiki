@@ -1,5 +1,6 @@
 # Ossuary_HiddenDoor Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe ObjectManager Ossuary_HiddenDoor Property |
 | --- |

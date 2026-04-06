@@ -1,5 +1,6 @@
 # CapturedMonsterName Property 
 
+**Вложено элементов:** 0  
 
 | PantheonSouls CapturedMonsterName Property |
 | --- |

@@ -1,5 +1,6 @@
 # SmallEntityListAdr Property 
 
+**Вложено элементов:** 0  
 
 | IngameData SmallEntityListAdr Property |
 | --- |

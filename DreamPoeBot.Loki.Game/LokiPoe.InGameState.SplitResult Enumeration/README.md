@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.SplitResult Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SplitResult Enumeration |
 | --- |
@@ -30,8 +31,8 @@ public enum class SplitResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| ProcessHookManagerNotEnabled | 1 |
-| UiNotOpen | 2 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | ProcessHookManagerNotEnabled | 1 |  |
+|  | UiNotOpen | 2 |  |

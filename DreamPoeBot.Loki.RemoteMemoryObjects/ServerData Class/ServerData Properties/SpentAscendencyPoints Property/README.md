@@ -1,5 +1,6 @@
 # SpentAscendencyPoints Property 
 
+**Вложено элементов:** 0  
 
 | ServerData SpentAscendencyPoints Property |
 | --- |

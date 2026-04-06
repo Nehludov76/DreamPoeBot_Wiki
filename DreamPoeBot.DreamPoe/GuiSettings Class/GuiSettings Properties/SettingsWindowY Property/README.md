@@ -1,5 +1,6 @@
 # SettingsWindowY Property 
 
+**Вложено элементов:** 0  
 
 | GuiSettings SettingsWindowY Property |
 | --- |

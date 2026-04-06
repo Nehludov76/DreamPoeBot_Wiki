@@ -1,5 +1,6 @@
 # GetCopy Method 
 
+**Вложено элементов:** 0  
 
 | Coroutine GetCopy Method |
 | --- |

@@ -1,5 +1,6 @@
 # RightRing Property 
 
+**Вложено элементов:** 0  
 
 | Inventories RightRing Property |
 | --- |

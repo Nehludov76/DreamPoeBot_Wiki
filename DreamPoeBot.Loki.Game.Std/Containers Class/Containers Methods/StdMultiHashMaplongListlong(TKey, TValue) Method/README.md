@@ -1,5 +1,6 @@
 # StdMultiHashMaplongListlong(TKey, TValue) Method 
 
+**Вложено элементов:** 0  
 
 | Containers StdMultiHashMaplongListlong TKey , TValue Method |
 | --- |

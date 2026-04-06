@@ -1,5 +1,6 @@
 # CorpseMonsterCategory Property 
 
+**Вложено элементов:** 0  
 
 | NecropolisCorpseElement CorpseMonsterCategory Property |
 | --- |

@@ -1,5 +1,6 @@
 # LoginFrame Property 
 
+**Вложено элементов:** 0  
 
 | LoginPannelElement LoginFrame Property |
 | --- |

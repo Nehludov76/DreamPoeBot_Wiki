@@ -1,5 +1,6 @@
 # IncursionTempleComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation IncursionTempleComponent Property |
 | --- |

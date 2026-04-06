@@ -1,5 +1,6 @@
 # ReadVector2i Method 
 
+**Вложено элементов:** 0  
 
 | Memory ReadVector2i Method |
 | --- |

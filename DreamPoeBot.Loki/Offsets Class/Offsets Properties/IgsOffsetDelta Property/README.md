@@ -1,5 +1,6 @@
 # IgsOffsetDelta Property 
 
+**Вложено элементов:** 0  
 
 | Offsets IgsOffsetDelta Property |
 | --- |

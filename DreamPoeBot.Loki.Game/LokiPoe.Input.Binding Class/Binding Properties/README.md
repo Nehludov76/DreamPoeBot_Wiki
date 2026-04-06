@@ -1,5 +1,6 @@
 # Binding Properties
 
+**Вложено элементов:** 116  
 
 | Binding Properties |
 | --- |
@@ -10,121 +11,239 @@
 The LokiPoe Input Binding type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| attack_in_place |
-| attack_in_place_combo |
-| chat |
-| chat_combo |
-| close_panels |
-| close_panels_combo |
-| CorpseTargetingType |
-| detonate_mines |
-| detonate_mines_combo |
-| enable_corpse_targeting |
-| enable_corpse_targeting_combo |
-| enable_key_pickup |
-| enable_key_pickup_combo |
-| generic_league_key |
-| generic_league_key_combo |
-| highlight |
-| highlight_combo |
-| highlight_toggle |
-| highlight_toggle_combo |
-| KeyPickup |
-| NetworkingType |
-| open_atlas_screen |
-| open_atlas_screen_combo |
-| open_challenges_panel |
-| open_challenges_panel_combo |
-| open_character_panel |
-| open_character_panel_combo |
-| open_cosmetics_inventory |
-| open_cosmetics_inventory_combo |
-| open_events_panel |
-| open_events_panel_combo |
-| open_guidebook_panel |
-| open_guidebook_panel_combo |
-| open_inventory_panel |
-| open_inventory_panel_combo |
-| open_ladder_panel |
-| open_ladder_panel_combo |
-| open_map |
-| open_map_combo |
-| open_microtransaction_panel |
-| open_microtransaction_panel_combo |
-| open_mtx_stash |
-| open_mtx_stash_combo |
-| open_options |
-| open_options_combo |
-| open_pantheon_panel |
-| open_pantheon_panel_combo |
-| open_passive_skills_panel |
-| open_passive_skills_panel_combo |
-| open_social_panel |
-| open_social_panel_combo |
-| open_world_panel |
-| open_world_panel_combo |
-| performance_overlay |
-| performance_overlay_combo |
-| ritual_rewards_window_combo |
-| sanctum_open_map_ui_combo |
-| skip_encounter_delay |
-| skip_encounter_delay_combo |
-| take_screenshot |
-| take_screenshot_combo |
-| toggle_skill_bar |
-| toggle_skill_bar_combo |
-| use_apex_sentinel_combo |
-| use_bound_skill1 |
-| use_bound_skill1_combo |
-| use_bound_skill10 |
-| use_bound_skill10_combo |
-| use_bound_skill11 |
-| use_bound_skill11_combo |
-| use_bound_skill12 |
-| use_bound_skill12_combo |
-| use_bound_skill13 |
-| use_bound_skill13_combo |
-| use_bound_skill2 |
-| use_bound_skill2_combo |
-| use_bound_skill3 |
-| use_bound_skill3_combo |
-| use_bound_skill4 |
-| use_bound_skill4_combo |
-| use_bound_skill5 |
-| use_bound_skill5_combo |
-| use_bound_skill6 |
-| use_bound_skill6_combo |
-| use_bound_skill7 |
-| use_bound_skill7_combo |
-| use_bound_skill8 |
-| use_bound_skill8_combo |
-| use_bound_skill9 |
-| use_bound_skill9_combo |
-| use_flask_in_slot1 |
-| use_flask_in_slot1_combo |
-| use_flask_in_slot2 |
-| use_flask_in_slot2_combo |
-| use_flask_in_slot3 |
-| use_flask_in_slot3_combo |
-| use_flask_in_slot4 |
-| use_flask_in_slot4_combo |
-| use_flask_in_slot5 |
-| use_flask_in_slot5_combo |
-| use_pandemonium_sentinel_combo |
-| use_portal_scroll_combo |
-| use_stalker_sentinel_combo |
-| use_temp_bound_skill1 |
-| use_temp_bound_skill1_combo |
-| use_temp_bound_skill2 |
-| use_temp_bound_skill2_combo |
-| weapon_swap |
-| weapon_swap_combo |
-| zana_influence_skill_1 |
-| zana_influence_skill_2 |
-| zana_influence_skill_3 |
-| zoom_in |
-| zoom_in_combo |
-| zoom_out |
-| zoom_out_combo |
+|  | Name | Description |
+| --- | --- | --- |
+|  | attack_in_place |  |
+|  | attack_in_place_combo |  |
+|  | chat |  |
+|  | chat_combo |  |
+|  | close_panels |  |
+|  | close_panels_combo |  |
+|  | CorpseTargetingType |  |
+|  | detonate_mines |  |
+|  | detonate_mines_combo |  |
+|  | enable_corpse_targeting |  |
+|  | enable_corpse_targeting_combo |  |
+|  | enable_key_pickup |  |
+|  | enable_key_pickup_combo |  |
+|  | generic_league_key |  |
+|  | generic_league_key_combo |  |
+|  | highlight |  |
+|  | highlight_combo |  |
+|  | highlight_toggle |  |
+|  | highlight_toggle_combo |  |
+|  | KeyPickup |  |
+|  | NetworkingType |  |
+|  | open_atlas_screen |  |
+|  | open_atlas_screen_combo |  |
+|  | open_challenges_panel |  |
+|  | open_challenges_panel_combo |  |
+|  | open_character_panel |  |
+|  | open_character_panel_combo |  |
+|  | open_cosmetics_inventory |  |
+|  | open_cosmetics_inventory_combo |  |
+|  | open_events_panel |  |
+|  | open_events_panel_combo |  |
+|  | open_guidebook_panel |  |
+|  | open_guidebook_panel_combo |  |
+|  | open_inventory_panel |  |
+|  | open_inventory_panel_combo |  |
+|  | open_ladder_panel |  |
+|  | open_ladder_panel_combo |  |
+|  | open_map |  |
+|  | open_map_combo |  |
+|  | open_microtransaction_panel |  |
+|  | open_microtransaction_panel_combo |  |
+|  | open_mtx_stash |  |
+|  | open_mtx_stash_combo |  |
+|  | open_options |  |
+|  | open_options_combo |  |
+|  | open_pantheon_panel |  |
+|  | open_pantheon_panel_combo |  |
+|  | open_passive_skills_panel |  |
+|  | open_passive_skills_panel_combo |  |
+|  | open_social_panel |  |
+|  | open_social_panel_combo |  |
+|  | open_world_panel |  |
+|  | open_world_panel_combo |  |
+|  | performance_overlay |  |
+|  | performance_overlay_combo |  |
+|  | ritual_rewards_window_combo |  |
+|  | sanctum_open_map_ui_combo |  |
+|  | skip_encounter_delay |  |
+|  | skip_encounter_delay_combo |  |
+|  | take_screenshot |  |
+|  | take_screenshot_combo |  |
+|  | toggle_skill_bar |  |
+|  | toggle_skill_bar_combo |  |
+|  | use_apex_sentinel_combo |  |
+|  | use_bound_skill1 |  |
+|  | use_bound_skill1_combo |  |
+|  | use_bound_skill10 |  |
+|  | use_bound_skill10_combo |  |
+|  | use_bound_skill11 |  |
+|  | use_bound_skill11_combo |  |
+|  | use_bound_skill12 |  |
+|  | use_bound_skill12_combo |  |
+|  | use_bound_skill13 |  |
+|  | use_bound_skill13_combo |  |
+|  | use_bound_skill2 |  |
+|  | use_bound_skill2_combo |  |
+|  | use_bound_skill3 |  |
+|  | use_bound_skill3_combo |  |
+|  | use_bound_skill4 |  |
+|  | use_bound_skill4_combo |  |
+|  | use_bound_skill5 |  |
+|  | use_bound_skill5_combo |  |
+|  | use_bound_skill6 |  |
+|  | use_bound_skill6_combo |  |
+|  | use_bound_skill7 |  |
+|  | use_bound_skill7_combo |  |
+|  | use_bound_skill8 |  |
+|  | use_bound_skill8_combo |  |
+|  | use_bound_skill9 |  |
+|  | use_bound_skill9_combo |  |
+|  | use_flask_in_slot1 |  |
+|  | use_flask_in_slot1_combo |  |
+|  | use_flask_in_slot2 |  |
+|  | use_flask_in_slot2_combo |  |
+|  | use_flask_in_slot3 |  |
+|  | use_flask_in_slot3_combo |  |
+|  | use_flask_in_slot4 |  |
+|  | use_flask_in_slot4_combo |  |
+|  | use_flask_in_slot5 |  |
+|  | use_flask_in_slot5_combo |  |
+|  | use_pandemonium_sentinel_combo |  |
+|  | use_portal_scroll_combo |  |
+|  | use_stalker_sentinel_combo |  |
+|  | use_temp_bound_skill1 |  |
+|  | use_temp_bound_skill1_combo |  |
+|  | use_temp_bound_skill2 |  |
+|  | use_temp_bound_skill2_combo |  |
+|  | weapon_swap |  |
+|  | weapon_swap_combo |  |
+|  | zana_influence_skill_1 |  |
+|  | zana_influence_skill_2 |  |
+|  | zana_influence_skill_3 |  |
+|  | zoom_in |  |
+|  | zoom_in_combo |  |
+|  | zoom_out |  |
+|  | zoom_out_combo |  |
+
+## Дочерние разделы
+- [**attack_in_place Property **](./attack_in_place Property/README.md)
+- [**attack_in_place_combo Property **](./attack_in_place_combo Property/README.md)
+- [**chat Property **](./chat Property/README.md)
+- [**chat_combo Property **](./chat_combo Property/README.md)
+- [**close_panels Property **](./close_panels Property/README.md)
+- [**close_panels_combo Property **](./close_panels_combo Property/README.md)
+- [**CorpseTargetingType Property **](./CorpseTargetingType Property/README.md)
+- [**detonate_mines Property **](./detonate_mines Property/README.md)
+- [**detonate_mines_combo Property **](./detonate_mines_combo Property/README.md)
+- [**enable_corpse_targeting Property **](./enable_corpse_targeting Property/README.md)
+- [**enable_corpse_targeting_combo Property **](./enable_corpse_targeting_combo Property/README.md)
+- [**enable_key_pickup Property **](./enable_key_pickup Property/README.md)
+- [**enable_key_pickup_combo Property **](./enable_key_pickup_combo Property/README.md)
+- [**generic_league_key Property **](./generic_league_key Property/README.md)
+- [**generic_league_key_combo Property **](./generic_league_key_combo Property/README.md)
+- [**highlight Property **](./highlight Property/README.md)
+- [**highlight_combo Property **](./highlight_combo Property/README.md)
+- [**highlight_toggle Property **](./highlight_toggle Property/README.md)
+- [**highlight_toggle_combo Property **](./highlight_toggle_combo Property/README.md)
+- [**KeyPickup Property **](./KeyPickup Property/README.md)
+- [**NetworkingType Property **](./NetworkingType Property/README.md)
+- [**open_atlas_screen Property **](./open_atlas_screen Property/README.md)
+- [**open_atlas_screen_combo Property **](./open_atlas_screen_combo Property/README.md)
+- [**open_challenges_panel Property **](./open_challenges_panel Property/README.md)
+- [**open_challenges_panel_combo Property **](./open_challenges_panel_combo Property/README.md)
+- [**open_character_panel Property **](./open_character_panel Property/README.md)
+- [**open_character_panel_combo Property **](./open_character_panel_combo Property/README.md)
+- [**open_cosmetics_inventory Property **](./open_cosmetics_inventory Property/README.md)
+- [**open_cosmetics_inventory_combo Property **](./open_cosmetics_inventory_combo Property/README.md)
+- [**open_events_panel Property **](./open_events_panel Property/README.md)
+- [**open_events_panel_combo Property **](./open_events_panel_combo Property/README.md)
+- [**open_guidebook_panel Property **](./open_guidebook_panel Property/README.md)
+- [**open_guidebook_panel_combo Property **](./open_guidebook_panel_combo Property/README.md)
+- [**open_inventory_panel Property **](./open_inventory_panel Property/README.md)
+- [**open_inventory_panel_combo Property **](./open_inventory_panel_combo Property/README.md)
+- [**open_ladder_panel Property **](./open_ladder_panel Property/README.md)
+- [**open_ladder_panel_combo Property **](./open_ladder_panel_combo Property/README.md)
+- [**open_map Property **](./open_map Property/README.md)
+- [**open_map_combo Property **](./open_map_combo Property/README.md)
+- [**open_microtransaction_panel Property **](./open_microtransaction_panel Property/README.md)
+- [**open_microtransaction_panel_combo Property **](./open_microtransaction_panel_combo Property/README.md)
+- [**open_mtx_stash Property **](./open_mtx_stash Property/README.md)
+- [**open_mtx_stash_combo Property **](./open_mtx_stash_combo Property/README.md)
+- [**open_options Property **](./open_options Property/README.md)
+- [**open_options_combo Property **](./open_options_combo Property/README.md)
+- [**open_pantheon_panel Property **](./open_pantheon_panel Property/README.md)
+- [**open_pantheon_panel_combo Property **](./open_pantheon_panel_combo Property/README.md)
+- [**open_passive_skills_panel Property **](./open_passive_skills_panel Property/README.md)
+- [**open_passive_skills_panel_combo Property **](./open_passive_skills_panel_combo Property/README.md)
+- [**open_social_panel Property **](./open_social_panel Property/README.md)
+- [**open_social_panel_combo Property **](./open_social_panel_combo Property/README.md)
+- [**open_world_panel Property **](./open_world_panel Property/README.md)
+- [**open_world_panel_combo Property **](./open_world_panel_combo Property/README.md)
+- [**performance_overlay Property **](./performance_overlay Property/README.md)
+- [**performance_overlay_combo Property **](./performance_overlay_combo Property/README.md)
+- [**ritual_rewards_window_combo Property **](./ritual_rewards_window_combo Property/README.md)
+- [**sanctum_open_map_ui_combo Property **](./sanctum_open_map_ui_combo Property/README.md)
+- [**skip_encounter_delay Property **](./skip_encounter_delay Property/README.md)
+- [**skip_encounter_delay_combo Property **](./skip_encounter_delay_combo Property/README.md)
+- [**take_screenshot Property **](./take_screenshot Property/README.md)
+- [**take_screenshot_combo Property **](./take_screenshot_combo Property/README.md)
+- [**toggle_skill_bar Property **](./toggle_skill_bar Property/README.md)
+- [**toggle_skill_bar_combo Property **](./toggle_skill_bar_combo Property/README.md)
+- [**use_apex_sentinel_combo Property **](./use_apex_sentinel_combo Property/README.md)
+- [**use_bound_skill1 Property **](./use_bound_skill1 Property/README.md)
+- [**use_bound_skill1_combo Property **](./use_bound_skill1_combo Property/README.md)
+- [**use_bound_skill10 Property **](./use_bound_skill10 Property/README.md)
+- [**use_bound_skill10_combo Property **](./use_bound_skill10_combo Property/README.md)
+- [**use_bound_skill11 Property **](./use_bound_skill11 Property/README.md)
+- [**use_bound_skill11_combo Property **](./use_bound_skill11_combo Property/README.md)
+- [**use_bound_skill12 Property **](./use_bound_skill12 Property/README.md)
+- [**use_bound_skill12_combo Property **](./use_bound_skill12_combo Property/README.md)
+- [**use_bound_skill13 Property **](./use_bound_skill13 Property/README.md)
+- [**use_bound_skill13_combo Property **](./use_bound_skill13_combo Property/README.md)
+- [**use_bound_skill2 Property **](./use_bound_skill2 Property/README.md)
+- [**use_bound_skill2_combo Property **](./use_bound_skill2_combo Property/README.md)
+- [**use_bound_skill3 Property **](./use_bound_skill3 Property/README.md)
+- [**use_bound_skill3_combo Property **](./use_bound_skill3_combo Property/README.md)
+- [**use_bound_skill4 Property **](./use_bound_skill4 Property/README.md)
+- [**use_bound_skill4_combo Property **](./use_bound_skill4_combo Property/README.md)
+- [**use_bound_skill5 Property **](./use_bound_skill5 Property/README.md)
+- [**use_bound_skill5_combo Property **](./use_bound_skill5_combo Property/README.md)
+- [**use_bound_skill6 Property **](./use_bound_skill6 Property/README.md)
+- [**use_bound_skill6_combo Property **](./use_bound_skill6_combo Property/README.md)
+- [**use_bound_skill7 Property **](./use_bound_skill7 Property/README.md)
+- [**use_bound_skill7_combo Property **](./use_bound_skill7_combo Property/README.md)
+- [**use_bound_skill8 Property **](./use_bound_skill8 Property/README.md)
+- [**use_bound_skill8_combo Property **](./use_bound_skill8_combo Property/README.md)
+- [**use_bound_skill9 Property **](./use_bound_skill9 Property/README.md)
+- [**use_bound_skill9_combo Property **](./use_bound_skill9_combo Property/README.md)
+- [**use_flask_in_slot1 Property **](./use_flask_in_slot1 Property/README.md)
+- [**use_flask_in_slot1_combo Property **](./use_flask_in_slot1_combo Property/README.md)
+- [**use_flask_in_slot2 Property **](./use_flask_in_slot2 Property/README.md)
+- [**use_flask_in_slot2_combo Property **](./use_flask_in_slot2_combo Property/README.md)
+- [**use_flask_in_slot3 Property **](./use_flask_in_slot3 Property/README.md)
+- [**use_flask_in_slot3_combo Property **](./use_flask_in_slot3_combo Property/README.md)
+- [**use_flask_in_slot4 Property **](./use_flask_in_slot4 Property/README.md)
+- [**use_flask_in_slot4_combo Property **](./use_flask_in_slot4_combo Property/README.md)
+- [**use_flask_in_slot5 Property **](./use_flask_in_slot5 Property/README.md)
+- [**use_flask_in_slot5_combo Property **](./use_flask_in_slot5_combo Property/README.md)
+- [**use_pandemonium_sentinel_combo Property **](./use_pandemonium_sentinel_combo Property/README.md)
+- [**use_portal_scroll_combo Property **](./use_portal_scroll_combo Property/README.md)
+- [**use_stalker_sentinel_combo Property **](./use_stalker_sentinel_combo Property/README.md)
+- [**use_temp_bound_skill1 Property **](./use_temp_bound_skill1 Property/README.md)
+- [**use_temp_bound_skill1_combo Property **](./use_temp_bound_skill1_combo Property/README.md)
+- [**use_temp_bound_skill2 Property **](./use_temp_bound_skill2 Property/README.md)
+- [**use_temp_bound_skill2_combo Property **](./use_temp_bound_skill2_combo Property/README.md)
+- [**weapon_swap Property **](./weapon_swap Property/README.md)
+- [**weapon_swap_combo Property **](./weapon_swap_combo Property/README.md)
+- [**zana_influence_skill_1 Property **](./zana_influence_skill_1 Property/README.md)
+- [**zana_influence_skill_2 Property **](./zana_influence_skill_2 Property/README.md)
+- [**zana_influence_skill_3 Property **](./zana_influence_skill_3 Property/README.md)
+- [**zoom_in Property **](./zoom_in Property/README.md)
+- [**zoom_in_combo Property **](./zoom_in_combo Property/README.md)
+- [**zoom_out Property **](./zoom_out Property/README.md)
+- [**zoom_out_combo Property **](./zoom_out_combo Property/README.md)

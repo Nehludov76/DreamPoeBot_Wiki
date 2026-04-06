@@ -1,5 +1,6 @@
 # LinkedPassiveNode Property 
 
+**Вложено элементов:** 0  
 
 | ServerData PassiveSkillGraphNode LinkedPassiveNode Property |
 | --- |

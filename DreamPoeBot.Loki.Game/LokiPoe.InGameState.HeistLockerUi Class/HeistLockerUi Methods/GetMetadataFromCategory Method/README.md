@@ -1,5 +1,6 @@
 # GetMetadataFromCategory Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState HeistLockerUi GetMetadataFromCategory Method |
 | --- |

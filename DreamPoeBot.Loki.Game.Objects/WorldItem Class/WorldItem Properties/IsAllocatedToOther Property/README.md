@@ -1,5 +1,6 @@
 # IsAllocatedToOther Property 
 
+**Вложено элементов:** 0  
 
 | WorldItem IsAllocatedToOther Property |
 | --- |

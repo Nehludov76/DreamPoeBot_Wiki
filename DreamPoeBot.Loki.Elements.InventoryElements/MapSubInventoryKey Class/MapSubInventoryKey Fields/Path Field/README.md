@@ -1,5 +1,6 @@
 # Path Field
 
+**Вложено элементов:** 0  
 
 | MapSubInventoryKey Path Field |
 | --- |

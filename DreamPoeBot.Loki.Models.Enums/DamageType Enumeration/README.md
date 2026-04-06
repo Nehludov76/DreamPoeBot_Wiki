@@ -1,5 +1,6 @@
 # DamageType Enumeration
 
+**Вложено элементов:** 0  
 
 | DamageType Enumeration |
 | --- |
@@ -30,10 +31,10 @@ public enum class DamageType
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| Physical | 0 |
-| Fire | 1 |
-| Cold | 2 |
-| Lightning | 3 |
-| Chaos | 4 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | Physical | 0 |  |
+|  | Fire | 1 |  |
+|  | Cold | 2 |  |
+|  | Lightning | 3 |  |
+|  | Chaos | 4 |  |

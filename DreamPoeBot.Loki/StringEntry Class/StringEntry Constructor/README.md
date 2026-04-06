@@ -1,5 +1,6 @@
 # StringEntry Constructor 
 
+**Вложено элементов:** 0  
 
 | StringEntry Constructor |
 | --- |

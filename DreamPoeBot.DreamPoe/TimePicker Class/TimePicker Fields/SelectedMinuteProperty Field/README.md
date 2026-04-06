@@ -1,5 +1,6 @@
 # SelectedMinuteProperty Field
 
+**Вложено элементов:** 0  
 
 | TimePicker SelectedMinuteProperty Field |
 | --- |

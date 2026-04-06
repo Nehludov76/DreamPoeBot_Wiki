@@ -1,5 +1,6 @@
 # StoredItems Property 
 
+**Вложено элементов:** 0  
 
 | FragmentStashTabLayouts FragmentStashTabLayoutJson StoredItems Property |
 | --- |

@@ -1,5 +1,6 @@
 # ExpeditioAreaAdr Field
 
+**Вложено элементов:** 0  
 
 | ExpeditionSaga ExpeditionDataStructure ExpeditioAreaAdr Field |
 | --- |

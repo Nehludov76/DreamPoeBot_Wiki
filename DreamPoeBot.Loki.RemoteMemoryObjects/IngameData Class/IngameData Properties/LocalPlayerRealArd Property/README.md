@@ -1,5 +1,6 @@
 # LocalPlayerRealArd Property 
 
+**Вложено элементов:** 0  
 
 | IngameData LocalPlayerRealArd Property |
 | --- |

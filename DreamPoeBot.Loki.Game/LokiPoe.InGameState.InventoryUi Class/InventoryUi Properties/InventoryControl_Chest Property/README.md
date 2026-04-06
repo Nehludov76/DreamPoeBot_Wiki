@@ -1,5 +1,6 @@
 # InventoryControl_Chest Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState InventoryUi InventoryControl_Chest Property |
 | --- |

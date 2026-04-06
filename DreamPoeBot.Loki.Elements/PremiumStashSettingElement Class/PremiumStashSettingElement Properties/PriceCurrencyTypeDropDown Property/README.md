@@ -1,5 +1,6 @@
 # PriceCurrencyTypeDropDown Property 
 
+**Вложено элементов:** 0  
 
 | PremiumStashSettingElement PriceCurrencyTypeDropDown Property |
 | --- |

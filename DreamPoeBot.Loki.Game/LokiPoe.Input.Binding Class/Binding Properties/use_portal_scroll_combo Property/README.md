@@ -1,5 +1,6 @@
 # use_portal_scroll_combo Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input Binding use_portal_scroll_combo Property |
 | --- |

@@ -1,5 +1,6 @@
 # Profiler Class
 
+**Вложено элементов:** 11  
 
 | Profiler Class |
 | --- |
@@ -32,15 +33,18 @@ public ref class Profiler abstract sealed
 The Profiler type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| GetAverageTime |
-| GetHistoryData |
-| GetOperationNames |
-| GetResults |
-| Reset |
-| StartAllocTracking |
-| StartTimer |
-| StopAllocTracking |
-| StopTimer |
-| Update |
+|  | Name | Description |
+| --- | --- | --- |
+|  | GetAverageTime |  |
+|  | GetHistoryData |  |
+|  | GetOperationNames |  |
+|  | GetResults |  |
+|  | Reset |  |
+|  | StartAllocTracking |  |
+|  | StartTimer |  |
+|  | StopAllocTracking |  |
+|  | StopTimer |  |
+|  | Update |  |
+
+## Дочерние разделы
+- [**Profiler Methods**](./Profiler Methods/README.md)

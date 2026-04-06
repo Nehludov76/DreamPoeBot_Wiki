@@ -1,5 +1,6 @@
 # AreaLoadingState Constructor 
 
+**Вложено элементов:** 0  
 
 | AreaLoadingState Constructor |
 | --- |

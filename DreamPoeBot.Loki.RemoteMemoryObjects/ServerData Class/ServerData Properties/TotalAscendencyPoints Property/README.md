@@ -1,5 +1,6 @@
 # TotalAscendencyPoints Property 
 
+**Вложено элементов:** 0  
 
 | ServerData TotalAscendencyPoints Property |
 | --- |

@@ -1,5 +1,6 @@
 # SkillTypes Property 
 
+**Вложено элементов:** 0  
 
 | ActiveSkillWrapper SkillTypes Property |
 | --- |

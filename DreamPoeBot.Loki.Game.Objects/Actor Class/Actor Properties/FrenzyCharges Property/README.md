@@ -1,5 +1,6 @@
 # FrenzyCharges Property 
 
+**Вложено элементов:** 0  
 
 | Actor FrenzyCharges Property |
 | --- |

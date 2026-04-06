@@ -1,5 +1,6 @@
 # OffsetBuffers Field
 
+**Вложено элементов:** 0  
 
 | Element OffsetBuffers Field |
 | --- |

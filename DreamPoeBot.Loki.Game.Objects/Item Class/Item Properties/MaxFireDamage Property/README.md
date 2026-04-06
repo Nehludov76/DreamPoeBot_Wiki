@@ -1,5 +1,6 @@
 # MaxFireDamage Property 
 
+**Вложено элементов:** 0  
 
 | Item MaxFireDamage Property |
 | --- |

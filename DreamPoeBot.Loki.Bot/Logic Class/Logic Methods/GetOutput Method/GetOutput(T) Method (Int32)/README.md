@@ -1,5 +1,6 @@
 # GetOutput(T) Method (Int32)
 
+**Вложено элементов:** 0  
 
 | Logic GetOutput T Method (Int32) |
 | --- |

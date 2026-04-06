@@ -1,5 +1,6 @@
 # CompiledAssembly Property 
 
+**Вложено элементов:** 0  
 
 | ThirdPartyInstanceWrapper CompiledAssembly Property |
 | --- |

@@ -1,5 +1,6 @@
 # TownPortal Property 
 
+**Вложено элементов:** 0  
 
 | LocalPlayer TownPortal Property |
 | --- |

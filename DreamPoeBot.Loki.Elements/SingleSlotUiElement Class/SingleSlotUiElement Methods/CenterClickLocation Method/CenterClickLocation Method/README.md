@@ -1,5 +1,6 @@
 # CenterClickLocation Method 
 
+**Вложено элементов:** 0  
 
 | SingleSlotUiElement CenterClickLocation Method |
 | --- |

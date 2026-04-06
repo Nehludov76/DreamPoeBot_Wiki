@@ -1,5 +1,6 @@
 # UltimatumChallengeInteractable Properties
 
+**Вложено элементов:** 7  
 
 | UltimatumChallengeInteractable Properties |
 | --- |
@@ -10,65 +11,74 @@
 The UltimatumChallengeInteractable type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| _entity | (Inherited from NetworkObject .) |
-| AnimatedPropertiesMetadata | (Inherited from NetworkObject .) |
-| ArchnemesisIsTrapped | (Inherited from NetworkObject .) |
-| BaseHashChanged | (Inherited from NetworkObject .) |
-| CharacterSize | (Inherited from NetworkObject .) |
-| Components | (Inherited from NetworkObject .) |
-| Distance | (Inherited from NetworkObject .) |
-| DistanceSqr | (Inherited from NetworkObject .) |
-| Entity | (Inherited from NetworkObject .) |
-| HasFaustusRewardIcon | Return true if Npc for currency exchange of shop, has floating icon indicating a complete sell. (Inherited from NetworkObject .) |
-| HasHull | (Inherited from NetworkObject .) |
-| HasNpcFloatingIcon | (Inherited from NetworkObject .) |
-| Hull | (Inherited from NetworkObject .) |
-| Id | (Inherited from NetworkObject .) |
-| InteractCenterWorld | (Inherited from NetworkObject .) |
-| IsAbyssCrackSpawner | (Inherited from NetworkObject .) |
-| IsAbyssFinalNodeChest | (Inherited from NetworkObject .) |
-| IsAbyssFinalNodeSubArea | (Inherited from NetworkObject .) |
-| IsAbyssNodeLarge | (Inherited from NetworkObject .) |
-| IsAbyssNodeMini | (Inherited from NetworkObject .) |
-| IsAbyssNodeSmall | (Inherited from NetworkObject .) |
-| IsAbyssStartNode | (Inherited from NetworkObject .) |
-| IsAflictionInitiator | (Inherited from NetworkObject .) |
-| IsBeyondPortal | (Inherited from NetworkObject .) |
-| IsBlightDefensiveTower | (Inherited from NetworkObject .) |
-| IsBreach | (Inherited from NetworkObject .) |
-| IsDoor | (Inherited from NetworkObject .) |
-| IsFriendly | (Inherited from NetworkObject .) |
-| IsGoldenDoor | (Inherited from NetworkObject .) |
-| IsHiddenDoor | (Inherited from NetworkObject .) |
-| IsHiddenDoorSwitch | (Inherited from NetworkObject .) |
-| IsHighlightable | (Inherited from NetworkObject .) |
-| IsHostile | (Inherited from NetworkObject .) |
-| IsIgnoreHidden | (Inherited from NetworkObject .) |
-| IsInterfaceVisible |
-| IsLabyrinthRollerTrap | (Inherited from NetworkObject .) |
-| IsLegionInitiator | (Inherited from NetworkObject .) |
-| IsLockedDoor | (Inherited from NetworkObject .) |
-| IsMaster | (Inherited from NetworkObject .) |
-| IsMinimapLabelVisible | (Inherited from NetworkObject .) |
-| IsMysteriousDarkshrine | (Inherited from NetworkObject .) |
-| IsNecropolisCorpse | (Inherited from NetworkObject .) |
-| IsSilverDoor | (Inherited from NetworkObject .) |
-| IsTargetable | (Inherited from NetworkObject .) |
-| IsTrialActive |
-| IsTrialCompleted |
-| IsUltimatumChallengeInteractable | (Inherited from NetworkObject .) |
-| IsValid | (Inherited from NetworkObject .) |
-| Metadata | (Inherited from NetworkObject .) |
-| Name | (Inherited from NetworkObject .) |
-| Options |
-| Position | (Inherited from NetworkObject .) |
-| Reaction | (Inherited from NetworkObject .) |
-| RewardItem |
-| SelectedOption |
-| TrialTitle |
-| Type | (Inherited from NetworkObject .) |
-| WorldDistance | (Inherited from NetworkObject .) |
-| WorldDistanceSqr | (Inherited from NetworkObject .) |
-| WorldPosition | (Inherited from NetworkObject .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | _entity | (Inherited from NetworkObject .) |
+|  | AnimatedPropertiesMetadata | (Inherited from NetworkObject .) |
+|  | ArchnemesisIsTrapped | (Inherited from NetworkObject .) |
+|  | BaseHashChanged | (Inherited from NetworkObject .) |
+|  | CharacterSize | (Inherited from NetworkObject .) |
+|  | Components | (Inherited from NetworkObject .) |
+|  | Distance | (Inherited from NetworkObject .) |
+|  | DistanceSqr | (Inherited from NetworkObject .) |
+|  | Entity | (Inherited from NetworkObject .) |
+|  | HasFaustusRewardIcon | Return true if Npc for currency exchange of shop, has floating icon indicating a complete sell. (Inherited from NetworkObject .) |
+|  | HasHull | (Inherited from NetworkObject .) |
+|  | HasNpcFloatingIcon | (Inherited from NetworkObject .) |
+|  | Hull | (Inherited from NetworkObject .) |
+|  | Id | (Inherited from NetworkObject .) |
+|  | InteractCenterWorld | (Inherited from NetworkObject .) |
+|  | IsAbyssCrackSpawner | (Inherited from NetworkObject .) |
+|  | IsAbyssFinalNodeChest | (Inherited from NetworkObject .) |
+|  | IsAbyssFinalNodeSubArea | (Inherited from NetworkObject .) |
+|  | IsAbyssNodeLarge | (Inherited from NetworkObject .) |
+|  | IsAbyssNodeMini | (Inherited from NetworkObject .) |
+|  | IsAbyssNodeSmall | (Inherited from NetworkObject .) |
+|  | IsAbyssStartNode | (Inherited from NetworkObject .) |
+|  | IsAflictionInitiator | (Inherited from NetworkObject .) |
+|  | IsBeyondPortal | (Inherited from NetworkObject .) |
+|  | IsBlightDefensiveTower | (Inherited from NetworkObject .) |
+|  | IsBreach | (Inherited from NetworkObject .) |
+|  | IsDoor | (Inherited from NetworkObject .) |
+|  | IsFriendly | (Inherited from NetworkObject .) |
+|  | IsGoldenDoor | (Inherited from NetworkObject .) |
+|  | IsHiddenDoor | (Inherited from NetworkObject .) |
+|  | IsHiddenDoorSwitch | (Inherited from NetworkObject .) |
+|  | IsHighlightable | (Inherited from NetworkObject .) |
+|  | IsHostile | (Inherited from NetworkObject .) |
+|  | IsIgnoreHidden | (Inherited from NetworkObject .) |
+|  | IsInterfaceVisible |  |
+|  | IsLabyrinthRollerTrap | (Inherited from NetworkObject .) |
+|  | IsLegionInitiator | (Inherited from NetworkObject .) |
+|  | IsLockedDoor | (Inherited from NetworkObject .) |
+|  | IsMaster | (Inherited from NetworkObject .) |
+|  | IsMinimapLabelVisible | (Inherited from NetworkObject .) |
+|  | IsMysteriousDarkshrine | (Inherited from NetworkObject .) |
+|  | IsNecropolisCorpse | (Inherited from NetworkObject .) |
+|  | IsSilverDoor | (Inherited from NetworkObject .) |
+|  | IsTargetable | (Inherited from NetworkObject .) |
+|  | IsTrialActive |  |
+|  | IsTrialCompleted |  |
+|  | IsUltimatumChallengeInteractable | (Inherited from NetworkObject .) |
+|  | IsValid | (Inherited from NetworkObject .) |
+|  | Metadata | (Inherited from NetworkObject .) |
+|  | Name | (Inherited from NetworkObject .) |
+|  | Options |  |
+|  | Position | (Inherited from NetworkObject .) |
+|  | Reaction | (Inherited from NetworkObject .) |
+|  | RewardItem |  |
+|  | SelectedOption |  |
+|  | TrialTitle |  |
+|  | Type | (Inherited from NetworkObject .) |
+|  | WorldDistance | (Inherited from NetworkObject .) |
+|  | WorldDistanceSqr | (Inherited from NetworkObject .) |
+|  | WorldPosition | (Inherited from NetworkObject .) |
+
+## Дочерние разделы
+- [**IsInterfaceVisible Property **](./IsInterfaceVisible Property/README.md)
+- [**IsTrialActive Property **](./IsTrialActive Property/README.md)
+- [**IsTrialCompleted Property **](./IsTrialCompleted Property/README.md)
+- [**Options Property **](./Options Property/README.md)
+- [**RewardItem Property **](./RewardItem Property/README.md)
+- [**SelectedOption Property **](./SelectedOption Property/README.md)
+- [**TrialTitle Property **](./TrialTitle Property/README.md)

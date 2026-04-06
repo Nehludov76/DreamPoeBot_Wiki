@@ -1,5 +1,6 @@
 # CharacterName Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState NotificationData CharacterName Property |
 | --- |

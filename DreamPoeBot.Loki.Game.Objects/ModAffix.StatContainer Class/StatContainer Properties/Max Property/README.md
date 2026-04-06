@@ -1,5 +1,6 @@
 # Max Property 
 
+**Вложено элементов:** 0  
 
 | ModAffix StatContainer Max Property |
 | --- |

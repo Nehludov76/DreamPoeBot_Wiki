@@ -1,5 +1,6 @@
 # Stack Fields
 
+**Вложено элементов:** 0  
 
 | Stack Fields |
 | --- |
@@ -10,6 +11,6 @@
 The Stack type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| NeedUpdate | (Inherited from RemoteMemoryObject .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | NeedUpdate | (Inherited from RemoteMemoryObject .) |

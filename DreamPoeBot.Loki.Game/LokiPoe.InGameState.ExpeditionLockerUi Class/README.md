@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.ExpeditionLockerUi Class
 
+**Вложено элементов:** 28  
 
 | LokiPoe InGameState ExpeditionLockerUi Class |
 | --- |
@@ -30,35 +31,39 @@ public ref class ExpeditionLockerUi abstract sealed
 The LokiPoe InGameState ExpeditionLockerUi type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Astragali |
-| BurialMedallion |
-| CommonBlackScytheArtifact |
-| CommonBrokenCircleArtifact |
-| CommonOrderArtifact |
-| CommonSunArtifact |
-| ExoticCoinage |
-| ExpeditionLogbook | Return a InventoryControlWrapper Rapresenting the logbooks inventory. |
-| GrandBlackScytheArtifact |
-| GrandBrokenCircleArtifact |
-| GrandOrderArtifact |
-| GrandSunArtifact |
-| GreaterBlackScytheArtifact |
-| GreaterBrokenCircleArtifact |
-| GreaterOrderArtifact |
-| GreaterSunArtifact |
-| IsAffinitySelected | Return true if the Affinity checkbox is selected. |
-| IsOpened | Return true if the ExpeditionLocker is visible. |
-| LesserBlackScytheArtifact |
-| LesserBrokenCircleArtifact |
-| LesserOrderArtifact |
-| LesserSunArtifact |
-| OnlyCurrency | Return a IEnumerable list of InventoryControlWrapper, rapresenting all the currengy slots. |
-| ScrapMetal |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Astragali |  |
+|  | BurialMedallion |  |
+|  | CommonBlackScytheArtifact |  |
+|  | CommonBrokenCircleArtifact |  |
+|  | CommonOrderArtifact |  |
+|  | CommonSunArtifact |  |
+|  | ExoticCoinage |  |
+|  | ExpeditionLogbook | Return a InventoryControlWrapper Rapresenting the logbooks inventory. |
+|  | GrandBlackScytheArtifact |  |
+|  | GrandBrokenCircleArtifact |  |
+|  | GrandOrderArtifact |  |
+|  | GrandSunArtifact |  |
+|  | GreaterBlackScytheArtifact |  |
+|  | GreaterBrokenCircleArtifact |  |
+|  | GreaterOrderArtifact |  |
+|  | GreaterSunArtifact |  |
+|  | IsAffinitySelected | Return true if the Affinity checkbox is selected. |
+|  | IsOpened | Return true if the ExpeditionLocker is visible. |
+|  | LesserBlackScytheArtifact |  |
+|  | LesserBrokenCircleArtifact |  |
+|  | LesserOrderArtifact |  |
+|  | LesserSunArtifact |  |
+|  | OnlyCurrency | Return a IEnumerable list of InventoryControlWrapper, rapresenting all the currengy slots. |
+|  | ScrapMetal |  |
 
 
-| Name | Description |
-| --- | --- |
-| GetInventoryControlForMetadata | Return a InventoryControlWrapper given a Metadata string. |
-| ToggleAffinity | Toggle the state of the Affinity checkbox. |
+|  | Name | Description |
+| --- | --- | --- |
+|  | GetInventoryControlForMetadata | Return a InventoryControlWrapper given a Metadata string. |
+|  | ToggleAffinity | Toggle the state of the Affinity checkbox. |
+
+## Дочерние разделы
+- [**ExpeditionLockerUi Properties**](./ExpeditionLockerUi Properties/README.md)
+- [**ExpeditionLockerUi Methods**](./ExpeditionLockerUi Methods/README.md)

@@ -1,5 +1,6 @@
 # CounterComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation CounterComponent Property |
 | --- |

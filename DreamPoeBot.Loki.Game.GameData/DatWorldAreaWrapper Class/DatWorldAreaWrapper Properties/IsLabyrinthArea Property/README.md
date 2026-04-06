@@ -1,5 +1,6 @@
 # IsLabyrinthArea Property 
 
+**Вложено элементов:** 0  
 
 | DatWorldAreaWrapper IsLabyrinthArea Property |
 | --- |

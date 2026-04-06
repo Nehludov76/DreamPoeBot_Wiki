@@ -1,5 +1,6 @@
 # Prophecies Property 
 
+**Вложено элементов:** 0  
 
 | FsController Prophecies Property |
 | --- |

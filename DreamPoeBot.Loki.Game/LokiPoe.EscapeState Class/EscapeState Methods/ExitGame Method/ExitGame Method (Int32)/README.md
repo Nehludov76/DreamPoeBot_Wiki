@@ -1,5 +1,6 @@
 # ExitGame Method (Int32)
 
+**Вложено элементов:** 0  
 
 | LokiPoe EscapeState ExitGame Method (Int32) |
 | --- |

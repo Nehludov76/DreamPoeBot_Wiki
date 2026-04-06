@@ -1,5 +1,6 @@
 # HasUltimatum Field
 
+**Вложено элементов:** 0  
 
 | GridExplorer UltimatumDataClass HasUltimatum Field |
 | --- |

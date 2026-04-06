@@ -1,5 +1,6 @@
 # GetPassiveSkillByPassiveId Method 
 
+**Вложено элементов:** 0  
 
 | PassiveSkills GetPassiveSkillByPassiveId Method |
 | --- |

@@ -1,5 +1,6 @@
 # EndgameAreas Property 
 
+**Вложено элементов:** 0  
 
 | LabyrinthRoom LabyrinthSectionAreas EndgameAreas Property |
 | --- |

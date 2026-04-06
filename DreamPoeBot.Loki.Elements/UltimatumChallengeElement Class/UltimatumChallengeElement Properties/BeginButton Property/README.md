@@ -1,5 +1,6 @@
 # BeginButton Property 
 
+**Вложено элементов:** 0  
 
 | UltimatumChallengeElement BeginButton Property |
 | --- |

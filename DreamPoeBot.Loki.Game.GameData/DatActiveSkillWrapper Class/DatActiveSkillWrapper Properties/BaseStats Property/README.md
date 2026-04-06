@@ -1,5 +1,6 @@
 # BaseStats Property 
 
+**Вложено элементов:** 0  
 
 | DatActiveSkillWrapper BaseStats Property |
 | --- |

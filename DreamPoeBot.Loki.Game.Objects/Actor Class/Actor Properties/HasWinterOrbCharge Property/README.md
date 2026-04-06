@@ -1,5 +1,6 @@
 # HasWinterOrbCharge Property 
 
+**Вложено элементов:** 0  
 
 | Actor HasWinterOrbCharge Property |
 | --- |

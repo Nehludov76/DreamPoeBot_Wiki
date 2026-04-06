@@ -1,5 +1,6 @@
 # Settings Property 
 
+**Вложено элементов:** 0  
 
 | CurrentConfigurationSettingsWrapper Settings Property |
 | --- |

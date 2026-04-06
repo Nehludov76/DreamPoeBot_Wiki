@@ -1,5 +1,6 @@
 # SmallMinimapDefaultY Property 
 
+**Вложено элементов:** 0  
 
 | MapElement SmallMinimapDefaultY Property |
 | --- |

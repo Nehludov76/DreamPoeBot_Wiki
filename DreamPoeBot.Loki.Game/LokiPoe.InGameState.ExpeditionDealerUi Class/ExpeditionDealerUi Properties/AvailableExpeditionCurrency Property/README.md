@@ -1,5 +1,6 @@
 # AvailableExpeditionCurrency Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ExpeditionDealerUi AvailableExpeditionCurrency Property |
 | --- |

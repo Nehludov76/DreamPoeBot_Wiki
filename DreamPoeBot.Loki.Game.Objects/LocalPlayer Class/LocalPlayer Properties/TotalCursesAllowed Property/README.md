@@ -1,5 +1,6 @@
 # TotalCursesAllowed Property 
 
+**Вложено элементов:** 0  
 
 | LocalPlayer TotalCursesAllowed Property |
 | --- |

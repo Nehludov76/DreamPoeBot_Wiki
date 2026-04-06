@@ -1,5 +1,6 @@
 # HasConversed Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState NpcDialogUi HasConversed Method |
 | --- |

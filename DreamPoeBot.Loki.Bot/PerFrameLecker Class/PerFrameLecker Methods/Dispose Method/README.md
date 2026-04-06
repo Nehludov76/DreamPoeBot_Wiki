@@ -1,5 +1,6 @@
 # Dispose Method 
 
+**Вложено элементов:** 0  
 
 | PerFrameLecker Dispose Method |
 | --- |

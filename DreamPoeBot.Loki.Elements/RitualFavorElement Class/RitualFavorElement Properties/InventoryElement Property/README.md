@@ -1,5 +1,6 @@
 # InventoryElement Property 
 
+**Вложено элементов:** 0  
 
 | RitualFavorElement InventoryElement Property |
 | --- |

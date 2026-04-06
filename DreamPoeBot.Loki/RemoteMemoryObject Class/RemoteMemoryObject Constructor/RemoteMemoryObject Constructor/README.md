@@ -1,5 +1,6 @@
 # RemoteMemoryObject Constructor 
 
+**Вложено элементов:** 0  
 
 | RemoteMemoryObject Constructor |
 | --- |

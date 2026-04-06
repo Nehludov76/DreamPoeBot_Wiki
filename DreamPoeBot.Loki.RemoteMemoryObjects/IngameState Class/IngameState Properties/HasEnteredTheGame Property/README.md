@@ -1,5 +1,6 @@
 # HasEnteredTheGame Property 
 
+**Вложено элементов:** 0  
 
 | IngameState HasEnteredTheGame Property |
 | --- |

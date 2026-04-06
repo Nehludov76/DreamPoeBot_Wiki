@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.NotificationHud Class
 
+**Вложено элементов:** 5  
 
 | LokiPoe InGameState NotificationHud Class |
 | --- |
@@ -30,12 +31,16 @@ public ref class NotificationHud abstract sealed
 The LokiPoe InGameState NotificationHud type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| IsOpened | Return true if at least 1 notification is displayed. |
-| NotificationList | Return a List of NotificationHudElement.NotificationInfo describing all the displayed notification information. |
+|  | Name | Description |
+| --- | --- | --- |
+|  | IsOpened | Return true if at least 1 notification is displayed. |
+|  | NotificationList | Return a List of NotificationHudElement.NotificationInfo describing all the displayed notification information. |
 
 
-| Name | Description |
-| --- | --- |
-| HandleNotificationEx |
+|  | Name | Description |
+| --- | --- | --- |
+|  | HandleNotificationEx |  |
+
+## Дочерние разделы
+- [**NotificationHud Properties**](./NotificationHud Properties/README.md)
+- [**NotificationHud Methods**](./NotificationHud Methods/README.md)

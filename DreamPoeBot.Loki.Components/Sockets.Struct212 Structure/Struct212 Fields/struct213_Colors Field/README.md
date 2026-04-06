@@ -1,5 +1,6 @@
 # struct213_Colors Field
 
+**Вложено элементов:** 0  
 
 | Sockets Struct212 struct213_Colors Field |
 | --- |

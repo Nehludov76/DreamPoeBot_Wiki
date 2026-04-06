@@ -1,5 +1,6 @@
 # description Field
 
+**Вложено элементов:** 0  
 
 | StateMachine StatesStructure description Field |
 | --- |

@@ -1,5 +1,6 @@
 # BaseItemTypeId Property 
 
+**Вложено элементов:** 0  
 
 | DivinationStashTabLayouts DivinationStashTabLayoutHardcoded BaseItemTypeId Property |
 | --- |

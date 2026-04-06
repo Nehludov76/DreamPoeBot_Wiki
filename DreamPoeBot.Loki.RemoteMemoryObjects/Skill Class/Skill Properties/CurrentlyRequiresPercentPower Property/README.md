@@ -1,5 +1,6 @@
 # CurrentlyRequiresPercentPower Property 
 
+**Вложено элементов:** 0  
 
 | Skill CurrentlyRequiresPercentPower Property |
 | --- |

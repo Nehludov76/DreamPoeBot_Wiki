@@ -1,5 +1,6 @@
 # LeaveCurrentParty Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SocialUi LeaveCurrentParty Method |
 | --- |

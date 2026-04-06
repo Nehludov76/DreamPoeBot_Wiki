@@ -1,5 +1,6 @@
 # StatTypeGGG Field
 
+**Вложено элементов:** 0  
 
 | StatsDat StatRecord StatTypeGGG Field |
 | --- |

@@ -1,5 +1,6 @@
 # Range Property 
 
+**Вложено элементов:** 0  
 
 | ExilePather Obstacle Range Property |
 | --- |

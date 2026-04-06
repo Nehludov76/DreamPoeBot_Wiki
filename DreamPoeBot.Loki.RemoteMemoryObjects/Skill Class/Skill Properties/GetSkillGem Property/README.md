@@ -1,5 +1,6 @@
 # GetSkillGem Property 
 
+**Вложено элементов:** 0  
 
 | Skill GetSkillGem Property |
 | --- |

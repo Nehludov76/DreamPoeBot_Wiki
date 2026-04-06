@@ -1,5 +1,6 @@
 # NewSettingsWindow Constructor 
 
+**Вложено элементов:** 0  
 
 | NewSettingsWindow Constructor |
 | --- |

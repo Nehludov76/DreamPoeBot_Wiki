@@ -1,5 +1,6 @@
 # LengthSqr Method 
 
+**Вложено элементов:** 0  
 
 | Vector3 LengthSqr Method |
 | --- |

@@ -1,5 +1,6 @@
 # Level Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ChallengesUi BestiaryPanelUi Beast Level Property |
 | --- |

@@ -1,5 +1,6 @@
 # LastBot Property 
 
+**Вложено элементов:** 0  
 
 | GuiSettings LastBot Property |
 | --- |

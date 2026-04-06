@@ -1,5 +1,6 @@
 # WishesUi Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements WishesUi Property |
 | --- |

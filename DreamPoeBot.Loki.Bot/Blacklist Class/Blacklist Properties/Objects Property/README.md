@@ -1,5 +1,6 @@
 # Objects Property 
 
+**Вложено элементов:** 0  
 
 | Blacklist Objects Property |
 | --- |

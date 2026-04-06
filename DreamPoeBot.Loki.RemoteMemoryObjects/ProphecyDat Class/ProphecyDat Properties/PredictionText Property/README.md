@@ -1,5 +1,6 @@
 # PredictionText Property 
 
+**Вложено элементов:** 0  
 
 | ProphecyDat PredictionText Property |
 | --- |

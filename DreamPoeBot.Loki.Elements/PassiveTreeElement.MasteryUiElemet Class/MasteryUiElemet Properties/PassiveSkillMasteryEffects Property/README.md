@@ -1,5 +1,6 @@
 # PassiveSkillMasteryEffects Property 
 
+**Вложено элементов:** 0  
 
 | PassiveTreeElement MasteryUiElemet PassiveSkillMasteryEffects Property |
 | --- |

@@ -1,5 +1,6 @@
 # DistanceSqr Method (Vector3, LineSegment)
 
+**Вложено элементов:** 0  
 
 | MathEx DistanceSqr Method (Vector3 , LineSegment ) |
 | --- |

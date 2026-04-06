@@ -1,5 +1,6 @@
 # MiniMonolith Fields
 
+**Вложено элементов:** 1  
 
 | MiniMonolith Fields |
 | --- |
@@ -10,6 +11,9 @@
 The MiniMonolith type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| TypeMetadata |
+|  | Name | Description |
+| --- | --- | --- |
+|  | TypeMetadata |  |
+
+## Дочерние разделы
+- [**TypeMetadata Field**](./TypeMetadata Field/README.md)

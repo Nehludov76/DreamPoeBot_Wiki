@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.SentinelSkillUi.ApexSentinel Class
 
+**Вложено элементов:** 5  
 
 | LokiPoe InGameState SentinelSkillUi ApexSentinel Class |
 | --- |
@@ -32,12 +33,16 @@ public ref class ApexSentinel abstract sealed
 The LokiPoe InGameState SentinelSkillUi ApexSentinel type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| CanUse | Return true if this Sentinel can be activated. |
-| IsActive | Return true if this Sentinel is currently activated. |
+|  | Name | Description |
+| --- | --- | --- |
+|  | CanUse | Return true if this Sentinel can be activated. |
+|  | IsActive | Return true if this Sentinel is currently activated. |
 
 
-| Name | Description |
-| --- | --- |
-| Activate | Activate this Sentinel. |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Activate | Activate this Sentinel. |
+
+## Дочерние разделы
+- [**ApexSentinel Properties**](./ApexSentinel Properties/README.md)
+- [**ApexSentinel Methods**](./ApexSentinel Methods/README.md)

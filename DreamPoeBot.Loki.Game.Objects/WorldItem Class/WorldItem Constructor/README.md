@@ -1,5 +1,6 @@
 # WorldItem Constructor 
 
+**Вложено элементов:** 0  
 
 | WorldItem Constructor |
 | --- |

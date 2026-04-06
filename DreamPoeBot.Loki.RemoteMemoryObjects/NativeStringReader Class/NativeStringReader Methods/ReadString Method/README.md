@@ -1,5 +1,6 @@
 # ReadString Method 
 
+**Вложено элементов:** 0  
 
 | NativeStringReader ReadString Method |
 | --- |

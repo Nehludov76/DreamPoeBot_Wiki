@@ -1,5 +1,6 @@
 # IsMissionArea Property 
 
+**Вложено элементов:** 0  
 
 | DatWorldAreaWrapper IsMissionArea Property |
 | --- |

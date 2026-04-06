@@ -1,5 +1,6 @@
 # Affinities Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState PremiumStashSettingsUi Affinities Property |
 | --- |

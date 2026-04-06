@@ -1,5 +1,6 @@
 # createstartptr Property 
 
+**Вложено элементов:** 0  
 
 | GameStateController createstartptr Property |
 | --- |

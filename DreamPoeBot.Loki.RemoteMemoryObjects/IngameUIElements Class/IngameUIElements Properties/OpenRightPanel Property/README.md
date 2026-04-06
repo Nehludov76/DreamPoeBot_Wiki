@@ -1,5 +1,6 @@
 # OpenRightPanel Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements OpenRightPanel Property |
 | --- |

@@ -1,5 +1,6 @@
 # DialogEntries2 Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState NpcDialogUi DialogEntries2 Property |
 | --- |

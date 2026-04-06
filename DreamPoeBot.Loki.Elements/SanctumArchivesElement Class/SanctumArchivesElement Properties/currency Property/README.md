@@ -1,5 +1,6 @@
 # currency Property 
 
+**Вложено элементов:** 0  
 
 | SanctumArchivesElement currency Property |
 | --- |

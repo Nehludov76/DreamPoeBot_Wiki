@@ -1,5 +1,6 @@
 # LokiPoe.CaracterCreationState.CharacterCreationResult Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe CaracterCreationState CharacterCreationResult Enumeration |
 | --- |
@@ -28,12 +29,12 @@ public enum class CharacterCreationResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| NoNameEntered | 1 |
-| ProcessHookManagerNotEnabled | 2 |
-| NoLeagueSelected | 3 |
-| FailedTogetClassPosition | 4 |
-| UnableToSetCharacterName | 5 |
-| NameAlreadyExist | 6 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | NoNameEntered | 1 |  |
+|  | ProcessHookManagerNotEnabled | 2 |  |
+|  | NoLeagueSelected | 3 |  |
+|  | FailedTogetClassPosition | 4 |  |
+|  | UnableToSetCharacterName | 5 |  |
+|  | NameAlreadyExist | 6 |  |

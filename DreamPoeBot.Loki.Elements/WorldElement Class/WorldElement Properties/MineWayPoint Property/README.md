@@ -1,5 +1,6 @@
 # MineWayPoint Property 
 
+**Вложено элементов:** 0  
 
 | WorldElement MineWayPoint Property |
 | --- |

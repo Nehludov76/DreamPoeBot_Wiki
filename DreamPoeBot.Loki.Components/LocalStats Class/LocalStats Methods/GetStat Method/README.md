@@ -1,5 +1,6 @@
 # GetStat Method 
 
+**Вложено элементов:** 0  
 
 | LocalStats GetStat Method |
 | --- |

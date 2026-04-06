@@ -1,5 +1,6 @@
 # Vertices Property 
 
+**Вложено элементов:** 0  
 
 | NavMeshDebugData Vertices Property |
 | --- |

@@ -1,5 +1,6 @@
 # Cols Property 
 
+**Вложено элементов:** 0  
 
 | AreaInstance Cols Property |
 | --- |

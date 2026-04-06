@@ -1,5 +1,6 @@
 # LesserEldritchEmber Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState StashUi CurrencyTab LesserEldritchEmber Property |
 | --- |

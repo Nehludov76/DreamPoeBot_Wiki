@@ -1,5 +1,6 @@
 # HasFullStack Property 
 
+**Вложено элементов:** 0  
 
 | Item HasFullStack Property |
 | --- |

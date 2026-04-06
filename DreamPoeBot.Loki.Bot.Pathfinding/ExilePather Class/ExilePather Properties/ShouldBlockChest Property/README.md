@@ -1,5 +1,6 @@
 # ShouldBlockChest Property 
 
+**Вложено элементов:** 0  
 
 | ExilePather ShouldBlockChest Property |
 | --- |

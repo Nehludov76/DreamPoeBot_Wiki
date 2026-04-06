@@ -1,5 +1,6 @@
 # IconImmage Property 
 
+**Вложено элементов:** 0  
 
 | SubterainChartElement DelveNode IconImmage Property |
 | --- |

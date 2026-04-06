@@ -1,5 +1,6 @@
 # GetLowerTabInventoryByIndex Method 
 
+**Вложено элементов:** 0  
 
 | MerchantPanelElement GetLowerTabInventoryByIndex Method |
 | --- |

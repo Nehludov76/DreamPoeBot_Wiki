@@ -1,5 +1,6 @@
 # AflictionData Field
 
+**Вложено элементов:** 0  
 
 | GridExplorer AflictionData Field |
 | --- |

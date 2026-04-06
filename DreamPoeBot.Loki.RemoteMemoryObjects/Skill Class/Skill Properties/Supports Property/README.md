@@ -1,5 +1,6 @@
 # Supports Property 
 
+**Вложено элементов:** 0  
 
 | Skill Supports Property |
 | --- |

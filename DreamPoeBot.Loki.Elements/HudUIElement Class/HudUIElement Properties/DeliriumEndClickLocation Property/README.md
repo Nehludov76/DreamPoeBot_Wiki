@@ -1,5 +1,6 @@
 # DeliriumEndClickLocation Property 
 
+**Вложено элементов:** 0  
 
 | HudUIElement DeliriumEndClickLocation Property |
 | --- |

@@ -1,5 +1,6 @@
 # ConfirmPlanElement Property 
 
+**Вложено элементов:** 0  
 
 | GrandHeistContractElement ConfirmPlanElement Property |
 | --- |

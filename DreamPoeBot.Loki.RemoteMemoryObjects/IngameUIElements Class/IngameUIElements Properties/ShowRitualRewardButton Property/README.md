@@ -1,5 +1,6 @@
 # ShowRitualRewardButton Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements ShowRitualRewardButton Property |
 | --- |

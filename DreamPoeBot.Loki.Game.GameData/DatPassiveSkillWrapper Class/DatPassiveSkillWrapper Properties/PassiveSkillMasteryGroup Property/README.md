@@ -1,5 +1,6 @@
 # PassiveSkillMasteryGroup Property 
 
+**Вложено элементов:** 0  
 
 | DatPassiveSkillWrapper PassiveSkillMasteryGroup Property |
 | --- |

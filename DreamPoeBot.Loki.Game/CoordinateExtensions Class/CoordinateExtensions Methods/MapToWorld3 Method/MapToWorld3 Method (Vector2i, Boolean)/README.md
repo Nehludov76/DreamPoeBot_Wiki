@@ -1,5 +1,6 @@
 # MapToWorld3 Method (Vector2i, Boolean)
 
+**Вложено элементов:** 0  
 
 | CoordinateExtensions MapToWorld3 Method (Vector2i, Boolean) |
 | --- |

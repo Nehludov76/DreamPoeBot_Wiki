@@ -1,5 +1,6 @@
 # RectangleFExtension Class
 
+**Вложено элементов:** 2  
 
 | RectangleFExtension Class |
 | --- |
@@ -32,6 +33,9 @@ public static class RectangleFExtension
 The RectangleFExtension type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Center |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Center |  |
+
+## Дочерние разделы
+- [**RectangleFExtension Methods**](./RectangleFExtension Methods/README.md)

@@ -1,5 +1,6 @@
 # Price Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ExpeditionDealerUi Deal Purchase Price Property |
 | --- |

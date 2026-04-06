@@ -1,5 +1,6 @@
 # NotificationHud Methods
 
+**Вложено элементов:** 1  
 
 | NotificationHud Methods |
 | --- |
@@ -10,6 +11,9 @@
 The LokiPoe InGameState NotificationHud type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| HandleNotificationEx |
+|  | Name | Description |
+| --- | --- | --- |
+|  | HandleNotificationEx |  |
+
+## Дочерние разделы
+- [**HandleNotificationEx Method **](./HandleNotificationEx Method/README.md)

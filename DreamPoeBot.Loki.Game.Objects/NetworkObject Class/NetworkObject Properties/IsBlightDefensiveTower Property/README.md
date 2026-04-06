@@ -1,5 +1,6 @@
 # IsBlightDefensiveTower Property 
 
+**Вложено элементов:** 0  
 
 | NetworkObject IsBlightDefensiveTower Property |
 | --- |

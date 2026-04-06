@@ -1,5 +1,6 @@
 # GridExplorer.BreachTowerDataClass Constructor 
 
+**Вложено элементов:** 0  
 
 | GridExplorer BreachTowerDataClass Constructor |
 | --- |

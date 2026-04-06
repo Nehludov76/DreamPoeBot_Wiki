@@ -1,5 +1,6 @@
 # AmazonLink Property 
 
+**Вложено элементов:** 0  
 
 | ActiveSkillWrapper AmazonLink Property |
 | --- |

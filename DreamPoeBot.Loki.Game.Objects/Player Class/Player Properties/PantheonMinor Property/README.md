@@ -1,5 +1,6 @@
 # PantheonMinor Property 
 
+**Вложено элементов:** 0  
 
 | Player PantheonMinor Property |
 | --- |

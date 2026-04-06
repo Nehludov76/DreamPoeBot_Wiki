@@ -1,5 +1,6 @@
 # ClassscreenOk Property 
 
+**Вложено элементов:** 0  
 
 | ClassSelectionElement ClassscreenOk Property |
 | --- |

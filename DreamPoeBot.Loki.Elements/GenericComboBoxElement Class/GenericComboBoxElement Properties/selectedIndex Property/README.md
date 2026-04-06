@@ -1,5 +1,6 @@
 # selectedIndex Property 
 
+**Вложено элементов:** 0  
 
 | GenericComboBoxElement selectedIndex Property |
 | --- |

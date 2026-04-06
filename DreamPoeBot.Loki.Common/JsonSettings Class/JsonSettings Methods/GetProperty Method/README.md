@@ -1,5 +1,6 @@
 # GetProperty Method 
 
+**Вложено элементов:** 0  
 
 | JsonSettings GetProperty Method |
 | --- |

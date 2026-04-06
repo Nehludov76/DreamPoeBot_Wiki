@@ -1,5 +1,6 @@
 # ExplicitAffixes Property 
 
+**Вложено элементов:** 0  
 
 | AreaTransition ExplicitAffixes Property |
 | --- |

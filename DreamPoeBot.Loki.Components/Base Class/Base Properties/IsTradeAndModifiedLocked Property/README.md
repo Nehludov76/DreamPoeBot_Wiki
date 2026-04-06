@@ -1,5 +1,6 @@
 # IsTradeAndModifiedLocked Property 
 
+**Вложено элементов:** 0  
 
 | Base IsTradeAndModifiedLocked Property |
 | --- |

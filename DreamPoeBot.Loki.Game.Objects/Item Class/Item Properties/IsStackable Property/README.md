@@ -1,5 +1,6 @@
 # IsStackable Property 
 
+**Вложено элементов:** 0  
 
 | Item IsStackable Property |
 | --- |

@@ -1,5 +1,6 @@
 # Right Field
 
+**Вложено элементов:** 0  
 
 | NativeMapNode TNodeKey , TNodeValue Right Field |
 | --- |

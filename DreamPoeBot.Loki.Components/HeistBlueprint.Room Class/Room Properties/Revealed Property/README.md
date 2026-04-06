@@ -1,5 +1,6 @@
 # Revealed Property 
 
+**Вложено элементов:** 0  
 
 | HeistBlueprint Room Revealed Property |
 | --- |

@@ -1,5 +1,6 @@
 # SetupComboBoxItemsBinding Method 
 
+**Вложено элементов:** 0  
 
 | Wpf SetupComboBoxItemsBinding Method |
 | --- |

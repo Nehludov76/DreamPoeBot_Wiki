@@ -1,5 +1,6 @@
 # GetLoggerInstanceForType Method 
 
+**Вложено элементов:** 0  
 
 | Logger GetLoggerInstanceForType Method |
 | --- |

@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.StashUi.FragmentTab.SelectCategoryDelegate Delegate
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState StashUi FragmentTab SelectCategoryDelegate Delegate |
 | --- |

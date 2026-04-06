@@ -1,5 +1,6 @@
 # totalUses Property 
 
+**Вложено элементов:** 0  
 
 | SkillElement totalUses Property |
 | --- |

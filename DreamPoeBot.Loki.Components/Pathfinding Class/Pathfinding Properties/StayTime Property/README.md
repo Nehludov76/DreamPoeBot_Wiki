@@ -1,5 +1,6 @@
 # StayTime Property 
 
+**Вложено элементов:** 0  
 
 | Pathfinding StayTime Property |
 | --- |

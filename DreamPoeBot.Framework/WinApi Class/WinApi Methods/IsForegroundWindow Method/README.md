@@ -1,5 +1,6 @@
 # IsForegroundWindow Method 
 
+**Вложено элементов:** 0  
 
 | WinApi IsForegroundWindow Method |
 | --- |

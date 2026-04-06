@@ -1,5 +1,6 @@
 # ResumeGame Property 
 
+**Вложено элементов:** 0  
 
 | EscapeStateClass ResumeGame Property |
 | --- |

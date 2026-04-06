@@ -1,5 +1,6 @@
 # TimeSinceLastMove Property 
 
+**Вложено элементов:** 0  
 
 | Actor TimeSinceLastMove Property |
 | --- |

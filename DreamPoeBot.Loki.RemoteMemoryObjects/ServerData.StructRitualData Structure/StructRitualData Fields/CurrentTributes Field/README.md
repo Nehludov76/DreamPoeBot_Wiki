@@ -1,5 +1,6 @@
 # CurrentTributes Field
 
+**Вложено элементов:** 0  
 
 | ServerData StructRitualData CurrentTributes Field |
 | --- |

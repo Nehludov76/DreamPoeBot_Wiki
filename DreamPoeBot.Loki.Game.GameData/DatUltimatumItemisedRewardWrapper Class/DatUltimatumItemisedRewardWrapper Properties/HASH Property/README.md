@@ -1,5 +1,6 @@
 # HASH Property 
 
+**Вложено элементов:** 0  
 
 | DatUltimatumItemisedRewardWrapper HASH Property |
 | --- |

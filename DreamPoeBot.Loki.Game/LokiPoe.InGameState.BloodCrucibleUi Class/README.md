@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.BloodCrucibleUi Class
 
+**Вложено элементов:** 7  
 
 | LokiPoe InGameState BloodCrucibleUi Class |
 | --- |
@@ -30,14 +31,18 @@ public ref class BloodCrucibleUi abstract sealed
 The LokiPoe InGameState BloodCrucibleUi type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| IsCruciblePannelVisible |
-| IsOpened |
-| IsSkillsPannelVisible |
+|  | Name | Description |
+| --- | --- | --- |
+|  | IsCruciblePannelVisible |  |
+|  | IsOpened |  |
+|  | IsSkillsPannelVisible |  |
 
 
-| Name | Description |
-| --- | --- |
-| OpenCruciblePannel |
-| OpenSkillsPannel |
+|  | Name | Description |
+| --- | --- | --- |
+|  | OpenCruciblePannel |  |
+|  | OpenSkillsPannel |  |
+
+## Дочерние разделы
+- [**BloodCrucibleUi Properties**](./BloodCrucibleUi Properties/README.md)
+- [**BloodCrucibleUi Methods**](./BloodCrucibleUi Methods/README.md)

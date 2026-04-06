@@ -1,5 +1,6 @@
 # HasMavenTabOverride Property 
 
+**Вложено элементов:** 0  
 
 | InventoryControlWrapper HasMavenTabOverride Property |
 | --- |

@@ -1,5 +1,6 @@
 # Max Field
 
+**Вложено элементов:** 0  
 
 | BoundingBox Max Field |
 | --- |

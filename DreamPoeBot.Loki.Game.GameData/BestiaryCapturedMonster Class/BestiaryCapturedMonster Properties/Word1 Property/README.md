@@ -1,5 +1,6 @@
 # Word1 Property 
 
+**Вложено элементов:** 0  
 
 | BestiaryCapturedMonster Word1 Property |
 | --- |

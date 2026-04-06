@@ -1,5 +1,6 @@
 # vTable Property 
 
+**Вложено элементов:** 0  
 
 | Element vTable Property |
 | --- |

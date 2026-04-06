@@ -1,5 +1,6 @@
 # AtlasPassiveMap Property 
 
+**Вложено элементов:** 0  
 
 | AtlasSkillElement AtlasPassiveMap Property |
 | --- |

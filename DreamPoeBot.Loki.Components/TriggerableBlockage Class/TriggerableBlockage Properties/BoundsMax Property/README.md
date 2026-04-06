@@ -1,5 +1,6 @@
 # BoundsMax Property 
 
+**Вложено элементов:** 0  
 
 | TriggerableBlockage BoundsMax Property |
 | --- |

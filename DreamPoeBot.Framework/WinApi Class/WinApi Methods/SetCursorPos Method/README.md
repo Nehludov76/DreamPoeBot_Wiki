@@ -1,5 +1,6 @@
 # SetCursorPos Method 
 
+**Вложено элементов:** 0  
 
 | WinApi SetCursorPos Method |
 | --- |

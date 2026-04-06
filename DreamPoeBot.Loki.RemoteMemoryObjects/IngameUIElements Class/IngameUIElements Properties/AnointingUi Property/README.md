@@ -1,5 +1,6 @@
 # AnointingUi Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements AnointingUi Property |
 | --- |

@@ -1,5 +1,6 @@
 # IsVisibleLocal Property 
 
+**Вложено элементов:** 0  
 
 | WindowState IsVisibleLocal Property |
 | --- |

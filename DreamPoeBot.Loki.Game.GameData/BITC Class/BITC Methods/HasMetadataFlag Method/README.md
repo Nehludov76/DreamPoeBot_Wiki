@@ -1,5 +1,6 @@
 # HasMetadataFlag Method 
 
+**Вложено элементов:** 0  
 
 | BITC HasMetadataFlag Method |
 | --- |

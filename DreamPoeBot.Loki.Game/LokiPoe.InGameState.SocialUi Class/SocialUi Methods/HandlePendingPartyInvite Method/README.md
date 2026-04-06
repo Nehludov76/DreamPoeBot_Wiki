@@ -1,5 +1,6 @@
 # HandlePendingPartyInvite Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SocialUi HandlePendingPartyInvite Method |
 | --- |

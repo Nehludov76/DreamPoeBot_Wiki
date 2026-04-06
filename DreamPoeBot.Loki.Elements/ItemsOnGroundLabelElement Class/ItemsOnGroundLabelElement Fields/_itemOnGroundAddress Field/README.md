@@ -1,5 +1,6 @@
 # _itemOnGroundAddress Field
 
+**Вложено элементов:** 0  
 
 | ItemsOnGroundLabelElement _itemOnGroundAddress Field |
 | --- |

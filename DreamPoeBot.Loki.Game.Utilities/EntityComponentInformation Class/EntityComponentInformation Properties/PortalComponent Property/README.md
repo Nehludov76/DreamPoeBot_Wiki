@@ -1,5 +1,6 @@
 # PortalComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation PortalComponent Property |
 | --- |

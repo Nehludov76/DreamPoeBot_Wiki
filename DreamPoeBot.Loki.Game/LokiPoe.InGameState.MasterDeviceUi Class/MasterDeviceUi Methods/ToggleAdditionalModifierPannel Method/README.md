@@ -1,5 +1,6 @@
 # ToggleAdditionalModifierPannel Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState MasterDeviceUi ToggleAdditionalModifierPannel Method |
 | --- |

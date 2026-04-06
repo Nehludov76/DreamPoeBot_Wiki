@@ -1,5 +1,6 @@
 # GetIngameUi Property 
 
+**Вложено элементов:** 0  
 
 | IngameState GetIngameUi Property |
 | --- |

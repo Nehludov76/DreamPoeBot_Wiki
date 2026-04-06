@@ -1,5 +1,6 @@
 # GetObjectById(T) Method (Int64)
 
+**Вложено элементов:** 0  
 
 | LokiPoe ObjectManager GetObjectById T Method (Int64) |
 | --- |

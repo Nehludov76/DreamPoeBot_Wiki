@@ -1,5 +1,6 @@
 # DatPropheciesWrapper Property 
 
+**Вложено элементов:** 0  
 
 | Prophecy DatPropheciesWrapper Property |
 | --- |

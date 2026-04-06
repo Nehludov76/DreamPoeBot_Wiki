@@ -1,5 +1,6 @@
 # GetClickableHighlightLabelPosition Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input GetClickableHighlightLabelPosition Method |
 | --- |

@@ -1,5 +1,6 @@
 # IsBargainVisible Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SyndicateUI IsBargainVisible Property |
 | --- |

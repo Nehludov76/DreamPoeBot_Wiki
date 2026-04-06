@@ -1,5 +1,6 @@
 # WorldItemComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation WorldItemComponent Property |
 | --- |

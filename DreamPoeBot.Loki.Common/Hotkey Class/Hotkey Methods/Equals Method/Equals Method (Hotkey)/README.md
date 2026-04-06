@@ -1,5 +1,6 @@
 # Equals Method (Hotkey)
 
+**Вложено элементов:** 0  
 
 | Hotkey Equals Method (Hotkey) |
 | --- |

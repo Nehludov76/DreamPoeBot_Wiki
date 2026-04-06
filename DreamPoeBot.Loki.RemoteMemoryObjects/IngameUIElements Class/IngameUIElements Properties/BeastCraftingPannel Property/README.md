@@ -1,5 +1,6 @@
 # BeastCraftingPannel Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements BeastCraftingPannel Property |
 | --- |

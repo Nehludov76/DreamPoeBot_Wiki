@@ -1,5 +1,6 @@
 # EntityComponentInformation Constructor (Item)
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation Constructor (Item) |
 | --- |

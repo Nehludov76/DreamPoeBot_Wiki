@@ -1,5 +1,6 @@
 # TypeCode Field
 
+**Вложено элементов:** 0  
 
 | MarshalCache T TypeCode Field |
 | --- |

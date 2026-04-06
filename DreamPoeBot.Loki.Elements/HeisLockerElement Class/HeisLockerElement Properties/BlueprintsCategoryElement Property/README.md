@@ -1,5 +1,6 @@
 # BlueprintsCategoryElement Property 
 
+**Вложено элементов:** 0  
 
 | HeisLockerElement BlueprintsCategoryElement Property |
 | --- |

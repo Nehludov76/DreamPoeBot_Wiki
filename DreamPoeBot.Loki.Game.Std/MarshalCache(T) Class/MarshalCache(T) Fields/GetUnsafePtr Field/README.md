@@ -1,5 +1,6 @@
 # GetUnsafePtr Field
 
+**Вложено элементов:** 0  
 
 | MarshalCache T GetUnsafePtr Field |
 | --- |

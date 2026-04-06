@@ -1,5 +1,6 @@
 # ExilePather.PlotFunction Delegate
 
+**Вложено элементов:** 0  
 
 | ExilePather PlotFunction Delegate |
 | --- |

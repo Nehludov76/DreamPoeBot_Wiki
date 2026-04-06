@@ -1,5 +1,6 @@
 # DontAutoFocusGameWindow Property 
 
+**Вложено элементов:** 0  
 
 | GlobalSettings DontAutoFocusGameWindow Property |
 | --- |

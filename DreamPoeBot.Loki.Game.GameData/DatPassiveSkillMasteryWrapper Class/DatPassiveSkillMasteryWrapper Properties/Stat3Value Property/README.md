@@ -1,5 +1,6 @@
 # Stat3Value Property 
 
+**Вложено элементов:** 0  
 
 | DatPassiveSkillMasteryWrapper Stat3Value Property |
 | --- |

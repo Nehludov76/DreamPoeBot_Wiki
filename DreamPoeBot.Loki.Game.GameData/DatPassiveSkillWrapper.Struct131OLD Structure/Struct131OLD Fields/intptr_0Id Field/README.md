@@ -1,5 +1,6 @@
 # intptr_0Id Field
 
+**Вложено элементов:** 0  
 
 | DatPassiveSkillWrapper Struct131OLD intptr_0Id Field |
 | --- |

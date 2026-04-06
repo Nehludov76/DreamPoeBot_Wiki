@@ -1,5 +1,6 @@
 # AreaGGGStatsType Property 
 
+**Вложено элементов:** 0  
 
 | IngameData AreaGGGStatsType Property |
 | --- |

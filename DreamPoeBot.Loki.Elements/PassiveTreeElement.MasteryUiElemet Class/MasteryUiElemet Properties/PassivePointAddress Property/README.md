@@ -1,5 +1,6 @@
 # PassivePointAddress Property 
 
+**Вложено элементов:** 0  
 
 | PassiveTreeElement MasteryUiElemet PassivePointAddress Property |
 | --- |

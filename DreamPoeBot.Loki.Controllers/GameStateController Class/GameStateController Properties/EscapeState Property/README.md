@@ -1,5 +1,6 @@
 # EscapeState Property 
 
+**Вложено элементов:** 0  
 
 | GameStateController EscapeState Property |
 | --- |

@@ -1,5 +1,6 @@
 # PackDensity Property 
 
+**Вложено элементов:** 0  
 
 | LanternOfArimorElement MonsterPack PackDensity Property |
 | --- |

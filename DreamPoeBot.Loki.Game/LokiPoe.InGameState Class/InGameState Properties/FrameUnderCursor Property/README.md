@@ -1,5 +1,6 @@
 # FrameUnderCursor Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState FrameUnderCursor Property |
 | --- |

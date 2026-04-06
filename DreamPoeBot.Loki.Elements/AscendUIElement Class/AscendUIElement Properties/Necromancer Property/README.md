@@ -1,5 +1,6 @@
 # Necromancer Property 
 
+**Вложено элементов:** 0  
 
 | AscendUIElement Necromancer Property |
 | --- |

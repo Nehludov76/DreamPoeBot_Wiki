@@ -1,5 +1,6 @@
 # ClickPosition Property 
 
+**Вложено элементов:** 0  
 
 | GenericComboBoxElement GenericComboBoxEntry ClickPosition Property |
 | --- |

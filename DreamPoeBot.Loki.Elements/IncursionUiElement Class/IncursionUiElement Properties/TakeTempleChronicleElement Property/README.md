@@ -1,5 +1,6 @@
 # TakeTempleChronicleElement Property 
 
+**Вложено элементов:** 0  
 
 | IncursionUiElement TakeTempleChronicleElement Property |
 | --- |

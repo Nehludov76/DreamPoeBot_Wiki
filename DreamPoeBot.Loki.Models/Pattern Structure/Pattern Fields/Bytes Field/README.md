@@ -1,5 +1,6 @@
 # Bytes Field
 
+**Вложено элементов:** 0  
 
 | Pattern Bytes Field |
 | --- |

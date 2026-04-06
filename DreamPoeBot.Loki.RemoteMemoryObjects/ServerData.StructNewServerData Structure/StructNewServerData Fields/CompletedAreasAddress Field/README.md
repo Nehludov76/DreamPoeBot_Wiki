@@ -1,5 +1,6 @@
 # CompletedAreasAddress Field
 
+**Вложено элементов:** 0  
 
 | ServerData StructNewServerData CompletedAreasAddress Field |
 | --- |

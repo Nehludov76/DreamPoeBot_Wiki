@@ -1,5 +1,6 @@
 # LokiPoe.CaracterCreationState Class
 
+**Вложено элементов:** 5  
 
 | LokiPoe CaracterCreationState Class |
 | --- |
@@ -30,12 +31,16 @@ public ref class CaracterCreationState abstract sealed
 The LokiPoe CaracterCreationState type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| SelectedCharacterClass | Return the currently selected Class. |
-| SelectedLeague | Return the currently selected League. |
+|  | Name | Description |
+| --- | --- | --- |
+|  | SelectedCharacterClass | Return the currently selected Class. |
+|  | SelectedLeague | Return the currently selected League. |
 
 
-| Name | Description |
-| --- | --- |
-| CreateNonRaceCharacter | This function attemp to create a new character, given a League, a Class and a Name. |
+|  | Name | Description |
+| --- | --- | --- |
+|  | CreateNonRaceCharacter | This function attemp to create a new character, given a League, a Class and a Name. |
+
+## Дочерние разделы
+- [**CaracterCreationState Properties**](./CaracterCreationState Properties/README.md)
+- [**CaracterCreationState Methods**](./CaracterCreationState Methods/README.md)

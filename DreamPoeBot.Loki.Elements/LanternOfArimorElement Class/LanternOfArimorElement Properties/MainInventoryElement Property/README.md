@@ -1,5 +1,6 @@
 # MainInventoryElement Property 
 
+**Вложено элементов:** 0  
 
 | LanternOfArimorElement MainInventoryElement Property |
 | --- |

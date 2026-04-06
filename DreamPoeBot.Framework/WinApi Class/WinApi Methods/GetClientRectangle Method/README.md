@@ -1,5 +1,6 @@
 # GetClientRectangle Method 
 
+**Вложено элементов:** 0  
 
 | WinApi GetClientRectangle Method |
 | --- |

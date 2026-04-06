@@ -1,5 +1,6 @@
 # _04 Property 
 
+**Вложено элементов:** 0  
 
 | DatMinimapIconWrapper _04 Property |
 | --- |

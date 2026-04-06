@@ -1,5 +1,6 @@
 # SacrificeText Property 
 
+**Вложено элементов:** 0  
 
 | DatUltimatumItemisedRewardWrapper SacrificeText Property |
 | --- |

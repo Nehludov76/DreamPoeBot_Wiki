@@ -1,5 +1,6 @@
 # FiveSeconds Property 
 
+**Вложено элементов:** 0  
 
 | WaitTimer FiveSeconds Property |
 | --- |

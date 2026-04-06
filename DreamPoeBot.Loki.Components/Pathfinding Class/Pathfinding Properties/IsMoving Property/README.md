@@ -1,5 +1,6 @@
 # IsMoving Property 
 
+**Вложено элементов:** 0  
 
 | Pathfinding IsMoving Property |
 | --- |

@@ -1,5 +1,6 @@
 # TributeRemainingAndTotalDeferCost Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState RitualFavorsUi TributeRemainingAndTotalDeferCost Property |
 | --- |

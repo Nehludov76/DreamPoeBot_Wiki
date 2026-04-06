@@ -1,5 +1,6 @@
 # Entry Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe TerrainDataEntryWrapper Entry Property |
 | --- |

@@ -1,5 +1,6 @@
 # PlayerComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation PlayerComponent Property |
 | --- |

@@ -1,5 +1,6 @@
 # ErrorBrush Property 
 
+**Вложено элементов:** 0  
 
 | WpfRtfAppender ErrorBrush Property |
 | --- |

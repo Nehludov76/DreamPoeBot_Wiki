@@ -1,5 +1,6 @@
 # WalkabilityDebugData Constructor 
 
+**Вложено элементов:** 0  
 
 | WalkabilityDebugData Constructor |
 | --- |

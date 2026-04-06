@@ -1,5 +1,6 @@
 # TakeModToCursor Method 
 
+**Вложено элементов:** 0  
 
 | LanternOfArimorElement NecropolisLanternOption TakeModToCursor Method |
 | --- |

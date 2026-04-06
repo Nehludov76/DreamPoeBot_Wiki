@@ -1,5 +1,6 @@
 # SignalPasteTextFailed Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe SignalPasteTextFailed Method |
 | --- |

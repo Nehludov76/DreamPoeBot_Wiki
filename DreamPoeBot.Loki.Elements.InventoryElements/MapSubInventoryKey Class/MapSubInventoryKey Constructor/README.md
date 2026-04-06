@@ -1,5 +1,6 @@
 # MapSubInventoryKey Constructor 
 
+**Вложено элементов:** 0  
 
 | MapSubInventoryKey Constructor |
 | --- |

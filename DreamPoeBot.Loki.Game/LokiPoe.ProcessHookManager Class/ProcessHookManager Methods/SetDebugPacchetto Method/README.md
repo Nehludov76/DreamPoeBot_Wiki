@@ -1,5 +1,6 @@
 # SetDebugPacchetto Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe ProcessHookManager SetDebugPacchetto Method |
 | --- |

@@ -1,5 +1,6 @@
 # ExInteractWith Method (NetworkObject, Boolean, Int32)
 
+**Вложено элементов:** 0  
 
 | Coroutines ExInteractWith Method (NetworkObject, Boolean, Int32) |
 | --- |

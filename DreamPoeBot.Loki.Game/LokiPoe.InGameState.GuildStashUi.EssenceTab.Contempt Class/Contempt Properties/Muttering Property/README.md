@@ -1,5 +1,6 @@
 # Muttering Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState GuildStashUi EssenceTab Contempt Muttering Property |
 | --- |

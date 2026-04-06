@@ -1,5 +1,6 @@
 # DestinationNodes Property 
 
+**Вложено элементов:** 0  
 
 | Pathfinding DestinationNodes Property |
 | --- |

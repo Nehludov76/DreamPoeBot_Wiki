@@ -1,5 +1,6 @@
 # IsInCreateCharacterScreen Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe IsInCreateCharacterScreen Property |
 | --- |

@@ -1,5 +1,6 @@
 # ReadVector3 Method 
 
+**Вложено элементов:** 0  
 
 | Memory ReadVector3 Method |
 | --- |

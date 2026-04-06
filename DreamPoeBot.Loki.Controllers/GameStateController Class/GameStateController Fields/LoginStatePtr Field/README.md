@@ -1,5 +1,6 @@
 # LoginStatePtr Field
 
+**Вложено элементов:** 0  
 
 | GameStateController LoginStatePtr Field |
 | --- |

@@ -1,5 +1,6 @@
 # Dump Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe LocalData Labyrinth Dump Method |
 | --- |

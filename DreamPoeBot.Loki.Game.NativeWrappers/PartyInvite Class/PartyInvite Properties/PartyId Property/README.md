@@ -1,5 +1,6 @@
 # PartyId Property 
 
+**Вложено элементов:** 0  
 
 | PartyInvite PartyId Property |
 | --- |

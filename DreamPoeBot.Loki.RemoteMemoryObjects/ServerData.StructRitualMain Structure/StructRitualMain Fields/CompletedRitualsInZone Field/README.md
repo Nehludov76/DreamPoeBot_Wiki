@@ -1,5 +1,6 @@
 # CompletedRitualsInZone Field
 
+**Вложено элементов:** 0  
 
 | ServerData StructRitualMain CompletedRitualsInZone Field |
 | --- |

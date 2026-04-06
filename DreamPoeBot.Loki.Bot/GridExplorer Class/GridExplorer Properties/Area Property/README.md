@@ -1,5 +1,6 @@
 # Area Property 
 
+**Вложено элементов:** 0  
 
 | GridExplorer Area Property |
 | --- |

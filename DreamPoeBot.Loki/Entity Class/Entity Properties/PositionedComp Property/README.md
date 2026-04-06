@@ -1,5 +1,6 @@
 # PositionedComp Property 
 
+**Вложено элементов:** 0  
 
 | Entity PositionedComp Property |
 | --- |

@@ -1,5 +1,6 @@
 # IsAtlasMap Property 
 
+**Вложено элементов:** 0  
 
 | WorldArea IsAtlasMap Property |
 | --- |

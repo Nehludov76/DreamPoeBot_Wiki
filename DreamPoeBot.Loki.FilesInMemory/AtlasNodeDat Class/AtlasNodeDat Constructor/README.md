@@ -1,5 +1,6 @@
 # AtlasNodeDat Constructor 
 
+**Вложено элементов:** 0  
 
 | AtlasNodeDat Constructor |
 | --- |

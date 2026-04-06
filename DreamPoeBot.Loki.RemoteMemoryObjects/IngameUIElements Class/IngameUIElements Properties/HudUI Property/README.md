@@ -1,5 +1,6 @@
 # HudUI Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements HudUI Property |
 | --- |

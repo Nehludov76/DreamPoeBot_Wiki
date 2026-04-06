@@ -1,5 +1,6 @@
 # IsItemDeferred Method 
 
+**Вложено элементов:** 0  
 
 | InventoryControlWrapper IsItemDeferred Method |
 | --- |

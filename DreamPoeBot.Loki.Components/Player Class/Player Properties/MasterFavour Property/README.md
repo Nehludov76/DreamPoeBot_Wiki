@@ -1,5 +1,6 @@
 # MasterFavour Property 
 
+**Вложено элементов:** 0  
 
 | Player MasterFavour Property |
 | --- |

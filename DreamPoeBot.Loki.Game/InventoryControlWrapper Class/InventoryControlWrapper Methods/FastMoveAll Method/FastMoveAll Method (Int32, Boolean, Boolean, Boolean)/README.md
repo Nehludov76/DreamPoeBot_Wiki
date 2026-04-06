@@ -1,5 +1,6 @@
 # FastMoveAll Method (Int32, Boolean, Boolean, Boolean)
 
+**Вложено элементов:** 0  
 
 | InventoryControlWrapper FastMoveAll Method (Int32, Boolean, Boolean, Boolean) |
 | --- |

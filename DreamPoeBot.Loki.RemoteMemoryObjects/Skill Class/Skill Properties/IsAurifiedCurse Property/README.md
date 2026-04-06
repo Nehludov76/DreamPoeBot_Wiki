@@ -1,5 +1,6 @@
 # IsAurifiedCurse Property 
 
+**Вложено элементов:** 0  
 
 | Skill IsAurifiedCurse Property |
 | --- |

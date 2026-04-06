@@ -1,5 +1,6 @@
 # ITickEvents Interface
 
+**Вложено элементов:** 2  
 
 | ITickEvents Interface |
 | --- |
@@ -32,6 +33,9 @@ public interface class ITickEvents
 The ITickEvents type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Tick |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Tick |  |
+
+## Дочерние разделы
+- [**ITickEvents Methods**](./ITickEvents Methods/README.md)

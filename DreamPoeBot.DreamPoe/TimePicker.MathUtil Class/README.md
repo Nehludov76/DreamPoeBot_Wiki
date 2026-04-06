@@ -1,5 +1,6 @@
 # TimePicker.MathUtil Class
 
+**Вложено элементов:** 5  
 
 | TimePicker MathUtil Class |
 | --- |
@@ -32,8 +33,11 @@ public ref class MathUtil abstract sealed
 The TimePicker MathUtil type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| IncrementDecrementNumber |
-| ValidateNumber(Int32, Int32, Int32) |
-| ValidateNumber(String, Int32, Int32) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | IncrementDecrementNumber |  |
+|  | ValidateNumber(Int32, Int32, Int32) |  |
+|  | ValidateNumber(String, Int32, Int32) |  |
+
+## Дочерние разделы
+- [**MathUtil Methods**](./MathUtil Methods/README.md)

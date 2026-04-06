@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.FinishDeliriumEncounterResult Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState FinishDeliriumEncounterResult Enumeration |
 | --- |
@@ -30,8 +31,8 @@ public enum class FinishDeliriumEncounterResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| ProcessHookManagerNotEnabled | 1 |
-| UiNotOpen | 2 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | ProcessHookManagerNotEnabled | 1 |  |
+|  | UiNotOpen | 2 |  |

@@ -1,5 +1,6 @@
 # IsMinimapLabelVisible Property 
 
+**Вложено элементов:** 0  
 
 | NPC IsMinimapLabelVisible Property |
 | --- |

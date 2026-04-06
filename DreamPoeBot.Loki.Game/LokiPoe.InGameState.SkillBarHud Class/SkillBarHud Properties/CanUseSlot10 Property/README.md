@@ -1,5 +1,6 @@
 # CanUseSlot10 Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SkillBarHud CanUseSlot10 Property |
 | --- |

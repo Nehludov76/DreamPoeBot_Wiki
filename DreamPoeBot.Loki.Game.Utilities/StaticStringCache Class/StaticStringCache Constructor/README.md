@@ -1,5 +1,6 @@
 # StaticStringCache Constructor 
 
+**Вложено элементов:** 0  
 
 | StaticStringCache Constructor |
 | --- |

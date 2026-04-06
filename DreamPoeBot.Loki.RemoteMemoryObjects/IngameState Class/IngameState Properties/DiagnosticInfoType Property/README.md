@@ -1,5 +1,6 @@
 # DiagnosticInfoType Property 
 
+**Вложено элементов:** 0  
 
 | IngameState DiagnosticInfoType Property |
 | --- |

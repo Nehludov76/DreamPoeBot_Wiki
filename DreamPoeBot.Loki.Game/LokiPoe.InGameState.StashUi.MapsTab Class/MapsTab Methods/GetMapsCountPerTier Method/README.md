@@ -1,5 +1,6 @@
 # GetMapsCountPerTier Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState StashUi MapsTab GetMapsCountPerTier Method |
 | --- |

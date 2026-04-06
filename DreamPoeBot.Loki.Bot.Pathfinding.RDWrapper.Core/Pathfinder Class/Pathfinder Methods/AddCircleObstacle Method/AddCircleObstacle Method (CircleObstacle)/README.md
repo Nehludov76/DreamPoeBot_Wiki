@@ -1,5 +1,6 @@
 # AddCircleObstacle Method (CircleObstacle)
 
+**Вложено элементов:** 0  
 
 | Pathfinder AddCircleObstacle Method (CircleObstacle) |
 | --- |

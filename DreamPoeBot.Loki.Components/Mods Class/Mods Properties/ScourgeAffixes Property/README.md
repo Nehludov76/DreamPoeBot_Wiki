@@ -1,5 +1,6 @@
 # ScourgeAffixes Property 
 
+**Вложено элементов:** 0  
 
 | Mods ScourgeAffixes Property |
 | --- |

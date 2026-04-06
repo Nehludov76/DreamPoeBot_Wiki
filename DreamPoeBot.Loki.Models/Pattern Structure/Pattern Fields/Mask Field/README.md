@@ -1,5 +1,6 @@
 # Mask Field
 
+**Вложено элементов:** 0  
 
 | Pattern Mask Field |
 | --- |

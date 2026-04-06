@@ -1,5 +1,6 @@
 # CalculatePointFrom Method 
 
+**Вложено элементов:** 0  
 
 | MathEx CalculatePointFrom Method |
 | --- |

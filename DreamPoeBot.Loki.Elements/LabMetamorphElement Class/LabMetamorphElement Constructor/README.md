@@ -1,5 +1,6 @@
 # LabMetamorphElement Constructor 
 
+**Вложено элементов:** 0  
 
 | LabMetamorphElement Constructor |
 | --- |

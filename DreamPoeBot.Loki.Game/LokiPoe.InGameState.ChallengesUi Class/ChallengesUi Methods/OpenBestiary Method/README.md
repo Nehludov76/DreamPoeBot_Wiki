@@ -1,5 +1,6 @@
 # OpenBestiary Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ChallengesUi OpenBestiary Method |
 | --- |

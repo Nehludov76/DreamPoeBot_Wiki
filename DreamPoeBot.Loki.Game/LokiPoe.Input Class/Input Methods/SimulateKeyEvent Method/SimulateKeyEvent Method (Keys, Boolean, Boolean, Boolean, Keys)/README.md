@@ -1,5 +1,6 @@
 # SimulateKeyEvent Method (Keys, Boolean, Boolean, Boolean, Keys)
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input SimulateKeyEvent Method (Keys, Boolean, Boolean, Boolean, Keys) |
 | --- |

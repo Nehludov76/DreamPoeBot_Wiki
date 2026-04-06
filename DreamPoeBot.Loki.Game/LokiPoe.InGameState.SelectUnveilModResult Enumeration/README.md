@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.SelectUnveilModResult Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SelectUnveilModResult Enumeration |
 | --- |
@@ -30,11 +31,11 @@ public enum class SelectUnveilModResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| ProcessHookManagerNotEnabled | 1 |
-| UiNotOpen | 2 |
-| UnableToFindeSelectedMod | 3 |
-| SelectedModIsnull | 4 |
-| SelectionFailed | 5 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | ProcessHookManagerNotEnabled | 1 |  |
+|  | UiNotOpen | 2 |  |
+|  | UnableToFindeSelectedMod | 3 |  |
+|  | SelectedModIsnull | 4 |  |
+|  | SelectionFailed | 5 |  |

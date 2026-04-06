@@ -1,5 +1,6 @@
 # WorldItem.WorldItemLabelClass Class
 
+**Вложено элементов:** 10  
 
 | WorldItem WorldItemLabelClass Class |
 | --- |
@@ -32,27 +33,32 @@ public ref class WorldItemLabelClass
 The WorldItem WorldItemLabelClass type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| WorldItem WorldItemLabelClass | Initializes a new instance of the WorldItem WorldItemLabelClass class |
+|  | Name | Description |
+| --- | --- | --- |
+|  | WorldItem WorldItemLabelClass | Initializes a new instance of the WorldItem WorldItemLabelClass class |
 
 
-| Name | Description |
-| --- | --- |
-| Coordinate |
-| IsLabelVisible |
-| Label |
-| OwnerWorldItem |
-| Size |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Coordinate |  |
+|  | IsLabelVisible |  |
+|  | Label |  |
+|  | OwnerWorldItem |  |
+|  | Size |  |
 
 
-| Name | Description |
-| --- | --- |
-| Equals | Determines whether the specified object is equal to the current object. (Inherited from Object .) |
-| Finalize | Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection. (Inherited from Object .) |
-| GetHashCode | Serves as the default hash function. (Inherited from Object .) |
-| GetType | Gets the Type of the current instance. (Inherited from Object .) |
-| HideLabel |
-| MemberwiseClone | Creates a shallow copy of the current Object . (Inherited from Object .) |
-| ShowLabel |
-| ToString | Returns a string that represents the current object. (Inherited from Object .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Equals | Determines whether the specified object is equal to the current object. (Inherited from Object .) |
+|  | Finalize | Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection. (Inherited from Object .) |
+|  | GetHashCode | Serves as the default hash function. (Inherited from Object .) |
+|  | GetType | Gets the Type of the current instance. (Inherited from Object .) |
+|  | HideLabel |  |
+|  | MemberwiseClone | Creates a shallow copy of the current Object . (Inherited from Object .) |
+|  | ShowLabel |  |
+|  | ToString | Returns a string that represents the current object. (Inherited from Object .) |
+
+## Дочерние разделы
+- [**WorldItem.WorldItemLabelClass Constructor **](./WorldItem.WorldItemLabelClass Constructor/README.md)
+- [**WorldItemLabelClass Properties**](./WorldItemLabelClass Properties/README.md)
+- [**WorldItemLabelClass Methods**](./WorldItemLabelClass Methods/README.md)

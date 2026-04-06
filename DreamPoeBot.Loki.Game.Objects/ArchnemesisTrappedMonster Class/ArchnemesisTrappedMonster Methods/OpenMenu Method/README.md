@@ -1,5 +1,6 @@
 # OpenMenu Method 
 
+**Вложено элементов:** 0  
 
 | ArchnemesisTrappedMonster OpenMenu Method |
 | --- |

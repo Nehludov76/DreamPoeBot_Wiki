@@ -1,5 +1,6 @@
 # MemoryLineTypeFile Field
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo Atlas MemoryLineStruct MemoryLineTypeFile Field |
 | --- |

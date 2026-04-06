@@ -1,5 +1,6 @@
 # IsUiVisible Property 
 
+**Вложено элементов:** 0  
 
 | HarvestIrrigator IsUiVisible Property |
 | --- |

@@ -1,5 +1,6 @@
 # HasContagion Property 
 
+**Вложено элементов:** 0  
 
 | Actor HasContagion Property |
 | --- |

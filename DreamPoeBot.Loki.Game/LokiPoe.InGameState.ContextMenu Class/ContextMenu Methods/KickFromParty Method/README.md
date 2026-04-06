@@ -1,5 +1,6 @@
 # KickFromParty Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ContextMenu KickFromParty Method |
 | --- |

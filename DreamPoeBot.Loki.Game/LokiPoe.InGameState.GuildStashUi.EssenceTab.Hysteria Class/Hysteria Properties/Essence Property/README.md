@@ -1,5 +1,6 @@
 # Essence Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState GuildStashUi EssenceTab Hysteria Essence Property |
 | --- |

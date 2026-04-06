@@ -1,5 +1,6 @@
 # InventoryControl_PandemoniumSentinel Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState InventoryUi Sentinels InventoryControl_PandemoniumSentinel Property |
 | --- |

@@ -1,5 +1,6 @@
 # MiniMapZoom Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState MapUi MiniMapZoom Property |
 | --- |

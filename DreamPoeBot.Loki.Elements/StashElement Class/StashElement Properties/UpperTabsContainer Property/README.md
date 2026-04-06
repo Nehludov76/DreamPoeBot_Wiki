@@ -1,5 +1,6 @@
 # UpperTabsContainer Property 
 
+**Вложено элементов:** 0  
 
 | StashElement UpperTabsContainer Property |
 | --- |

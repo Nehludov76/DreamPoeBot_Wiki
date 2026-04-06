@@ -1,5 +1,6 @@
 # CurrentWorldArea Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe CurrentWorldArea Property |
 | --- |

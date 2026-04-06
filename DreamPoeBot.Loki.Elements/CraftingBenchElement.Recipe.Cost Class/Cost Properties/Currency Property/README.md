@@ -1,5 +1,6 @@
 # Currency Property 
 
+**Вложено элементов:** 0  
 
 | CraftingBenchElement Recipe Cost Currency Property |
 | --- |

@@ -1,5 +1,6 @@
 # IsHideOut Property 
 
+**Вложено элементов:** 0  
 
 | AreaTemplate IsHideOut Property |
 | --- |

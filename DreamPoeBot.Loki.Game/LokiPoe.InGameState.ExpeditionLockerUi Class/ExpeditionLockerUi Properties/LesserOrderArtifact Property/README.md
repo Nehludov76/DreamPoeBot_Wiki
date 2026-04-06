@@ -1,5 +1,6 @@
 # LesserOrderArtifact Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ExpeditionLockerUi LesserOrderArtifact Property |
 | --- |

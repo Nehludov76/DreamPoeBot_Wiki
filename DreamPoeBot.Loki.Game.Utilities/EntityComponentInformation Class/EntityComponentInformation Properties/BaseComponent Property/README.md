@@ -1,5 +1,6 @@
 # BaseComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation BaseComponent Property |
 | --- |

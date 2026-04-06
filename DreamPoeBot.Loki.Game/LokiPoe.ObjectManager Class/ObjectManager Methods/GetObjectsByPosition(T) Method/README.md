@@ -1,5 +1,6 @@
 # GetObjectsByPosition(T) Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe ObjectManager GetObjectsByPosition T Method |
 | --- |

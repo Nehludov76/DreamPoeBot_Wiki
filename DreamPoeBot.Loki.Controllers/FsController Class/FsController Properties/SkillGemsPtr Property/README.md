@@ -1,5 +1,6 @@
 # SkillGemsPtr Property 
 
+**Вложено элементов:** 0  
 
 | FsController SkillGemsPtr Property |
 | --- |

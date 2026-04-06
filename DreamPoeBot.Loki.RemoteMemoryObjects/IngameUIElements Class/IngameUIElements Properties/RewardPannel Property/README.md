@@ -1,5 +1,6 @@
 # RewardPannel Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements RewardPannel Property |
 | --- |

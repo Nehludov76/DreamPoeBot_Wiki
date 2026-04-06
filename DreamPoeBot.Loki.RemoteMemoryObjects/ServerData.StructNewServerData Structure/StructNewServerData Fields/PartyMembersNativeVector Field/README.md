@@ -1,5 +1,6 @@
 # PartyMembersNativeVector Field
 
+**Вложено элементов:** 0  
 
 | ServerData StructNewServerData PartyMembersNativeVector Field |
 | --- |

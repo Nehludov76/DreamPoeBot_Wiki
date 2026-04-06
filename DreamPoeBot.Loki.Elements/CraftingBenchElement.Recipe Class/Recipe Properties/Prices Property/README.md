@@ -1,5 +1,6 @@
 # Prices Property 
 
+**Вложено элементов:** 0  
 
 | CraftingBenchElement Recipe Prices Property |
 | --- |

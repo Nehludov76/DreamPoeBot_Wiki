@@ -1,5 +1,6 @@
 # GetItemCostAsDouble Method 
 
+**Вложено элементов:** 0  
 
 | InventoryControlWrapper GetItemCostAsDouble Method |
 | --- |

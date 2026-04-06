@@ -1,5 +1,6 @@
 # ServerDataAddress Property 
 
+**Вложено элементов:** 0  
 
 | IngameData ServerDataAddress Property |
 | --- |

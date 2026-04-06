@@ -1,5 +1,6 @@
 # WorldItemPosition Property 
 
+**Вложено элементов:** 0  
 
 | Item WorldItemPosition Property |
 | --- |

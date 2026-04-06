@@ -1,5 +1,6 @@
 # Inequality Operator 
 
+**Вложено элементов:** 0  
 
 | BoundingBox Inequality Operator |
 | --- |

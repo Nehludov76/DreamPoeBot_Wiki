@@ -1,5 +1,6 @@
 # Prev Field
 
+**Вложено элементов:** 0  
 
 | NativeListNode TValue Prev Field |
 | --- |

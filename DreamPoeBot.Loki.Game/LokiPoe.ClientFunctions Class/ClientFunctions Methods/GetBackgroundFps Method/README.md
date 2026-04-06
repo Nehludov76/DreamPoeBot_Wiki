@@ -1,5 +1,6 @@
 # GetBackgroundFps Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe ClientFunctions GetBackgroundFps Method |
 | --- |

@@ -1,5 +1,6 @@
 # RefundAscendancyPassive Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SkillsUi AscendencyUi RefundAscendancyPassive Method |
 | --- |

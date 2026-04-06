@@ -1,5 +1,6 @@
 # Close Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState PremiumStashSettingsUi Close Method |
 | --- |

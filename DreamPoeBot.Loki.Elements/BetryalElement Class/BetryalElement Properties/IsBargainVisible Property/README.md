@@ -1,5 +1,6 @@
 # IsBargainVisible Property 
 
+**Вложено элементов:** 0  
 
 | BetryalElement IsBargainVisible Property |
 | --- |

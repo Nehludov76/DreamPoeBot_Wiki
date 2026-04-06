@@ -1,5 +1,6 @@
 # AttachedEffect Property 
 
+**Вложено элементов:** 0  
 
 | BreachClientObject AttachedEffect Property |
 | --- |

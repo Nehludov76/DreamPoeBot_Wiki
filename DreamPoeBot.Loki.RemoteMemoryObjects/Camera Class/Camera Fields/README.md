@@ -1,5 +1,6 @@
 # Camera Fields
 
+**Вложено элементов:** 0  
 
 | Camera Fields |
 | --- |
@@ -10,6 +11,6 @@
 The Camera type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| NeedUpdate | (Inherited from RemoteMemoryObject .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | NeedUpdate | (Inherited from RemoteMemoryObject .) |

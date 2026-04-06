@@ -1,5 +1,6 @@
 # RemainingExplosive Property 
 
+**Вложено элементов:** 0  
 
 | ToggleExplosivePlacementElement RemainingExplosive Property |
 | --- |

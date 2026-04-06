@@ -1,5 +1,6 @@
 # GetResults Method 
 
+**Вложено элементов:** 0  
 
 | Profiler GetResults Method |
 | --- |

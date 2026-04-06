@@ -1,5 +1,6 @@
 # Freeze Method 
 
+**Вложено элементов:** 0  
 
 | TaskManagerBase T Freeze Method |
 | --- |

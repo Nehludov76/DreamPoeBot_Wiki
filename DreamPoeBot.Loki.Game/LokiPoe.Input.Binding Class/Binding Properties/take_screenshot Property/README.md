@@ -1,5 +1,6 @@
 # take_screenshot Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input Binding take_screenshot Property |
 | --- |

@@ -1,5 +1,6 @@
 # float_0TimeSinceLastMove Field
 
+**Вложено элементов:** 0  
 
 | Actor ActorStruct137 float_0TimeSinceLastMove Field |
 | --- |

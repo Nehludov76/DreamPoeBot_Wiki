@@ -1,5 +1,6 @@
 # IsInSameZone Property 
 
+**Вложено элементов:** 0  
 
 | PartyHudUIElement PartyInfo IsInSameZone Property |
 | --- |

@@ -1,5 +1,6 @@
 # Metadata Property 
 
+**Вложено элементов:** 0  
 
 | FragmentStashTabLayouts FragmentStashTabLayoutHardcoded Metadata Property |
 | --- |

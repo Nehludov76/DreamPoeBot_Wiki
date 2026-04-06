@@ -1,5 +1,6 @@
 # LoadFrom Method 
 
+**Вложено элементов:** 0  
 
 | JsonSettings LoadFrom Method |
 | --- |

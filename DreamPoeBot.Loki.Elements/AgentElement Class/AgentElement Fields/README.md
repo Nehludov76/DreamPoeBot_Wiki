@@ -1,5 +1,6 @@
 # AgentElement Fields
 
+**Вложено элементов:** 0  
 
 | AgentElement Fields |
 | --- |
@@ -10,6 +11,6 @@
 The AgentElement type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| NeedUpdate | (Inherited from RemoteMemoryObject .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | NeedUpdate | (Inherited from RemoteMemoryObject .) |

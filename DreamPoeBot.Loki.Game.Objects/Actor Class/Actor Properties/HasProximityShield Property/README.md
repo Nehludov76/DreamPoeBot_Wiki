@@ -1,5 +1,6 @@
 # HasProximityShield Property 
 
+**Вложено элементов:** 0  
 
 | Actor HasProximityShield Property |
 | --- |

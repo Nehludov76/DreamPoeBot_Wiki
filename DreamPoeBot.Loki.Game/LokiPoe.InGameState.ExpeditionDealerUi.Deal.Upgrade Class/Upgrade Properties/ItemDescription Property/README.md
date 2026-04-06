@@ -1,5 +1,6 @@
 # ItemDescription Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ExpeditionDealerUi Deal Upgrade ItemDescription Property |
 | --- |

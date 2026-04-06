@@ -1,5 +1,6 @@
 # HasCurrencyTabOverride Property 
 
+**Вложено элементов:** 0  
 
 | InventoryControlWrapper HasCurrencyTabOverride Property |
 | --- |

@@ -1,5 +1,6 @@
 # AreaLevel Property 
 
+**Вложено элементов:** 0  
 
 | HeistBlueprint AreaLevel Property |
 | --- |

@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.SentinelSkillUi.PandemoniumSentinel Class
 
+**Вложено элементов:** 5  
 
 | LokiPoe InGameState SentinelSkillUi PandemoniumSentinel Class |
 | --- |
@@ -32,12 +33,16 @@ public ref class PandemoniumSentinel abstract sealed
 The LokiPoe InGameState SentinelSkillUi PandemoniumSentinel type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| CanUse | Return true if this Sentinel can be activated. |
-| IsActive | Return true if this Sentinel is currently activated. |
+|  | Name | Description |
+| --- | --- | --- |
+|  | CanUse | Return true if this Sentinel can be activated. |
+|  | IsActive | Return true if this Sentinel is currently activated. |
 
 
-| Name | Description |
-| --- | --- |
-| Activate | Activate this Sentinel. |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Activate | Activate this Sentinel. |
+
+## Дочерние разделы
+- [**PandemoniumSentinel Properties**](./PandemoniumSentinel Properties/README.md)
+- [**PandemoniumSentinel Methods**](./PandemoniumSentinel Methods/README.md)

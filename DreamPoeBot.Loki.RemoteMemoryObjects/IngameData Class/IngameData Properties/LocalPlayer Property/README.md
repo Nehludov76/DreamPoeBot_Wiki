@@ -1,5 +1,6 @@
 # LocalPlayer Property 
 
+**Вложено элементов:** 0  
 
 | IngameData LocalPlayer Property |
 | --- |

@@ -1,5 +1,6 @@
 # OrdersElements Property 
 
+**Вложено элементов:** 0  
 
 | CurrencyExchangeElement OrdersElements Property |
 | --- |

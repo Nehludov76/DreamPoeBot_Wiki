@@ -1,5 +1,6 @@
 # HasVisibleHighlightLabel Property 
 
+**Вложено элементов:** 0  
 
 | WorldItem HasVisibleHighlightLabel Property |
 | --- |

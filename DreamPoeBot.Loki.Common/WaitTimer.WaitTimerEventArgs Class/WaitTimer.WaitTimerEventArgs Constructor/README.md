@@ -1,5 +1,6 @@
 # WaitTimer.WaitTimerEventArgs Constructor 
 
+**Вложено элементов:** 0  
 
 | WaitTimer WaitTimerEventArgs Constructor |
 | --- |

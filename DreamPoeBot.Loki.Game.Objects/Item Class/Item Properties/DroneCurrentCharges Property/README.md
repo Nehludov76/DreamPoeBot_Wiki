@@ -1,5 +1,6 @@
 # DroneCurrentCharges Property 
 
+**Вложено элементов:** 0  
 
 | Item DroneCurrentCharges Property |
 | --- |

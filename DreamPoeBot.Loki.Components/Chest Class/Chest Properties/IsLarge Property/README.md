@@ -1,5 +1,6 @@
 # IsLarge Property 
 
+**Вложено элементов:** 0  
 
 | Chest IsLarge Property |
 | --- |

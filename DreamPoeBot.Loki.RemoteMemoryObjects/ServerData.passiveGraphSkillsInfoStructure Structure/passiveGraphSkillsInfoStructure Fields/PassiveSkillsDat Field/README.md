@@ -1,5 +1,6 @@
 # PassiveSkillsDat Field
 
+**Вложено элементов:** 0  
 
 | ServerData passiveGraphSkillsInfoStructure PassiveSkillsDat Field |
 | --- |

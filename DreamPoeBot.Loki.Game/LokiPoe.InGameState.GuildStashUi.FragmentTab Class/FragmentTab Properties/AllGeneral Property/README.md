@@ -1,5 +1,6 @@
 # AllGeneral Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState GuildStashUi FragmentTab AllGeneral Property |
 | --- |

@@ -1,5 +1,6 @@
 # ArchnemesisModComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation ArchnemesisModComponent Property |
 | --- |

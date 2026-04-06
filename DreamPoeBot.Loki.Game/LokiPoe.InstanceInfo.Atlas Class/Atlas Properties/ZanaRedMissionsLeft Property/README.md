@@ -1,5 +1,6 @@
 # ZanaRedMissionsLeft Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo Atlas ZanaRedMissionsLeft Property |
 | --- |

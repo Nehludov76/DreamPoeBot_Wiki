@@ -1,5 +1,6 @@
 # _element Field
 
+**Вложено элементов:** 0  
 
 | CraftingBenchElement Recipe Price _element Field |
 | --- |

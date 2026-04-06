@@ -1,5 +1,6 @@
 # MinRegionSize Property 
 
+**Вложено элементов:** 0  
 
 | RecastMeshSettings MinRegionSize Property |
 | --- |

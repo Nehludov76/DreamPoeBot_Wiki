@@ -1,5 +1,6 @@
 # Ingredients Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState BeastCraftingingUi Recipes Ingredients Property |
 | --- |

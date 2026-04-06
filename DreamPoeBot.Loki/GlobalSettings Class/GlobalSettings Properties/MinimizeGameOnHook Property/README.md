@@ -1,5 +1,6 @@
 # MinimizeGameOnHook Property 
 
+**Вложено элементов:** 0  
 
 | GlobalSettings MinimizeGameOnHook Property |
 | --- |

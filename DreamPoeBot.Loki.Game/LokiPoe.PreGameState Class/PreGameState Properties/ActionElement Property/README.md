@@ -1,5 +1,6 @@
 # ActionElement Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe PreGameState ActionElement Property |
 | --- |

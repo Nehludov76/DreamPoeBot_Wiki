@@ -1,5 +1,6 @@
 # LeftHandWeaponVisual Property 
 
+**Вложено элементов:** 0  
 
 | Actor LeftHandWeaponVisual Property |
 | --- |

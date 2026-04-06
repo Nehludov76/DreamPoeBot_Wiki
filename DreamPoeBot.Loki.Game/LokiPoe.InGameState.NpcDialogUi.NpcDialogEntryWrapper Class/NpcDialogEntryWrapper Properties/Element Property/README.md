@@ -1,5 +1,6 @@
 # Element Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState NpcDialogUi NpcDialogEntryWrapper Element Property |
 | --- |

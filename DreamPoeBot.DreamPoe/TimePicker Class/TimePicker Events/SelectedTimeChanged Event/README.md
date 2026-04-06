@@ -1,5 +1,6 @@
 # SelectedTimeChanged Event
 
+**Вложено элементов:** 0  
 
 | TimePicker SelectedTimeChanged Event |
 | --- |

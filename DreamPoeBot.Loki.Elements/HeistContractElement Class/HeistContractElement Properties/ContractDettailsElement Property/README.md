@@ -1,5 +1,6 @@
 # ContractDettailsElement Property 
 
+**Вложено элементов:** 0  
 
 | HeistContractElement ContractDettailsElement Property |
 | --- |

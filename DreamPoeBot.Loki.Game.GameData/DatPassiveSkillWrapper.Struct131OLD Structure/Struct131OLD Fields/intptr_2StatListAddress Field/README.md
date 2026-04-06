@@ -1,5 +1,6 @@
 # intptr_2StatListAddress Field
 
+**Вложено элементов:** 0  
 
 | DatPassiveSkillWrapper Struct131OLD intptr_2StatListAddress Field |
 | --- |

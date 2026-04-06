@@ -1,5 +1,6 @@
 # IsInterrogateVisible Property 
 
+**Вложено элементов:** 0  
 
 | BetryalElement IsInterrogateVisible Property |
 | --- |

@@ -1,5 +1,6 @@
 # DisplayNoteUI Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements DisplayNoteUI Property |
 | --- |

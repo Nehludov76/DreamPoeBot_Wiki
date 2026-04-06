@@ -1,5 +1,6 @@
 # SelectedMasterMission Property 
 
+**Вложено элементов:** 0  
 
 | MasterDeviceElement SelectedMasterMission Property |
 | --- |

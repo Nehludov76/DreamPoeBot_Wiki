@@ -1,5 +1,6 @@
 # GetServerData Property 
 
+**Вложено элементов:** 0  
 
 | IngameState GetServerData Property |
 | --- |

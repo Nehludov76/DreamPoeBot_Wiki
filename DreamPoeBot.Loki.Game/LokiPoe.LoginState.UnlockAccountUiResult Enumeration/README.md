@@ -1,5 +1,6 @@
 # LokiPoe.LoginState.UnlockAccountUiResult Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe LoginState UnlockAccountUiResult Enumeration |
 | --- |
@@ -28,12 +29,12 @@ public enum class UnlockAccountUiResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| ProcessHookManagerNotEnabled | 1 |
-| UiNotOpen | 2 |
-| NotEnabled | 3 |
-| NotVisible | 4 |
-| InvalidCodeFormat | 5 |
-| InvalidCode | 6 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | ProcessHookManagerNotEnabled | 1 |  |
+|  | UiNotOpen | 2 |  |
+|  | NotEnabled | 3 |  |
+|  | NotVisible | 4 |  |
+|  | InvalidCodeFormat | 5 |  |
+|  | InvalidCode | 6 |  |

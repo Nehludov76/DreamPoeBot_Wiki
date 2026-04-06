@@ -1,5 +1,6 @@
 # CurrentAreaMap Property 
 
+**Вложено элементов:** 0  
 
 | IngameState CurrentAreaMap Property |
 | --- |

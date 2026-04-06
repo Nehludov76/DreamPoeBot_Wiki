@@ -1,5 +1,6 @@
 # PreStop Event
 
+**Вложено элементов:** 0  
 
 | PluginManager PreStop Event |
 | --- |

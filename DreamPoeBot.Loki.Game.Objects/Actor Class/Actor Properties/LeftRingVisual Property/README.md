@@ -1,5 +1,6 @@
 # LeftRingVisual Property 
 
+**Вложено элементов:** 0  
 
 | Actor LeftRingVisual Property |
 | --- |

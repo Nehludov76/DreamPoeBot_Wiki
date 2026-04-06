@@ -1,5 +1,6 @@
 # WeightCalculation Event
 
+**Вложено элементов:** 0  
 
 | Targeting WeightCalculation Event |
 | --- |

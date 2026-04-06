@@ -1,5 +1,6 @@
 # LokiPoe.LocalData.LabyrinthSecret Constructor 
 
+**Вложено элементов:** 0  
 
 | LokiPoe LocalData LabyrinthSecret Constructor |
 | --- |

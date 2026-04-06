@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.ZanaInfluenceSkillBarUi.ZanaInfluenceSkill Constructor 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ZanaInfluenceSkillBarUi ZanaInfluenceSkill Constructor |
 | --- |

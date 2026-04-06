@@ -1,5 +1,6 @@
 # intptr_0Name Field
 
+**Вложено элементов:** 0  
 
 | DatPassiveSkillMasteryWrapper DatStructure intptr_0Name Field |
 | --- |

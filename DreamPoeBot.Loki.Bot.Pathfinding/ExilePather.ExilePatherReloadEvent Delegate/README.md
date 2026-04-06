@@ -1,5 +1,6 @@
 # ExilePather.ExilePatherReloadEvent Delegate
 
+**Вложено элементов:** 0  
 
 | ExilePather ExilePatherReloadEvent Delegate |
 | --- |

@@ -1,5 +1,6 @@
 # AutoRestart Method 
 
+**Вложено элементов:** 0  
 
 | CoroutineExtension AutoRestart Method |
 | --- |

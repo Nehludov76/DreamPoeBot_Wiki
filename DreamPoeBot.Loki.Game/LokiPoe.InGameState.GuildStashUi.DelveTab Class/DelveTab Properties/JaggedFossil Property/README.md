@@ -1,5 +1,6 @@
 # JaggedFossil Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState GuildStashUi DelveTab JaggedFossil Property |
 | --- |

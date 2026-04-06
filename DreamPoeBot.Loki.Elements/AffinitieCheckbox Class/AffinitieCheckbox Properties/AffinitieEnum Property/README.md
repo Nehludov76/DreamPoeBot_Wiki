@@ -1,5 +1,6 @@
 # AffinitieEnum Property 
 
+**Вложено элементов:** 0  
 
 | AffinitieCheckbox AffinitieEnum Property |
 | --- |

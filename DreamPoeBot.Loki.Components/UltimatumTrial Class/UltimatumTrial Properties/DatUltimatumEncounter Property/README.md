@@ -1,5 +1,6 @@
 # DatUltimatumEncounter Property 
 
+**Вложено элементов:** 0  
 
 | UltimatumTrial DatUltimatumEncounter Property |
 | --- |

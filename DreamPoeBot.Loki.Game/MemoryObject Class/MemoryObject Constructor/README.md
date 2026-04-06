@@ -1,5 +1,6 @@
 # MemoryObject Constructor 
 
+**Вложено элементов:** 0  
 
 | MemoryObject Constructor |
 | --- |

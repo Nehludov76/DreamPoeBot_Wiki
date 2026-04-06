@@ -1,5 +1,6 @@
 # MainUi Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements MainUi Property |
 | --- |

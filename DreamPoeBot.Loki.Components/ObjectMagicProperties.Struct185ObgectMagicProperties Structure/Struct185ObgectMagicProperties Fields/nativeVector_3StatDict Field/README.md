@@ -1,5 +1,6 @@
 # nativeVector_3StatDict Field
 
+**Вложено элементов:** 0  
 
 | ObjectMagicProperties Struct185ObgectMagicProperties nativeVector_3StatDict Field |
 | --- |

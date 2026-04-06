@@ -1,5 +1,6 @@
 # NrOfSocketedVoidstones Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo Atlas NrOfSocketedVoidstones Property |
 | --- |

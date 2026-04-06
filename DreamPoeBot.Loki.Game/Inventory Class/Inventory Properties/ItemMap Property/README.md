@@ -1,5 +1,6 @@
 # ItemMap Property 
 
+**Вложено элементов:** 0  
 
 | Inventory ItemMap Property |
 | --- |

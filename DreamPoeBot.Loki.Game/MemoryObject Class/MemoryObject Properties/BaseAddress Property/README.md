@@ -1,5 +1,6 @@
 # BaseAddress Property 
 
+**Вложено элементов:** 0  
 
 | MemoryObject BaseAddress Property |
 | --- |

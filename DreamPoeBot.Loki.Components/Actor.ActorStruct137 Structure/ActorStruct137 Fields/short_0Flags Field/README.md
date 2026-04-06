@@ -1,5 +1,6 @@
 # short_0Flags Field
 
+**Вложено элементов:** 0  
 
 | Actor ActorStruct137 short_0Flags Field |
 | --- |

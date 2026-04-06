@@ -1,5 +1,6 @@
 # PlayerMoverManager.PlayerMoverEvent Delegate
 
+**Вложено элементов:** 0  
 
 | PlayerMoverManager PlayerMoverEvent Delegate |
 | --- |

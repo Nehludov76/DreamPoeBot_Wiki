@@ -1,5 +1,6 @@
 # Equals Method (NativeStringWCustom)
 
+**Вложено элементов:** 0  
 
 | NativeStringWCustom Equals Method (NativeStringWCustom) |
 | --- |

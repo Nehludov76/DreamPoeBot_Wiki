@@ -1,5 +1,6 @@
 # PlayerLeftRing Property 
 
+**Вложено элементов:** 0  
 
 | InventoryElement PlayerLeftRing Property |
 | --- |

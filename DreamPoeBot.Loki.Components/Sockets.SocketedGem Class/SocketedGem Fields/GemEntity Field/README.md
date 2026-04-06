@@ -1,5 +1,6 @@
 # GemEntity Field
 
+**Вложено элементов:** 0  
 
 | Sockets SocketedGem GemEntity Field |
 | --- |

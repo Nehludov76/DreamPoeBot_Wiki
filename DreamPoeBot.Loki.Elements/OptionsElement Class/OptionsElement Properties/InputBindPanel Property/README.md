@@ -1,5 +1,6 @@
 # InputBindPanel Property 
 
+**Вложено элементов:** 0  
 
 | OptionsElement InputBindPanel Property |
 | --- |

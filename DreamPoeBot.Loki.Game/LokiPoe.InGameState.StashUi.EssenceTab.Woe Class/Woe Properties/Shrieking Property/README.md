@@ -1,5 +1,6 @@
 # Shrieking Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState StashUi EssenceTab Woe Shrieking Property |
 | --- |

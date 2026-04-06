@@ -1,5 +1,6 @@
 # CellWidth Property 
 
+**Вложено элементов:** 0  
 
 | GatewayComboBoxElement GatewayComboBoxEntry CellWidth Property |
 | --- |

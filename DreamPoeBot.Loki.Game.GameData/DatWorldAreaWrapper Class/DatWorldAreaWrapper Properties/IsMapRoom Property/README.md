@@ -1,5 +1,6 @@
 # IsMapRoom Property 
 
+**Вложено элементов:** 0  
 
 | DatWorldAreaWrapper IsMapRoom Property |
 | --- |

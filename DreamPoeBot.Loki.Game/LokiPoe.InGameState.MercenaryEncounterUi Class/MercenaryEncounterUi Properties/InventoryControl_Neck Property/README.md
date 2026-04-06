@@ -1,5 +1,6 @@
 # InventoryControl_Neck Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState MercenaryEncounterUi InventoryControl_Neck Property |
 | --- |

@@ -1,5 +1,6 @@
 # WantMoveToPosition Field
 
+**Вложено элементов:** 0  
 
 | Pathfinding PathfindingComponentOffsets WantMoveToPosition Field |
 | --- |

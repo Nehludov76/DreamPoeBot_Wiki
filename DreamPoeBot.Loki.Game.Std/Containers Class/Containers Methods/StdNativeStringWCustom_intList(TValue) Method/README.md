@@ -1,5 +1,6 @@
 # StdNativeStringWCustom_intList(TValue) Method 
 
+**Вложено элементов:** 0  
 
 | Containers StdNativeStringWCustom_intList TValue Method |
 | --- |

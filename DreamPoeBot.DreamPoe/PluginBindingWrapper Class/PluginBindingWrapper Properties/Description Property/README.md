@@ -1,5 +1,6 @@
 # Description Property 
 
+**Вложено элементов:** 0  
 
 | PluginBindingWrapper Description Property |
 | --- |

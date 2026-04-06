@@ -1,5 +1,6 @@
 # filePtr Field
 
+**Вложено элементов:** 0  
 
 | SmallFileTableNew filePtr Field |
 | --- |

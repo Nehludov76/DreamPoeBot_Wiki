@@ -1,5 +1,6 @@
 # MapName Field
 
+**Вложено элементов:** 0  
 
 | MapSubInventoryInfo MapName Field |
 | --- |

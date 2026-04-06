@@ -1,5 +1,6 @@
 # highlight_toggle Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input Binding highlight_toggle Property |
 | --- |

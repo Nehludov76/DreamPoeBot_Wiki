@@ -1,5 +1,6 @@
 # Activity Property 
 
+**Вложено элементов:** 0  
 
 | AreaData Activity Property |
 | --- |

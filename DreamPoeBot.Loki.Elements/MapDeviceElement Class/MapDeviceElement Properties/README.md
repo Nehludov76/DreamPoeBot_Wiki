@@ -1,5 +1,6 @@
 # MapDeviceElement Properties
 
+**Вложено элементов:** 5  
 
 | MapDeviceElement Properties |
 | --- |
@@ -10,41 +11,48 @@
 The MapDeviceElement type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| ActivateClickPos |
-| ActivateElement |
-| Address | (Inherited from RemoteMemoryObject .) |
-| AtlasClickPos |
-| AtlasElement |
-| ChildCount | (Inherited from Element .) |
-| Children | (Inherited from Element .) |
-| ControlType | (Inherited from Element .) |
-| DeltaX | (Inherited from Element .) |
-| DeltaY | (Inherited from Element .) |
-| ElementZoom | (Inherited from Element .) |
-| Game | (Inherited from RemoteMemoryObject .) |
-| GuiControlType | (Inherited from Element .) |
-| Height | (Inherited from Element .) |
-| IdLabel | (Inherited from Element .) |
-| Inventory |
-| IsEnable | (Inherited from Element .) |
-| IsItemTransparent | (Inherited from Element .) |
-| IsValid | (Inherited from RemoteMemoryObject .) |
-| IsVisible | (Inherited from Element .) |
-| IsVisibleLocal | (Inherited from Element .) |
-| M | (Inherited from RemoteMemoryObject .) |
-| Offsets | (Inherited from RemoteMemoryObject .) |
-| Parent | (Inherited from Element .) |
-| Root | (Inherited from Element .) |
-| Scale | (Inherited from Element .) |
-| Text | (Inherited from Element .) |
-| Tooltip | (Inherited from Element .) |
-| Tooltips | (Inherited from Element .) |
-| vTable | (Inherited from Element .) |
-| Width | (Inherited from Element .) |
-| X | (Inherited from Element .) |
-| XAddress | (Inherited from Element .) |
-| Y | (Inherited from Element .) |
-| YAddress | (Inherited from Element .) |
-| zoomAddress | (Inherited from Element .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | ActivateClickPos |  |
+|  | ActivateElement |  |
+|  | Address | (Inherited from RemoteMemoryObject .) |
+|  | AtlasClickPos |  |
+|  | AtlasElement |  |
+|  | ChildCount | (Inherited from Element .) |
+|  | Children | (Inherited from Element .) |
+|  | ControlType | (Inherited from Element .) |
+|  | DeltaX | (Inherited from Element .) |
+|  | DeltaY | (Inherited from Element .) |
+|  | ElementZoom | (Inherited from Element .) |
+|  | Game | (Inherited from RemoteMemoryObject .) |
+|  | GuiControlType | (Inherited from Element .) |
+|  | Height | (Inherited from Element .) |
+|  | IdLabel | (Inherited from Element .) |
+|  | Inventory |  |
+|  | IsEnable | (Inherited from Element .) |
+|  | IsItemTransparent | (Inherited from Element .) |
+|  | IsValid | (Inherited from RemoteMemoryObject .) |
+|  | IsVisible | (Inherited from Element .) |
+|  | IsVisibleLocal | (Inherited from Element .) |
+|  | M | (Inherited from RemoteMemoryObject .) |
+|  | Offsets | (Inherited from RemoteMemoryObject .) |
+|  | Parent | (Inherited from Element .) |
+|  | Root | (Inherited from Element .) |
+|  | Scale | (Inherited from Element .) |
+|  | Text | (Inherited from Element .) |
+|  | Tooltip | (Inherited from Element .) |
+|  | Tooltips | (Inherited from Element .) |
+|  | vTable | (Inherited from Element .) |
+|  | Width | (Inherited from Element .) |
+|  | X | (Inherited from Element .) |
+|  | XAddress | (Inherited from Element .) |
+|  | Y | (Inherited from Element .) |
+|  | YAddress | (Inherited from Element .) |
+|  | zoomAddress | (Inherited from Element .) |
+
+## Дочерние разделы
+- [**ActivateClickPos Property **](./ActivateClickPos Property/README.md)
+- [**ActivateElement Property **](./ActivateElement Property/README.md)
+- [**AtlasClickPos Property **](./AtlasClickPos Property/README.md)
+- [**AtlasElement Property **](./AtlasElement Property/README.md)
+- [**Inventory Property **](./Inventory Property/README.md)

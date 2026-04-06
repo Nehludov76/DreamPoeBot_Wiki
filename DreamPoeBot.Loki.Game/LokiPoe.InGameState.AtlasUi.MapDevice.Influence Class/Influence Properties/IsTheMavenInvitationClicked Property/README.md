@@ -1,5 +1,6 @@
 # IsTheMavenInvitationClicked Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState AtlasUi MapDevice Influence IsTheMavenInvitationClicked Property |
 | --- |

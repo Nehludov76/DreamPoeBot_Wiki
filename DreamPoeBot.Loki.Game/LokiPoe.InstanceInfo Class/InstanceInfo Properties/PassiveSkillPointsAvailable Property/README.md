@@ -1,5 +1,6 @@
 # PassiveSkillPointsAvailable Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo PassiveSkillPointsAvailable Property |
 | --- |

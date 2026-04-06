@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.StashUi.DeliriumTab Class
 
+**Вложено элементов:** 33  
 
 | LokiPoe InGameState StashUi DeliriumTab Class |
 | --- |
@@ -32,40 +33,44 @@ public ref class DeliriumTab abstract sealed
 The LokiPoe InGameState StashUi DeliriumTab type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| AbyssalDeliriumOrb |
-| All |
-| AllCurrency |
-| AmorphousDeliriumOrb |
-| ArmoursmithsDeliriumOrb |
-| BlacksmithsDeliriumOrb |
-| BlightedDeliriumOrb |
-| CartographersDeliriumOrb |
-| DivinersDeliriumOrb |
-| FineDeliriumOrb |
-| ForebodingDeliriumOrb |
-| FossilisedDeliriumOrb |
-| FragmentedDeliriumOrb |
-| GenericSlot1 |
-| GenericSlot2 |
-| GenericSlot3 |
-| GenericSlot4 |
-| ImperialDeliriumOrb |
-| JewellersDeliriumOrb |
-| KalguuranDeliriumOrb |
-| Maps |
-| ObscuredDeliriumOrb |
-| PrimalDeliriumOrb |
-| Simulacrum |
-| SimulacrumSplinter |
-| SingularDeliriumOrb |
-| SkitteringDeliriumOrb |
-| ThaumaturgesDeliriumOrb |
-| TimelessDeliriumOrb |
-| WhisperingDeliriumOrb |
+|  | Name | Description |
+| --- | --- | --- |
+|  | AbyssalDeliriumOrb |  |
+|  | All |  |
+|  | AllCurrency |  |
+|  | AmorphousDeliriumOrb |  |
+|  | ArmoursmithsDeliriumOrb |  |
+|  | BlacksmithsDeliriumOrb |  |
+|  | BlightedDeliriumOrb |  |
+|  | CartographersDeliriumOrb |  |
+|  | DivinersDeliriumOrb |  |
+|  | FineDeliriumOrb |  |
+|  | ForebodingDeliriumOrb |  |
+|  | FossilisedDeliriumOrb |  |
+|  | FragmentedDeliriumOrb |  |
+|  | GenericSlot1 |  |
+|  | GenericSlot2 |  |
+|  | GenericSlot3 |  |
+|  | GenericSlot4 |  |
+|  | ImperialDeliriumOrb |  |
+|  | JewellersDeliriumOrb |  |
+|  | KalguuranDeliriumOrb |  |
+|  | Maps |  |
+|  | ObscuredDeliriumOrb |  |
+|  | PrimalDeliriumOrb |  |
+|  | Simulacrum |  |
+|  | SimulacrumSplinter |  |
+|  | SingularDeliriumOrb |  |
+|  | SkitteringDeliriumOrb |  |
+|  | ThaumaturgesDeliriumOrb |  |
+|  | TimelessDeliriumOrb |  |
+|  | WhisperingDeliriumOrb |  |
 
 
-| Name | Description |
-| --- | --- |
-| GetInventoryControlForMetadata |
+|  | Name | Description |
+| --- | --- | --- |
+|  | GetInventoryControlForMetadata |  |
+
+## Дочерние разделы
+- [**DeliriumTab Properties**](./DeliriumTab Properties/README.md)
+- [**DeliriumTab Methods**](./DeliriumTab Methods/README.md)

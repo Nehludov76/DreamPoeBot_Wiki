@@ -1,5 +1,6 @@
 # UnblockTriggerableBlockages Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe TerrainData UnblockTriggerableBlockages Method |
 | --- |

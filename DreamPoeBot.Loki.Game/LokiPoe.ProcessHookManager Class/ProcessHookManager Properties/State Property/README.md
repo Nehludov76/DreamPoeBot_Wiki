@@ -1,5 +1,6 @@
 # State Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe ProcessHookManager State Property |
 | --- |

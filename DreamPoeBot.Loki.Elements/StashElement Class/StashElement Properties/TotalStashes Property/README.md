@@ -1,5 +1,6 @@
 # TotalStashes Property 
 
+**Вложено элементов:** 0  
 
 | StashElement TotalStashes Property |
 | --- |

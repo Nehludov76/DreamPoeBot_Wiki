@@ -1,5 +1,6 @@
 # CloseButtonElement Property 
 
+**Вложено элементов:** 0  
 
 | KalguurRewardElement CloseButtonElement Property |
 | --- |

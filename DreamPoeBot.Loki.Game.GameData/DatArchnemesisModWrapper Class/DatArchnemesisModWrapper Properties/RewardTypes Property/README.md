@@ -1,5 +1,6 @@
 # RewardTypes Property 
 
+**Вложено элементов:** 0  
 
 | DatArchnemesisModWrapper RewardTypes Property |
 | --- |

@@ -1,5 +1,6 @@
 # ServerData.PassiveSkillGraphNode Constructor (ServerData.PassiveSkillGraphStructure, Int32)
 
+**Вложено элементов:** 0  
 
 | ServerData PassiveSkillGraphNode Constructor (ServerData PassiveSkillGraphStructure, Int32) |
 | --- |

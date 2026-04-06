@@ -1,5 +1,6 @@
 # GetRequiredInt Method 
 
+**Вложено элементов:** 0  
 
 | DatGrantedEffectsPerLevelWrapper GetRequiredInt Method |
 | --- |

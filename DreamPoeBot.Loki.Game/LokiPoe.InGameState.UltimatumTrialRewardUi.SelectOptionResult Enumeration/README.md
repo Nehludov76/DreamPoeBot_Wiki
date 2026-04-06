@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.UltimatumTrialRewardUi.SelectOptionResult Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState UltimatumTrialRewardUi SelectOptionResult Enumeration |
 | --- |
@@ -30,10 +31,10 @@ public enum class SelectOptionResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| UiNotVisible | 1 |
-| OptionNotPresent | 2 |
-| OptionElementNotFound | 3 |
-| ProcessHookManagerNotEnabled | 4 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | UiNotVisible | 1 |  |
+|  | OptionNotPresent | 2 |  |
+|  | OptionElementNotFound | 3 |  |
+|  | ProcessHookManagerNotEnabled | 4 |  |

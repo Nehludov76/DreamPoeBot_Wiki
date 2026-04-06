@@ -1,5 +1,6 @@
 # ToggleButton Property 
 
+**Вложено элементов:** 0  
 
 | ToggleExplosivePlacementElement ToggleButton Property |
 | --- |

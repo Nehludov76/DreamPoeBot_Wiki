@@ -1,5 +1,6 @@
 # skip_encounter_delay_combo Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input Binding skip_encounter_delay_combo Property |
 | --- |

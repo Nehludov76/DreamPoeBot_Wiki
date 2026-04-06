@@ -1,5 +1,6 @@
 # WriteShort Method 
 
+**Вложено элементов:** 0  
 
 | Memory WriteShort Method |
 | --- |

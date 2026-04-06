@@ -1,5 +1,6 @@
 # Col Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe TerrainDataEntryWrapper Col Property |
 | --- |

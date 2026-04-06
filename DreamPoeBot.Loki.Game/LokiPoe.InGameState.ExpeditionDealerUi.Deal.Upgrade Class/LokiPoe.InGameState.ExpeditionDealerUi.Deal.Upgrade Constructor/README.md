@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.ExpeditionDealerUi.Deal.Upgrade Constructor 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ExpeditionDealerUi Deal Upgrade Constructor |
 | --- |

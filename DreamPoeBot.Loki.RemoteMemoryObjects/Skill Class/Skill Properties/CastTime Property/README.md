@@ -1,5 +1,6 @@
 # CastTime Property 
 
+**Вложено элементов:** 0  
 
 | Skill CastTime Property |
 | --- |

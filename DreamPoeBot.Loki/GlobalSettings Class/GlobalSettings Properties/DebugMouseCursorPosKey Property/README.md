@@ -1,5 +1,6 @@
 # DebugMouseCursorPosKey Property 
 
+**Вложено элементов:** 0  
 
 | GlobalSettings DebugMouseCursorPosKey Property |
 | --- |

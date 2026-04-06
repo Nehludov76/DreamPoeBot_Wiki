@@ -1,5 +1,6 @@
 # Pattern Constructor (String, String)
 
+**Вложено элементов:** 0  
 
 | Pattern Constructor (String, String) |
 | --- |

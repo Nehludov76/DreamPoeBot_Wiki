@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.GuildStashUi.EssenceTab.Delirium Class
 
+**Вложено элементов:** 2  
 
 | LokiPoe InGameState GuildStashUi EssenceTab Delirium Class |
 | --- |
@@ -32,6 +33,9 @@ public ref class Delirium abstract sealed
 The LokiPoe InGameState GuildStashUi EssenceTab Delirium type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Essence |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Essence |  |
+
+## Дочерние разделы
+- [**Delirium Properties**](./Delirium Properties/README.md)

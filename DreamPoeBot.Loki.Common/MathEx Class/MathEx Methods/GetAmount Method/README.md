@@ -1,5 +1,6 @@
 # GetAmount Method 
 
+**Вложено элементов:** 0  
 
 | MathEx GetAmount Method |
 | --- |

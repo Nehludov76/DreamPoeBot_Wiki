@@ -1,5 +1,6 @@
 # InventoryControls Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState RewardUi InventoryControls Property |
 | --- |

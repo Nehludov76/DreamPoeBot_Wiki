@@ -1,5 +1,6 @@
 # LabyrinthDifficulty Enumeration
 
+**Вложено элементов:** 0  
 
 | LabyrinthDifficulty Enumeration |
 | --- |
@@ -30,10 +31,10 @@ public enum class LabyrinthDifficulty
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | -1 |
-| Normal | 0 |
-| Cruel | 1 |
-| Merciless | 2 |
-| Endgame | 3 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | -1 |  |
+|  | Normal | 0 |  |
+|  | Cruel | 1 |  |
+|  | Merciless | 2 |  |
+|  | Endgame | 3 |  |

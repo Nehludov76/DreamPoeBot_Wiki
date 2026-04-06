@@ -1,5 +1,6 @@
 # ReadDoublePointerIntList Method 
 
+**Вложено элементов:** 0  
 
 | Memory ReadDoublePointerIntList Method |
 | --- |

@@ -1,5 +1,6 @@
 # Hash16 Field
 
+**Вложено элементов:** 0  
 
 | AtlasNodeDat AtlasNodeRecord Hash16 Field |
 | --- |

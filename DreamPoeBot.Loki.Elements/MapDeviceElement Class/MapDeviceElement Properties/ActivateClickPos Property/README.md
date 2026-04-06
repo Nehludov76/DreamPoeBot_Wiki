@@ -1,5 +1,6 @@
 # ActivateClickPos Property 
 
+**Вложено элементов:** 0  
 
 | MapDeviceElement ActivateClickPos Property |
 | --- |

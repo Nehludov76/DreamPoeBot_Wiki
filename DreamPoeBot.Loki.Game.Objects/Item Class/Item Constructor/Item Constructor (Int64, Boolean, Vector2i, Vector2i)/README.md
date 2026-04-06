@@ -1,5 +1,6 @@
 # Item Constructor (Int64, Boolean, Vector2i, Vector2i)
 
+**Вложено элементов:** 0  
 
 | Item Constructor (Int64, Boolean, Vector2i, Vector2i) |
 | --- |

@@ -1,5 +1,6 @@
 # GetPercentage Method 
 
+**Вложено элементов:** 0  
 
 | MathEx GetPercentage Method |
 | --- |

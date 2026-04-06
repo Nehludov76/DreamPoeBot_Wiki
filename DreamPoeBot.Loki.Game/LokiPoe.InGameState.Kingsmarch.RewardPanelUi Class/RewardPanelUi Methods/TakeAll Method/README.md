@@ -1,5 +1,6 @@
 # TakeAll Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState Kingsmarch RewardPanelUi TakeAll Method |
 | --- |

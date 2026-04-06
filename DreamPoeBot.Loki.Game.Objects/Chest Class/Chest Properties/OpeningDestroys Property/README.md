@@ -1,5 +1,6 @@
 # OpeningDestroys Property 
 
+**Вложено элементов:** 0  
 
 | Chest OpeningDestroys Property |
 | --- |

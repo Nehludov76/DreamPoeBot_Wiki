@@ -1,5 +1,6 @@
 # UserSkills Property 
 
+**Вложено элементов:** 0  
 
 | Actor UserSkills Property |
 | --- |

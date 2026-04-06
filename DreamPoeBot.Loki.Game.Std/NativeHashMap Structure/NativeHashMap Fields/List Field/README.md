@@ -1,5 +1,6 @@
 # List Field
 
+**Вложено элементов:** 0  
 
 | NativeHashMap List Field |
 | --- |

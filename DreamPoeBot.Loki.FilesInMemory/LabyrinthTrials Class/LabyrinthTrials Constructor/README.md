@@ -1,5 +1,6 @@
 # LabyrinthTrials Constructor 
 
+**Вложено элементов:** 0  
 
 | LabyrinthTrials Constructor |
 | --- |

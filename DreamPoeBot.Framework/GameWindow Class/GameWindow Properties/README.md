@@ -1,5 +1,6 @@
 # GameWindow Properties
 
+**Вложено элементов:** 1  
 
 | GameWindow Properties |
 | --- |
@@ -10,6 +11,9 @@
 The GameWindow type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Process |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Process |  |
+
+## Дочерние разделы
+- [**Process Property **](./Process Property/README.md)

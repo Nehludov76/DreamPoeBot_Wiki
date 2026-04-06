@@ -1,5 +1,6 @@
 # BaseItemTypeWrapper Property 
 
+**Вложено элементов:** 0  
 
 | DatSkillGemWrapper BaseItemTypeWrapper Property |
 | --- |

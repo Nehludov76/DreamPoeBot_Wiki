@@ -1,5 +1,6 @@
 # IsInUltimatum Method (Int32, Int32)
 
+**Вложено элементов:** 0  
 
 | GridExplorer UltimatumDataClass IsInUltimatum Method (Int32, Int32) |
 | --- |

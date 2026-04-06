@@ -1,5 +1,6 @@
 # IsHostile Property 
 
+**Вложено элементов:** 0  
 
 | NetworkObject IsHostile Property |
 | --- |

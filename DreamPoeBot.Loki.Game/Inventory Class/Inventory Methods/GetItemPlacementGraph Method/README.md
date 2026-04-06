@@ -1,5 +1,6 @@
 # GetItemPlacementGraph Method 
 
+**Вложено элементов:** 0  
 
 | Inventory GetItemPlacementGraph Method |
 | --- |

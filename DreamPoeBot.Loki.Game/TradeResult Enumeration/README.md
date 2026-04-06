@@ -1,5 +1,6 @@
 # TradeResult Enumeration
 
+**Вложено элементов:** 0  
 
 | TradeResult Enumeration |
 | --- |
@@ -30,10 +31,10 @@ public enum class TradeResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| ProcessHookManagerNotEnabled | 1 |
-| UiNotOpen | 2 |
-| NoItem | 3 |
-| UnableToTrade | 4 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | ProcessHookManagerNotEnabled | 1 |  |
+|  | UiNotOpen | 2 |  |
+|  | NoItem | 3 |  |
+|  | UnableToTrade | 4 |  |

@@ -1,5 +1,6 @@
 # Rows Property 
 
+**Вложено элементов:** 0  
 
 | Inventory Rows Property |
 | --- |

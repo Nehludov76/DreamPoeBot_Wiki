@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.GuildStashUi.DelveTab Class
 
+**Вложено элементов:** 41  
 
 | LokiPoe InGameState GuildStashUi DelveTab Class |
 | --- |
@@ -32,48 +33,52 @@ public ref class DelveTab abstract sealed
 The LokiPoe InGameState GuildStashUi DelveTab type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| AberrantFossil |
-| AethericFossil |
-| All |
-| BloodstainedFossil |
-| BoundFossil |
-| CorrodedFossil |
-| CraftingSlot1 |
-| CraftingSlot2 |
-| DenseFossil |
-| EnchantedFossil |
-| EncrustedFossil |
-| FacetedFossil |
-| FracturedFossil |
-| FrigidFossil |
-| GildedFossil |
-| GlyphicFossil |
-| HollowFossil |
-| JaggedFossil |
-| LucentFossil |
-| MetallicFossil |
-| OnlyFossil |
-| OnlyResonator |
-| PerfectFossil |
-| PotentAlchemicalResonator |
-| PotentChaoticResonator |
-| PowerfulAlchemicalResonator |
-| PowerfulChaoticResonator |
-| PrimeAlchemicalResonator |
-| PrimeChaoticResonator |
-| PrimitiveAlchemicalResonator |
-| PrimitiveChaoticResonator |
-| PrismaticFossil |
-| PristineFossil |
-| SanctifiedFossil |
-| ScorchedFossil |
-| SerratedFossil |
-| ShudderingFossil |
-| TangledFossil |
+|  | Name | Description |
+| --- | --- | --- |
+|  | AberrantFossil |  |
+|  | AethericFossil |  |
+|  | All |  |
+|  | BloodstainedFossil |  |
+|  | BoundFossil |  |
+|  | CorrodedFossil |  |
+|  | CraftingSlot1 |  |
+|  | CraftingSlot2 |  |
+|  | DenseFossil |  |
+|  | EnchantedFossil |  |
+|  | EncrustedFossil |  |
+|  | FacetedFossil |  |
+|  | FracturedFossil |  |
+|  | FrigidFossil |  |
+|  | GildedFossil |  |
+|  | GlyphicFossil |  |
+|  | HollowFossil |  |
+|  | JaggedFossil |  |
+|  | LucentFossil |  |
+|  | MetallicFossil |  |
+|  | OnlyFossil |  |
+|  | OnlyResonator |  |
+|  | PerfectFossil |  |
+|  | PotentAlchemicalResonator |  |
+|  | PotentChaoticResonator |  |
+|  | PowerfulAlchemicalResonator |  |
+|  | PowerfulChaoticResonator |  |
+|  | PrimeAlchemicalResonator |  |
+|  | PrimeChaoticResonator |  |
+|  | PrimitiveAlchemicalResonator |  |
+|  | PrimitiveChaoticResonator |  |
+|  | PrismaticFossil |  |
+|  | PristineFossil |  |
+|  | SanctifiedFossil |  |
+|  | ScorchedFossil |  |
+|  | SerratedFossil |  |
+|  | ShudderingFossil |  |
+|  | TangledFossil |  |
 
 
-| Name | Description |
-| --- | --- |
-| GetInventoryControlForMetadata |
+|  | Name | Description |
+| --- | --- | --- |
+|  | GetInventoryControlForMetadata |  |
+
+## Дочерние разделы
+- [**DelveTab Properties**](./DelveTab Properties/README.md)
+- [**DelveTab Methods**](./DelveTab Methods/README.md)

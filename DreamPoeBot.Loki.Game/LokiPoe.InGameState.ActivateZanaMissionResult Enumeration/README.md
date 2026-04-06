@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.ActivateZanaMissionResult Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ActivateZanaMissionResult Enumeration |
 | --- |
@@ -30,8 +31,8 @@ public enum class ActivateZanaMissionResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| ProcessHookManagerNotEnabled | 0 |
-| UiNotOpen | 1 |
-| None | 2 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | ProcessHookManagerNotEnabled | 0 |  |
+|  | UiNotOpen | 1 |  |
+|  | None | 2 |  |

@@ -1,5 +1,6 @@
 # Tier Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState BloodCrucibleUi Skills HellscapeSkillSlot Tier Property |
 | --- |

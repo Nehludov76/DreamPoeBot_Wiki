@@ -1,5 +1,6 @@
 # ClickMMB Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input ClickMMB Method |
 | --- |

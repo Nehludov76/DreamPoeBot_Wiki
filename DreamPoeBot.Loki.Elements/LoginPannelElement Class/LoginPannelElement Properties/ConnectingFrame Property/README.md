@@ -1,5 +1,6 @@
 # ConnectingFrame Property 
 
+**Вложено элементов:** 0  
 
 | LoginPannelElement ConnectingFrame Property |
 | --- |

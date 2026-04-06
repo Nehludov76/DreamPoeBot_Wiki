@@ -1,5 +1,6 @@
 # Lifetime Property 
 
+**Вложено элементов:** 0  
 
 | AreaData Lifetime Property |
 | --- |

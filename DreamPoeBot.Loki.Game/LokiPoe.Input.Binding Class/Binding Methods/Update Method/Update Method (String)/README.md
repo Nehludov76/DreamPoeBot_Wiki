@@ -1,5 +1,6 @@
 # Update Method (String)
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input Binding Update Method (String) |
 | --- |

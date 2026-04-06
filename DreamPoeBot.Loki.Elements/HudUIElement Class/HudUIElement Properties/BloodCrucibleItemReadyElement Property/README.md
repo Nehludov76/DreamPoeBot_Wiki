@@ -1,5 +1,6 @@
 # BloodCrucibleItemReadyElement Property 
 
+**Вложено элементов:** 0  
 
 | HudUIElement BloodCrucibleItemReadyElement Property |
 | --- |

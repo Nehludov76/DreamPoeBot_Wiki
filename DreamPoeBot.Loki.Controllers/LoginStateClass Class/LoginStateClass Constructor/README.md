@@ -1,5 +1,6 @@
 # LoginStateClass Constructor 
 
+**Вложено элементов:** 0  
 
 | LoginStateClass Constructor |
 | --- |

@@ -1,5 +1,6 @@
 # TerrainRotationSelector Property 
 
+**Вложено элементов:** 0  
 
 | Offsets TerrainRotationSelector Property |
 | --- |

@@ -1,5 +1,6 @@
 # WindowWidth Property 
 
+**Вложено элементов:** 0  
 
 | GuiSettings WindowWidth Property |
 | --- |

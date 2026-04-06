@@ -1,5 +1,6 @@
 # IsBackgroundFpsActive Property 
 
+**Вложено элементов:** 0  
 
 | GlobalSettings IsBackgroundFpsActive Property |
 | --- |

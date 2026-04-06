@@ -1,5 +1,6 @@
 # Unlocked Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState WorldUi WaypointDataWrapper Unlocked Property |
 | --- |

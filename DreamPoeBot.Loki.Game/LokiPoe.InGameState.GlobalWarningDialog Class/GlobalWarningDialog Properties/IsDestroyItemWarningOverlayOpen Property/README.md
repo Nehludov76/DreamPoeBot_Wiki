@@ -1,5 +1,6 @@
 # IsDestroyItemWarningOverlayOpen Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState GlobalWarningDialog IsDestroyItemWarningOverlayOpen Property |
 | --- |

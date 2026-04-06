@@ -1,5 +1,6 @@
 # PerFrameCachedValue(T) Constructor 
 
+**Вложено элементов:** 0  
 
 | PerFrameCachedValue T Constructor |
 | --- |

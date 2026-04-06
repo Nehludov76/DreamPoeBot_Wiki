@@ -1,5 +1,6 @@
 # LokiPoe.ConfigManager.NetworkingType Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe ConfigManager NetworkingType Enumeration |
 | --- |
@@ -30,9 +31,9 @@ public enum class NetworkingType
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| Unknown | 0 |
-| Auto | 1 |
-| Lockstep | 2 |
-| Predictive | 3 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | Unknown | 0 |  |
+|  | Auto | 1 |  |
+|  | Lockstep | 2 |  |
+|  | Predictive | 3 |  |

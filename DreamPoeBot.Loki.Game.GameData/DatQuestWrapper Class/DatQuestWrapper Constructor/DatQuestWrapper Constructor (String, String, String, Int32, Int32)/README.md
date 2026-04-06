@@ -1,5 +1,6 @@
 # DatQuestWrapper Constructor (String, String, String, Int32, Int32)
 
+**Вложено элементов:** 0  
 
 | DatQuestWrapper Constructor (String, String, String, Int32, Int32) |
 | --- |

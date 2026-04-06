@@ -1,5 +1,6 @@
 # RewardSlotClickLocation Method 
 
+**Вложено элементов:** 0  
 
 | InventorySlotUiElement RewardSlotClickLocation Method |
 | --- |

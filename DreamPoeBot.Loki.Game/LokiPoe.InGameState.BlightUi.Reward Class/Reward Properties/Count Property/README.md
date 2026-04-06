@@ -1,5 +1,6 @@
 # Count Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState BlightUi Reward Count Property |
 | --- |

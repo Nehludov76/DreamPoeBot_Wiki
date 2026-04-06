@@ -1,5 +1,6 @@
 # IsGamePausedFlag2 Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo IsGamePausedFlag2 Property |
 | --- |

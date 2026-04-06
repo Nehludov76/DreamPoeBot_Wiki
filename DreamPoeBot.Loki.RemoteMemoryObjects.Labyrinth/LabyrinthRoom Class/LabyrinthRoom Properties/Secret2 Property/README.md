@@ -1,5 +1,6 @@
 # Secret2 Property 
 
+**Вложено элементов:** 0  
 
 | LabyrinthRoom Secret2 Property |
 | --- |

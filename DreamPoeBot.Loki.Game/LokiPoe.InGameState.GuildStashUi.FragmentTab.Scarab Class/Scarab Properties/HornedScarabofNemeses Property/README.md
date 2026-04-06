@@ -1,5 +1,6 @@
 # HornedScarabofNemeses Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState GuildStashUi FragmentTab Scarab HornedScarabofNemeses Property |
 | --- |

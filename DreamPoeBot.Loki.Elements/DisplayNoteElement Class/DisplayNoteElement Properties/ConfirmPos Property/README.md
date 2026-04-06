@@ -1,5 +1,6 @@
 # ConfirmPos Property 
 
+**Вложено элементов:** 0  
 
 | DisplayNoteElement ConfirmPos Property |
 | --- |

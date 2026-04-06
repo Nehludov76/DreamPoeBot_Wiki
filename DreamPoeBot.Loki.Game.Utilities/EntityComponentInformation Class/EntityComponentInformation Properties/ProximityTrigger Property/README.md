@@ -1,5 +1,6 @@
 # ProximityTrigger Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation ProximityTrigger Property |
 | --- |

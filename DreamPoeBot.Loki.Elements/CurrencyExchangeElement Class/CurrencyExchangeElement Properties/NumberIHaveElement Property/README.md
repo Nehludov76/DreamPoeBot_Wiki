@@ -1,5 +1,6 @@
 # NumberIHaveElement Property 
 
+**Вложено элементов:** 0  
 
 | CurrencyExchangeElement NumberIHaveElement Property |
 | --- |

@@ -1,5 +1,6 @@
 # QueueFrame Property 
 
+**Вложено элементов:** 0  
 
 | LoginPannelElement QueueFrame Property |
 | --- |

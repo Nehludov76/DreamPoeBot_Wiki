@@ -1,5 +1,6 @@
 # InternalName Property 
 
+**Вложено элементов:** 0  
 
 | DatActiveSkillWrapper InternalName Property |
 | --- |

@@ -1,5 +1,6 @@
 # IntrinsicCatalyst Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState GuildStashUi MetamorphTab IntrinsicCatalyst Property |
 | --- |

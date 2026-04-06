@@ -1,5 +1,6 @@
 # MercenaryEncounterElement Constructor 
 
+**Вложено элементов:** 0  
 
 | MercenaryEncounterElement Constructor |
 | --- |

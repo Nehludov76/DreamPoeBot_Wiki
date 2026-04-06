@@ -1,5 +1,6 @@
 # IsCompleted Property 
 
+**Вложено элементов:** 0  
 
 | Player TrialState IsCompleted Property |
 | --- |

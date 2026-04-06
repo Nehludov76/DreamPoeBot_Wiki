@@ -1,5 +1,6 @@
 # SkillGemHud Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements SkillGemHud Property |
 | --- |

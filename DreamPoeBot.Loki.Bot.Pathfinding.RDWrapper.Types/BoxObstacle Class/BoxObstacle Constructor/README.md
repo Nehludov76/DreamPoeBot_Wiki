@@ -1,5 +1,6 @@
 # BoxObstacle Constructor 
 
+**Вложено элементов:** 0  
 
 | BoxObstacle Constructor |
 | --- |

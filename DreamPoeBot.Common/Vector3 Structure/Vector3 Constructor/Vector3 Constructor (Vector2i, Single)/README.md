@@ -1,5 +1,6 @@
 # Vector3 Constructor (Vector2i, Single)
 
+**Вложено элементов:** 0  
 
 | Vector3 Constructor (Vector2i, Single) |
 | --- |

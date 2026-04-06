@@ -1,5 +1,6 @@
 # ArchnemesisMod Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo Archnemesis ArchnemesisMods ArchnemesisMod Property |
 | --- |

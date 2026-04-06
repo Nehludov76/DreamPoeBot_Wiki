@@ -1,5 +1,6 @@
 # IsImminentLockdownVisible Property 
 
+**Вложено элементов:** 0  
 
 | HeistAlertLevelElement IsImminentLockdownVisible Property |
 | --- |

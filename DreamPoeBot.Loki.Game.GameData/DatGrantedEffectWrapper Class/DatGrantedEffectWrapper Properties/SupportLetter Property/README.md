@@ -1,5 +1,6 @@
 # SupportLetter Property 
 
+**Вложено элементов:** 0  
 
 | DatGrantedEffectWrapper SupportLetter Property |
 | --- |

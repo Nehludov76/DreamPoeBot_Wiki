@@ -1,5 +1,6 @@
 # FrameTimeValues Property 
 
+**Вложено элементов:** 0  
 
 | DiagnosticElementNew FrameTimeValues Property |
 | --- |

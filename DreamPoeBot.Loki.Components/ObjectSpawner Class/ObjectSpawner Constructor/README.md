@@ -1,5 +1,6 @@
 # ObjectSpawner Constructor 
 
+**Вложено элементов:** 0  
 
 | ObjectSpawner Constructor |
 | --- |

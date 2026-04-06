@@ -1,5 +1,6 @@
 # WindowMaxLevel Property 
 
+**Вложено элементов:** 0  
 
 | CustomLogger WindowMaxLevel Property |
 | --- |

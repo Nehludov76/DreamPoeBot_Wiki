@@ -1,5 +1,6 @@
 # PotentChaoticResonator Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState GuildStashUi DelveTab PotentChaoticResonator Property |
 | --- |

@@ -1,5 +1,6 @@
 # CanSlideItemUpOrLeft Method 
 
+**Вложено элементов:** 0  
 
 | Inventory CanSlideItemUpOrLeft Method |
 | --- |

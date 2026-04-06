@@ -1,5 +1,6 @@
 # Challenge Property 
 
+**Вложено элементов:** 0  
 
 | UltimatumTrial Challenge Property |
 | --- |

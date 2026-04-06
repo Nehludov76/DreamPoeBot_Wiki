@@ -1,5 +1,6 @@
 # DeltaX Property 
 
+**Вложено элементов:** 0  
 
 | Element DeltaX Property |
 | --- |

@@ -1,5 +1,6 @@
 # MasterEffectsCount Property 
 
+**Вложено элементов:** 0  
 
 | DatPassiveSkillMasteryGroupWrapper MasterEffectsCount Property |
 | --- |

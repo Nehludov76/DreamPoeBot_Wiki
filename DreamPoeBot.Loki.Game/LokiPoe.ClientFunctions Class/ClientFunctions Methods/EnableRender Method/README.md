@@ -1,5 +1,6 @@
 # EnableRender Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe ClientFunctions EnableRender Method |
 | --- |

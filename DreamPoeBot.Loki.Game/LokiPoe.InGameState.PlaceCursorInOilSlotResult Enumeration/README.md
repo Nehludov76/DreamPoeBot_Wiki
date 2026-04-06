@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.PlaceCursorInOilSlotResult Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState PlaceCursorInOilSlotResult Enumeration |
 | --- |
@@ -30,9 +31,9 @@ public enum class PlaceCursorInOilSlotResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| ProcessHookManagerNotEnabled | 1 |
-| SlotNotVisible | 2 |
-| InvalidSlot | 3 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | ProcessHookManagerNotEnabled | 1 |  |
+|  | SlotNotVisible | 2 |  |
+|  | InvalidSlot | 3 |  |

@@ -1,5 +1,6 @@
 # Address Property 
 
+**Вложено элементов:** 0  
 
 | RemoteMemoryObject Address Property |
 | --- |

@@ -1,5 +1,6 @@
 # StructSize Field
 
+**Вложено элементов:** 0  
 
 | IngameData PortalObject StructSize Field |
 | --- |

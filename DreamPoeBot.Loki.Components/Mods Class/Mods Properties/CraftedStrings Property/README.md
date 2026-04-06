@@ -1,5 +1,6 @@
 # CraftedStrings Property 
 
+**Вложено элементов:** 0  
 
 | Mods CraftedStrings Property |
 | --- |

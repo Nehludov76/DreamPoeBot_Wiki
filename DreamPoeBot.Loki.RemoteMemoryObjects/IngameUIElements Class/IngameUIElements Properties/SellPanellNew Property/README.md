@@ -1,5 +1,6 @@
 # SellPanellNew Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements SellPanellNew Property |
 | --- |

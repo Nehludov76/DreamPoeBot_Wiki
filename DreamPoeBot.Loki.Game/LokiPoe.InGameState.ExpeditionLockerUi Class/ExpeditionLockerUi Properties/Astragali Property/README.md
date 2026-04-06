@@ -1,5 +1,6 @@
 # Astragali Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ExpeditionLockerUi Astragali Property |
 | --- |

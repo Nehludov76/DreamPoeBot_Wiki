@@ -1,5 +1,6 @@
 # Path Property 
 
+**Вложено элементов:** 0  
 
 | Configuration Path Property |
 | --- |

@@ -1,5 +1,6 @@
 # IsDialogChoice Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState NpcDialogUi NpcDialogEntryWrapper IsDialogChoice Property |
 | --- |

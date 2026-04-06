@@ -1,5 +1,6 @@
 # Status Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo CurrencyExchange CurrencyExchangeOrder Status Property |
 | --- |

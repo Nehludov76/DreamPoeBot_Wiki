@@ -1,5 +1,6 @@
 # FragmentTab Methods
 
+**Вложено элементов:** 3  
 
 | FragmentTab Methods |
 | --- |
@@ -10,8 +11,13 @@
 The LokiPoe InGameState GuildStashUi FragmentTab type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| GetByMetadata |
-| GetByName |
-| GetInventoryControlForMetadata |
+|  | Name | Description |
+| --- | --- | --- |
+|  | GetByMetadata |  |
+|  | GetByName |  |
+|  | GetInventoryControlForMetadata |  |
+
+## Дочерние разделы
+- [**GetByMetadata Method **](./GetByMetadata Method/README.md)
+- [**GetByName Method **](./GetByName Method/README.md)
+- [**GetInventoryControlForMetadata Method **](./GetInventoryControlForMetadata Method/README.md)

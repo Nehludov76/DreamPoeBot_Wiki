@@ -1,5 +1,6 @@
 # ExaustionLevelPct Property 
 
+**Вложено элементов:** 0  
 
 | BreachProgressBarElement ExaustionLevelPct Property |
 | --- |

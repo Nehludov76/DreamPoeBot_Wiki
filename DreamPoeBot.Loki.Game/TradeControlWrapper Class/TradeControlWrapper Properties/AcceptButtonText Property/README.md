@@ -1,5 +1,6 @@
 # AcceptButtonText Property 
 
+**Вложено элементов:** 0  
 
 | TradeControlWrapper AcceptButtonText Property |
 | --- |

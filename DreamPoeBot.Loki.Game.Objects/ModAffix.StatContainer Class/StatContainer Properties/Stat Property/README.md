@@ -1,5 +1,6 @@
 # Stat Property 
 
+**Вложено элементов:** 0  
 
 | ModAffix StatContainer Stat Property |
 | --- |

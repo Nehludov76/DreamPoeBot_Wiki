@@ -1,5 +1,6 @@
 # SingleSlotUiElement Constructor (Element, SingleSlotUiElement.SingleSlotType)
 
+**Вложено элементов:** 0  
 
 | SingleSlotUiElement Constructor (Element, SingleSlotUiElement SingleSlotType) |
 | --- |

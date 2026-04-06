@@ -1,5 +1,6 @@
 # HorizonShard Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState StashUi CurrencyTab HorizonShard Property |
 | --- |

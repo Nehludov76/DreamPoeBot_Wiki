@@ -1,5 +1,6 @@
 # LogLevel Property 
 
+**Вложено элементов:** 0  
 
 | GuiSettings LogLevel Property |
 | --- |

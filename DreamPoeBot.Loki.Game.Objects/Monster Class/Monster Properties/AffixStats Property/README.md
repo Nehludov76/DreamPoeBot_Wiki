@@ -1,5 +1,6 @@
 # AffixStats Property 
 
+**Вложено элементов:** 0  
 
 | Monster AffixStats Property |
 | --- |

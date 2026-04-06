@@ -1,5 +1,6 @@
 # LogicResult Enumeration
 
+**Вложено элементов:** 0  
 
 | LogicResult Enumeration |
 | --- |
@@ -30,7 +31,7 @@ public enum class LogicResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| Provided | 0 |
-| Unprovided | 1 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | Provided | 0 |  |
+|  | Unprovided | 1 |  |

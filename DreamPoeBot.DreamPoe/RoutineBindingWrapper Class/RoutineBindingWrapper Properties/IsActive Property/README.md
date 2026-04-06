@@ -1,5 +1,6 @@
 # IsActive Property 
 
+**Вложено элементов:** 0  
 
 | RoutineBindingWrapper IsActive Property |
 | --- |

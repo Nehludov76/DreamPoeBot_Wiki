@@ -1,5 +1,6 @@
 # ActorComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation ActorComponent Property |
 | --- |

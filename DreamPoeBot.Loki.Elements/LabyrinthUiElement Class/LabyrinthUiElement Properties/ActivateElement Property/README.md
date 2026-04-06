@@ -1,5 +1,6 @@
 # ActivateElement Property 
 
+**Вложено элементов:** 0  
 
 | LabyrinthUiElement ActivateElement Property |
 | --- |

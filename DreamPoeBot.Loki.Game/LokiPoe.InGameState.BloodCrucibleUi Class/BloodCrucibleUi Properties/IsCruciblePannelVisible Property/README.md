@@ -1,5 +1,6 @@
 # IsCruciblePannelVisible Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState BloodCrucibleUi IsCruciblePannelVisible Property |
 | --- |

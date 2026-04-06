@@ -1,5 +1,6 @@
 # WalkableRadius Property 
 
+**Вложено элементов:** 0  
 
 | RecastMeshSettings WalkableRadius Property |
 | --- |

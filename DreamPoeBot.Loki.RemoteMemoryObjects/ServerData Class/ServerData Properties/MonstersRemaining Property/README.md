@@ -1,5 +1,6 @@
 # MonstersRemaining Property 
 
+**Вложено элементов:** 0  
 
 | ServerData MonstersRemaining Property |
 | --- |

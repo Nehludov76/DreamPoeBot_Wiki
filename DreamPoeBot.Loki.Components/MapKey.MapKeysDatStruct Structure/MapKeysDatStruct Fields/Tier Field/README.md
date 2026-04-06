@@ -1,5 +1,6 @@
 # Tier Field
 
+**Вложено элементов:** 0  
 
 | MapKey MapKeysDatStruct Tier Field |
 | --- |

@@ -1,5 +1,6 @@
 # CardTrade Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements CardTrade Property |
 | --- |

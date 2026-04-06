@@ -1,5 +1,6 @@
 # PowerChargeAura Property 
 
+**Вложено элементов:** 0  
 
 | Actor PowerChargeAura Property |
 | --- |

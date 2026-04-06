@@ -1,5 +1,6 @@
 # MarshalCache(T).GetUnsafePtrDelegate Delegate
 
+**Вложено элементов:** 0  
 
 | MarshalCache T GetUnsafePtrDelegate Delegate |
 | --- |

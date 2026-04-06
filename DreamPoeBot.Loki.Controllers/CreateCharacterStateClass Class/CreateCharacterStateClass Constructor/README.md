@@ -1,5 +1,6 @@
 # CreateCharacterStateClass Constructor 
 
+**Вложено элементов:** 0  
 
 | CreateCharacterStateClass Constructor |
 | --- |

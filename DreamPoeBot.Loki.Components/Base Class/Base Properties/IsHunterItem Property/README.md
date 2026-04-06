@@ -1,5 +1,6 @@
 # IsHunterItem Property 
 
+**Вложено элементов:** 0  
 
 | Base IsHunterItem Property |
 | --- |

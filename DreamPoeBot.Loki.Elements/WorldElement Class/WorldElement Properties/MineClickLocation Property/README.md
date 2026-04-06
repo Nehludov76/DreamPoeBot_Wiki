@@ -1,5 +1,6 @@
 # MineClickLocation Property 
 
+**Вложено элементов:** 0  
 
 | WorldElement MineClickLocation Property |
 | --- |

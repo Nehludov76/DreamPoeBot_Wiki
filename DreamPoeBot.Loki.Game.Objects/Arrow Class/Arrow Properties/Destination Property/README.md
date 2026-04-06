@@ -1,5 +1,6 @@
 # Destination Property 
 
+**Вложено элементов:** 0  
 
 | Arrow Destination Property |
 | --- |

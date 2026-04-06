@@ -1,5 +1,6 @@
 # OnlyFossil Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState StashUi DelveTab OnlyFossil Property |
 | --- |

@@ -1,5 +1,6 @@
 # SelectCurrencyIWant Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState CurrencyExchangeUi SelectCurrencyIWant Method |
 | --- |

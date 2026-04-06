@@ -1,5 +1,6 @@
 # ShowRitualRewardElement Constructor 
 
+**Вложено элементов:** 0  
 
 | ShowRitualRewardElement Constructor |
 | --- |

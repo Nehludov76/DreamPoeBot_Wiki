@@ -1,5 +1,6 @@
 # SearchFilterText Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState CraftingBenchPannelUi SearchFilterText Property |
 | --- |

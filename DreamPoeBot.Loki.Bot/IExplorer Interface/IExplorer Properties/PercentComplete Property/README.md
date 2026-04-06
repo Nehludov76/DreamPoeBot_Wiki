@@ -1,5 +1,6 @@
 # PercentComplete Property 
 
+**Вложено элементов:** 0  
 
 | IExplorer PercentComplete Property |
 | --- |

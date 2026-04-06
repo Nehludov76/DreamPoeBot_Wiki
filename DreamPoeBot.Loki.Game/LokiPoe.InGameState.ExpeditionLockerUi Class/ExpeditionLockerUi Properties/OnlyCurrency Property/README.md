@@ -1,5 +1,6 @@
 # OnlyCurrency Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ExpeditionLockerUi OnlyCurrency Property |
 | --- |

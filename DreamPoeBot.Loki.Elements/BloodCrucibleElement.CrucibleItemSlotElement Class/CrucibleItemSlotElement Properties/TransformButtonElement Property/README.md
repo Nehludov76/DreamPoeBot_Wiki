@@ -1,5 +1,6 @@
 # TransformButtonElement Property 
 
+**Вложено элементов:** 0  
 
 | BloodCrucibleElement CrucibleItemSlotElement TransformButtonElement Property |
 | --- |

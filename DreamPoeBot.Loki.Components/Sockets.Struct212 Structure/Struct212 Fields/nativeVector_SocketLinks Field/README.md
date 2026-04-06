@@ -1,5 +1,6 @@
 # nativeVector_SocketLinks Field
 
+**Вложено элементов:** 0  
 
 | Sockets Struct212 nativeVector_SocketLinks Field |
 | --- |

@@ -1,5 +1,6 @@
 # HealthReservedPercent Property 
 
+**Вложено элементов:** 0  
 
 | Actor HealthReservedPercent Property |
 | --- |

@@ -1,5 +1,6 @@
 # ItemSlotInventory Property 
 
+**Вложено элементов:** 0  
 
 | HorticraftingElement ItemSlotInventory Property |
 | --- |

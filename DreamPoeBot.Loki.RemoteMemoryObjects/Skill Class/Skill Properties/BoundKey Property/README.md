@@ -1,5 +1,6 @@
 # BoundKey Property 
 
+**Вложено элементов:** 0  
 
 | Skill BoundKey Property |
 | --- |

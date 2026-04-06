@@ -1,5 +1,6 @@
 # offset Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe UiDumpData offset Property |
 | --- |

@@ -1,5 +1,6 @@
 # IsCreateCharacterStateActive Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe StateManager IsCreateCharacterStateActive Property |
 | --- |

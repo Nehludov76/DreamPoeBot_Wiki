@@ -1,5 +1,6 @@
 # MonsterTypeMetadata Property 
 
+**Вложено элементов:** 0  
 
 | Monster MonsterTypeMetadata Property |
 | --- |

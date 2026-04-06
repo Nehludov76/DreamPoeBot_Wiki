@@ -1,5 +1,6 @@
 # RemoveAppender Method (String)
 
+**Вложено элементов:** 0  
 
 | AsyncAppender RemoveAppender Method (String) |
 | --- |

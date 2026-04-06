@@ -1,5 +1,6 @@
 # CurseCount Property 
 
+**Вложено элементов:** 0  
 
 | Actor CurseCount Property |
 | --- |

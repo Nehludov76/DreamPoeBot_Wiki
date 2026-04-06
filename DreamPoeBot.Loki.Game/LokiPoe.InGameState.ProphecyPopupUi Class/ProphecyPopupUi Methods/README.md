@@ -1,5 +1,6 @@
 # ProphecyPopupUi Methods
 
+**Вложено элементов:** 1  
 
 | ProphecyPopupUi Methods |
 | --- |
@@ -10,6 +11,9 @@
 The LokiPoe InGameState ProphecyPopupUi type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Dismiss | Dismiss the popup panel. |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Dismiss | Dismiss the popup panel. |
+
+## Дочерние разделы
+- [**Dismiss Method **](./Dismiss Method/README.md)

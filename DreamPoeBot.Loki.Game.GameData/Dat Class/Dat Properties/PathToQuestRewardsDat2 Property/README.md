@@ -1,5 +1,6 @@
 # PathToQuestRewardsDat2 Property 
 
+**Вложено элементов:** 0  
 
 | Dat PathToQuestRewardsDat2 Property |
 | --- |

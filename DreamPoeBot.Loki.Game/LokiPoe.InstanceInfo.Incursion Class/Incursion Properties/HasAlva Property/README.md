@@ -1,5 +1,6 @@
 # HasAlva Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo Incursion HasAlva Property |
 | --- |

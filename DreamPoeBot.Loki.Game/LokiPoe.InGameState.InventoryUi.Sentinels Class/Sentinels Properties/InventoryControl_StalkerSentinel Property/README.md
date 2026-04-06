@@ -1,5 +1,6 @@
 # InventoryControl_StalkerSentinel Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState InventoryUi Sentinels InventoryControl_StalkerSentinel Property |
 | --- |

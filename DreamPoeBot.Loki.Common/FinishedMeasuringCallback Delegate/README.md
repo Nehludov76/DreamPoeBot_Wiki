@@ -1,5 +1,6 @@
 # FinishedMeasuringCallback Delegate
 
+**Вложено элементов:** 0  
 
 | FinishedMeasuringCallback Delegate |
 | --- |

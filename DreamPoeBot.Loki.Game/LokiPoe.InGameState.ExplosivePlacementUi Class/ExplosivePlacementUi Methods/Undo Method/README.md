@@ -1,5 +1,6 @@
 # Undo Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ExplosivePlacementUi Undo Method |
 | --- |

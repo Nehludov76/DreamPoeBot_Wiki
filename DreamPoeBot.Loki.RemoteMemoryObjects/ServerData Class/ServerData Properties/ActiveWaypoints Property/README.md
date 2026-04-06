@@ -1,5 +1,6 @@
 # ActiveWaypoints Property 
 
+**Вложено элементов:** 0  
 
 | ServerData ActiveWaypoints Property |
 | --- |

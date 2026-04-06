@@ -1,5 +1,6 @@
 # IsApplyVisible Property 
 
+**Вложено элементов:** 0  
 
 | AtlasSkillElement IsApplyVisible Property |
 | --- |

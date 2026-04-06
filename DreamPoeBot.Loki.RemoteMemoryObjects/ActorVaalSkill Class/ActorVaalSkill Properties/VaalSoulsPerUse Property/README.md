@@ -1,5 +1,6 @@
 # VaalSoulsPerUse Property 
 
+**Вложено элементов:** 0  
 
 | ActorVaalSkill VaalSoulsPerUse Property |
 | --- |

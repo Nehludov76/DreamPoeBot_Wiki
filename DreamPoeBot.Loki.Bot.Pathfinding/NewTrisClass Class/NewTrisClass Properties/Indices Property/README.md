@@ -1,5 +1,6 @@
 # Indices Property 
 
+**Вложено элементов:** 0  
 
 | NewTrisClass Indices Property |
 | --- |

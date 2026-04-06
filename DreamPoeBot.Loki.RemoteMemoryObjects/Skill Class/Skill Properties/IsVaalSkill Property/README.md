@@ -1,5 +1,6 @@
 # IsVaalSkill Property 
 
+**Вложено элементов:** 0  
 
 | Skill IsVaalSkill Property |
 | --- |

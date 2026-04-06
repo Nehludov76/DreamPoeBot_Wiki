@@ -1,5 +1,6 @@
 # ActualPumpDurability Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo Blight ActualPumpDurability Property |
 | --- |

@@ -1,5 +1,6 @@
 # Type Property 
 
+**Вложено элементов:** 0  
 
 | CircleObstacle Type Property |
 | --- |

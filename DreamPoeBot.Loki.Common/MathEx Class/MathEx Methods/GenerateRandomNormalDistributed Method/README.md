@@ -1,5 +1,6 @@
 # GenerateRandomNormalDistributed Method 
 
+**Вложено элементов:** 0  
 
 | MathEx GenerateRandomNormalDistributed Method |
 | --- |

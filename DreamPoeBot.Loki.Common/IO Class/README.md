@@ -1,5 +1,6 @@
 # IO Class
 
+**Вложено элементов:** 3  
 
 | IO Class |
 | --- |
@@ -32,7 +33,10 @@ public ref class IO abstract sealed
 The IO type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| DirectoryCopy |
-| Terminate |
+|  | Name | Description |
+| --- | --- | --- |
+|  | DirectoryCopy |  |
+|  | Terminate |  |
+
+## Дочерние разделы
+- [**IO Methods**](./IO Methods/README.md)

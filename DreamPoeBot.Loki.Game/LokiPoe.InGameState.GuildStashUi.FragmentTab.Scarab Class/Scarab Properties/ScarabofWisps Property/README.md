@@ -1,5 +1,6 @@
 # ScarabofWisps Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState GuildStashUi FragmentTab Scarab ScarabofWisps Property |
 | --- |

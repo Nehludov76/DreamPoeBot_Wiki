@@ -1,5 +1,6 @@
 # ExecuteClickPosition Property 
 
+**Вложено элементов:** 0  
 
 | BetryalElement ExecuteClickPosition Property |
 | --- |

@@ -1,5 +1,6 @@
 # GetQuests Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements GetQuests Property |
 | --- |

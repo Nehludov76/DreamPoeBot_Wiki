@@ -1,5 +1,6 @@
 # Avaiable Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState MetamorphUi Ingredient Avaiable Property |
 | --- |

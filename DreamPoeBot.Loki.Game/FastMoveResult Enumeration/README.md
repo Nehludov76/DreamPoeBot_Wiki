@@ -1,5 +1,6 @@
 # FastMoveResult Enumeration
 
+**Вложено элементов:** 0  
 
 | FastMoveResult Enumeration |
 | --- |
@@ -30,12 +31,12 @@ public enum class FastMoveResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| ProcessHookManagerNotEnabled | 1 |
-| CursorFull | 2 |
-| ItemNotFound | 3 |
-| ItemTransparent | 4 |
-| Unsupported | 5 |
-| Failed | 6 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | ProcessHookManagerNotEnabled | 1 |  |
+|  | CursorFull | 2 |  |
+|  | ItemNotFound | 3 |  |
+|  | ItemTransparent | 4 |  |
+|  | Unsupported | 5 |  |
+|  | Failed | 6 |  |

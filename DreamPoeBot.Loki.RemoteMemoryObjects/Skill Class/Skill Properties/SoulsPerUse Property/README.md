@@ -1,5 +1,6 @@
 # SoulsPerUse Property 
 
+**Вложено элементов:** 0  
 
 | Skill SoulsPerUse Property |
 | --- |

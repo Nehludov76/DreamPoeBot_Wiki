@@ -1,5 +1,6 @@
 # NavData Property 
 
+**Вложено элементов:** 0  
 
 | TriggerableBlockage NavData Property |
 | --- |

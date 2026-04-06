@@ -1,5 +1,6 @@
 # HasBestiaryDisappearingAura Property 
 
+**Вложено элементов:** 0  
 
 | Monster HasBestiaryDisappearingAura Property |
 | --- |

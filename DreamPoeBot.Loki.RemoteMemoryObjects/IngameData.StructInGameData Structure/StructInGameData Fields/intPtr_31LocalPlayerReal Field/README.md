@@ -1,5 +1,6 @@
 # intPtr_31LocalPlayerReal Field
 
+**Вложено элементов:** 0  
 
 | IngameData StructInGameData intPtr_31LocalPlayerReal Field |
 | --- |

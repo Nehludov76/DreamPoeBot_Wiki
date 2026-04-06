@@ -1,5 +1,6 @@
 # ExperienceMaxLevel Property 
 
+**Вложено элементов:** 0  
 
 | SkillGem ExperienceMaxLevel Property |
 | --- |

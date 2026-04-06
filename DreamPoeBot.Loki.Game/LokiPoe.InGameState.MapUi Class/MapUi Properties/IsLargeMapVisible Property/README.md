@@ -1,5 +1,6 @@
 # IsLargeMapVisible Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState MapUi IsLargeMapVisible Property |
 | --- |

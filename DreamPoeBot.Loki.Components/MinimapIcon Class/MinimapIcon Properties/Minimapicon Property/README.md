@@ -1,5 +1,6 @@
 # Minimapicon Property 
 
+**Вложено элементов:** 0  
 
 | MinimapIcon Minimapicon Property |
 | --- |

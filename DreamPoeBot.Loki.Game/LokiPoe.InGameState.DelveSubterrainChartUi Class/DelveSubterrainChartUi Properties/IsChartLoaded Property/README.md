@@ -1,5 +1,6 @@
 # IsChartLoaded Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState DelveSubterrainChartUi IsChartLoaded Property |
 | --- |

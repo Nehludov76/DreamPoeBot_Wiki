@@ -1,5 +1,6 @@
 # AreaDataManager(T) Constructor 
 
+**Вложено элементов:** 0  
 
 | AreaDataManager T Constructor |
 | --- |

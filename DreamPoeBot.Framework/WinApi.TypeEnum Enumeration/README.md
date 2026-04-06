@@ -1,5 +1,6 @@
 # WinApi.TypeEnum Enumeration
 
+**Вложено элементов:** 0  
 
 | WinApi TypeEnum Enumeration |
 | --- |
@@ -30,8 +31,8 @@ public enum class TypeEnum
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| MEM_IMAGE | 16777216 |
-| MEM_MAPPED | 262144 |
-| MEM_PRIVATE | 131072 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | MEM_IMAGE | 16777216 |  |
+|  | MEM_MAPPED | 262144 |  |
+|  | MEM_PRIVATE | 131072 |  |

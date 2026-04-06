@@ -1,5 +1,6 @@
 # Identity Property 
 
+**Вложено элементов:** 0  
 
 | Matrix Identity Property |
 | --- |

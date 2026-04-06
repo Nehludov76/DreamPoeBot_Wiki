@@ -1,5 +1,6 @@
 # byte_0 Field
 
+**Вложено элементов:** 0  
 
 | ServerData StructUnlockedRecipe byte_0 Field |
 | --- |

@@ -1,5 +1,6 @@
 # IsUiVisible Property 
 
+**Вложено элементов:** 0  
 
 | HarvestExtraxtor IsUiVisible Property |
 | --- |

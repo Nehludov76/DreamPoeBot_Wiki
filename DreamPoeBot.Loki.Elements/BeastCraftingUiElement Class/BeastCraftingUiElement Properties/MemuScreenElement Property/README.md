@@ -1,5 +1,6 @@
 # MemuScreenElement Property 
 
+**Вложено элементов:** 0  
 
 | BeastCraftingUiElement MemuScreenElement Property |
 | --- |

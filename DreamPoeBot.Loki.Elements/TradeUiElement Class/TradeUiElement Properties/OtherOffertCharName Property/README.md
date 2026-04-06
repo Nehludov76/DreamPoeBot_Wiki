@@ -1,5 +1,6 @@
 # OtherOffertCharName Property 
 
+**Вложено элементов:** 0  
 
 | TradeUiElement OtherOffertCharName Property |
 | --- |

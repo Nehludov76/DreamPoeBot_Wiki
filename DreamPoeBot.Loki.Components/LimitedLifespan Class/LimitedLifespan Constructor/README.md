@@ -1,5 +1,6 @@
 # LimitedLifespan Constructor 
 
+**Вложено элементов:** 0  
 
 | LimitedLifespan Constructor |
 | --- |

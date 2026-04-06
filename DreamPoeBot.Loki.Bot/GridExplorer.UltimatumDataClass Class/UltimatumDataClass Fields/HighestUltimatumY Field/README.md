@@ -1,5 +1,6 @@
 # HighestUltimatumY Field
 
+**Вложено элементов:** 0  
 
 | GridExplorer UltimatumDataClass HighestUltimatumY Field |
 | --- |

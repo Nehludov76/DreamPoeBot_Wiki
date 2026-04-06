@@ -1,5 +1,6 @@
 # InitializeComponent Method 
 
+**Вложено элементов:** 0  
 
 | UpdateWindow InitializeComponent Method |
 | --- |

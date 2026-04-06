@@ -1,5 +1,6 @@
 # InventoryControl_Boots Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState MercenaryEncounterUi InventoryControl_Boots Property |
 | --- |

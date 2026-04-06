@@ -1,5 +1,6 @@
 # Location Property 
 
+**Вложено элементов:** 0  
 
 | GridExplorer ReceivedDataEventArgs Location Property |
 | --- |

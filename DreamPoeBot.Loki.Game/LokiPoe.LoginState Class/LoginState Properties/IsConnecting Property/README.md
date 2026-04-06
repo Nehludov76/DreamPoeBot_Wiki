@@ -1,5 +1,6 @@
 # IsConnecting Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe LoginState IsConnecting Property |
 | --- |

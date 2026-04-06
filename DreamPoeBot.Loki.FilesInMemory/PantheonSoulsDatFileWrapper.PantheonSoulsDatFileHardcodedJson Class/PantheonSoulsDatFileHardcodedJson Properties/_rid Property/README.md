@@ -1,5 +1,6 @@
 # _rid Property 
 
+**Вложено элементов:** 0  
 
 | PantheonSoulsDatFileWrapper PantheonSoulsDatFileHardcodedJson _rid Property |
 | --- |

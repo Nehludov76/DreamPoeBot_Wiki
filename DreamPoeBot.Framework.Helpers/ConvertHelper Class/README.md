@@ -1,5 +1,6 @@
 # ConvertHelper Class
 
+**Вложено элементов:** 5  
 
 | ConvertHelper Class |
 | --- |
@@ -32,9 +33,12 @@ public static class ConvertHelper
 The ConvertHelper type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| ConfigColorValueExtractor |
-| ConfigValueExtractor |
-| ToBGRAColor |
-| ToShorten |
+|  | Name | Description |
+| --- | --- | --- |
+|  | ConfigColorValueExtractor |  |
+|  | ConfigValueExtractor |  |
+|  | ToBGRAColor |  |
+|  | ToShorten |  |
+
+## Дочерние разделы
+- [**ConvertHelper Methods**](./ConvertHelper Methods/README.md)

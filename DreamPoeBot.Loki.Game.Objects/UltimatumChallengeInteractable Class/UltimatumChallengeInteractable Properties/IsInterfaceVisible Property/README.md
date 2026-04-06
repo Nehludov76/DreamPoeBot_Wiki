@@ -1,5 +1,6 @@
 # IsInterfaceVisible Property 
 
+**Вложено элементов:** 0  
 
 | UltimatumChallengeInteractable IsInterfaceVisible Property |
 | --- |

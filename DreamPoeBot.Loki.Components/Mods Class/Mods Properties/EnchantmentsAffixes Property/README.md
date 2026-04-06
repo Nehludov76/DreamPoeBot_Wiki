@@ -1,5 +1,6 @@
 # EnchantmentsAffixes Property 
 
+**Вложено элементов:** 0  
 
 | Mods EnchantmentsAffixes Property |
 | --- |

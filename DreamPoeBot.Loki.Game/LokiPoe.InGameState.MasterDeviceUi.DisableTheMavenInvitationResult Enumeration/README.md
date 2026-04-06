@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.MasterDeviceUi.DisableTheMavenInvitationResult Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState MasterDeviceUi DisableTheMavenInvitationResult Enumeration |
 | --- |
@@ -30,10 +31,10 @@ public enum class DisableTheMavenInvitationResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| ProcessHookManagerNotEnabled | 1 |
-| MasterDeviceNotOpen | 2 |
-| ButtonNotVisible | 3 |
-| Failed | 4 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | ProcessHookManagerNotEnabled | 1 |  |
+|  | MasterDeviceNotOpen | 2 |  |
+|  | ButtonNotVisible | 3 |  |
+|  | Failed | 4 |  |

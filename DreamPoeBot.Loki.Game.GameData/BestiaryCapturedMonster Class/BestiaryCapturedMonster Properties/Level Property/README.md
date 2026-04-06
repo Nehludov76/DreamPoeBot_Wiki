@@ -1,5 +1,6 @@
 # Level Property 
 
+**Вложено элементов:** 0  
 
 | BestiaryCapturedMonster Level Property |
 | --- |

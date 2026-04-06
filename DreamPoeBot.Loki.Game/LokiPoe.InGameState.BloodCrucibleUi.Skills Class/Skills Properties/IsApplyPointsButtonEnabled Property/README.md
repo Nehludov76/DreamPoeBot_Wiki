@@ -1,5 +1,6 @@
 # IsApplyPointsButtonEnabled Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState BloodCrucibleUi Skills IsApplyPointsButtonEnabled Property |
 | --- |

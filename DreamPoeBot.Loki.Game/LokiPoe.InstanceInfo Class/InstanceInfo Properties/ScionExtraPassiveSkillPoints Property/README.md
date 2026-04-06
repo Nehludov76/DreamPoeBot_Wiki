@@ -1,5 +1,6 @@
 # ScionExtraPassiveSkillPoints Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo ScionExtraPassiveSkillPoints Property |
 | --- |

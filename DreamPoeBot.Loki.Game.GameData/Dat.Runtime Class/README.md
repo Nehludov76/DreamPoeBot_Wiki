@@ -1,5 +1,6 @@
 # Dat.Runtime Class
 
+**Вложено элементов:** 3  
 
 | Dat Runtime Class |
 | --- |
@@ -32,7 +33,10 @@ public ref class Runtime abstract sealed
 The Dat Runtime type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| MonsterVarieties2 |
-| MonsterVarietiesDict |
+|  | Name | Description |
+| --- | --- | --- |
+|  | MonsterVarieties2 |  |
+|  | MonsterVarietiesDict |  |
+
+## Дочерние разделы
+- [**Runtime Properties**](./Runtime Properties/README.md)

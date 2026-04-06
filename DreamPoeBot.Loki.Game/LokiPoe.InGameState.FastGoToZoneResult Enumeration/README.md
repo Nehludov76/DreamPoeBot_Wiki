@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.FastGoToZoneResult Enumeration
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState FastGoToZoneResult Enumeration |
 | --- |
@@ -30,10 +31,10 @@ public enum class FastGoToZoneResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| None | 0 |
-| ProcessHookManagerNotEnabled | 1 |
-| PartyMumberNotFound | 2 |
-| UiNotOpen | 3 |
-| WindowBlocking | 4 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | None | 0 |  |
+|  | ProcessHookManagerNotEnabled | 1 |  |
+|  | PartyMumberNotFound | 2 |  |
+|  | UiNotOpen | 3 |  |
+|  | WindowBlocking | 4 |  |

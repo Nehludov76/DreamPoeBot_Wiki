@@ -1,5 +1,6 @@
 # SetSlot6 Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SkillBarHud SetSlot6 Method |
 | --- |

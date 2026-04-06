@@ -1,5 +1,6 @@
 # BroadcastLogicRequest Method 
 
+**Вложено элементов:** 0  
 
 | Utility BroadcastLogicRequest Method |
 | --- |

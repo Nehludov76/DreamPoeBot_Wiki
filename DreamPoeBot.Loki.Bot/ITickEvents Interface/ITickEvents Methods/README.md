@@ -1,5 +1,6 @@
 # ITickEvents Methods
 
+**Вложено элементов:** 1  
 
 | ITickEvents Methods |
 | --- |
@@ -10,6 +11,9 @@
 The ITickEvents type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Tick |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Tick |  |
+
+## Дочерние разделы
+- [**Tick Method **](./Tick Method/README.md)

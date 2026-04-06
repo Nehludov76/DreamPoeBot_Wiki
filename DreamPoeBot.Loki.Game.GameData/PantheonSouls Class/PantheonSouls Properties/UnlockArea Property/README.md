@@ -1,5 +1,6 @@
 # UnlockArea Property 
 
+**Вложено элементов:** 0  
 
 | PantheonSouls UnlockArea Property |
 | --- |

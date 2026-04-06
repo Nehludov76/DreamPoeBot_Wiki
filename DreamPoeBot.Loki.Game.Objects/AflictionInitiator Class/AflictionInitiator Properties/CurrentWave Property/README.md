@@ -1,5 +1,6 @@
 # CurrentWave Property 
 
+**Вложено элементов:** 0  
 
 | AflictionInitiator CurrentWave Property |
 | --- |

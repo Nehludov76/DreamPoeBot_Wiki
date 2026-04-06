@@ -1,5 +1,6 @@
 # IsDeactivated Property 
 
+**Вложено элементов:** 0  
 
 | Shrine IsDeactivated Property |
 | --- |

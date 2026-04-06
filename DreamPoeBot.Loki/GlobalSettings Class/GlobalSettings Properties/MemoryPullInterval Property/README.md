@@ -1,5 +1,6 @@
 # MemoryPullInterval Property 
 
+**Вложено элементов:** 0  
 
 | GlobalSettings MemoryPullInterval Property |
 | --- |

@@ -1,5 +1,6 @@
 # MoveWindow Method 
 
+**Вложено элементов:** 0  
 
 | WinApi MoveWindow Method |
 | --- |

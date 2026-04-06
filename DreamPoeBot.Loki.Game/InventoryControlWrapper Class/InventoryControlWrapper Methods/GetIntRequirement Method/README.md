@@ -1,5 +1,6 @@
 # GetIntRequirement Method 
 
+**Вложено элементов:** 0  
 
 | InventoryControlWrapper GetIntRequirement Method |
 | --- |

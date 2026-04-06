@@ -1,5 +1,6 @@
 # IsTrialActive Property 
 
+**Вложено элементов:** 0  
 
 | UltimatumChallengeInteractable IsTrialActive Property |
 | --- |

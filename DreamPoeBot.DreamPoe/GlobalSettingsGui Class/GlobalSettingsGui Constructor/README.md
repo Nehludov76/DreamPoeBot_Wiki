@@ -1,5 +1,6 @@
 # GlobalSettingsGui Constructor 
 
+**Вложено элементов:** 0  
 
 | GlobalSettingsGui Constructor |
 | --- |

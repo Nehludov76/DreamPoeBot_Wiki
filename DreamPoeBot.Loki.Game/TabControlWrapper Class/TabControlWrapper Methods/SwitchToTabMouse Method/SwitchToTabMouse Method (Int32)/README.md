@@ -1,5 +1,6 @@
 # SwitchToTabMouse Method (Int32)
 
+**Вложено элементов:** 0  
 
 | TabControlWrapper SwitchToTabMouse Method (Int32) |
 | --- |

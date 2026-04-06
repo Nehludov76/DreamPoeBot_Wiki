@@ -1,5 +1,6 @@
 # IsCorruptedArea Property 
 
+**Вложено элементов:** 0  
 
 | DatWorldAreaWrapper IsCorruptedArea Property |
 | --- |

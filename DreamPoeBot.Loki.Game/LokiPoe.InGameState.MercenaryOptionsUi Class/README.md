@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.MercenaryOptionsUi Class
 
+**Вложено элементов:** 4  
 
 | LokiPoe InGameState MercenaryOptionsUi Class |
 | --- |
@@ -30,8 +31,11 @@ public ref class MercenaryOptionsUi abstract sealed
 The LokiPoe InGameState MercenaryOptionsUi type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Mercenary1Options | The first mercenary options. |
-| Mercenary2Options | The second mercenary options. |
-| Mercenary3Options | The therd mercenary options. |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Mercenary1Options | The first mercenary options. |
+|  | Mercenary2Options | The second mercenary options. |
+|  | Mercenary3Options | The therd mercenary options. |
+
+## Дочерние разделы
+- [**MercenaryOptionsUi Properties**](./MercenaryOptionsUi Properties/README.md)

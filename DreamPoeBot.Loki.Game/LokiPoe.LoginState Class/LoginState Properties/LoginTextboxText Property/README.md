@@ -1,5 +1,6 @@
 # LoginTextboxText Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe LoginState LoginTextboxText Property |
 | --- |

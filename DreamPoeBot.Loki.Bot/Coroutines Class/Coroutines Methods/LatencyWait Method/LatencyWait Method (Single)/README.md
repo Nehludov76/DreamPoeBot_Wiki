@@ -1,5 +1,6 @@
 # LatencyWait Method (Single)
 
+**Вложено элементов:** 0  
 
 | Coroutines LatencyWait Method (Single) |
 | --- |

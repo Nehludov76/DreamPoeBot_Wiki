@@ -1,5 +1,6 @@
 # Dex Property 
 
+**Вложено элементов:** 0  
 
 | AttributeRequirements Dex Property |
 | --- |

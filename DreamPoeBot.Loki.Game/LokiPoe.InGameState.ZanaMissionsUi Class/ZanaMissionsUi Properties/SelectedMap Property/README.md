@@ -1,5 +1,6 @@
 # SelectedMap Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ZanaMissionsUi SelectedMap Property |
 | --- |

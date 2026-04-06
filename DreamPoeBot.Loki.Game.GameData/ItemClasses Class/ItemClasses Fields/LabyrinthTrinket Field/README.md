@@ -1,5 +1,6 @@
 # LabyrinthTrinket Field
 
+**Вложено элементов:** 0  
 
 | ItemClasses LabyrinthTrinket Field |
 | --- |

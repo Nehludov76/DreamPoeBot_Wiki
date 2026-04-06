@@ -1,5 +1,6 @@
 # BodyText Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState GlobalWarningDialog BodyText Property |
 | --- |

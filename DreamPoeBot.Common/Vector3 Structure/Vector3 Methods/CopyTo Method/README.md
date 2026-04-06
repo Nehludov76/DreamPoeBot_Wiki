@@ -1,5 +1,6 @@
 # CopyTo Method 
 
+**Вложено элементов:** 0  
 
 | Vector3 CopyTo Method |
 | --- |

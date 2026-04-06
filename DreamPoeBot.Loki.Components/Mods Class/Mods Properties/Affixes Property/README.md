@@ -1,5 +1,6 @@
 # Affixes Property 
 
+**Вложено элементов:** 0  
 
 | Mods Affixes Property |
 | --- |

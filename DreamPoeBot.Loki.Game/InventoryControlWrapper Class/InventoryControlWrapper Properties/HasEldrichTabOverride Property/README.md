@@ -1,5 +1,6 @@
 # HasEldrichTabOverride Property 
 
+**Вложено элементов:** 0  
 
 | InventoryControlWrapper HasEldrichTabOverride Property |
 | --- |

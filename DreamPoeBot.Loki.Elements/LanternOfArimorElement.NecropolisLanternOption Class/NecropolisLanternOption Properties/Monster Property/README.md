@@ -1,5 +1,6 @@
 # Monster Property 
 
+**Вложено элементов:** 0  
 
 | LanternOfArimorElement NecropolisLanternOption Monster Property |
 | --- |

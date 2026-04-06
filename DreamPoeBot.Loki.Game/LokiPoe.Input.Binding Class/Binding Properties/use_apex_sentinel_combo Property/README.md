@@ -1,5 +1,6 @@
 # use_apex_sentinel_combo Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input Binding use_apex_sentinel_combo Property |
 | --- |

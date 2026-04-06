@@ -1,5 +1,6 @@
 # initialize Method 
 
+**Вложено элементов:** 0  
 
 | WinApi initialize Method |
 | --- |

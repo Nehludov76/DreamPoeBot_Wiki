@@ -1,5 +1,6 @@
 # DropMetamorphosisIngredient Property 
 
+**Вложено элементов:** 0  
 
 | Monster DropMetamorphosisIngredient Property |
 | --- |

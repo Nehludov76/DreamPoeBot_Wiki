@@ -1,5 +1,6 @@
 # AreaTransition Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe ObjectManager AreaTransition Method |
 | --- |

@@ -1,5 +1,6 @@
 # HighestAflicY Field
 
+**Вложено элементов:** 0  
 
 | GridExplorer AflictionDataClass HighestAflicY Field |
 | --- |

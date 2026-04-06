@@ -1,5 +1,6 @@
 # Multiply Operator (Vector2, Single)
 
+**Вложено элементов:** 0  
 
 | Vector2 Multiply Operator (Vector2, Single) |
 | --- |

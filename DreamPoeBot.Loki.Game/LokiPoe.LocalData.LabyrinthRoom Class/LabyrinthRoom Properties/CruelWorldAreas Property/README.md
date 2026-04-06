@@ -1,5 +1,6 @@
 # CruelWorldAreas Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe LocalData LabyrinthRoom CruelWorldAreas Property |
 | --- |

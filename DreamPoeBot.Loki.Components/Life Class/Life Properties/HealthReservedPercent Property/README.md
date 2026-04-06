@@ -1,5 +1,6 @@
 # HealthReservedPercent Property 
 
+**Вложено элементов:** 0  
 
 | Life HealthReservedPercent Property |
 | --- |

@@ -1,5 +1,6 @@
 # IsRemoveOnly Property 
 
+**Вложено элементов:** 0  
 
 | StashTabNode IsRemoveOnly Property |
 | --- |

@@ -1,5 +1,6 @@
 # ManaFlask Field
 
+**Вложено элементов:** 0  
 
 | ItemClasses ManaFlask Field |
 | --- |

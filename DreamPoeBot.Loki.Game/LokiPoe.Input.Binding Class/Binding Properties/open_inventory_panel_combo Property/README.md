@@ -1,5 +1,6 @@
 # open_inventory_panel_combo Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input Binding open_inventory_panel_combo Property |
 | --- |

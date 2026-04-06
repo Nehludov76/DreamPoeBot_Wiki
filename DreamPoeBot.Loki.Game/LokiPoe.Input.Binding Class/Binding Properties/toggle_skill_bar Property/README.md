@@ -1,5 +1,6 @@
 # toggle_skill_bar Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input Binding toggle_skill_bar Property |
 | --- |

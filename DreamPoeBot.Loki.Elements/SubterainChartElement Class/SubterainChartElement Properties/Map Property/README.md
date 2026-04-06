@@ -1,5 +1,6 @@
 # Map Property 
 
+**Вложено элементов:** 0  
 
 | SubterainChartElement Map Property |
 | --- |

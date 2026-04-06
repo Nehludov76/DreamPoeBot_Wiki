@@ -1,5 +1,6 @@
 # GetRight Method 
 
+**Вложено элементов:** 0  
 
 | Matrix GetRight Method |
 | --- |

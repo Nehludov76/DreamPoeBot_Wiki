@@ -1,5 +1,6 @@
 # IsMarkerEnabled Property 
 
+**Вложено элементов:** 0  
 
 | ExpeditionPlacementIndicator IsMarkerEnabled Property |
 | --- |

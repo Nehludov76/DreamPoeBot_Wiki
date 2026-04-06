@@ -1,5 +1,6 @@
 # GetVoteForOption Method 
 
+**Вложено элементов:** 0  
 
 | UltimatumChallengeInteractable GetVoteForOption Method |
 | --- |

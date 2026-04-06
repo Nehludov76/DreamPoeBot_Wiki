@@ -1,5 +1,6 @@
 # ItemFrame Property 
 
+**Вложено элементов:** 0  
 
 | ItemOnGroundTooltip ItemFrame Property |
 | --- |

@@ -1,5 +1,6 @@
 # Root Property 
 
+**Вложено элементов:** 0  
 
 | Inventory HashNodeStruct242 Root Property |
 | --- |

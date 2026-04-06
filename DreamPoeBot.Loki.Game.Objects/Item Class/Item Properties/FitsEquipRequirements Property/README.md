@@ -1,5 +1,6 @@
 # FitsEquipRequirements Property 
 
+**Вложено элементов:** 0  
 
 | Item FitsEquipRequirements Property |
 | --- |

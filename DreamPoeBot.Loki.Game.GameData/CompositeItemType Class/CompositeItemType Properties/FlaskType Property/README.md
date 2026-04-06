@@ -1,5 +1,6 @@
 # FlaskType Property 
 
+**Вложено элементов:** 0  
 
 | CompositeItemType FlaskType Property |
 | --- |

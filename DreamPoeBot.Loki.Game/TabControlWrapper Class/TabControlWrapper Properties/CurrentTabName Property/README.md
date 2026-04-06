@@ -1,5 +1,6 @@
 # CurrentTabName Property 
 
+**Вложено элементов:** 0  
 
 | TabControlWrapper CurrentTabName Property |
 | --- |

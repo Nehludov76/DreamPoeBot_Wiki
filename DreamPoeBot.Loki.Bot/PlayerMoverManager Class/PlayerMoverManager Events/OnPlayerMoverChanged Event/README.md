@@ -1,5 +1,6 @@
 # OnPlayerMoverChanged Event
 
+**Вложено элементов:** 0  
 
 | PlayerMoverManager OnPlayerMoverChanged Event |
 | --- |

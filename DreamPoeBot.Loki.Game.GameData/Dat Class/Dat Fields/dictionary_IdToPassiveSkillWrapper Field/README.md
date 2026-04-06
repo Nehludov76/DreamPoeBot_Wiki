@@ -1,5 +1,6 @@
 # dictionary_IdToPassiveSkillWrapper Field
 
+**Вложено элементов:** 0  
 
 | Dat dictionary_IdToPassiveSkillWrapper Field |
 | --- |

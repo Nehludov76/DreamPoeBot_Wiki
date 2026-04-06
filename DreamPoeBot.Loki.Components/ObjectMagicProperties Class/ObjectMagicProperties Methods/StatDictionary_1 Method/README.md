@@ -1,5 +1,6 @@
 # StatDictionary_1 Method 
 
+**Вложено элементов:** 0  
 
 | ObjectMagicProperties StatDictionary_1 Method |
 | --- |

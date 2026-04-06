@@ -1,5 +1,6 @@
 # AflictionAvaiablePoint Field
 
+**Вложено элементов:** 0  
 
 | ServerData StructServerDataExtra AflictionAvaiablePoint Field |
 | --- |

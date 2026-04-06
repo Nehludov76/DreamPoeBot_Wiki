@@ -1,5 +1,6 @@
 # AttributeRequirementsComponent Property 
 
+**Вложено элементов:** 0  
 
 | EntityComponentInformation AttributeRequirementsComponent Property |
 | --- |

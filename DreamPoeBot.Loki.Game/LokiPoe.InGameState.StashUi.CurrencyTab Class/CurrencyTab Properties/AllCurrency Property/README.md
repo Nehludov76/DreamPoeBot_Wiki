@@ -1,5 +1,6 @@
 # AllCurrency Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState StashUi CurrencyTab AllCurrency Property |
 | --- |

@@ -1,5 +1,6 @@
 # HasCrucibleItemOverride Property 
 
+**Вложено элементов:** 0  
 
 | InventoryControlWrapper HasCrucibleItemOverride Property |
 | --- |

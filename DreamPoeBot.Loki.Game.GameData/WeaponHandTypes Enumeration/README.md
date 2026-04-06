@@ -1,5 +1,6 @@
 # WeaponHandTypes Enumeration
 
+**Вложено элементов:** 0  
 
 | WeaponHandTypes Enumeration |
 | --- |
@@ -30,8 +31,8 @@ public enum class WeaponHandTypes
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| NonWeapon | 0 |
-| OneHanded | 1 |
-| TwoHanded | 2 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | NonWeapon | 0 |  |
+|  | OneHanded | 1 |  |
+|  | TwoHanded | 2 |  |

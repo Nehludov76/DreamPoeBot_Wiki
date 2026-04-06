@@ -1,5 +1,6 @@
 # HasRogueMarkerTabOverride Property 
 
+**Вложено элементов:** 0  
 
 | InventoryControlWrapper HasRogueMarkerTabOverride Property |
 | --- |

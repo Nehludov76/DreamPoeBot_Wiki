@@ -1,5 +1,6 @@
 # HighestSyndicateX Field
 
+**Вложено элементов:** 0  
 
 | GridExplorer SyndicateDataClass HighestSyndicateX Field |
 | --- |

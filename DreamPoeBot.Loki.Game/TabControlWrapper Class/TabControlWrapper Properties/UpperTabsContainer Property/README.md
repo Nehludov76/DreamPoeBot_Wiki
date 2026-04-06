@@ -1,5 +1,6 @@
 # UpperTabsContainer Property 
 
+**Вложено элементов:** 0  
 
 | TabControlWrapper UpperTabsContainer Property |
 | --- |

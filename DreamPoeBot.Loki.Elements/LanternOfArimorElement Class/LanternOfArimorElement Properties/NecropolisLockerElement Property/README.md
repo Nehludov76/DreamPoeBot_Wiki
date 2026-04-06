@@ -1,5 +1,6 @@
 # NecropolisLockerElement Property 
 
+**Вложено элементов:** 0  
 
 | LanternOfArimorElement NecropolisLockerElement Property |
 | --- |

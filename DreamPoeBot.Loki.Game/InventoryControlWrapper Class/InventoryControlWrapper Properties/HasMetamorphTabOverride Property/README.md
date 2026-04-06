@@ -1,5 +1,6 @@
 # HasMetamorphTabOverride Property 
 
+**Вложено элементов:** 0  
 
 | InventoryControlWrapper HasMetamorphTabOverride Property |
 | --- |

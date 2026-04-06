@@ -1,5 +1,6 @@
 # LargeMapElement Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState MapUi LargeMapElement Property |
 | --- |

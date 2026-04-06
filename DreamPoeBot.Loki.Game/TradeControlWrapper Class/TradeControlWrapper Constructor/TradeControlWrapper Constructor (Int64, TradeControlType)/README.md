@@ -1,5 +1,6 @@
 # TradeControlWrapper Constructor (Int64, TradeControlType)
 
+**Вложено элементов:** 0  
 
 | TradeControlWrapper Constructor (Int64, TradeControlType) |
 | --- |

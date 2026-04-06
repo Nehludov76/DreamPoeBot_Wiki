@@ -1,5 +1,6 @@
 # TrialAreaId Property 
 
+**Вложено элементов:** 0  
 
 | Player TrialState TrialAreaId Property |
 | --- |

@@ -1,5 +1,6 @@
 # Pathfinding Fields
 
+**Вложено элементов:** 0  
 
 | Pathfinding Fields |
 | --- |
@@ -10,6 +11,6 @@
 The Pathfinding type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| NeedUpdate | (Inherited from RemoteMemoryObject .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | NeedUpdate | (Inherited from RemoteMemoryObject .) |

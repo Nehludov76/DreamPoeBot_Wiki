@@ -1,5 +1,6 @@
 # OpenPremiumStashSetting Method 
 
+**Вложено элементов:** 0  
 
 | TabControlWrapper OpenPremiumStashSetting Method |
 | --- |

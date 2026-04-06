@@ -1,5 +1,6 @@
 # CurrentMessageElement Property 
 
+**Вложено элементов:** 0  
 
 | PoeChatElement CurrentMessageElement Property |
 | --- |

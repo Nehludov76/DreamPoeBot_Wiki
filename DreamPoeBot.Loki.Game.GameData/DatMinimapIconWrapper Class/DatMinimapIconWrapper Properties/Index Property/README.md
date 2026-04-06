@@ -1,5 +1,6 @@
 # Index Property 
 
+**Вложено элементов:** 0  
 
 | DatMinimapIconWrapper Index Property |
 | --- |

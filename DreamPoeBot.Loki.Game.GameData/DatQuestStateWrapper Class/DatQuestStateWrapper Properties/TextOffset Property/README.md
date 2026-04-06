@@ -1,5 +1,6 @@
 # TextOffset Property 
 
+**Вложено элементов:** 0  
 
 | DatQuestStateWrapper TextOffset Property |
 | --- |

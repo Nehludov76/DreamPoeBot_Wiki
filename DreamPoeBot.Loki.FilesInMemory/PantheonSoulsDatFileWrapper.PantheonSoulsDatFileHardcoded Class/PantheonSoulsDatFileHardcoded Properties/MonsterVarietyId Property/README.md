@@ -1,5 +1,6 @@
 # MonsterVarietyId Property 
 
+**Вложено элементов:** 0  
 
 | PantheonSoulsDatFileWrapper PantheonSoulsDatFileHardcoded MonsterVarietyId Property |
 | --- |

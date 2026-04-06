@@ -1,5 +1,6 @@
 # Raycast Method (Vector2i, Vector2i, List(NetworkObject), Vector2i, Int32, Boolean, Boolean)
 
+**Вложено элементов:** 0  
 
 | ExilePather Raycast Method (Vector2i, Vector2i, List NetworkObject , Vector2i , Int32 , Boolean, Boolean) |
 | --- |

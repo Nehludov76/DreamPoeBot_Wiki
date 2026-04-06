@@ -1,5 +1,6 @@
 # AttackInPlaceEnum Property 
 
+**Вложено элементов:** 0  
 
 | ServerData AttackInPlaceEnum Property |
 | --- |

@@ -1,5 +1,6 @@
 # BITC Class
 
+**Вложено элементов:** 5  
 
 | BITC Class |
 | --- |
@@ -32,12 +33,16 @@ public ref class BITC abstract sealed
 The BITC type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| GetFlagsForMetadata |
-| HasMetadataFlag |
+|  | Name | Description |
+| --- | --- | --- |
+|  | GetFlagsForMetadata |  |
+|  | HasMetadataFlag |  |
 
 
-| Name | Description |
-| --- | --- |
-| dictionary_0 |
+|  | Name | Description |
+| --- | --- | --- |
+|  | dictionary_0 |  |
+
+## Дочерние разделы
+- [**BITC Methods**](./BITC Methods/README.md)
+- [**BITC Fields**](./BITC Fields/README.md)

@@ -1,5 +1,6 @@
 # ClickCheckBox Method 
 
+**Вложено элементов:** 0  
 
 | AffinitieCheckbox ClickCheckBox Method |
 | --- |

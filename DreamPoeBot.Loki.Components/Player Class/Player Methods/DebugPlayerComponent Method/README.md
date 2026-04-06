@@ -1,5 +1,6 @@
 # DebugPlayerComponent Method 
 
+**Вложено элементов:** 0  
 
 | Player DebugPlayerComponent Method |
 | --- |

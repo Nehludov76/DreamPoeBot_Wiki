@@ -1,5 +1,6 @@
 # TimeLeft Property 
 
+**Вложено элементов:** 0  
 
 | WaitTimer TimeLeft Property |
 | --- |

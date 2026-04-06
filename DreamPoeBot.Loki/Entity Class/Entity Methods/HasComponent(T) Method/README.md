@@ -1,5 +1,6 @@
 # HasComponent(T) Method 
 
+**Вложено элементов:** 0  
 
 | Entity HasComponent T Method |
 | --- |

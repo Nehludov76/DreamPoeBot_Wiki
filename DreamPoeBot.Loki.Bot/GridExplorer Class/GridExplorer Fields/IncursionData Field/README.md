@@ -1,5 +1,6 @@
 # IncursionData Field
 
+**Вложено элементов:** 0  
 
 | GridExplorer IncursionData Field |
 | --- |

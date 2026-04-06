@@ -1,5 +1,6 @@
 # ItemYouPayName Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ExpeditionDealerUi Haggle ItemYouPayName Property |
 | --- |

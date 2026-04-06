@@ -1,5 +1,6 @@
 # BaseName Property 
 
+**Вложено элементов:** 0  
 
 | BaseItemType BaseName Property |
 | --- |

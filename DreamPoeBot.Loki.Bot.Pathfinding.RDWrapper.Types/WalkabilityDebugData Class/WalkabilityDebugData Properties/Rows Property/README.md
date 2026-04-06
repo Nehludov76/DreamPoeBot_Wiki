@@ -1,5 +1,6 @@
 # Rows Property 
 
+**Вложено элементов:** 0  
 
 | WalkabilityDebugData Rows Property |
 | --- |

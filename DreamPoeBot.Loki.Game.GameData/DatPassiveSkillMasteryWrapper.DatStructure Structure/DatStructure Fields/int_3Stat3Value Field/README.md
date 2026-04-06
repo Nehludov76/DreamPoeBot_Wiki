@@ -1,5 +1,6 @@
 # int_3Stat3Value Field
 
+**Вложено элементов:** 0  
 
 | DatPassiveSkillMasteryWrapper DatStructure int_3Stat3Value Field |
 | --- |

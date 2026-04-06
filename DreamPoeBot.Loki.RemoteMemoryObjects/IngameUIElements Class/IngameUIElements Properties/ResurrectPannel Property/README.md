@@ -1,5 +1,6 @@
 # ResurrectPannel Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements ResurrectPannel Property |
 | --- |

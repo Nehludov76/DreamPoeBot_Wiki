@@ -1,5 +1,6 @@
 # Settings Property 
 
+**Вложено элементов:** 0  
 
 | SkillBlacklist Settings Property |
 | --- |

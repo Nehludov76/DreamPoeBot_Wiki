@@ -1,5 +1,6 @@
 # detonate_mines Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input Binding detonate_mines Property |
 | --- |

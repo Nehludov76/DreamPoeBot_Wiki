@@ -1,5 +1,6 @@
 # Reason Property 
 
+**Вложено элементов:** 0  
 
 | StopReasonData Reason Property |
 | --- |

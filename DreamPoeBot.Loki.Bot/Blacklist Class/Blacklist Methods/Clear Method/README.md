@@ -1,5 +1,6 @@
 # Clear Method 
 
+**Вложено элементов:** 0  
 
 | Blacklist Clear Method |
 | --- |

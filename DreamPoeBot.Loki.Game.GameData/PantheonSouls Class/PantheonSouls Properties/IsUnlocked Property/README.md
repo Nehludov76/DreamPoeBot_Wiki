@@ -1,5 +1,6 @@
 # IsUnlocked Property 
 
+**Вложено элементов:** 0  
 
 | PantheonSouls IsUnlocked Property |
 | --- |

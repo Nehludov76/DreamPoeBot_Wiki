@@ -1,5 +1,6 @@
 # RerollElement Property 
 
+**Вложено элементов:** 0  
 
 | RitualFavorElement RerollElement Property |
 | --- |

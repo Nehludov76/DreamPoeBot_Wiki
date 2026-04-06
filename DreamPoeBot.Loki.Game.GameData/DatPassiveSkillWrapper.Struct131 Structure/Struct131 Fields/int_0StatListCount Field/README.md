@@ -1,5 +1,6 @@
 # int_0StatListCount Field
 
+**Вложено элементов:** 0  
 
 | DatPassiveSkillWrapper Struct131 int_0StatListCount Field |
 | --- |

@@ -1,5 +1,6 @@
 # float_Size Field
 
+**Вложено элементов:** 0  
 
 | Positioned Struct196 float_Size Field |
 | --- |

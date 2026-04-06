@@ -1,5 +1,6 @@
 # Scarab Properties
 
+**Вложено элементов:** 107  
 
 | Scarab Properties |
 | --- |
@@ -10,112 +11,221 @@
 The LokiPoe InGameState GuildStashUi FragmentTab Scarab type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| AbyssScarab |
-| AbyssScarabofEdifice |
-| AbyssScarabofMultitudes |
-| AbyssScarabofProfoundDepth |
-| AmbushScarab |
-| AmbushScarabofContainment |
-| AmbushScarabofDiscernment |
-| AmbushScarabofHiddenCompartments |
-| AmbushScarabofPotency |
-| AnarchyScarab |
-| AnarchyScarabofGigantification |
-| AnarchyScarabofPartnership |
-| BestiaryScarab |
-| BestiaryScarabofDuplicating |
-| BestiaryScaraboftheHerd |
-| BetrayalScarab |
-| BetrayalScarabofReinforcements |
-| BetrayalScaraboftheAllflame |
-| BeyondScarab |
-| BeyondScarabofHaemophilia |
-| BeyondScarabofResurgence |
-| BeyondScaraboftheInvasion |
-| BlightScarab |
-| BlightScarabofBlooming |
-| BlightScarabofInvigoration |
-| BlightScaraboftheBlightheart |
-| BreachScarab |
-| BreachScarabofLordship |
-| BreachScarabofResonantCascade |
-| BreachScarabofSnares |
-| BreachScarabofSplintering |
-| CartographyScarabofCorruption |
-| CartographyScarabofEscalation |
-| CartographyScarabofRisk |
-| CartographyScaraboftheMultitude |
-| DeliriumScarab |
-| DeliriumScarabofDelusions |
-| DeliriumScarabofMania |
-| DeliriumScarabofNeuroses |
-| DeliriumScarabofParanoia |
-| DivinationScarabofPilfering |
-| DivinationScarabofPlenty |
-| DivinationScarabofTheCloister |
-| DominationScarab |
-| DominationScarabofApparitions |
-| DominationScarabofEvolution |
-| DominationScarabofTerrors |
-| EssenceScarab |
-| EssenceScarabofAdaptation |
-| EssenceScarabofAscent |
-| EssenceScarabofCalcification |
-| EssenceScarabofStability |
-| ExpeditionScarab |
-| ExpeditionScarabofArchaeology |
-| ExpeditionScarabofRunefinding |
-| ExpeditionScarabofVerisiumPowder |
-| HarvestScarab |
-| HarvestScarabofCornucopia |
-| HarvestScarabofDoubling |
-| HornedScarabofAwakening |
-| HornedScarabofBloodlines |
-| HornedScarabofGlittering |
-| HornedScarabofNemeses |
-| HornedScarabofPandemonium |
-| HornedScarabofPreservation |
-| HornedScarabofTradition |
-| IncursionScarab |
-| IncursionScarabofChampions |
-| IncursionScarabofInvasion |
-| IncursionScarabofTimelines |
-| InfluencingScarabofConversion |
-| InfluencingScarabofHordes |
-| InfluencingScaraboftheElder |
-| InfluencingScaraboftheShaper |
-| IsUpgradeEnabled | Return true if the Upgrade state is enabled. |
-| KalguuranScarab |
-| KalguuranScarabofGuardedRiches |
-| KalguuranScarabofRefinement |
-| LegionScarab |
-| LegionScarabofCommand |
-| LegionScarabofEternalConflict |
-| LegionScarabofOfficers |
-| RitualScarabofAbundance |
-| RitualScarabofCorpses |
-| RitualScarabofSelectiveness |
-| RitualScarabofWisps |
-| ScarabofAdversaries |
-| ScarabofBisection |
-| ScarabofDivinity |
-| ScarabofHuntedTraitors |
-| ScarabofMonstrousLineage |
-| ScarabofRadiantStorms |
-| ScarabofStability |
-| ScarabofWisps |
-| SulphiteScarab |
-| SulphiteScarabofFumes |
-| TitanicScarab |
-| TitanicScarabofLegend |
-| TitanicScarabofTreasures |
-| TormentScarab |
-| TormentScarabofPeculiarity |
-| TormentScarabofPossession |
-| UltimatumScarab |
-| UltimatumScarabofBribing |
-| UltimatumScarabofCatalysing |
-| UltimatumScarabofDueling |
-| UltimatumScarabofInscription |
+|  | Name | Description |
+| --- | --- | --- |
+|  | AbyssScarab |  |
+|  | AbyssScarabofEdifice |  |
+|  | AbyssScarabofMultitudes |  |
+|  | AbyssScarabofProfoundDepth |  |
+|  | AmbushScarab |  |
+|  | AmbushScarabofContainment |  |
+|  | AmbushScarabofDiscernment |  |
+|  | AmbushScarabofHiddenCompartments |  |
+|  | AmbushScarabofPotency |  |
+|  | AnarchyScarab |  |
+|  | AnarchyScarabofGigantification |  |
+|  | AnarchyScarabofPartnership |  |
+|  | BestiaryScarab |  |
+|  | BestiaryScarabofDuplicating |  |
+|  | BestiaryScaraboftheHerd |  |
+|  | BetrayalScarab |  |
+|  | BetrayalScarabofReinforcements |  |
+|  | BetrayalScaraboftheAllflame |  |
+|  | BeyondScarab |  |
+|  | BeyondScarabofHaemophilia |  |
+|  | BeyondScarabofResurgence |  |
+|  | BeyondScaraboftheInvasion |  |
+|  | BlightScarab |  |
+|  | BlightScarabofBlooming |  |
+|  | BlightScarabofInvigoration |  |
+|  | BlightScaraboftheBlightheart |  |
+|  | BreachScarab |  |
+|  | BreachScarabofLordship |  |
+|  | BreachScarabofResonantCascade |  |
+|  | BreachScarabofSnares |  |
+|  | BreachScarabofSplintering |  |
+|  | CartographyScarabofCorruption |  |
+|  | CartographyScarabofEscalation |  |
+|  | CartographyScarabofRisk |  |
+|  | CartographyScaraboftheMultitude |  |
+|  | DeliriumScarab |  |
+|  | DeliriumScarabofDelusions |  |
+|  | DeliriumScarabofMania |  |
+|  | DeliriumScarabofNeuroses |  |
+|  | DeliriumScarabofParanoia |  |
+|  | DivinationScarabofPilfering |  |
+|  | DivinationScarabofPlenty |  |
+|  | DivinationScarabofTheCloister |  |
+|  | DominationScarab |  |
+|  | DominationScarabofApparitions |  |
+|  | DominationScarabofEvolution |  |
+|  | DominationScarabofTerrors |  |
+|  | EssenceScarab |  |
+|  | EssenceScarabofAdaptation |  |
+|  | EssenceScarabofAscent |  |
+|  | EssenceScarabofCalcification |  |
+|  | EssenceScarabofStability |  |
+|  | ExpeditionScarab |  |
+|  | ExpeditionScarabofArchaeology |  |
+|  | ExpeditionScarabofRunefinding |  |
+|  | ExpeditionScarabofVerisiumPowder |  |
+|  | HarvestScarab |  |
+|  | HarvestScarabofCornucopia |  |
+|  | HarvestScarabofDoubling |  |
+|  | HornedScarabofAwakening |  |
+|  | HornedScarabofBloodlines |  |
+|  | HornedScarabofGlittering |  |
+|  | HornedScarabofNemeses |  |
+|  | HornedScarabofPandemonium |  |
+|  | HornedScarabofPreservation |  |
+|  | HornedScarabofTradition |  |
+|  | IncursionScarab |  |
+|  | IncursionScarabofChampions |  |
+|  | IncursionScarabofInvasion |  |
+|  | IncursionScarabofTimelines |  |
+|  | InfluencingScarabofConversion |  |
+|  | InfluencingScarabofHordes |  |
+|  | InfluencingScaraboftheElder |  |
+|  | InfluencingScaraboftheShaper |  |
+|  | IsUpgradeEnabled | Return true if the Upgrade state is enabled. |
+|  | KalguuranScarab |  |
+|  | KalguuranScarabofGuardedRiches |  |
+|  | KalguuranScarabofRefinement |  |
+|  | LegionScarab |  |
+|  | LegionScarabofCommand |  |
+|  | LegionScarabofEternalConflict |  |
+|  | LegionScarabofOfficers |  |
+|  | RitualScarabofAbundance |  |
+|  | RitualScarabofCorpses |  |
+|  | RitualScarabofSelectiveness |  |
+|  | RitualScarabofWisps |  |
+|  | ScarabofAdversaries |  |
+|  | ScarabofBisection |  |
+|  | ScarabofDivinity |  |
+|  | ScarabofHuntedTraitors |  |
+|  | ScarabofMonstrousLineage |  |
+|  | ScarabofRadiantStorms |  |
+|  | ScarabofStability |  |
+|  | ScarabofWisps |  |
+|  | SulphiteScarab |  |
+|  | SulphiteScarabofFumes |  |
+|  | TitanicScarab |  |
+|  | TitanicScarabofLegend |  |
+|  | TitanicScarabofTreasures |  |
+|  | TormentScarab |  |
+|  | TormentScarabofPeculiarity |  |
+|  | TormentScarabofPossession |  |
+|  | UltimatumScarab |  |
+|  | UltimatumScarabofBribing |  |
+|  | UltimatumScarabofCatalysing |  |
+|  | UltimatumScarabofDueling |  |
+|  | UltimatumScarabofInscription |  |
+
+## Дочерние разделы
+- [**AbyssScarab Property **](./AbyssScarab Property/README.md)
+- [**AbyssScarabofEdifice Property **](./AbyssScarabofEdifice Property/README.md)
+- [**AbyssScarabofMultitudes Property **](./AbyssScarabofMultitudes Property/README.md)
+- [**AbyssScarabofProfoundDepth Property **](./AbyssScarabofProfoundDepth Property/README.md)
+- [**AmbushScarab Property **](./AmbushScarab Property/README.md)
+- [**AmbushScarabofContainment Property **](./AmbushScarabofContainment Property/README.md)
+- [**AmbushScarabofDiscernment Property **](./AmbushScarabofDiscernment Property/README.md)
+- [**AmbushScarabofHiddenCompartments Property **](./AmbushScarabofHiddenCompartments Property/README.md)
+- [**AmbushScarabofPotency Property **](./AmbushScarabofPotency Property/README.md)
+- [**AnarchyScarab Property **](./AnarchyScarab Property/README.md)
+- [**AnarchyScarabofGigantification Property **](./AnarchyScarabofGigantification Property/README.md)
+- [**AnarchyScarabofPartnership Property **](./AnarchyScarabofPartnership Property/README.md)
+- [**BestiaryScarab Property **](./BestiaryScarab Property/README.md)
+- [**BestiaryScarabofDuplicating Property **](./BestiaryScarabofDuplicating Property/README.md)
+- [**BestiaryScaraboftheHerd Property **](./BestiaryScaraboftheHerd Property/README.md)
+- [**BetrayalScarab Property **](./BetrayalScarab Property/README.md)
+- [**BetrayalScarabofReinforcements Property **](./BetrayalScarabofReinforcements Property/README.md)
+- [**BetrayalScaraboftheAllflame Property **](./BetrayalScaraboftheAllflame Property/README.md)
+- [**BeyondScarab Property **](./BeyondScarab Property/README.md)
+- [**BeyondScarabofHaemophilia Property **](./BeyondScarabofHaemophilia Property/README.md)
+- [**BeyondScarabofResurgence Property **](./BeyondScarabofResurgence Property/README.md)
+- [**BeyondScaraboftheInvasion Property **](./BeyondScaraboftheInvasion Property/README.md)
+- [**BlightScarab Property **](./BlightScarab Property/README.md)
+- [**BlightScarabofBlooming Property **](./BlightScarabofBlooming Property/README.md)
+- [**BlightScarabofInvigoration Property **](./BlightScarabofInvigoration Property/README.md)
+- [**BlightScaraboftheBlightheart Property **](./BlightScaraboftheBlightheart Property/README.md)
+- [**BreachScarab Property **](./BreachScarab Property/README.md)
+- [**BreachScarabofLordship Property **](./BreachScarabofLordship Property/README.md)
+- [**BreachScarabofResonantCascade Property **](./BreachScarabofResonantCascade Property/README.md)
+- [**BreachScarabofSnares Property **](./BreachScarabofSnares Property/README.md)
+- [**BreachScarabofSplintering Property **](./BreachScarabofSplintering Property/README.md)
+- [**CartographyScarabofCorruption Property **](./CartographyScarabofCorruption Property/README.md)
+- [**CartographyScarabofEscalation Property **](./CartographyScarabofEscalation Property/README.md)
+- [**CartographyScarabofRisk Property **](./CartographyScarabofRisk Property/README.md)
+- [**CartographyScaraboftheMultitude Property **](./CartographyScaraboftheMultitude Property/README.md)
+- [**DeliriumScarab Property **](./DeliriumScarab Property/README.md)
+- [**DeliriumScarabofDelusions Property **](./DeliriumScarabofDelusions Property/README.md)
+- [**DeliriumScarabofMania Property **](./DeliriumScarabofMania Property/README.md)
+- [**DeliriumScarabofNeuroses Property **](./DeliriumScarabofNeuroses Property/README.md)
+- [**DeliriumScarabofParanoia Property **](./DeliriumScarabofParanoia Property/README.md)
+- [**DivinationScarabofPilfering Property **](./DivinationScarabofPilfering Property/README.md)
+- [**DivinationScarabofPlenty Property **](./DivinationScarabofPlenty Property/README.md)
+- [**DivinationScarabofTheCloister Property **](./DivinationScarabofTheCloister Property/README.md)
+- [**DominationScarab Property **](./DominationScarab Property/README.md)
+- [**DominationScarabofApparitions Property **](./DominationScarabofApparitions Property/README.md)
+- [**DominationScarabofEvolution Property **](./DominationScarabofEvolution Property/README.md)
+- [**DominationScarabofTerrors Property **](./DominationScarabofTerrors Property/README.md)
+- [**EssenceScarab Property **](./EssenceScarab Property/README.md)
+- [**EssenceScarabofAdaptation Property **](./EssenceScarabofAdaptation Property/README.md)
+- [**EssenceScarabofAscent Property **](./EssenceScarabofAscent Property/README.md)
+- [**EssenceScarabofCalcification Property **](./EssenceScarabofCalcification Property/README.md)
+- [**EssenceScarabofStability Property **](./EssenceScarabofStability Property/README.md)
+- [**ExpeditionScarab Property **](./ExpeditionScarab Property/README.md)
+- [**ExpeditionScarabofArchaeology Property **](./ExpeditionScarabofArchaeology Property/README.md)
+- [**ExpeditionScarabofRunefinding Property **](./ExpeditionScarabofRunefinding Property/README.md)
+- [**ExpeditionScarabofVerisiumPowder Property **](./ExpeditionScarabofVerisiumPowder Property/README.md)
+- [**HarvestScarab Property **](./HarvestScarab Property/README.md)
+- [**HarvestScarabofCornucopia Property **](./HarvestScarabofCornucopia Property/README.md)
+- [**HarvestScarabofDoubling Property **](./HarvestScarabofDoubling Property/README.md)
+- [**HornedScarabofAwakening Property **](./HornedScarabofAwakening Property/README.md)
+- [**HornedScarabofBloodlines Property **](./HornedScarabofBloodlines Property/README.md)
+- [**HornedScarabofGlittering Property **](./HornedScarabofGlittering Property/README.md)
+- [**HornedScarabofNemeses Property **](./HornedScarabofNemeses Property/README.md)
+- [**HornedScarabofPandemonium Property **](./HornedScarabofPandemonium Property/README.md)
+- [**HornedScarabofPreservation Property **](./HornedScarabofPreservation Property/README.md)
+- [**HornedScarabofTradition Property **](./HornedScarabofTradition Property/README.md)
+- [**IncursionScarab Property **](./IncursionScarab Property/README.md)
+- [**IncursionScarabofChampions Property **](./IncursionScarabofChampions Property/README.md)
+- [**IncursionScarabofInvasion Property **](./IncursionScarabofInvasion Property/README.md)
+- [**IncursionScarabofTimelines Property **](./IncursionScarabofTimelines Property/README.md)
+- [**InfluencingScarabofConversion Property **](./InfluencingScarabofConversion Property/README.md)
+- [**InfluencingScarabofHordes Property **](./InfluencingScarabofHordes Property/README.md)
+- [**InfluencingScaraboftheElder Property **](./InfluencingScaraboftheElder Property/README.md)
+- [**InfluencingScaraboftheShaper Property **](./InfluencingScaraboftheShaper Property/README.md)
+- [**IsUpgradeEnabled Property **](./IsUpgradeEnabled Property/README.md)
+- [**KalguuranScarab Property **](./KalguuranScarab Property/README.md)
+- [**KalguuranScarabofGuardedRiches Property **](./KalguuranScarabofGuardedRiches Property/README.md)
+- [**KalguuranScarabofRefinement Property **](./KalguuranScarabofRefinement Property/README.md)
+- [**LegionScarab Property **](./LegionScarab Property/README.md)
+- [**LegionScarabofCommand Property **](./LegionScarabofCommand Property/README.md)
+- [**LegionScarabofEternalConflict Property **](./LegionScarabofEternalConflict Property/README.md)
+- [**LegionScarabofOfficers Property **](./LegionScarabofOfficers Property/README.md)
+- [**RitualScarabofAbundance Property **](./RitualScarabofAbundance Property/README.md)
+- [**RitualScarabofCorpses Property **](./RitualScarabofCorpses Property/README.md)
+- [**RitualScarabofSelectiveness Property **](./RitualScarabofSelectiveness Property/README.md)
+- [**RitualScarabofWisps Property **](./RitualScarabofWisps Property/README.md)
+- [**ScarabofAdversaries Property **](./ScarabofAdversaries Property/README.md)
+- [**ScarabofBisection Property **](./ScarabofBisection Property/README.md)
+- [**ScarabofDivinity Property **](./ScarabofDivinity Property/README.md)
+- [**ScarabofHuntedTraitors Property **](./ScarabofHuntedTraitors Property/README.md)
+- [**ScarabofMonstrousLineage Property **](./ScarabofMonstrousLineage Property/README.md)
+- [**ScarabofRadiantStorms Property **](./ScarabofRadiantStorms Property/README.md)
+- [**ScarabofStability Property **](./ScarabofStability Property/README.md)
+- [**ScarabofWisps Property **](./ScarabofWisps Property/README.md)
+- [**SulphiteScarab Property **](./SulphiteScarab Property/README.md)
+- [**SulphiteScarabofFumes Property **](./SulphiteScarabofFumes Property/README.md)
+- [**TitanicScarab Property **](./TitanicScarab Property/README.md)
+- [**TitanicScarabofLegend Property **](./TitanicScarabofLegend Property/README.md)
+- [**TitanicScarabofTreasures Property **](./TitanicScarabofTreasures Property/README.md)
+- [**TormentScarab Property **](./TormentScarab Property/README.md)
+- [**TormentScarabofPeculiarity Property **](./TormentScarabofPeculiarity Property/README.md)
+- [**TormentScarabofPossession Property **](./TormentScarabofPossession Property/README.md)
+- [**UltimatumScarab Property **](./UltimatumScarab Property/README.md)
+- [**UltimatumScarabofBribing Property **](./UltimatumScarabofBribing Property/README.md)
+- [**UltimatumScarabofCatalysing Property **](./UltimatumScarabofCatalysing Property/README.md)
+- [**UltimatumScarabofDueling Property **](./UltimatumScarabofDueling Property/README.md)
+- [**UltimatumScarabofInscription Property **](./UltimatumScarabofInscription Property/README.md)

@@ -1,5 +1,6 @@
 # BotManager.BotEvent Delegate
 
+**Вложено элементов:** 0  
 
 | BotManager BotEvent Delegate |
 | --- |

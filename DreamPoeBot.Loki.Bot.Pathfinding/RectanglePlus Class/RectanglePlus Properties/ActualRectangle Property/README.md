@@ -1,5 +1,6 @@
 # ActualRectangle Property 
 
+**Вложено элементов:** 0  
 
 | RectanglePlus ActualRectangle Property |
 | --- |

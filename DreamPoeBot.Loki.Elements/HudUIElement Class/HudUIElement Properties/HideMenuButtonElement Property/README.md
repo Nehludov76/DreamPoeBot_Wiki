@@ -1,5 +1,6 @@
 # HideMenuButtonElement Property 
 
+**Вложено элементов:** 0  
 
 | HudUIElement HideMenuButtonElement Property |
 | --- |

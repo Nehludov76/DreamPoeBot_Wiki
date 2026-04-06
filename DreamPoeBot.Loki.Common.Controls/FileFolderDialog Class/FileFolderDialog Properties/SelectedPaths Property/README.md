@@ -1,5 +1,6 @@
 # SelectedPaths Property 
 
+**Вложено элементов:** 0  
 
 | FileFolderDialog SelectedPaths Property |
 | --- |

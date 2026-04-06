@@ -1,5 +1,6 @@
 # ConfirmUnveil Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState UnveilingUi ConfirmUnveil Method |
 | --- |

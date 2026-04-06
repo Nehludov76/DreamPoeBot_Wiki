@@ -1,5 +1,6 @@
 # PassiveSkillsDatAdr Property 
 
+**Вложено элементов:** 0  
 
 | ServerData PassiveSkillGraphNode PassiveSkillsDatAdr Property |
 | --- |

@@ -1,5 +1,6 @@
 # MerchantPanelElement Constructor 
 
+**Вложено элементов:** 0  
 
 | MerchantPanelElement Constructor |
 | --- |

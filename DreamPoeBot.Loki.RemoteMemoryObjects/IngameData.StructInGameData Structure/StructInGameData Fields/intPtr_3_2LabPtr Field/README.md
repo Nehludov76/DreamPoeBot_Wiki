@@ -1,5 +1,6 @@
 # intPtr_3_2LabPtr Field
 
+**Вложено элементов:** 0  
 
 | IngameData StructInGameData intPtr_3_2LabPtr Field |
 | --- |

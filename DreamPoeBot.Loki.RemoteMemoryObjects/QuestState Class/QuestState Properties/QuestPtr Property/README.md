@@ -1,5 +1,6 @@
 # QuestPtr Property 
 
+**Вложено элементов:** 0  
 
 | QuestState QuestPtr Property |
 | --- |

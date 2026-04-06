@@ -1,5 +1,6 @@
 # CreateFromPoints Method 
 
+**Вложено элементов:** 0  
 
 | BoundingBox CreateFromPoints Method |
 | --- |

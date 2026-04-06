@@ -1,5 +1,6 @@
 # SelectHideout Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState HideoutSelectionUi SelectHideout Method |
 | --- |

@@ -1,5 +1,6 @@
 # LokiPoe.InGameState.ExpeditionUi.ExpeditionMission Constructor 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ExpeditionUi ExpeditionMission Constructor |
 | --- |

@@ -1,5 +1,6 @@
 # LokiPoe.InstanceInfo.CurrencyExchange.CurrencyExchangeOrder Constructor 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo CurrencyExchange CurrencyExchangeOrder Constructor |
 | --- |

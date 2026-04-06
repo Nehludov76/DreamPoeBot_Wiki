@@ -1,5 +1,6 @@
 # GetPointsOnSegment Method 
 
+**Вложено элементов:** 0  
 
 | ExilePather GetPointsOnSegment Method |
 | --- |

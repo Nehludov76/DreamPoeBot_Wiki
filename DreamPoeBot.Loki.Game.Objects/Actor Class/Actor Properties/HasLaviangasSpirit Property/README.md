@@ -1,5 +1,6 @@
 # HasLaviangasSpirit Property 
 
+**Вложено элементов:** 0  
 
 | Actor HasLaviangasSpirit Property |
 | --- |

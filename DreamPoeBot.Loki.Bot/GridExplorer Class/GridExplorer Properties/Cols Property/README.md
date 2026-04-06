@@ -1,5 +1,6 @@
 # Cols Property 
 
+**Вложено элементов:** 0  
 
 | GridExplorer Cols Property |
 | --- |

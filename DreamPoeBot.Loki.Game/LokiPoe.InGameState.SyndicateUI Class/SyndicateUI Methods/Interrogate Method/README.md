@@ -1,5 +1,6 @@
 # Interrogate Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SyndicateUI Interrogate Method |
 | --- |

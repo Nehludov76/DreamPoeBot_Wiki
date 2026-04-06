@@ -1,5 +1,6 @@
 # RitualsRemaining Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo Ritual RitualsRemaining Property |
 | --- |

@@ -1,5 +1,6 @@
 # ExternalTaskWaitResult(T) Structure
 
+**Вложено элементов:** 4  
 
 | ExternalTaskWaitResult T Structure |
 | --- |
@@ -34,15 +35,19 @@ generic < typename T> public value class ExternalTaskWaitResult
 The ExternalTaskWaitResult T type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Completed |
-| Result |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Completed |  |
+|  | Result |  |
 
 
-| Name | Description |
-| --- | --- |
-| Equals | Indicates whether this instance and a specified object are equal. (Inherited from ValueType .) |
-| GetHashCode | Returns the hash code for this instance. (Inherited from ValueType .) |
-| GetType | Gets the Type of the current instance. (Inherited from Object .) |
-| ToString | Returns the fully qualified type name of this instance. (Inherited from ValueType .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Equals | Indicates whether this instance and a specified object are equal. (Inherited from ValueType .) |
+|  | GetHashCode | Returns the hash code for this instance. (Inherited from ValueType .) |
+|  | GetType | Gets the Type of the current instance. (Inherited from Object .) |
+|  | ToString | Returns the fully qualified type name of this instance. (Inherited from ValueType .) |
+
+## Дочерние разделы
+- [**ExternalTaskWaitResult(T) Properties**](./ExternalTaskWaitResult(T) Properties/README.md)
+- [**ExternalTaskWaitResult(T) Methods**](./ExternalTaskWaitResult(T) Methods/README.md)

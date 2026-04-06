@@ -1,5 +1,6 @@
 # CurrentRoomId Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe LocalData Labyrinth CurrentRoomId Property |
 | --- |

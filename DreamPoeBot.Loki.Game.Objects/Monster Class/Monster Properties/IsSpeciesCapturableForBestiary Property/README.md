@@ -1,5 +1,6 @@
 # IsSpeciesCapturableForBestiary Property 
 
+**Вложено элементов:** 0  
 
 | Monster IsSpeciesCapturableForBestiary Property |
 | --- |

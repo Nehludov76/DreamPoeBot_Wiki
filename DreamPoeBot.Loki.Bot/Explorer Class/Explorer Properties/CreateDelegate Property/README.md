@@ -1,5 +1,6 @@
 # CreateDelegate Property 
 
+**Вложено элементов:** 0  
 
 | Explorer CreateDelegate Property |
 | --- |

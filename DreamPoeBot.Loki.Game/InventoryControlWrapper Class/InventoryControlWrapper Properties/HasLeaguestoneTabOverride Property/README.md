@@ -1,5 +1,6 @@
 # HasLeaguestoneTabOverride Property 
 
+**Вложено элементов:** 0  
 
 | InventoryControlWrapper HasLeaguestoneTabOverride Property |
 | --- |

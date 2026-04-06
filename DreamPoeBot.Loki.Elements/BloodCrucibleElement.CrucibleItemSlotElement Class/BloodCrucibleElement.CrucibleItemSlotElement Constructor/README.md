@@ -1,5 +1,6 @@
 # BloodCrucibleElement.CrucibleItemSlotElement Constructor 
 
+**Вложено элементов:** 0  
 
 | BloodCrucibleElement CrucibleItemSlotElement Constructor |
 | --- |

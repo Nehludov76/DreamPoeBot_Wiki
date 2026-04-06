@@ -1,5 +1,6 @@
 # Index Field
 
+**Вложено элементов:** 0  
 
 | ServerData passiveGraphSkillsInfoStructure Index Field |
 | --- |

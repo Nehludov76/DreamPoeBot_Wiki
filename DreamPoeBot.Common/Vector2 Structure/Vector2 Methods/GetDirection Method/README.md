@@ -1,5 +1,6 @@
 # GetDirection Method 
 
+**Вложено элементов:** 0  
 
 | Vector2 GetDirection Method |
 | --- |

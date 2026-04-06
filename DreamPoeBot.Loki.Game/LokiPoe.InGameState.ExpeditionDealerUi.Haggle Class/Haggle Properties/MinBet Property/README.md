@@ -1,5 +1,6 @@
 # MinBet Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ExpeditionDealerUi Haggle MinBet Property |
 | --- |

@@ -1,5 +1,6 @@
 # CorpseAndAllflamePosPct Property 
 
+**Вложено элементов:** 0  
 
 | LanternOfArimorElement PackModifier CorpseAndAllflamePosPct Property |
 | --- |

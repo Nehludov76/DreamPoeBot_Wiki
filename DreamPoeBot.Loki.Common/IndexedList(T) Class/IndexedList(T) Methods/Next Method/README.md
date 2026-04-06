@@ -1,5 +1,6 @@
 # Next Method 
 
+**Вложено элементов:** 0  
 
 | IndexedList T Next Method |
 | --- |

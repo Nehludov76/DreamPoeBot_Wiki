@@ -1,5 +1,6 @@
 # AtlasPassiveSkillIds Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo AtlasPassiveSkillIds Property |
 | --- |

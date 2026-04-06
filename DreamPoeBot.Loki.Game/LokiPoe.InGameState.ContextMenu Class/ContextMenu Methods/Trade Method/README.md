@@ -1,5 +1,6 @@
 # Trade Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ContextMenu Trade Method |
 | --- |

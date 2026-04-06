@@ -1,5 +1,6 @@
 # TryRemove Method 
 
+**Вложено элементов:** 0  
 
 | pObstacle TryRemove Method |
 | --- |

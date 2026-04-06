@@ -1,5 +1,6 @@
 # IsMapTrialArea Property 
 
+**Вложено элементов:** 0  
 
 | DatWorldAreaWrapper IsMapTrialArea Property |
 | --- |

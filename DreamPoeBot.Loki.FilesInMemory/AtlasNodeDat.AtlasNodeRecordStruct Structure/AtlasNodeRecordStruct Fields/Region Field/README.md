@@ -1,5 +1,6 @@
 # Region Field
 
+**Вложено элементов:** 0  
 
 | AtlasNodeDat AtlasNodeRecordStruct Region Field |
 | --- |

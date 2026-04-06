@@ -1,5 +1,6 @@
 # StashTabNode Constructor 
 
+**Вложено элементов:** 0  
 
 | StashTabNode Constructor |
 | --- |

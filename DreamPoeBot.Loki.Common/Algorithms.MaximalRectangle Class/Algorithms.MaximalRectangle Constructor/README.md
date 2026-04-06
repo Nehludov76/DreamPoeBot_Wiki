@@ -1,5 +1,6 @@
 # Algorithms.MaximalRectangle Constructor 
 
+**Вложено элементов:** 0  
 
 | Algorithms MaximalRectangle Constructor |
 | --- |

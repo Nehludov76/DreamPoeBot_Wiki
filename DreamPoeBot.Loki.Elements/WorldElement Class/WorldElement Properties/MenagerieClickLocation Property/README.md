@@ -1,5 +1,6 @@
 # MenagerieClickLocation Property 
 
+**Вложено элементов:** 0  
 
 | WorldElement MenagerieClickLocation Property |
 | --- |

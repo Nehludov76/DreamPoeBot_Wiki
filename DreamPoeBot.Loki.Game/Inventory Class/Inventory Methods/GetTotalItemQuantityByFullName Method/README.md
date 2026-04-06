@@ -1,5 +1,6 @@
 # GetTotalItemQuantityByFullName Method 
 
+**Вложено элементов:** 0  
 
 | Inventory GetTotalItemQuantityByFullName Method |
 | --- |

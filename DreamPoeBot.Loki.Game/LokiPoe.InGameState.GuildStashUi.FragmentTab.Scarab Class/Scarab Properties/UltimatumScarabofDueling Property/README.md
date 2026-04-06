@@ -1,5 +1,6 @@
 # UltimatumScarabofDueling Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState GuildStashUi FragmentTab Scarab UltimatumScarabofDueling Property |
 | --- |

@@ -1,5 +1,6 @@
 # ResurrectElement Fields
 
+**Вложено элементов:** 0  
 
 | ResurrectElement Fields |
 | --- |
@@ -10,6 +11,6 @@
 The ResurrectElement type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| NeedUpdate | (Inherited from RemoteMemoryObject .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | NeedUpdate | (Inherited from RemoteMemoryObject .) |

@@ -1,5 +1,6 @@
 # byte_IsCapturedMonstersDataLoaded Field
 
+**Вложено элементов:** 0  
 
 | ServerData StructNewServerData byte_IsCapturedMonstersDataLoaded Field |
 | --- |

@@ -1,5 +1,6 @@
 # IsMap Property 
 
+**Вложено элементов:** 0  
 
 | DatWorldAreaWrapper IsMap Property |
 | --- |

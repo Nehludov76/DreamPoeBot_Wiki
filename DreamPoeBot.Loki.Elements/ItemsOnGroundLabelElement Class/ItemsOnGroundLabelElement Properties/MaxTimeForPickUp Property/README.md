@@ -1,5 +1,6 @@
 # MaxTimeForPickUp Property 
 
+**Вложено элементов:** 0  
 
 | ItemsOnGroundLabelElement MaxTimeForPickUp Property |
 | --- |

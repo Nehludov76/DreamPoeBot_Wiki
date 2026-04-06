@@ -1,5 +1,6 @@
 # BaseWeaponType Property 
 
+**Вложено элементов:** 0  
 
 | Weapon BaseWeaponType Property |
 | --- |

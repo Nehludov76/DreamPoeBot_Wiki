@@ -1,5 +1,6 @@
 # IsBlacklisted Method (Int32)
 
+**Вложено элементов:** 0  
 
 | SkillBlacklist IsBlacklisted Method (Int32) |
 | --- |

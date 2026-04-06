@@ -1,5 +1,6 @@
 # QuestProgressText Property 
 
+**Вложено элементов:** 0  
 
 | QuestState QuestProgressText Property |
 | --- |

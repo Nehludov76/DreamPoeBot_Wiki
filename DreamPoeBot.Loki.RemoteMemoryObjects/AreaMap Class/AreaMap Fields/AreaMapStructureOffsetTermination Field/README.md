@@ -1,5 +1,6 @@
 # AreaMapStructureOffsetTermination Field
 
+**Вложено элементов:** 0  
 
 | AreaMap AreaMapStructureOffsetTermination Field |
 | --- |

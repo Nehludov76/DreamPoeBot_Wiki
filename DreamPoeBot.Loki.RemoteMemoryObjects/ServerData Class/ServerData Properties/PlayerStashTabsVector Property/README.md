@@ -1,5 +1,6 @@
 # PlayerStashTabsVector Property 
 
+**Вложено элементов:** 0  
 
 | ServerData PlayerStashTabsVector Property |
 | --- |

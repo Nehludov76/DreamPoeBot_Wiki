@@ -1,5 +1,6 @@
 # Acts Property 
 
+**Вложено элементов:** 0  
 
 | WorldElement Acts Property |
 | --- |

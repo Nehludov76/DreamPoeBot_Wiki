@@ -1,5 +1,6 @@
 # ShouldBlockNPC Property 
 
+**Вложено элементов:** 0  
 
 | ExilePather ShouldBlockNPC Property |
 | --- |

@@ -1,5 +1,6 @@
 # CraftingOutCome Property 
 
+**Вложено элементов:** 0  
 
 | HarvestIrrigator CraftingOutCome Property |
 | --- |

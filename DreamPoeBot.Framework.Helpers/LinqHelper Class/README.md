@@ -1,5 +1,6 @@
 # LinqHelper Class
 
+**Вложено элементов:** 4  
 
 | LinqHelper Class |
 | --- |
@@ -30,7 +31,10 @@ public static class LinqHelper
 ```
 
 
-| Name | Description |
-| --- | --- |
-| ForEach T (IEnumerable T , Action T ) |
-| ForEach TKey, TValue (IEnumerable KeyValuePair TKey, TValue , Action TKey, TValue ) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | ForEach T (IEnumerable T , Action T ) |  |
+|  | ForEach TKey, TValue (IEnumerable KeyValuePair TKey, TValue , Action TKey, TValue ) |  |
+
+## Дочерние разделы
+- [**LinqHelper Methods**](./LinqHelper Methods/README.md)

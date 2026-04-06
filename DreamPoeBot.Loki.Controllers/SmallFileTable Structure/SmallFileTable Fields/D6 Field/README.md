@@ -1,5 +1,6 @@
 # D6 Field
 
+**Вложено элементов:** 0  
 
 | SmallFileTable D6 Field |
 | --- |

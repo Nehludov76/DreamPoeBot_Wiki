@@ -1,5 +1,6 @@
 # UltimatumChallengeElement Constructor 
 
+**Вложено элементов:** 0  
 
 | UltimatumChallengeElement Constructor |
 | --- |

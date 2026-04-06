@@ -1,5 +1,6 @@
 # EscapeStateClass Constructor 
 
+**Вложено элементов:** 0  
 
 | EscapeStateClass Constructor |
 | --- |

@@ -1,5 +1,6 @@
 # ShowLabel Method 
 
+**Вложено элементов:** 0  
 
 | WorldItem WorldItemLabelClass ShowLabel Method |
 | --- |

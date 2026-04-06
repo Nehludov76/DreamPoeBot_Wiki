@@ -1,5 +1,6 @@
 # MarkersInventoryControls Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState HeistLockerUi MarkersInventoryControls Property |
 | --- |

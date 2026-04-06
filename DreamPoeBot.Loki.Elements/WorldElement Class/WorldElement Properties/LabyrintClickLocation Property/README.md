@@ -1,5 +1,6 @@
 # LabyrintClickLocation Property 
 
+**Вложено элементов:** 0  
 
 | WorldElement LabyrintClickLocation Property |
 | --- |

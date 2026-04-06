@@ -1,5 +1,6 @@
 # IsOpened Property 
 
+**Вложено элементов:** 0  
 
 | Chest IsOpened Property |
 | --- |

@@ -1,5 +1,6 @@
 # ExpeditionLogbook Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState ExpeditionLockerUi ExpeditionLogbook Property |
 | --- |

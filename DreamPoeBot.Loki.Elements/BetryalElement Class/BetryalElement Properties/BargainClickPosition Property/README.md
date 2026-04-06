@@ -1,5 +1,6 @@
 # BargainClickPosition Property 
 
+**Вложено элементов:** 0  
 
 | BetryalElement BargainClickPosition Property |
 | --- |

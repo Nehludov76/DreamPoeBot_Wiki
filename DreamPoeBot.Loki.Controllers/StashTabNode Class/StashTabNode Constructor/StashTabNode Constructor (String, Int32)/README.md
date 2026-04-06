@@ -1,5 +1,6 @@
 # StashTabNode Constructor (String, Int32)
 
+**Вложено элементов:** 0  
 
 | StashTabNode Constructor (String, Int32) |
 | --- |

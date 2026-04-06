@@ -1,5 +1,6 @@
 # Timer Fields
 
+**Вложено элементов:** 0  
 
 | Timer Fields |
 | --- |
@@ -10,6 +11,6 @@
 The Timer type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| NeedUpdate | (Inherited from RemoteMemoryObject .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | NeedUpdate | (Inherited from RemoteMemoryObject .) |

@@ -1,5 +1,6 @@
 # CurrentSulphiteAmount Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo Delve CurrentSulphiteAmount Property |
 | --- |

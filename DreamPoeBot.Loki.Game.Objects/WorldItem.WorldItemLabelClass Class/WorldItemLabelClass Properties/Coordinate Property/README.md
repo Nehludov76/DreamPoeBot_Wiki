@@ -1,5 +1,6 @@
 # Coordinate Property 
 
+**Вложено элементов:** 0  
 
 | WorldItem WorldItemLabelClass Coordinate Property |
 | --- |

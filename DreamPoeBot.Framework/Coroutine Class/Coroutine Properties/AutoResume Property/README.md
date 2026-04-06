@@ -1,5 +1,6 @@
 # AutoResume Property 
 
+**Вложено элементов:** 0  
 
 | Coroutine AutoResume Property |
 | --- |

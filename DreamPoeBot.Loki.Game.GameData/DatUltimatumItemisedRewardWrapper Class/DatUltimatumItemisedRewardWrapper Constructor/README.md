@@ -1,5 +1,6 @@
 # DatUltimatumItemisedRewardWrapper Constructor 
 
+**Вложено элементов:** 0  
 
 | DatUltimatumItemisedRewardWrapper Constructor |
 | --- |

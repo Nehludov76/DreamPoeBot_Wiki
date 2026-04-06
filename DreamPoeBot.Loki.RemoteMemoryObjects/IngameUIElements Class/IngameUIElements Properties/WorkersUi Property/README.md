@@ -1,5 +1,6 @@
 # WorkersUi Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements WorkersUi Property |
 | --- |

@@ -1,5 +1,6 @@
 # MapRegion Property 
 
+**Вложено элементов:** 0  
 
 | Item MapRegion Property |
 | --- |

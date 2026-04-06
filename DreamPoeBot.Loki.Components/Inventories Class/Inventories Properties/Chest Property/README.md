@@ -1,5 +1,6 @@
 # Chest Property 
 
+**Вложено элементов:** 0  
 
 | Inventories Chest Property |
 | --- |

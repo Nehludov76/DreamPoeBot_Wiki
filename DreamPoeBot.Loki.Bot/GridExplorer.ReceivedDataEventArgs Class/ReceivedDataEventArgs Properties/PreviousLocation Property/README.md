@@ -1,5 +1,6 @@
 # PreviousLocation Property 
 
+**Вложено элементов:** 0  
 
 | GridExplorer ReceivedDataEventArgs PreviousLocation Property |
 | --- |

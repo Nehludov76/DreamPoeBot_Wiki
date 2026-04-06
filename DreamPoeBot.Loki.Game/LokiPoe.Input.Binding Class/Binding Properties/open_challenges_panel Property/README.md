@@ -1,5 +1,6 @@
 # open_challenges_panel Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe Input Binding open_challenges_panel Property |
 | --- |

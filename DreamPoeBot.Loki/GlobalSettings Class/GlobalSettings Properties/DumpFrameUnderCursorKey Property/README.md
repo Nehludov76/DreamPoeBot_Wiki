@@ -1,5 +1,6 @@
 # DumpFrameUnderCursorKey Property 
 
+**Вложено элементов:** 0  
 
 | GlobalSettings DumpFrameUnderCursorKey Property |
 | --- |

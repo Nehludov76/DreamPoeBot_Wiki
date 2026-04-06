@@ -1,5 +1,6 @@
 # HasIncursion Field
 
+**Вложено элементов:** 0  
 
 | GridExplorer IncursionDataClass HasIncursion Field |
 | --- |

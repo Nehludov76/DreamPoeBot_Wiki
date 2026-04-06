@@ -1,5 +1,6 @@
 # SwapCurrencies Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState CurrencyExchangeUi SwapCurrencies Method |
 | --- |

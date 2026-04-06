@@ -1,5 +1,6 @@
 # CustomTabItem Property 
 
+**Вложено элементов:** 0  
 
 | InventoryControlWrapper CustomTabItem Property |
 | --- |

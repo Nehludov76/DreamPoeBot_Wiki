@@ -1,5 +1,6 @@
 # ZoneDescriptionElement Property 
 
+**Вложено элементов:** 0  
 
 | MapElement ZoneDescriptionElement Property |
 | --- |

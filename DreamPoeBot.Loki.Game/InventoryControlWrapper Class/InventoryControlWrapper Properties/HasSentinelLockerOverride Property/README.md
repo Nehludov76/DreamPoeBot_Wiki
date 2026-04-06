@@ -1,5 +1,6 @@
 # HasSentinelLockerOverride Property 
 
+**Вложено элементов:** 0  
 
 | InventoryControlWrapper HasSentinelLockerOverride Property |
 | --- |

@@ -1,5 +1,6 @@
 # ClearQuantityIWant Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState CurrencyExchangeUi ClearQuantityIWant Method |
 | --- |

@@ -1,5 +1,6 @@
 # BaseManaburnMsTick Property 
 
+**Вложено элементов:** 0  
 
 | Tincture BaseManaburnMsTick Property |
 | --- |

@@ -1,5 +1,6 @@
 # LanternOfArimorUi Property 
 
+**Вложено элементов:** 0  
 
 | IngameUIElements LanternOfArimorUi Property |
 | --- |

@@ -1,5 +1,6 @@
 # FlavourText Property 
 
+**Вложено элементов:** 0  
 
 | DatPropheciesWrapper FlavourText Property |
 | --- |

@@ -1,5 +1,6 @@
 # GetSocketIndexOfGem Method 
 
+**Вложено элементов:** 0  
 
 | Item GetSocketIndexOfGem Method |
 | --- |

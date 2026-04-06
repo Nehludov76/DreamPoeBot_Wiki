@@ -1,5 +1,6 @@
 # CharacterSize Property 
 
+**Вложено элементов:** 0  
 
 | Positioned CharacterSize Property |
 | --- |

@@ -1,5 +1,6 @@
 # HasVaalHasteBuff Property 
 
+**Вложено элементов:** 0  
 
 | Actor HasVaalHasteBuff Property |
 | --- |

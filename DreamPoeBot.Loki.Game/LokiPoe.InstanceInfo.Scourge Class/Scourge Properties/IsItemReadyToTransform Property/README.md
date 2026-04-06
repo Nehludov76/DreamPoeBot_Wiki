@@ -1,5 +1,6 @@
 # IsItemReadyToTransform Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo Scourge IsItemReadyToTransform Property |
 | --- |

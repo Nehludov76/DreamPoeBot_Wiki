@@ -1,5 +1,6 @@
 # Encounter_Finished Property 
 
+**Вложено элементов:** 0  
 
 | StateMachine Encounter_Finished Property |
 | --- |

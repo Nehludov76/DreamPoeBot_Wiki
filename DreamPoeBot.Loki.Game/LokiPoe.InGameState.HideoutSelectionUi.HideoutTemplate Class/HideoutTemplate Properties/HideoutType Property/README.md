@@ -1,5 +1,6 @@
 # HideoutType Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState HideoutSelectionUi HideoutTemplate HideoutType Property |
 | --- |

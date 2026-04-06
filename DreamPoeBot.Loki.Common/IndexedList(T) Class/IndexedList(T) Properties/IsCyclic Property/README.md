@@ -1,5 +1,6 @@
 # IsCyclic Property 
 
+**Вложено элементов:** 0  
 
 | IndexedList T IsCyclic Property |
 | --- |

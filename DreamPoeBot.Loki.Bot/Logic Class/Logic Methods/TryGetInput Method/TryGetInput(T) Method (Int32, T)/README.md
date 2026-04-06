@@ -1,5 +1,6 @@
 # TryGetInput(T) Method (Int32, T)
 
+**Вложено элементов:** 0  
 
 | Logic TryGetInput T Method (Int32, T ) |
 | --- |

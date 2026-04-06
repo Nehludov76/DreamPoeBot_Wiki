@@ -1,5 +1,6 @@
 # ArchnemesisEncounterUi Methods
 
+**Вложено элементов:** 1  
 
 | ArchnemesisEncounterUi Methods |
 | --- |
@@ -10,6 +11,9 @@
 The LokiPoe InGameState ArchnemesisEncounterUi type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Begin |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Begin |  |
+
+## Дочерние разделы
+- [**Begin Method **](./Begin Method/README.md)

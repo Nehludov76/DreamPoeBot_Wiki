@@ -1,5 +1,6 @@
 # CurrentArea Property 
 
+**Вложено элементов:** 0  
 
 | IngameData CurrentArea Property |
 | --- |

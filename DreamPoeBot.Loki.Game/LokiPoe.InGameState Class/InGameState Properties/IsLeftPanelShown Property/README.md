@@ -1,5 +1,6 @@
 # IsLeftPanelShown Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState IsLeftPanelShown Property |
 | --- |

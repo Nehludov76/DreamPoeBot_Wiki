@@ -1,5 +1,6 @@
 # IsResetAllPassivesVisible Property 
 
+**Вложено элементов:** 0  
 
 | PassiveTreeElement IsResetAllPassivesVisible Property |
 | --- |

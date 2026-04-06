@@ -1,5 +1,6 @@
 # Blacklist Class
 
+**Вложено элементов:** 12  
 
 | Blacklist Class |
 | --- |
@@ -32,18 +33,22 @@ public ref class Blacklist abstract sealed
 The Blacklist type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Ids |
-| Objects |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Ids |  |
+|  | Objects |  |
 
 
-| Name | Description |
-| --- | --- |
-| Add |
-| AddWithNoLog |
-| Clear |
-| Contains(Int32) |
-| Contains(NetworkObject) |
-| Remove |
-| Reset |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Add |  |
+|  | AddWithNoLog |  |
+|  | Clear |  |
+|  | Contains(Int32) |  |
+|  | Contains(NetworkObject) |  |
+|  | Remove |  |
+|  | Reset |  |
+
+## Дочерние разделы
+- [**Blacklist Properties**](./Blacklist Properties/README.md)
+- [**Blacklist Methods**](./Blacklist Methods/README.md)

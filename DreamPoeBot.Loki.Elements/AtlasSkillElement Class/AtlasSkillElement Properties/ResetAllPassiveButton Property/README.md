@@ -1,5 +1,6 @@
 # ResetAllPassiveButton Property 
 
+**Вложено элементов:** 0  
 
 | AtlasSkillElement ResetAllPassiveButton Property |
 | --- |

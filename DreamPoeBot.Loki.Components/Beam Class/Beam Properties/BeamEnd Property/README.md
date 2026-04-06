@@ -1,5 +1,6 @@
 # BeamEnd Property 
 
+**Вложено элементов:** 0  
 
 | Beam BeamEnd Property |
 | --- |

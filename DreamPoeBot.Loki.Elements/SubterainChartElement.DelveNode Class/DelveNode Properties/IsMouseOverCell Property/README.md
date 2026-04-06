@@ -1,5 +1,6 @@
 # IsMouseOverCell Property 
 
+**Вложено элементов:** 0  
 
 | SubterainChartElement DelveNode IsMouseOverCell Property |
 | --- |

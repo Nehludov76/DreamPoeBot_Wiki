@@ -1,5 +1,6 @@
 # DeployedTraps Property 
 
+**Вложено элементов:** 0  
 
 | Actor DeployedTraps Property |
 | --- |

@@ -1,5 +1,6 @@
 # Stop Method (StopReasonData, Boolean)
 
+**Вложено элементов:** 0  
 
 | BotManager Stop Method (StopReasonData, Boolean) |
 | --- |

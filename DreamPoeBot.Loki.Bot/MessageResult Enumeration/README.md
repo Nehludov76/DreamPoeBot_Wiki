@@ -1,5 +1,6 @@
 # MessageResult Enumeration
 
+**Вложено элементов:** 0  
 
 | MessageResult Enumeration |
 | --- |
@@ -30,7 +31,7 @@ public enum class MessageResult
 ```
 
 
-| Member name | Value | Description |
-| --- | --- | --- |
-| Processed | 0 |
-| Unprocessed | 1 |
+|  | Member name | Value | Description |
+| --- | --- | --- | --- |
+|  | Processed | 0 |  |
+|  | Unprocessed | 1 |  |

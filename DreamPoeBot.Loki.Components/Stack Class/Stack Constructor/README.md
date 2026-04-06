@@ -1,5 +1,6 @@
 # Stack Constructor 
 
+**Вложено элементов:** 0  
 
 | Stack Constructor |
 | --- |

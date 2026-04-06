@@ -1,5 +1,6 @@
 # ContrantsCategoryElement Property 
 
+**Вложено элементов:** 0  
 
 | HeisLockerElement ContrantsCategoryElement Property |
 | --- |

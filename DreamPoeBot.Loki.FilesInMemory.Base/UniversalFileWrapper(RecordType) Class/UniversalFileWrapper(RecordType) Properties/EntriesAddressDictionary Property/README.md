@@ -1,5 +1,6 @@
 # EntriesAddressDictionary Property 
 
+**Вложено элементов:** 0  
 
 | UniversalFileWrapper RecordType EntriesAddressDictionary Property |
 | --- |

@@ -1,5 +1,6 @@
 # ScreenToClient Method 
 
+**Вложено элементов:** 0  
 
 | GameWindow ScreenToClient Method |
 | --- |

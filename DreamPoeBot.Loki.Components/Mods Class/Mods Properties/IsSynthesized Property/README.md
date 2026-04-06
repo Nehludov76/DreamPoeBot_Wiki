@@ -1,5 +1,6 @@
 # IsSynthesized Property 
 
+**Вложено элементов:** 0  
 
 | Mods IsSynthesized Property |
 | --- |

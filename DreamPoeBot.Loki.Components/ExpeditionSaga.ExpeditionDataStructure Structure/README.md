@@ -1,5 +1,6 @@
 # ExpeditionSaga.ExpeditionDataStructure Structure
 
+**Вложено элементов:** 11  
 
 | ExpeditionSaga ExpeditionDataStructure Structure |
 | --- |
@@ -32,22 +33,26 @@ public value class ExpeditionDataStructure
 The ExpeditionSaga ExpeditionDataStructure type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Equals | Indicates whether this instance and a specified object are equal. (Inherited from ValueType .) |
-| GetHashCode | Returns the hash code for this instance. (Inherited from ValueType .) |
-| GetType | Gets the Type of the current instance. (Inherited from Object .) |
-| ToString | Returns the fully qualified type name of this instance. (Inherited from ValueType .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Equals | Indicates whether this instance and a specified object are equal. (Inherited from ValueType .) |
+|  | GetHashCode | Returns the hash code for this instance. (Inherited from ValueType .) |
+|  | GetType | Gets the Type of the current instance. (Inherited from Object .) |
+|  | ToString | Returns the fully qualified type name of this instance. (Inherited from ValueType .) |
 
 
-| Name | Description |
-| --- | --- |
-| ExpeditioAreaAdr |
-| ExpeditionAreaDatFile |
-| ExpeditionFactionAdr |
-| ExpeditionFactionFile |
-| Mods |
-| string1 |
-| string2 |
-| StringMods1 |
-| StringMods2 |
+|  | Name | Description |
+| --- | --- | --- |
+|  | ExpeditioAreaAdr |  |
+|  | ExpeditionAreaDatFile |  |
+|  | ExpeditionFactionAdr |  |
+|  | ExpeditionFactionFile |  |
+|  | Mods |  |
+|  | string1 |  |
+|  | string2 |  |
+|  | StringMods1 |  |
+|  | StringMods2 |  |
+
+## Дочерние разделы
+- [**ExpeditionDataStructure Methods**](./ExpeditionDataStructure Methods/README.md)
+- [**ExpeditionDataStructure Fields**](./ExpeditionDataStructure Fields/README.md)

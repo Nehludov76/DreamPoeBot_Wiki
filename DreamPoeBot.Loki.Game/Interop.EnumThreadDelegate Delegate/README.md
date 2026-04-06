@@ -1,5 +1,6 @@
 # Interop.EnumThreadDelegate Delegate
 
+**Вложено элементов:** 0  
 
 | Interop EnumThreadDelegate Delegate |
 | --- |

@@ -1,5 +1,6 @@
 # SocketedWatchstoneRegion2Tirn Property 
 
+**Вложено элементов:** 0  
 
 | ServerData SocketedWatchstoneRegion2Tirn Property |
 | --- |

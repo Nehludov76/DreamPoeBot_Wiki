@@ -1,5 +1,6 @@
 # weigth Property 
 
+**Вложено элементов:** 0  
 
 | GridExplorer Node weigth Property |
 | --- |

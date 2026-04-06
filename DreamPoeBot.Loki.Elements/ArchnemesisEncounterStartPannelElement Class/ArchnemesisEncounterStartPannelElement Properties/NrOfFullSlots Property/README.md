@@ -1,5 +1,6 @@
 # NrOfFullSlots Property 
 
+**Вложено элементов:** 0  
 
 | ArchnemesisEncounterStartPannelElement NrOfFullSlots Property |
 | --- |

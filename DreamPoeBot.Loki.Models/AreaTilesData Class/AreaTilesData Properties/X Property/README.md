@@ -1,5 +1,6 @@
 # X Property 
 
+**Вложено элементов:** 0  
 
 | AreaTilesData X Property |
 | --- |

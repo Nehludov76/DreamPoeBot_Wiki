@@ -1,5 +1,6 @@
 # Translate Method (Vector3, Single, Single, Single)
 
+**Вложено элементов:** 0  
 
 | MathHepler Translate Method (Vector3, Single, Single, Single) |
 | --- |

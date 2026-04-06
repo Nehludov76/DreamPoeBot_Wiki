@@ -1,5 +1,6 @@
 # LocationNode Property 
 
+**Вложено элементов:** 0  
 
 | GridExplorer LocationNode Property |
 | --- |

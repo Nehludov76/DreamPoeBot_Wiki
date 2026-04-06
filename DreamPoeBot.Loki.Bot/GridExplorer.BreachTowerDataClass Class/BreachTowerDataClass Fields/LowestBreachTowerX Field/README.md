@@ -1,5 +1,6 @@
 # LowestBreachTowerX Field
 
+**Вложено элементов:** 0  
 
 | GridExplorer BreachTowerDataClass LowestBreachTowerX Field |
 | --- |

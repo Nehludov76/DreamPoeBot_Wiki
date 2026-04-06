@@ -1,5 +1,6 @@
 # QuestFlagsDat Constructor 
 
+**Вложено элементов:** 0  
 
 | QuestFlagsDat Constructor |
 | --- |

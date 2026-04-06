@@ -1,5 +1,6 @@
 # Boot Property 
 
+**Вложено элементов:** 0  
 
 | MercenaryEncounterElement MercenaryInventoryElement Boot Property |
 | --- |

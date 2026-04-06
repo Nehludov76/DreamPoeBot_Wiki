@@ -1,5 +1,6 @@
 # ControlType Property 
 
+**Вложено элементов:** 0  
 
 | Element ControlType Property |
 | --- |

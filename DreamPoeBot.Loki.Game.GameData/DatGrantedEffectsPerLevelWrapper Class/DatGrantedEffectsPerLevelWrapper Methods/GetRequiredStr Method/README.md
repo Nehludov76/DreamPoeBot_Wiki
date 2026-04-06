@@ -1,5 +1,6 @@
 # GetRequiredStr Method 
 
+**Вложено элементов:** 0  
 
 | DatGrantedEffectsPerLevelWrapper GetRequiredStr Method |
 | --- |

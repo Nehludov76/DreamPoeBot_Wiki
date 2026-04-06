@@ -1,5 +1,6 @@
 # SelectIcon Method 
 
+**Вложено элементов:** 0  
 
 | SubterainChartElement DelveNode SelectIcon Method |
 | --- |

@@ -1,5 +1,6 @@
 # Activate Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SentinelSkillUi StalkerSentinel Activate Method |
 | --- |

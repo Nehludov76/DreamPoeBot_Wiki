@@ -1,5 +1,6 @@
 # OwnerName Property 
 
+**Вложено элементов:** 0  
 
 | IngameData PortalObject OwnerName Property |
 | --- |

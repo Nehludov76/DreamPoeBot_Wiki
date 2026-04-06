@@ -1,5 +1,6 @@
 # LokiPoe.InstanceInfo.Archnemesis Class
 
+**Вложено элементов:** 2  
 
 | LokiPoe InstanceInfo Archnemesis Class |
 | --- |
@@ -30,6 +31,9 @@ public ref class Archnemesis abstract sealed
 The LokiPoe InstanceInfo Archnemesis type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| AvailableArchnemesisMods |
+|  | Name | Description |
+| --- | --- | --- |
+|  | AvailableArchnemesisMods |  |
+
+## Дочерние разделы
+- [**Archnemesis Properties**](./Archnemesis Properties/README.md)

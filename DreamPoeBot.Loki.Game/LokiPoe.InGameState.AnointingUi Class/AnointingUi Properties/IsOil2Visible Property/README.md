@@ -1,5 +1,6 @@
 # IsOil2Visible Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState AnointingUi IsOil2Visible Property |
 | --- |

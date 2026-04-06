@@ -1,5 +1,6 @@
 # IsFrozen Property 
 
+**Вложено элементов:** 0  
 
 | TaskManagerBase T IsFrozen Property |
 | --- |

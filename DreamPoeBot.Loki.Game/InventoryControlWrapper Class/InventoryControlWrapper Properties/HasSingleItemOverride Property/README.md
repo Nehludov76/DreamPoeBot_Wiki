@@ -1,5 +1,6 @@
 # HasSingleItemOverride Property 
 
+**Вложено элементов:** 0  
 
 | InventoryControlWrapper HasSingleItemOverride Property |
 | --- |

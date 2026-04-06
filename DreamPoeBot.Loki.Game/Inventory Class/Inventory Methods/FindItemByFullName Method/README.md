@@ -1,5 +1,6 @@
 # FindItemByFullName Method 
 
+**Вложено элементов:** 0  
 
 | Inventory FindItemByFullName Method |
 | --- |

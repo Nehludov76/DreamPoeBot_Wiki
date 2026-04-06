@@ -1,5 +1,6 @@
 # StdStringACustom Method 
 
+**Вложено элементов:** 0  
 
 | Containers StdStringACustom Method |
 | --- |

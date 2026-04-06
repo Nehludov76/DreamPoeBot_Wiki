@@ -1,5 +1,6 @@
 # OrderStatus Field
 
+**Вложено элементов:** 0  
 
 | LokiPoe InstanceInfo CurrencyExchange CurrencyExchangeOrderStruct OrderStatus Field |
 | --- |

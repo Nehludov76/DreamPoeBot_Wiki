@@ -1,5 +1,6 @@
 # PassiveSkills Property 
 
+**Вложено элементов:** 0  
 
 | FsController PassiveSkills Property |
 | --- |

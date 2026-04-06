@@ -1,5 +1,6 @@
 # IsAlwaysHighlightEnabled Property 
 
+**Вложено элементов:** 0  
 
 | LokiPoe ConfigManager IsAlwaysHighlightEnabled Property |
 | --- |

@@ -1,5 +1,6 @@
 # Verts Property 
 
+**Вложено элементов:** 0  
 
 | NewTrisClass Verts Property |
 | --- |

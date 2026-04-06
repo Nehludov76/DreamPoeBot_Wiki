@@ -1,5 +1,6 @@
 # GridPos Property 
 
+**Вложено элементов:** 0  
 
 | Positioned GridPos Property |
 | --- |

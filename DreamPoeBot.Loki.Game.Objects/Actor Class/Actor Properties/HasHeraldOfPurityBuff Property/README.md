@@ -1,5 +1,6 @@
 # HasHeraldOfPurityBuff Property 
 
+**Вложено элементов:** 0  
 
 | Actor HasHeraldOfPurityBuff Property |
 | --- |

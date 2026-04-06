@@ -1,5 +1,6 @@
 # IncreaseSplitQuantity Method 
 
+**Вложено элементов:** 0  
 
 | LokiPoe InGameState SplitStackUi IncreaseSplitQuantity Method |
 | --- |

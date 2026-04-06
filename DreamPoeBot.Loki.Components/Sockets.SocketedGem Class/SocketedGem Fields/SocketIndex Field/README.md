@@ -1,5 +1,6 @@
 # SocketIndex Field
 
+**Вложено элементов:** 0  
 
 | Sockets SocketedGem SocketIndex Field |
 | --- |

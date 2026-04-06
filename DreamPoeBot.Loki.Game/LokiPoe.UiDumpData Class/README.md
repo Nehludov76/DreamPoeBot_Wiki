@@ -1,5 +1,6 @@
 # LokiPoe.UiDumpData Class
 
+**Вложено элементов:** 5  
 
 | LokiPoe UiDumpData Class |
 | --- |
@@ -32,22 +33,27 @@ public ref class UiDumpData
 The LokiPoe UiDumpData type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| LokiPoe UiDumpData | Initializes a new instance of the LokiPoe UiDumpData class |
+|  | Name | Description |
+| --- | --- | --- |
+|  | LokiPoe UiDumpData | Initializes a new instance of the LokiPoe UiDumpData class |
 
 
-| Name | Description |
-| --- | --- |
-| offset |
-| text |
+|  | Name | Description |
+| --- | --- | --- |
+|  | offset |  |
+|  | text |  |
 
 
-| Name | Description |
-| --- | --- |
-| Equals | Determines whether the specified object is equal to the current object. (Inherited from Object .) |
-| Finalize | Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection. (Inherited from Object .) |
-| GetHashCode | Serves as the default hash function. (Inherited from Object .) |
-| GetType | Gets the Type of the current instance. (Inherited from Object .) |
-| MemberwiseClone | Creates a shallow copy of the current Object . (Inherited from Object .) |
-| ToString | Returns a string that represents the current object. (Inherited from Object .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Equals | Determines whether the specified object is equal to the current object. (Inherited from Object .) |
+|  | Finalize | Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection. (Inherited from Object .) |
+|  | GetHashCode | Serves as the default hash function. (Inherited from Object .) |
+|  | GetType | Gets the Type of the current instance. (Inherited from Object .) |
+|  | MemberwiseClone | Creates a shallow copy of the current Object . (Inherited from Object .) |
+|  | ToString | Returns a string that represents the current object. (Inherited from Object .) |
+
+## Дочерние разделы
+- [**LokiPoe.UiDumpData Constructor **](./LokiPoe.UiDumpData Constructor/README.md)
+- [**UiDumpData Properties**](./UiDumpData Properties/README.md)
+- [**UiDumpData Methods**](./UiDumpData Methods/README.md)

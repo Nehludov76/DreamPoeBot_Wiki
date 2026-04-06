@@ -1,5 +1,6 @@
 # NetworkObject Constructor (EntityWrapper)
 
+**Вложено элементов:** 0  
 
 | NetworkObject Constructor (EntityWrapper) |
 | --- |

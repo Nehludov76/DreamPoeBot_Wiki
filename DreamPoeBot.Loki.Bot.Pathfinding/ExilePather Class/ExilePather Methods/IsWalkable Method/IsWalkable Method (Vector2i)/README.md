@@ -1,5 +1,6 @@
 # IsWalkable Method (Vector2i)
 
+**Вложено элементов:** 0  
 
 | ExilePather IsWalkable Method (Vector2i) |
 | --- |

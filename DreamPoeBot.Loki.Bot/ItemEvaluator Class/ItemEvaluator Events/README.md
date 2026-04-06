@@ -1,5 +1,6 @@
 # ItemEvaluator Events
 
+**Вложено элементов:** 1  
 
 | ItemEvaluator Events |
 | --- |
@@ -10,6 +11,9 @@
 The ItemEvaluator type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| OnRefreshed |
+|  | Name | Description |
+| --- | --- | --- |
+|  | OnRefreshed |  |
+
+## Дочерние разделы
+- [**OnRefreshed Event**](./OnRefreshed Event/README.md)

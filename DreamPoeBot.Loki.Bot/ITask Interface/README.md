@@ -1,5 +1,6 @@
 # ITask Interface
 
+**Вложено элементов:** 3  
 
 | ITask Interface |
 | --- |
@@ -32,19 +33,23 @@ public interface class ITask : IMessageHandler , IStartStopEvents , ITickEvents 
 The ITask type exposes the following members.
 
 
-| Name | Description |
-| --- | --- |
-| Author | (Inherited from IAuthored .) |
-| Description | (Inherited from IAuthored .) |
-| Name | (Inherited from IAuthored .) |
-| Version | (Inherited from IAuthored .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Author | (Inherited from IAuthored .) |
+|  | Description | (Inherited from IAuthored .) |
+|  | Name | (Inherited from IAuthored .) |
+|  | Version | (Inherited from IAuthored .) |
 
 
-| Name | Description |
-| --- | --- |
-| Logic | (Inherited from ILogicProvider .) |
-| Message | (Inherited from IMessageHandler .) |
-| Run |
-| Start | (Inherited from IStartStopEvents .) |
-| Stop | (Inherited from IStartStopEvents .) |
-| Tick | (Inherited from ITickEvents .) |
+|  | Name | Description |
+| --- | --- | --- |
+|  | Logic | (Inherited from ILogicProvider .) |
+|  | Message | (Inherited from IMessageHandler .) |
+|  | Run |  |
+|  | Start | (Inherited from IStartStopEvents .) |
+|  | Stop | (Inherited from IStartStopEvents .) |
+|  | Tick | (Inherited from ITickEvents .) |
+
+## Дочерние разделы
+- [**ITask Properties**](./ITask Properties/README.md)
+- [**ITask Methods**](./ITask Methods/README.md)
